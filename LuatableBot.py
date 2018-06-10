@@ -10,9 +10,9 @@ from config import (DB_PATH, ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DB,
                     SHIP_CLASSES_DB, SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
                     SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DB)
 from DBDownloader import DBDownloader
+from ShipLuatable import ShipLuatable
 from utils import nedb2json
 from WikiaCrawler import WikiaCrawler
-from ShipLuatable import ShipLuatable
 
 
 def LuatableBotTask(fn):
@@ -47,7 +47,6 @@ class LuatableBot:
         dbDownloader.appendTask('https://raw.githubusercontent.com/TeamFleet/WhoCallsTheFleet-DB/master/db/ship_types.nedb')
         dbDownloader.appendTask('https://raw.githubusercontent.com/TeamFleet/WhoCallsTheFleet-DB/master/db/ship_type_collections.nedb')
         dbDownloader.appendTask('https://raw.githubusercontent.com/TeamFleet/WhoCallsTheFleet-DB/master/db/ships.nedb')
-        dbDownloader.appendTask('https://raw.githubusercontent.com/TeamFleet/KCKit/master/src/data/bonus.js')
         await dbDownloader.start()
 
     @LuatableBotTask
@@ -75,7 +74,7 @@ class LuatableBot:
     @LuatableBotTask
     async def ShipLuatable(self):
         shipLuatable = ShipLuatable()
-        shipLuatable.genShipsData()
+        shipLuatable.start()
 
     async def main(self):
         await self.FetchDBS()
@@ -83,6 +82,7 @@ class LuatableBot:
         await self.AkashiList()
         await self.WikiaData()
         await self.ShipLuatable()
+        
 
 
 if __name__ == '__main__':
