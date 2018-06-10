@@ -5,7 +5,8 @@ from config import (DB_PATH, ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DB,
                     KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON, OUPUT_PATH,
                     SHIP_CLASSES_DB, SHIP_NAMESUFFIX_DB, SHIP_REMARKS_EXTRA,
                     SHIP_REMODEL_EXTRA, SHIP_SERIES_DB,
-                    SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DB, SHIPS_DATA)
+                    SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DATA,
+                    SHIPS_DB)
 from utils import jsonFile2dic, luatable, sortDict
 
 STYPE_MAP = {
@@ -224,4 +225,4 @@ class ShipLuatable:
         with open(OUPUT_PATH + SHIPS_DATA + '.lua', 'w', encoding='utf-8') as fp:
             fp.write(ships_luatable)
         with open(OUPUT_PATH + SHIPS_DATA + '.json', 'w', encoding='utf-8') as fp:
-            json.dump(self.ships_data, fp, ensure_ascii=False, indent=4, sort_keys=True)
+            json.dump(self.ships_data, fp, ensure_ascii=False, indent=4)
