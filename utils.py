@@ -17,16 +17,25 @@ def nedb2json(nedbFilename, jsonFilename):
     jsonFile.close()
 
 
-def json2dic(json, masterKey):
+def json2dic(data, masterKey=None):
+    if not masterKey:
+        return data
     dic = {}
-    for entry in json:
+    for entry in data:
         if not entry[masterKey]:
             continue
         dic[entry[masterKey]] = entry
     return dic
 
 
-def jsonFile2dic(jsonFilename, masterKey):
+def sortDict(dic):
+    ret = {}
+    for key in sorted(dic.keys()):
+        ret[key] = dic[key]
+    return ret
+
+
+def jsonFile2dic(jsonFilename, masterKey=None):
     dic = {}
     with open(jsonFilename, 'r', encoding='utf-8') as jsonFile:
         dic = json2dic(json.load(jsonFile), masterKey)

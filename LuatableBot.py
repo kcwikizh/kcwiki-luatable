@@ -12,6 +12,7 @@ from config import (DB_PATH, ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DB,
 from DBDownloader import DBDownloader
 from utils import nedb2json
 from WikiaCrawler import WikiaCrawler
+from ShipLuatable import ShipLuatable
 
 
 def LuatableBotTask(fn):
@@ -71,11 +72,17 @@ class LuatableBot:
         wikiaCrawler = WikiaCrawler()
         await wikiaCrawler.start()
 
+    @LuatableBotTask
+    async def ShipLuatable(self):
+        shipLuatable = ShipLuatable()
+        shipLuatable.genShipsData()
+
     async def main(self):
         await self.FetchDBS()
         await self.Nedb2json()
         await self.AkashiList()
         await self.WikiaData()
+        await self.ShipLuatable()
 
 
 if __name__ == '__main__':

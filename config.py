@@ -25,3 +25,13 @@ SHIP_SERIES_DB = 'ship_series'
 SHIP_TYPES_DB = 'ship_types'
 SHIP_TYPE_COLLECTIONS_DB = 'ship_type_collections'
 SHIPS_DB = 'ships'
+
+# extra
+SHIP_REMODEL_EXTRA = 'ship_remodel.json'
+SHIP_REMARKS_EXTRA = 'ship_remarks.json'
+
+# output
+SHIPS_DATA = 'ships'
+ITEMS_DATA = 'items'
+SHINKAI_SHIPS_DATA = 'shinkai-ships'
+SHINKAI_ITEMS_DATA = 'shinkai-items'
