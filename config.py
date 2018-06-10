@@ -29,6 +29,7 @@ SHIPS_DB = 'ships'
 # extra
 SHIP_REMODEL_EXTRA = 'ship_remodel.json'
 ITEM_REMARKS_EXTRA = 'item_remarks.json'
+SHINKAI_EXTRA_JSON = 'shinkai_extra.json'
 
 # output
 SHIPS_DATA = 'ships'

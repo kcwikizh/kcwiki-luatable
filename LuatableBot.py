@@ -10,6 +10,7 @@ from config import (DB_PATH, ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DB,
                     SHIP_CLASSES_DB, SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
                     SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DB)
 from DBDownloader import DBDownloader
+from ShinkaiLuatable import ShinkaiLuatable
 from ShipLuatable import ShipLuatable
 from utils import nedb2json
 from WikiaCrawler import WikiaCrawler
@@ -76,13 +77,18 @@ class LuatableBot:
         shipLuatable = ShipLuatable()
         shipLuatable.start()
 
+    @LuatableBotTask
+    async def ShinkaiLuatable(self):
+        shinkaiLuatable = ShinkaiLuatable()
+        await shinkaiLuatable.start()
+
     async def main(self):
         await self.FetchDBS()
         await self.Nedb2json()
         await self.AkashiList()
         await self.WikiaData()
         await self.ShipLuatable()
-        
+        await self.ShinkaiLuatable()
 
 
 if __name__ == '__main__':
