@@ -3,7 +3,7 @@
 __pycache__
 
 db/*
-!db/ship_remarks.json
+!db/item_remarks.json
 !db/ship_remodel.json
 !db/shinkai_extra.json
 output
