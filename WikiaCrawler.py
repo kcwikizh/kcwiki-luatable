@@ -97,8 +97,9 @@ class WikiaCrawler(HttpClient):
                 if _id not in ids:
                     ids.add(_id)
                 else:
-                    print('Wikia-Crawler: {duplicate}')
+                    print('Wikia-Crawler: === duplicate ===')
                     print('Wikia-Crawler: ' + json.dumps(detail))
                     print('Wikia-Crawler: ' + json.dumps(result[_id]))
+                    print('Wikia-Crawler: === duplicate ===')
         with open(DB_PATH + WIKIA_OUTPUT_JSON, 'w', encoding='utf-8') as fp:
             json.dump(result, fp, ensure_ascii=False, indent=4, sort_keys=True)

@@ -5,9 +5,12 @@ import time
 from os import path
 
 from AkashiListCrawler import AkashiListCrawler
-from config import (DB_PATH, KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
-                    OUPUT_PATH)
+from config import (DB_PATH, ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DB,
+                    KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON, OUPUT_PATH,
+                    SHIP_CLASSES_DB, SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
+                    SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DB)
 from DBDownloader import DBDownloader
+from utils import nedb2json
 from WikiaCrawler import WikiaCrawler
 
 
@@ -17,8 +20,7 @@ def LuatableBotTask(fn):
         START = time.time()
         await fn(*args, **kw)
         END = time.time()
-        print('[{}]: Task total used {}s'.format(
-            fn.__name__, round(END - START, 3)))
+        print('[{}]: Task total used {}s'.format(fn.__name__, round(END - START, 3)))
     return wrapper
 
 
@@ -48,6 +50,18 @@ class LuatableBot:
         await dbDownloader.start()
 
     @LuatableBotTask
+    async def Nedb2json(self):
+        nedb2json(DB_PATH + ENTITIES_DB + '.nedb', DB_PATH + ENTITIES_DB + '.json')
+        nedb2json(DB_PATH + ITEM_TYPES_DB + '.nedb', DB_PATH + ITEM_TYPES_DB + '.json')
+        nedb2json(DB_PATH + ITEMS_DB + '.nedb', DB_PATH + ITEMS_DB + '.json')
+        nedb2json(DB_PATH + SHIP_CLASSES_DB + '.nedb', DB_PATH + SHIP_CLASSES_DB + '.json')
+        nedb2json(DB_PATH + SHIP_NAMESUFFIX_DB + '.nedb', DB_PATH + SHIP_NAMESUFFIX_DB + '.json')
+        nedb2json(DB_PATH + SHIP_SERIES_DB + '.nedb', DB_PATH + SHIP_SERIES_DB + '.json')
+        nedb2json(DB_PATH + SHIP_TYPES_DB + '.nedb', DB_PATH + SHIP_TYPES_DB + '.json')
+        nedb2json(DB_PATH + SHIP_TYPE_COLLECTIONS_DB + '.nedb', DB_PATH + SHIP_TYPE_COLLECTIONS_DB + '.json')
+        nedb2json(DB_PATH + SHIPS_DB + '.nedb', DB_PATH + SHIPS_DB + '.json')
+
+    @LuatableBotTask
     async def AkashiList(self):
         akashiListCrawler = AkashiListCrawler()
         await akashiListCrawler.start()
@@ -59,6 +73,7 @@ class LuatableBot:
 
     async def main(self):
         await self.FetchDBS()
+        await self.Nedb2json()
         await self.AkashiList()
         await self.WikiaData()
 

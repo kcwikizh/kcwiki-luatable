@@ -14,3 +14,14 @@ WIKIA_OUTPUT_JSON = 'wikia_enemy_extra.json'
 # kcdata
 KCDATA_SHIP_ALL_JSON = 'kcdata_ship_all.json'
 KCDATA_SLOTITEM_ALL_JSON = 'kcdata_slotitem_all.json'
+
+# database
+ENTITIES_DB = 'entities'
+ITEM_TYPES_DB = 'item_types'
+ITEMS_DB = 'items'
+SHIP_CLASSES_DB = 'ship_classes'
+SHIP_NAMESUFFIX_DB = 'ship_namesuffix'
+SHIP_SERIES_DB = 'ship_series'
+SHIP_TYPES_DB = 'ship_types'
+SHIP_TYPE_COLLECTIONS_DB = 'ship_type_collections'
+SHIPS_DB = 'ships'

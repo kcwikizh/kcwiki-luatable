@@ -536,7 +536,6 @@ class AkashiListCrawler(HttpClient):
         return lua_table
 
     async def start(self):
-        utils.nedb2json(DB_PATH + 'items.nedb', DB_PATH + 'items.json')
         self.items = utils.jsonFile2dic(DB_PATH + 'items.json', masterKey='id')
         akashi_json = {
             'week': ['日', '月', '火', '水', '木', '金', '土'],
