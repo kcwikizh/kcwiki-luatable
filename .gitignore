@@ -3,8 +3,8 @@
 __pycache__
 
 db/*
-!db/mutsu_remarks.json
-!db/mutsu_remodel.json
-!db/enemy_extra.json
+!db/ship_remarks.json
+!db/ship_remodel.json
+!db/shinkai_extra.json
 output
 cache
