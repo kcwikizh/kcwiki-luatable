@@ -205,6 +205,10 @@ class ShipLuatable:
                 '搭载': wctf_ship['slot'],
                 '初期装备': self.__get_equips(wctf_ship['equip'], slot_size)
             },
+            '消耗': {
+                '燃料': wctf_ship['consum']['fuel'],
+                '弹药': wctf_ship['consum']['ammo']
+            },
             '获得': {
                 '掉落': can_drop, '改造': can_remodel, '建造': can_build, '时间': wctf_ship['buildtime']
             },
