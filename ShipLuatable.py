@@ -231,6 +231,11 @@ class ShipLuatable:
                 'cv'
             )
         }
+        wiki_links = wctf_ship['links'] if 'links' in wctf_ship else []
+        for wiki_link in wiki_links:
+            self.ships_data[wiki_ship['wiki_id']].update({
+                wiki_link['name']: wiki_link['url']
+            })
 
     def genShipsData(self):
         self.__map_lvl_up()
