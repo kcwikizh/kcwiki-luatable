@@ -1,0 +1,21 @@
+image: python:3
+
+stages:
+  - make_update
+
+cache:
+  paths:
+    - cache
+  key: $CI_PROJECT_ID
+
+make_update:
+  stage: make_update
+  tags:
+    - hn-i7
+  only:
+    - master
+  before_script:
+    - python3 -V
+    - pip install -r requirements.txt
+  script:
+    - python3 LuatableBot.py
