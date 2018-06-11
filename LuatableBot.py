@@ -1,6 +1,7 @@
 import asyncio
 import functools
 import os
+import subprocess
 import time
 from os import environ, path
 
@@ -25,8 +26,14 @@ def LuatableBotTask(fn):
         START = time.time()
         await fn(*args, **kw)
         END = time.time()
-        print('[{}]: Task total used {}s'.format(fn.__name__, round(END - START, 3)))
+        print('[{}]: Task total used {}s'.format(
+            fn.__name__, round(END - START, 3)))
     return wrapper
+
+
+class LuatableBotException(Exception):
+    def __init__(self, message):
+        super().__init__(message)
 
 
 class LuatableBot:
@@ -89,14 +96,22 @@ class LuatableBot:
     async def WikiBotUpdate(self, wikiBot):
         await wikiBot.start()
 
+    def __exec_lua(self, filename):
+        res = subprocess.Popen(['lua', filename], stderr=subprocess.PIPE)
+        print('lua ' + filename)
+        err = res.stderr.read().decode()
+        res.stderr.close()
+        if err:
+            raise LuatableBotException(err)
+
     @LuatableBotTask
     async def CheckLuatable(self):
-        os.system('lua {}'.format(OUPUT_PATH + SHIPS_DATA + '.lua'))
-        os.system('lua {}'.format(OUPUT_PATH + ITEMS_DATA + '.lua'))
-        os.system('lua {}'.format(OUPUT_PATH + SHINKAI_ITEMS_DATA + '.lua'))
-        os.system('lua {}'.format(OUPUT_PATH + SHINKAI_SHIPS_DATA + '.lua'))
-        os.system('lua {}'.format(OUPUT_PATH + AKASHI_LIST_OUTPUT_LUA))
-        print('All the lua files is valid!')
+        self.__exec_lua(OUPUT_PATH + SHIPS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + ITEMS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + SHINKAI_ITEMS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + SHINKAI_SHIPS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + AKASHI_LIST_OUTPUT_LUA)
+        print('CheckLuatable: All the lua files is valid!')
 
     async def main(self):
         await self.FetchDBS()
