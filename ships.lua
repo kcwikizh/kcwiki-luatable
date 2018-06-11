@@ -99,7 +99,9 @@ d.shipDataTb = {
 			["改造后"] = "001a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%B9%CC%E7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nagato"
 	},
 	["001a"] = {
 		["ID"] = 275,
@@ -197,7 +199,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%B9%CC%E7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nagato"
 	},
 	["002"] = {
 		["ID"] = 81,
@@ -294,7 +298,9 @@ d.shipDataTb = {
 			["改造后"] = "002a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%A6%B1%FC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mutsu"
 	},
 	["002a"] = {
 		["ID"] = 276,
@@ -391,7 +397,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%A6%B1%FC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mutsu"
 	},
 	["003"] = {
 		["ID"] = 77,
@@ -488,7 +496,9 @@ d.shipDataTb = {
 			["改造后"] = "102"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB%C0%AA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ise"
 	},
 	["004"] = {
 		["ID"] = 87,
@@ -585,7 +595,9 @@ d.shipDataTb = {
 			["改造后"] = "103"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C6%FC%B8%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hyuuga"
 	},
 	["005"] = {
 		["ID"] = 20,
@@ -678,7 +690,9 @@ d.shipDataTb = {
 			["改造后"] = "005a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E3%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yukikaze"
 	},
 	["005a"] = {
 		["ID"] = 228,
@@ -773,7 +787,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E3%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yukikaze"
 	},
 	["006"] = {
 		["ID"] = 83,
@@ -870,7 +886,9 @@ d.shipDataTb = {
 			["改造后"] = "006a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%D6%BE%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akagi"
 	},
 	["006a"] = {
 		["ID"] = 277,
@@ -967,7 +985,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%D6%BE%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akagi"
 	},
 	["007"] = {
 		["ID"] = 84,
@@ -1064,7 +1084,9 @@ d.shipDataTb = {
 			["改造后"] = "007a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B2%C3%B2%EC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kaga"
 	},
 	["007a"] = {
 		["ID"] = 278,
@@ -1161,7 +1183,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B2%C3%B2%EC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kaga"
 	},
 	["008"] = {
 		["ID"] = 90,
@@ -1258,7 +1282,9 @@ d.shipDataTb = {
 			["改造后"] = "008a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C1%F3%CE%B6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Souryuu"
 	},
 	["008a"] = {
 		["ID"] = 279,
@@ -1355,7 +1381,9 @@ d.shipDataTb = {
 			["改造后"] = "197"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C1%F3%CE%B6%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Souryuu"
 	},
 	["009"] = {
 		["ID"] = 91,
@@ -1452,7 +1480,9 @@ d.shipDataTb = {
 			["改造后"] = "009a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%F4%CE%B6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hiryuu"
 	},
 	["009a"] = {
 		["ID"] = 280,
@@ -1549,7 +1579,9 @@ d.shipDataTb = {
 			["改造后"] = "196"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%F4%CE%B6%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hiryuu"
 	},
 	["010"] = {
 		["ID"] = 50,
@@ -1642,7 +1674,9 @@ d.shipDataTb = {
 			["改造后"] = "010a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%E7%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shimakaze"
 	},
 	["010a"] = {
 		["ID"] = 229,
@@ -1737,7 +1771,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%E7%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shimakaze"
 	},
 	["011"] = {
 		["ID"] = 9,
@@ -1830,7 +1866,9 @@ d.shipDataTb = {
 			["改造后"] = "011a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%E1%C0%E3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Fubuki"
 	},
 	["011a"] = {
 		["ID"] = 201,
@@ -1925,7 +1963,9 @@ d.shipDataTb = {
 			["改造后"] = "226"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%E1%C0%E3%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Fubuki"
 	},
 	["012"] = {
 		["ID"] = 10,
@@ -2018,7 +2058,9 @@ d.shipDataTb = {
 			["改造后"] = "012a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%F2%C0%E3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shirayuki"
 	},
 	["012a"] = {
 		["ID"] = 202,
@@ -2113,7 +2155,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%F2%C0%E3%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shirayuki"
 	},
 	["013"] = {
 		["ID"] = 32,
@@ -2206,7 +2250,9 @@ d.shipDataTb = {
 			["改造后"] = "013a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%C0%E3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsuyuki"
 	},
 	["013a"] = {
 		["ID"] = 203,
@@ -2301,7 +2347,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%C0%E3%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsuyuki"
 	},
 	["014"] = {
 		["ID"] = 11,
@@ -2394,7 +2442,9 @@ d.shipDataTb = {
 			["改造后"] = "014a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%BC%C0%E3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Miyuki"
 	},
 	["014a"] = {
 		["ID"] = 204,
@@ -2489,7 +2539,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%BC%C0%E3%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Miyuki"
 	},
 	["015"] = {
 		["ID"] = 33,
@@ -2582,7 +2634,9 @@ d.shipDataTb = {
 			["改造后"] = "015a"
 		},
 		["画师"] = "彩樹",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C1%D1%B1%C0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Murakumo"
 	},
 	["015a"] = {
 		["ID"] = 205,
@@ -2677,7 +2731,9 @@ d.shipDataTb = {
 			["改造后"] = "220"
 		},
 		["画师"] = "彩樹",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C1%D1%B1%C0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Murakumo"
 	},
 	["016"] = {
 		["ID"] = 12,
@@ -2770,7 +2826,9 @@ d.shipDataTb = {
 			["改造后"] = "016a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%EB%C7%C8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Isonami"
 	},
 	["016a"] = {
 		["ID"] = 206,
@@ -2865,7 +2923,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%EB%C7%C8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Isonami"
 	},
 	["017"] = {
 		["ID"] = 13,
@@ -2958,7 +3018,9 @@ d.shipDataTb = {
 			["改造后"] = "017a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%BD%C7%C8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ayanami"
 	},
 	["017a"] = {
 		["ID"] = 207,
@@ -3053,7 +3115,9 @@ d.shipDataTb = {
 			["改造后"] = "195"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%BD%C7%C8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ayanami"
 	},
 	["018"] = {
 		["ID"] = 14,
@@ -3146,7 +3210,9 @@ d.shipDataTb = {
 			["改造后"] = "018a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%DF%C7%C8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shikinami"
 	},
 	["018a"] = {
 		["ID"] = 208,
@@ -3241,7 +3307,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%DF%C7%C8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shikinami"
 	},
 	["019"] = {
 		["ID"] = 24,
@@ -3334,7 +3402,9 @@ d.shipDataTb = {
 			["改造后"] = "097"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%B0%E6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ooi"
 	},
 	["020"] = {
 		["ID"] = 25,
@@ -3427,7 +3497,9 @@ d.shipDataTb = {
 			["改造后"] = "098"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%CC%BE%E5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kitakami"
 	},
 	["021"] = {
 		["ID"] = 78,
@@ -3522,7 +3594,9 @@ d.shipDataTb = {
 			["改造后"] = "021a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B6%E2%B9%E4",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kongou"
 	},
 	["021a"] = {
 		["ID"] = 209,
@@ -3619,7 +3693,9 @@ d.shipDataTb = {
 			["改造后"] = "149"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B6%E2%B9%E4%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kongou"
 	},
 	["022"] = {
 		["ID"] = 86,
@@ -3714,7 +3790,9 @@ d.shipDataTb = {
 			["改造后"] = "022a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%E6%B1%C3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hiei"
 	},
 	["022a"] = {
 		["ID"] = 210,
@@ -3811,7 +3889,9 @@ d.shipDataTb = {
 			["改造后"] = "150"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%E6%B1%C3%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hiei"
 	},
 	["023"] = {
 		["ID"] = 79,
@@ -3906,7 +3986,9 @@ d.shipDataTb = {
 			["改造后"] = "023a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%BA%CC%BE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Haruna"
 	},
 	["023a"] = {
 		["ID"] = 211,
@@ -4003,7 +4085,9 @@ d.shipDataTb = {
 			["改造后"] = "151"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%BA%CC%BE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Haruna"
 	},
 	["024"] = {
 		["ID"] = 85,
@@ -4098,7 +4182,9 @@ d.shipDataTb = {
 			["改造后"] = "024a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%B8%C5%E7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kirishima"
 	},
 	["024a"] = {
 		["ID"] = 212,
@@ -4195,7 +4281,9 @@ d.shipDataTb = {
 			["改造后"] = "152"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%B8%C5%E7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kirishima"
 	},
 	["025"] = {
 		["ID"] = 89,
@@ -4288,7 +4376,9 @@ d.shipDataTb = {
 			["改造后"] = "025a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%B1%E6%C6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Houshou"
 	},
 	["025a"] = {
 		["ID"] = 285,
@@ -4383,7 +4473,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%B1%E6%C6%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Houshou"
 	},
 	["026"] = {
 		["ID"] = 26,
@@ -4480,7 +4572,9 @@ d.shipDataTb = {
 			["改造后"] = "026a"
 		},
 		["画师"] = "六花",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%DE%B7%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Fusou"
 	},
 	["026a"] = {
 		["ID"] = 286,
@@ -4578,7 +4672,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "六花",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%DE%B7%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Fusou"
 	},
 	["027"] = {
 		["ID"] = 27,
@@ -4675,7 +4771,9 @@ d.shipDataTb = {
 			["改造后"] = "027a"
 		},
 		["画师"] = "六花",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B3%BE%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yamashiro"
 	},
 	["027a"] = {
 		["ID"] = 287,
@@ -4773,7 +4871,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "六花",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B3%BE%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yamashiro"
 	},
 	["028"] = {
 		["ID"] = 51,
@@ -4866,7 +4966,9 @@ d.shipDataTb = {
 			["改造后"] = "028a"
 		},
 		["画师"] = "彩樹",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%B7%CE%B6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tenryuu"
 	},
 	["028a"] = {
 		["ID"] = 213,
@@ -4961,7 +5063,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "彩樹",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%B7%CE%B6%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tenryuu"
 	},
 	["029"] = {
 		["ID"] = 52,
@@ -5054,7 +5158,9 @@ d.shipDataTb = {
 			["改造后"] = "029a"
 		},
 		["画师"] = "彩樹",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%B6%C5%C4",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tatsuta"
 	},
 	["029a"] = {
 		["ID"] = 214,
@@ -5149,7 +5255,9 @@ d.shipDataTb = {
 			["改造后"] = "278"
 		},
 		["画师"] = "彩樹",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%B6%C5%C4%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tatsuta"
 	},
 	["030"] = {
 		["ID"] = 76,
@@ -5244,7 +5352,9 @@ d.shipDataTb = {
 			["改造后"] = "030a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%B6%F1%E8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ryuujou"
 	},
 	["030a"] = {
 		["ID"] = 281,
@@ -5341,7 +5451,9 @@ d.shipDataTb = {
 			["改造后"] = "157"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%B6%F1%E8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ryuujou"
 	},
 	["031"] = {
 		["ID"] = 1,
@@ -5434,7 +5546,9 @@ d.shipDataTb = {
 			["改造后"] = "031a"
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%D3%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mutsuki"
 	},
 	["031a"] = {
 		["ID"] = 254,
@@ -5529,7 +5643,9 @@ d.shipDataTb = {
 			["改造后"] = "234"
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%D3%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mutsuki"
 	},
 	["032"] = {
 		["ID"] = 2,
@@ -5622,7 +5738,9 @@ d.shipDataTb = {
 			["改造后"] = "032a"
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%A1%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kisaragi"
 	},
 	["032a"] = {
 		["ID"] = 255,
@@ -5717,7 +5835,9 @@ d.shipDataTb = {
 			["改造后"] = "235"
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%A1%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kisaragi"
 	},
 	["033"] = {
 		["ID"] = 28,
@@ -5810,7 +5930,9 @@ d.shipDataTb = {
 			["改造后"] = "033a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%A9%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Satsuki"
 	},
 	["033a"] = {
 		["ID"] = 256,
@@ -5905,7 +6027,9 @@ d.shipDataTb = {
 			["改造后"] = "218"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%A9%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Satsuki"
 	},
 	["034"] = {
 		["ID"] = 29,
@@ -5998,7 +6122,9 @@ d.shipDataTb = {
 			["改造后"] = "034a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CA%B8%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Fumizuki"
 	},
 	["034a"] = {
 		["ID"] = 257,
@@ -6093,7 +6219,9 @@ d.shipDataTb = {
 			["改造后"] = "348"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CA%B8%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Fumizuki"
 	},
 	["035"] = {
 		["ID"] = 6,
@@ -6186,7 +6314,9 @@ d.shipDataTb = {
 			["改造后"] = "035a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%B9%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nagatsuki"
 	},
 	["035a"] = {
 		["ID"] = 258,
@@ -6281,7 +6411,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%B9%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nagatsuki"
 	},
 	["036"] = {
 		["ID"] = 30,
@@ -6374,7 +6506,9 @@ d.shipDataTb = {
 			["改造后"] = "036a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B5%C6%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kikuzuki"
 	},
 	["036a"] = {
 		["ID"] = 259,
@@ -6469,7 +6603,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B5%C6%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kikuzuki"
 	},
 	["037"] = {
 		["ID"] = 7,
@@ -6562,7 +6698,9 @@ d.shipDataTb = {
 			["改造后"] = "037a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B0%C6%FC%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mikazuki"
 	},
 	["037a"] = {
 		["ID"] = 260,
@@ -6657,7 +6795,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B0%C6%FC%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mikazuki"
 	},
 	["038"] = {
 		["ID"] = 31,
@@ -6750,7 +6890,9 @@ d.shipDataTb = {
 			["改造后"] = "038a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%BE%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mochizuki"
 	},
 	["038a"] = {
 		["ID"] = 261,
@@ -6845,7 +6987,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%BE%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mochizuki"
 	},
 	["039"] = {
 		["ID"] = 99,
@@ -6938,7 +7082,9 @@ d.shipDataTb = {
 			["改造后"] = "039a"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B5%E5%CB%E1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kuma"
 	},
 	["039a"] = {
 		["ID"] = 215,
@@ -7033,7 +7179,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "UGUME",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B5%E5%CB%E1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kuma"
 	},
 	["040"] = {
 		["ID"] = 100,
@@ -7126,7 +7274,9 @@ d.shipDataTb = {
 			["改造后"] = "040a"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%BF%CB%E0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tama"
 	},
 	["040a"] = {
 		["ID"] = 216,
@@ -7222,7 +7372,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%BF%CB%E0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tama"
 	},
 	["041"] = {
 		["ID"] = 101,
@@ -7315,7 +7467,9 @@ d.shipDataTb = {
 			["改造后"] = "041a"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%DA%C1%BD",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kiso"
 	},
 	["041a"] = {
 		["ID"] = 217,
@@ -7410,7 +7564,9 @@ d.shipDataTb = {
 			["改造后"] = "146"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%DA%C1%BD%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kiso"
 	},
 	["042"] = {
 		["ID"] = 21,
@@ -7503,7 +7659,9 @@ d.shipDataTb = {
 			["改造后"] = "042a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%B9%CE%C9",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nagara"
 	},
 	["042a"] = {
 		["ID"] = 218,
@@ -7598,7 +7756,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%B9%CE%C9%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nagara"
 	},
 	["043"] = {
 		["ID"] = 22,
@@ -7691,7 +7851,9 @@ d.shipDataTb = {
 			["改造后"] = "043a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B8%DE%BD%BD%CE%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Isuzu"
 	},
 	["043a"] = {
 		["ID"] = 219,
@@ -7786,7 +7948,9 @@ d.shipDataTb = {
 			["改造后"] = "141"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B8%DE%BD%BD%CE%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Isuzu"
 	},
 	["044"] = {
 		["ID"] = 53,
@@ -7879,7 +8043,9 @@ d.shipDataTb = {
 			["改造后"] = "044a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%BE%BC%E8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Natori"
 	},
 	["044a"] = {
 		["ID"] = 221,
@@ -7974,7 +8140,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%BE%BC%E8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Natori"
 	},
 	["045"] = {
 		["ID"] = 23,
@@ -8067,7 +8235,9 @@ d.shipDataTb = {
 			["改造后"] = "045a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%B3%CE%C9",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yura"
 	},
 	["045a"] = {
 		["ID"] = 220,
@@ -8163,7 +8333,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%B3%CE%C9%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yura"
 	},
 	["046"] = {
 		["ID"] = 54,
@@ -8256,7 +8428,9 @@ d.shipDataTb = {
 			["改造后"] = "046a"
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%EE%C6%E2",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Sendai"
 	},
 	["046a"] = {
 		["ID"] = 222,
@@ -8351,7 +8525,9 @@ d.shipDataTb = {
 			["改造后"] = "158"
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%EE%C6%E2%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Sendai"
 	},
 	["047"] = {
 		["ID"] = 55,
@@ -8444,7 +8620,9 @@ d.shipDataTb = {
 			["改造后"] = "047a"
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%C0%C4%CC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Jintsuu"
 	},
 	["047a"] = {
 		["ID"] = 223,
@@ -8539,7 +8717,9 @@ d.shipDataTb = {
 			["改造后"] = "159"
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%C0%C4%CC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Jintsuu"
 	},
 	["048"] = {
 		["ID"] = 56,
@@ -8632,7 +8812,9 @@ d.shipDataTb = {
 			["改造后"] = "048a"
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C6%E1%B2%D1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Naka"
 	},
 	["048a"] = {
 		["ID"] = 224,
@@ -8727,7 +8909,9 @@ d.shipDataTb = {
 			["改造后"] = "160"
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C6%E1%B2%D1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Naka"
 	},
 	["049"] = {
 		["ID"] = 102,
@@ -8820,7 +9004,9 @@ d.shipDataTb = {
 			["改造后"] = "095"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%BA%D0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chitose"
 	},
 	["050"] = {
 		["ID"] = 103,
@@ -8913,7 +9099,9 @@ d.shipDataTb = {
 			["改造后"] = "096"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%C2%E5%C5%C4",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chiyoda"
 	},
 	["051"] = {
 		["ID"] = 70,
@@ -9008,7 +9196,9 @@ d.shipDataTb = {
 			["改造后"] = "101"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BA%C7%BE%E5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mogami"
 	},
 	["052"] = {
 		["ID"] = 59,
@@ -9103,7 +9293,9 @@ d.shipDataTb = {
 			["改造后"] = "052a"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B8%C5%C2%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Furutaka"
 	},
 	["052a"] = {
 		["ID"] = 262,
@@ -9200,7 +9392,9 @@ d.shipDataTb = {
 			["改造后"] = "216"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B8%C5%C2%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Furutaka"
 	},
 	["053"] = {
 		["ID"] = 60,
@@ -9295,7 +9489,9 @@ d.shipDataTb = {
 			["改造后"] = "053a"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B2%C3%B8%C5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kako"
 	},
 	["053a"] = {
 		["ID"] = 263,
@@ -9392,7 +9588,9 @@ d.shipDataTb = {
 			["改造后"] = "217"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B2%C3%B8%C5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kako"
 	},
 	["054"] = {
 		["ID"] = 61,
@@ -9487,7 +9685,9 @@ d.shipDataTb = {
 			["改造后"] = "054a"
 		},
 		["画师"] = "hatsuko",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%C4%CD%D5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Aoba"
 	},
 	["054a"] = {
 		["ID"] = 264,
@@ -9584,7 +9784,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "hatsuko",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%C4%CD%D5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Aoba"
 	},
 	["055"] = {
 		["ID"] = 62,
@@ -9679,7 +9881,9 @@ d.shipDataTb = {
 			["改造后"] = "055a"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%AF%B9%E2",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Myoukou"
 	},
 	["055a"] = {
 		["ID"] = 265,
@@ -9776,7 +9980,9 @@ d.shipDataTb = {
 			["改造后"] = "191"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%AF%B9%E2%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Myoukou"
 	},
 	["056"] = {
 		["ID"] = 63,
@@ -9871,7 +10077,9 @@ d.shipDataTb = {
 			["改造后"] = "056a"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C6%E1%C3%D2",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nachi"
 	},
 	["056a"] = {
 		["ID"] = 266,
@@ -9968,7 +10176,9 @@ d.shipDataTb = {
 			["改造后"] = "192"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C6%E1%C3%D2%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nachi"
 	},
 	["057"] = {
 		["ID"] = 64,
@@ -10063,7 +10273,9 @@ d.shipDataTb = {
 			["改造后"] = "057a"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%AD%CA%C1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ashigara"
 	},
 	["057a"] = {
 		["ID"] = 267,
@@ -10160,7 +10372,9 @@ d.shipDataTb = {
 			["改造后"] = "193"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%AD%CA%C1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ashigara"
 	},
 	["058"] = {
 		["ID"] = 65,
@@ -10255,7 +10469,9 @@ d.shipDataTb = {
 			["改造后"] = "058a"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%A9%B9%F5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Haguro"
 	},
 	["058a"] = {
 		["ID"] = 268,
@@ -10352,7 +10568,9 @@ d.shipDataTb = {
 			["改造后"] = "194"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%A9%B9%F5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Haguro"
 	},
 	["059"] = {
 		["ID"] = 66,
@@ -10447,7 +10665,9 @@ d.shipDataTb = {
 			["改造后"] = "059a"
 		},
 		["画师"] = "みことあけみ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%E2%CD%BA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Takao"
 	},
 	["059a"] = {
 		["ID"] = 269,
@@ -10544,7 +10764,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "みことあけみ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%E2%CD%BA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Takao"
 	},
 	["060"] = {
 		["ID"] = 67,
@@ -10639,7 +10861,9 @@ d.shipDataTb = {
 			["改造后"] = "060a"
 		},
 		["画师"] = "みことあけみ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%A6%C5%E6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Atago"
 	},
 	["060a"] = {
 		["ID"] = 270,
@@ -10736,7 +10960,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "みことあけみ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%A6%C5%E6%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Atago"
 	},
 	["061"] = {
 		["ID"] = 68,
@@ -10831,7 +11057,9 @@ d.shipDataTb = {
 			["改造后"] = "061a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%E0%CC%ED",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Maya"
 	},
 	["061a"] = {
 		["ID"] = 271,
@@ -10928,7 +11156,9 @@ d.shipDataTb = {
 			["改造后"] = "228"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%E0%CC%ED%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Maya"
 	},
 	["062"] = {
 		["ID"] = 69,
@@ -11023,7 +11253,9 @@ d.shipDataTb = {
 			["改造后"] = "062a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%BB%B3%A4",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Choukai"
 	},
 	["062a"] = {
 		["ID"] = 272,
@@ -11121,7 +11353,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%BB%B3%A4%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Choukai"
 	},
 	["063"] = {
 		["ID"] = 71,
@@ -11216,7 +11450,9 @@ d.shipDataTb = {
 			["改造后"] = "063a"
 		},
 		["画师"] = "bob",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%F8%BA%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tone"
 	},
 	["063a"] = {
 		["ID"] = 273,
@@ -11314,7 +11550,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "bob",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%F8%BA%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tone"
 	},
 	["064"] = {
 		["ID"] = 72,
@@ -11409,7 +11647,9 @@ d.shipDataTb = {
 			["改造后"] = "064a"
 		},
 		["画师"] = "bob",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C3%DE%CB%E0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chikuma"
 	},
 	["064a"] = {
 		["ID"] = 274,
@@ -11507,7 +11747,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "bob",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C3%DE%CB%E0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chikuma"
 	},
 	["065"] = {
 		["ID"] = 75,
@@ -11604,7 +11846,9 @@ d.shipDataTb = {
 			["改造后"] = "065a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%F4%C2%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hiyou"
 	},
 	["065a"] = {
 		["ID"] = 283,
@@ -11701,7 +11945,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%F4%C2%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hiyou"
 	},
 	["066"] = {
 		["ID"] = 92,
@@ -11798,7 +12044,9 @@ d.shipDataTb = {
 			["改造后"] = "066a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%BB%C2%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Junyou"
 	},
 	["066a"] = {
 		["ID"] = 284,
@@ -11895,7 +12143,9 @@ d.shipDataTb = {
 			["改造后"] = "208"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%BB%C2%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Junyou"
 	},
 	["067"] = {
 		["ID"] = 93,
@@ -11988,7 +12238,9 @@ d.shipDataTb = {
 			["改造后"] = "067a"
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%DB%B0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Oboro"
 	},
 	["067a"] = {
 		["ID"] = 230,
@@ -12083,7 +12335,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%DB%B0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Oboro"
 	},
 	["068"] = {
 		["ID"] = 15,
@@ -12176,7 +12430,9 @@ d.shipDataTb = {
 			["改造后"] = "068a"
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%EC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akebono"
 	},
 	["068a"] = {
 		["ID"] = 231,
@@ -12271,7 +12527,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%EC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akebono"
 	},
 	["069"] = {
 		["ID"] = 94,
@@ -12364,7 +12622,9 @@ d.shipDataTb = {
 			["改造后"] = "069a"
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%FA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Sazanami"
 	},
 	["069a"] = {
 		["ID"] = 232,
@@ -12459,7 +12719,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%FA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Sazanami"
 	},
 	["070"] = {
 		["ID"] = 16,
@@ -12552,7 +12814,9 @@ d.shipDataTb = {
 			["改造后"] = "070a"
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ushio"
 	},
 	["070a"] = {
 		["ID"] = 233,
@@ -12647,7 +12911,9 @@ d.shipDataTb = {
 			["改造后"] = "207"
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ushio"
 	},
 	["071"] = {
 		["ID"] = 34,
@@ -12740,7 +13006,9 @@ d.shipDataTb = {
 			["改造后"] = "071a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B6%C7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akatsuki"
 	},
 	["071a"] = {
 		["ID"] = 234,
@@ -12835,7 +13103,9 @@ d.shipDataTb = {
 			["改造后"] = "237"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B6%C7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akatsuki"
 	},
 	["072"] = {
 		["ID"] = 35,
@@ -12928,7 +13198,9 @@ d.shipDataTb = {
 			["改造后"] = "072a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B6%C1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hibiki"
 	},
 	["072a"] = {
 		["ID"] = 235,
@@ -13023,7 +13295,9 @@ d.shipDataTb = {
 			["改造后"] = "147"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B6%C1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hibiki"
 	},
 	["073"] = {
 		["ID"] = 36,
@@ -13116,7 +13390,9 @@ d.shipDataTb = {
 			["改造后"] = "073a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ikazuchi/Gallery"
 	},
 	["073a"] = {
 		["ID"] = 236,
@@ -13211,7 +13487,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ikazuchi"
 	},
 	["074"] = {
 		["ID"] = 37,
@@ -13304,7 +13582,9 @@ d.shipDataTb = {
 			["改造后"] = "074a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%C5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Inazuma"
 	},
 	["074a"] = {
 		["ID"] = 237,
@@ -13399,7 +13679,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%C5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Inazuma"
 	},
 	["075"] = {
 		["ID"] = 38,
@@ -13492,7 +13774,9 @@ d.shipDataTb = {
 			["改造后"] = "075a"
 		},
 		["画师"] = "彩樹",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%BD%D5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsuharu"
 	},
 	["075a"] = {
 		["ID"] = 238,
@@ -13587,7 +13871,9 @@ d.shipDataTb = {
 			["改造后"] = "204"
 		},
 		["画师"] = "彩樹",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%BD%D5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsuharu"
 	},
 	["076"] = {
 		["ID"] = 39,
@@ -13680,7 +13966,9 @@ d.shipDataTb = {
 			["改造后"] = "076a"
 		},
 		["画师"] = "彩樹",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%D2%C6%FC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nenohi"
 	},
 	["076a"] = {
 		["ID"] = 239,
@@ -13775,7 +14063,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "彩樹",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%D2%C6%FC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nenohi"
 	},
 	["077"] = {
 		["ID"] = 40,
@@ -13868,7 +14158,9 @@ d.shipDataTb = {
 			["改造后"] = "077a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BC%E3%CD%D5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Wakaba"
 	},
 	["077a"] = {
 		["ID"] = 240,
@@ -13963,7 +14255,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BC%E3%CD%D5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Wakaba"
 	},
 	["078"] = {
 		["ID"] = 41,
@@ -14056,7 +14350,9 @@ d.shipDataTb = {
 			["改造后"] = "078a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%C1%FA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsushimo"
 	},
 	["078a"] = {
 		["ID"] = 241,
@@ -14151,7 +14447,9 @@ d.shipDataTb = {
 			["改造后"] = "219"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%C1%FA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsushimo"
 	},
 	["079"] = {
 		["ID"] = 42,
@@ -14244,7 +14542,9 @@ d.shipDataTb = {
 			["改造后"] = "079a"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%F2%CF%AA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shiratsuyu"
 	},
 	["079a"] = {
 		["ID"] = 242,
@@ -14339,7 +14639,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%F2%CF%AA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shiratsuyu"
 	},
 	["080"] = {
 		["ID"] = 43,
@@ -14432,7 +14734,9 @@ d.shipDataTb = {
 			["改造后"] = "080a"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%FE%B1%AB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shigure"
 	},
 	["080a"] = {
 		["ID"] = 243,
@@ -14527,7 +14831,9 @@ d.shipDataTb = {
 			["改造后"] = "145"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%FE%B1%AB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shigure"
 	},
 	["081"] = {
 		["ID"] = 44,
@@ -14620,7 +14926,9 @@ d.shipDataTb = {
 			["改造后"] = "081a"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%BC%B1%AB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Murasame"
 	},
 	["081a"] = {
 		["ID"] = 244,
@@ -14715,7 +15023,9 @@ d.shipDataTb = {
 			["改造后"] = "298"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%BC%B1%AB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Murasame"
 	},
 	["082"] = {
 		["ID"] = 45,
@@ -14808,7 +15118,9 @@ d.shipDataTb = {
 			["改造后"] = "082a"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%BC%CE%A9",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yuudachi"
 	},
 	["082a"] = {
 		["ID"] = 245,
@@ -14903,7 +15215,9 @@ d.shipDataTb = {
 			["改造后"] = "144"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%BC%CE%A9%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yuudachi"
 	},
 	["083"] = {
 		["ID"] = 46,
@@ -14996,7 +15310,9 @@ d.shipDataTb = {
 			["改造后"] = "083a"
 		},
 		["画师"] = "雨宮千遥",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B8%DE%B7%EE%B1%AB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Samidare"
 	},
 	["083a"] = {
 		["ID"] = 246,
@@ -15091,7 +15407,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "雨宮千遥",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B8%DE%B7%EE%B1%AB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Samidare"
 	},
 	["084"] = {
 		["ID"] = 47,
@@ -15184,7 +15502,9 @@ d.shipDataTb = {
 			["改造后"] = "084a"
 		},
 		["画师"] = "雨宮千遥",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%C3%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Suzukaze"
 	},
 	["084a"] = {
 		["ID"] = 247,
@@ -15279,7 +15599,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "雨宮千遥",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%C3%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Suzukaze"
 	},
 	["085"] = {
 		["ID"] = 95,
@@ -15372,7 +15694,9 @@ d.shipDataTb = {
 			["改造后"] = "085a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AB%C4%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Asashio"
 	},
 	["085a"] = {
 		["ID"] = 248,
@@ -15467,7 +15791,9 @@ d.shipDataTb = {
 			["改造后"] = "263"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AB%C4%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Asashio"
 	},
 	["086"] = {
 		["ID"] = 96,
@@ -15560,7 +15886,9 @@ d.shipDataTb = {
 			["改造后"] = "086a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%C4%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ooshio"
 	},
 	["086a"] = {
 		["ID"] = 249,
@@ -15656,7 +15984,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%C4%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ooshio"
 	},
 	["087"] = {
 		["ID"] = 97,
@@ -15749,7 +16079,9 @@ d.shipDataTb = {
 			["改造后"] = "087a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%FE%C4%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Michishio"
 	},
 	["087a"] = {
 		["ID"] = 250,
@@ -15844,7 +16176,9 @@ d.shipDataTb = {
 			["改造后"] = "289"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%FE%C4%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Michishio"
 	},
 	["088"] = {
 		["ID"] = 98,
@@ -15937,7 +16271,9 @@ d.shipDataTb = {
 			["改造后"] = "088a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%D3%C4%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Arashio"
 	},
 	["088a"] = {
 		["ID"] = 251,
@@ -16033,7 +16369,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%D3%C4%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Arashio"
 	},
 	["089"] = {
 		["ID"] = 48,
@@ -16126,7 +16464,9 @@ d.shipDataTb = {
 			["改造后"] = "089a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%F0%C7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Arare"
 	},
 	["089a"] = {
 		["ID"] = 252,
@@ -16222,7 +16562,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%F0%C7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Arare"
 	},
 	["090"] = {
 		["ID"] = 49,
@@ -16315,7 +16657,9 @@ d.shipDataTb = {
 			["改造后"] = "090a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B2%E2",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kasumi"
 	},
 	["090a"] = {
 		["ID"] = 253,
@@ -16410,7 +16754,9 @@ d.shipDataTb = {
 			["改造后"] = "264"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B2%E2%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kasumi"
 	},
 	["091"] = {
 		["ID"] = 17,
@@ -16503,7 +16849,9 @@ d.shipDataTb = {
 			["改造后"] = "091a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%DB%B1%EA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kagerou"
 	},
 	["091a"] = {
 		["ID"] = 225,
@@ -16599,7 +16947,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1 开发资材x20"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%DB%B1%EA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kagerou"
 	},
 	["092"] = {
 		["ID"] = 18,
@@ -16692,7 +17042,9 @@ d.shipDataTb = {
 			["改造后"] = "092a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%D4%C3%CE%B2%D0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shiranui"
 	},
 	["092a"] = {
 		["ID"] = 226,
@@ -16788,7 +17140,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%D4%C3%CE%B2%D0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shiranui"
 	},
 	["093"] = {
 		["ID"] = 19,
@@ -16881,7 +17235,9 @@ d.shipDataTb = {
 			["改造后"] = "093a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%F5%C4%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kuroshio"
 	},
 	["093a"] = {
 		["ID"] = 227,
@@ -16976,7 +17332,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%F5%C4%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kuroshio"
 	},
 	["094"] = {
 		["ID"] = 74,
@@ -17071,7 +17429,9 @@ d.shipDataTb = {
 			["改造后"] = "094a"
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BE%CD%CB%B1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shouhou"
 	},
 	["094a"] = {
 		["ID"] = 282,
@@ -17168,7 +17528,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BE%CD%CB%B1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shouhou"
 	},
 	["095"] = {
 		["ID"] = 104,
@@ -17263,7 +17625,9 @@ d.shipDataTb = {
 			["改造后"] = "099"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%BA%D0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chitose"
 	},
 	["096"] = {
 		["ID"] = 105,
@@ -17358,7 +17722,9 @@ d.shipDataTb = {
 			["改造后"] = "100"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%C2%E5%C5%C4%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chiyoda"
 	},
 	["097"] = {
 		["ID"] = 57,
@@ -17451,7 +17817,9 @@ d.shipDataTb = {
 			["改造后"] = "114"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%B0%E6%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ooi"
 	},
 	["098"] = {
 		["ID"] = 58,
@@ -17544,7 +17912,9 @@ d.shipDataTb = {
 			["改造后"] = "115"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%CC%BE%E5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kitakami"
 	},
 	["099"] = {
 		["ID"] = 106,
@@ -17639,7 +18009,9 @@ d.shipDataTb = {
 			["改造后"] = "104"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%BA%D0%B9%C3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chitose"
 	},
 	["100"] = {
 		["ID"] = 107,
@@ -17734,7 +18106,9 @@ d.shipDataTb = {
 			["改造后"] = "105"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%C2%E5%C5%C4%B9%C3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chiyoda"
 	},
 	["101"] = {
 		["ID"] = 73,
@@ -17831,7 +18205,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BA%C7%BE%E5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mogami"
 	},
 	["102"] = {
 		["ID"] = 82,
@@ -17928,7 +18304,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB%C0%AA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ise"
 	},
 	["103"] = {
 		["ID"] = 88,
@@ -18025,7 +18403,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C6%FC%B8%FE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hyuuga"
 	},
 	["104"] = {
 		["ID"] = 108,
@@ -18120,7 +18500,9 @@ d.shipDataTb = {
 			["改造后"] = "104a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%BA%D0%B9%D2",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chitose"
 	},
 	["104a"] = {
 		["ID"] = 291,
@@ -18217,7 +18599,9 @@ d.shipDataTb = {
 			["改造后"] = "121"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%BA%D0%B9%D2%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chitose"
 	},
 	["105"] = {
 		["ID"] = 109,
@@ -18312,7 +18696,9 @@ d.shipDataTb = {
 			["改造后"] = "105a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%C2%E5%C5%C4%B9%D2",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chiyoda"
 	},
 	["105a"] = {
 		["ID"] = 292,
@@ -18409,7 +18795,9 @@ d.shipDataTb = {
 			["改造后"] = "122"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%C2%E5%C5%C4%B9%D2%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chiyoda"
 	},
 	["106"] = {
 		["ID"] = 110,
@@ -18506,7 +18894,9 @@ d.shipDataTb = {
 			["改造后"] = "106a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%E6%C6%C4%E1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shoukaku"
 	},
 	["106a"] = {
 		["ID"] = 288,
@@ -18604,7 +18994,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1 试制甲板用弹射器x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%E6%C6%C4%E1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shoukaku"
 	},
 	["107"] = {
 		["ID"] = 111,
@@ -18701,7 +19093,9 @@ d.shipDataTb = {
 			["改造后"] = "108"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%F0%C4%E1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Zuikaku"
 	},
 	["108"] = {
 		["ID"] = 112,
@@ -18799,7 +19193,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1 试制甲板用弹射器x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%F0%C4%E1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Zuikaku"
 	},
 	["109"] = {
 		["ID"] = 113,
@@ -18892,7 +19288,9 @@ d.shipDataTb = {
 			["改造后"] = "109a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B5%B4%C5%DC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kinu"
 	},
 	["109a"] = {
 		["ID"] = 289,
@@ -18988,7 +19386,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B5%B4%C5%DC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kinu"
 	},
 	["110"] = {
 		["ID"] = 114,
@@ -19081,7 +19481,9 @@ d.shipDataTb = {
 			["改造后"] = "110a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%A4%C9%F0%B7%A8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Abukuma"
 	},
 	["110a"] = {
 		["ID"] = 290,
@@ -19177,7 +19579,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%A4%C9%F0%B7%A8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Abukuma"
 	},
 	["111"] = {
 		["ID"] = 115,
@@ -19272,7 +19676,9 @@ d.shipDataTb = {
 			["改造后"] = "111a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%BC%C4%A5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yuubari"
 	},
 	["111a"] = {
 		["ID"] = 293,
@@ -19369,7 +19775,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%BC%C4%A5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yuubari"
 	},
 	["112"] = {
 		["ID"] = 116,
@@ -19464,7 +19872,9 @@ d.shipDataTb = {
 			["改造后"] = "113"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%F0%CB%B1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Zuihou"
 	},
 	["113"] = {
 		["ID"] = 117,
@@ -19561,7 +19971,9 @@ d.shipDataTb = {
 			["改造后"] = "355"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%F0%CB%B1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Zuihou"
 	},
 	["114"] = {
 		["ID"] = 118,
@@ -19656,7 +20068,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%B0%E6%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ooi"
 	},
 	["115"] = {
 		["ID"] = 119,
@@ -19751,7 +20165,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%CC%BE%E5%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kitakami"
 	},
 	["116"] = {
 		["ID"] = 120,
@@ -19846,7 +20262,9 @@ d.shipDataTb = {
 			["改造后"] = "117"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B0%B7%A8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mikuma"
 	},
 	["117"] = {
 		["ID"] = 121,
@@ -19943,7 +20361,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B0%B7%A8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mikuma"
 	},
 	["118"] = {
 		["ID"] = 190,
@@ -20036,7 +20456,9 @@ d.shipDataTb = {
 			["改造后"] = "118a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsukaze"
 	},
 	["118a"] = {
 		["ID"] = 300,
@@ -20131,7 +20553,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsukaze"
 	},
 	["119"] = {
 		["ID"] = 122,
@@ -20224,7 +20648,9 @@ d.shipDataTb = {
 			["改造后"] = "119a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%F1%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Maikaze"
 	},
 	["119a"] = {
 		["ID"] = 294,
@@ -20319,7 +20745,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%F1%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Maikaze"
 	},
 	["120"] = {
 		["ID"] = 123,
@@ -20414,7 +20842,9 @@ d.shipDataTb = {
 			["改造后"] = "120a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%E1%B3%DE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kinugasa"
 	},
 	["120a"] = {
 		["ID"] = 295,
@@ -20511,7 +20941,9 @@ d.shipDataTb = {
 			["改造后"] = "142"
 		},
 		["画师"] = "藤川",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%E1%B3%DE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kinugasa"
 	},
 	["121"] = {
 		["ID"] = 296,
@@ -20608,7 +21040,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%BA%D0%B9%D2%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chitose"
 	},
 	["122"] = {
 		["ID"] = 297,
@@ -20705,7 +21139,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%E9%C2%E5%C5%C4%B9%D2%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chiyoda"
 	},
 	["123"] = {
 		["ID"] = 191,
@@ -20796,7 +21232,9 @@ d.shipDataTb = {
 			["改造后"] = "123a"
 		},
 		["画师"] = "ショボン",
-		["声优"] = "味里"
+		["声优"] = "味里",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB19",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-19"
 	},
 	["123a"] = {
 		["ID"] = 401,
@@ -20889,7 +21327,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "ショボン",
-		["声优"] = "味里"
+		["声优"] = "味里",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB19%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-19"
 	},
 	["124"] = {
 		["ID"] = 124,
@@ -20984,7 +21424,9 @@ d.shipDataTb = {
 			["改造后"] = "129"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%EB%C3%AB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Suzuya"
 	},
 	["125"] = {
 		["ID"] = 125,
@@ -21079,7 +21521,9 @@ d.shipDataTb = {
 			["改造后"] = "130"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B7%A7%CC%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kumano"
 	},
 	["126"] = {
 		["ID"] = 126,
@@ -21170,7 +21614,9 @@ d.shipDataTb = {
 			["改造后"] = "126a"
 		},
 		["画师"] = "ショボン",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB168",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-168"
 	},
 	["126a"] = {
 		["ID"] = 398,
@@ -21263,7 +21709,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "ショボン",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB168%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-168"
 	},
 	["127"] = {
 		["ID"] = 127,
@@ -21354,7 +21802,9 @@ d.shipDataTb = {
 			["改造后"] = "127a"
 		},
 		["画师"] = "ショボン",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB58",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-58"
 	},
 	["127a"] = {
 		["ID"] = 399,
@@ -21447,7 +21897,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "ショボン",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB58%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-58"
 	},
 	["128"] = {
 		["ID"] = 128,
@@ -21538,7 +21990,9 @@ d.shipDataTb = {
 			["改造后"] = "128a"
 		},
 		["画师"] = "ショボン",
-		["声优"] = "味里"
+		["声优"] = "味里",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-8"
 	},
 	["128a"] = {
 		["ID"] = 400,
@@ -21631,7 +22085,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "ショボン",
-		["声优"] = "味里"
+		["声优"] = "味里",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-8"
 	},
 	["129"] = {
 		["ID"] = 129,
@@ -21729,7 +22185,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%EB%C3%AB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Suzuya"
 	},
 	["130"] = {
 		["ID"] = 130,
@@ -21827,7 +22285,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B7%A7%CC%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kumano"
 	},
 	["131"] = {
 		["ID"] = 131,
@@ -21924,7 +22384,9 @@ d.shipDataTb = {
 			["改造后"] = "136"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%CF%C2",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yamato"
 	},
 	["132"] = {
 		["ID"] = 132,
@@ -22017,7 +22479,9 @@ d.shipDataTb = {
 			["改造后"] = "132a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%A9%B1%C0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akigumo"
 	},
 	["132a"] = {
 		["ID"] = 301,
@@ -22112,7 +22576,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%A9%B1%C0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akigumo"
 	},
 	["133"] = {
 		["ID"] = 133,
@@ -22205,7 +22671,9 @@ d.shipDataTb = {
 			["改造后"] = "133a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%BC%B1%C0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yuugumo"
 	},
 	["133a"] = {
 		["ID"] = 302,
@@ -22300,7 +22768,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%BC%B1%C0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yuugumo"
 	},
 	["134"] = {
 		["ID"] = 134,
@@ -22393,7 +22863,9 @@ d.shipDataTb = {
 			["改造后"] = "134a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B4%AC%B1%C0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Makigumo"
 	},
 	["134a"] = {
 		["ID"] = 303,
@@ -22488,7 +22960,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B4%AC%B1%C0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Makigumo"
 	},
 	["135"] = {
 		["ID"] = 135,
@@ -22581,7 +23055,9 @@ d.shipDataTb = {
 			["改造后"] = "135a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%B9%C7%C8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Naganami"
 	},
 	["135a"] = {
 		["ID"] = 304,
@@ -22677,7 +23153,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%B9%C7%C8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Naganami"
 	},
 	["136"] = {
 		["ID"] = 136,
@@ -22774,7 +23252,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%CF%C2%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yamato"
 	},
 	["137"] = {
 		["ID"] = 137,
@@ -22869,7 +23349,9 @@ d.shipDataTb = {
 			["改造后"] = "137a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "山田 悠希"
+		["声优"] = "山田 悠希",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%A4%B2%EC%CC%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Agano"
 	},
 	["137a"] = {
 		["ID"] = 305,
@@ -22964,7 +23446,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "山田 悠希"
+		["声优"] = "山田 悠希",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%A4%B2%EC%CC%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Agano"
 	},
 	["138"] = {
 		["ID"] = 138,
@@ -23059,7 +23543,9 @@ d.shipDataTb = {
 			["改造后"] = "138a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "山田 悠希"
+		["声优"] = "山田 悠希",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%BD%C2%E5",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Noshiro"
 	},
 	["138a"] = {
 		["ID"] = 306,
@@ -23154,7 +23640,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "山田 悠希"
+		["声优"] = "山田 悠希",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%BD%C2%E5%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Noshiro"
 	},
 	["139"] = {
 		["ID"] = 139,
@@ -23249,7 +23737,9 @@ d.shipDataTb = {
 			["改造后"] = "139a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "山田 悠希"
+		["声优"] = "山田 悠希",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%F0%C7%EA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yahagi"
 	},
 	["139a"] = {
 		["ID"] = 307,
@@ -23344,7 +23834,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "山田 悠希"
+		["声优"] = "山田 悠希",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%F0%C7%EA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yahagi"
 	},
 	["140"] = {
 		["ID"] = 140,
@@ -23439,7 +23931,9 @@ d.shipDataTb = {
 			["改造后"] = "140a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "山田 悠希"
+		["声优"] = "山田 悠希",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BC%F2%C6%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Sakawa"
 	},
 	["140a"] = {
 		["ID"] = 314,
@@ -23534,7 +24028,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "山田 悠希"
+		["声优"] = "山田 悠希",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BC%F2%C6%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Sakawa"
 	},
 	["141"] = {
 		["ID"] = 141,
@@ -23629,7 +24125,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B8%DE%BD%BD%CE%EB%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Isuzu"
 	},
 	["142"] = {
 		["ID"] = 142,
@@ -23726,7 +24224,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%E1%B3%DE%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kinugasa"
 	},
 	["143"] = {
 		["ID"] = 143,
@@ -23823,7 +24323,9 @@ d.shipDataTb = {
 			["改造后"] = "148"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "味里"
+		["声优"] = "味里",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%F0%C2%A2",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Musashi"
 	},
 	["144"] = {
 		["ID"] = 144,
@@ -23918,7 +24420,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%BC%CE%A9%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yuudachi"
 	},
 	["145"] = {
 		["ID"] = 145,
@@ -24013,7 +24517,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%FE%B1%AB%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Shigure"
 	},
 	["146"] = {
 		["ID"] = 146,
@@ -24108,7 +24614,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "UGUME",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%DA%C1%BD%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kiso"
 	},
 	["147"] = {
 		["ID"] = 147,
@@ -24203,7 +24711,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%A7%A3%A7%D6%A7%E2%A7%DF%A7%ED%A7%DB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hibiki"
 	},
 	["148"] = {
 		["ID"] = 148,
@@ -24301,7 +24811,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x3 新型火炮兵装资材x3 战斗详报"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "味里"
+		["声优"] = "味里",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%F0%C2%A2%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Musashi"
 	},
 	["149"] = {
 		["ID"] = 149,
@@ -24398,7 +24910,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B6%E2%B9%E4%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kongou"
 	},
 	["150"] = {
 		["ID"] = 150,
@@ -24495,7 +25009,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%E6%B1%C3%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hiei"
 	},
 	["151"] = {
 		["ID"] = 151,
@@ -24592,7 +25108,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%BA%CC%BE%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Haruna"
 	},
 	["152"] = {
 		["ID"] = 152,
@@ -24689,7 +25207,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%B8%C5%E7%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kirishima"
 	},
 	["153"] = {
 		["ID"] = 153,
@@ -24786,7 +25306,9 @@ d.shipDataTb = {
 			["改造后"] = "156"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "能登 麻美子"
+		["声优"] = "能登 麻美子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%CB%B1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Taihou"
 	},
 	["154"] = {
 		["ID"] = 154,
@@ -24881,7 +25403,9 @@ d.shipDataTb = {
 			["改造后"] = "154a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%E1%BC%E8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Katori"
 	},
 	["154a"] = {
 		["ID"] = 343,
@@ -24978,7 +25502,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%E1%BC%E8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Katori"
 	},
 	["155"] = {
 		["ID"] = 155,
@@ -25069,7 +25595,9 @@ d.shipDataTb = {
 			["改造后"] = "155a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "伊瀬 茉莉也"
+		["声优"] = "伊瀬 茉莉也",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB401",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-401"
 	},
 	["155a"] = {
 		["ID"] = 403,
@@ -25162,7 +25690,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "伊瀬 茉莉也"
+		["声优"] = "伊瀬 茉莉也",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%CB401%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/I-401"
 	},
 	["156"] = {
 		["ID"] = 156,
@@ -25259,7 +25789,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "能登 麻美子"
+		["声优"] = "能登 麻美子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%CB%B1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Taihou"
 	},
 	["157"] = {
 		["ID"] = 157,
@@ -25356,7 +25888,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%B6%F1%E8%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ryuujou"
 	},
 	["158"] = {
 		["ID"] = 158,
@@ -25451,7 +25985,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%EE%C6%E2%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Sendai"
 	},
 	["159"] = {
 		["ID"] = 159,
@@ -25546,7 +26082,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%C0%C4%CC%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Jintsuu"
 	},
 	["160"] = {
 		["ID"] = 160,
@@ -25641,7 +26179,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C6%E1%B2%D1%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Naka"
 	},
 	["161"] = {
 		["ID"] = 161,
@@ -25734,7 +26274,9 @@ d.shipDataTb = {
 			["改造后"] = "166"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "能登 麻美子"
+		["声优"] = "能登 麻美子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%A4%A2%A4%AD%A4%C4%B4%DD",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akitsu_Maru"
 	},
 	["162"] = {
 		["ID"] = 162,
@@ -25829,7 +26371,9 @@ d.shipDataTb = {
 			["改造后"] = "299"
 		},
 		["画师"] = "アキラ",
-		["声优"] = "瀬戸 麻沙美"
+		["声优"] = "瀬戸 麻沙美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["163"] = {
 		["ID"] = 163,
@@ -25920,7 +26464,9 @@ d.shipDataTb = {
 			["改造后"] = "163a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "能登 麻美子"
+		["声优"] = "能登 麻美子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%A4%DE%A4%EB%A4%E6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Maruyu"
 	},
 	["163a"] = {
 		["ID"] = 402,
@@ -26011,7 +26557,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "能登 麻美子"
+		["声优"] = "能登 麻美子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%A4%DE%A4%EB%A4%E6%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Maruyu"
 	},
 	["164"] = {
 		["ID"] = 164,
@@ -26104,7 +26652,9 @@ d.shipDataTb = {
 			["改造后"] = "164a"
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%EF%C0%B8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yayoi"
 	},
 	["164a"] = {
 		["ID"] = 308,
@@ -26199,7 +26749,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%EF%C0%B8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yayoi"
 	},
 	["165"] = {
 		["ID"] = 165,
@@ -26292,7 +26844,9 @@ d.shipDataTb = {
 			["改造后"] = "165a"
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%AC%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Uzuki"
 	},
 	["165a"] = {
 		["ID"] = 309,
@@ -26387,7 +26941,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%AC%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Uzuki"
 	},
 	["166"] = {
 		["ID"] = 166,
@@ -26482,7 +27038,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "能登 麻美子"
+		["声优"] = "能登 麻美子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%A4%A2%A4%AD%A4%C4%B4%DD%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akitsu_Maru"
 	},
 	["167"] = {
 		["ID"] = 167,
@@ -26575,7 +27133,9 @@ d.shipDataTb = {
 			["改造后"] = "167a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%EB%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Isokaze"
 	},
 	["167a"] = {
 		["ID"] = 320,
@@ -26670,7 +27230,9 @@ d.shipDataTb = {
 			["改造后"] = "357"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%EB%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Isokaze"
 	},
 	["168"] = {
 		["ID"] = 168,
@@ -26763,7 +27325,9 @@ d.shipDataTb = {
 			["改造后"] = "168a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%BA%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Urakaze"
 	},
 	["168a"] = {
 		["ID"] = 317,
@@ -26859,7 +27423,9 @@ d.shipDataTb = {
 			["图纸"] = "高速建筑材x10 开发资材x40"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%BA%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Urakaze"
 	},
 	["169"] = {
 		["ID"] = 169,
@@ -26952,7 +27518,9 @@ d.shipDataTb = {
 			["改造后"] = "169a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C3%AB%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tanikaze"
 	},
 	["169a"] = {
 		["ID"] = 313,
@@ -27047,7 +27615,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C3%AB%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tanikaze"
 	},
 	["170"] = {
 		["ID"] = 170,
@@ -27140,7 +27710,9 @@ d.shipDataTb = {
 			["改造后"] = "170a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%CD%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hamakaze"
 	},
 	["170a"] = {
 		["ID"] = 312,
@@ -27235,7 +27807,9 @@ d.shipDataTb = {
 			["改造后"] = "358"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%CD%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hamakaze"
 	},
 	["171"] = {
 		["ID"] = 171,
@@ -27332,7 +27906,9 @@ d.shipDataTb = {
 			["改造后"] = "172"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Bismarck",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Bismarck"
 	},
 	["172"] = {
 		["ID"] = 172,
@@ -27430,7 +28006,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Bismarck%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Bismarck"
 	},
 	["173"] = {
 		["ID"] = 173,
@@ -27528,7 +28106,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Bismarck%20zwei",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Bismarck"
 	},
 	["174"] = {
 		["ID"] = 174,
@@ -27623,7 +28203,9 @@ d.shipDataTb = {
 			["改造后"] = "174a"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Z1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Z1"
 	},
 	["174a"] = {
 		["ID"] = 310,
@@ -27718,7 +28300,9 @@ d.shipDataTb = {
 			["改造后"] = "179"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Z1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Z1"
 	},
 	["175"] = {
 		["ID"] = 175,
@@ -27813,7 +28397,9 @@ d.shipDataTb = {
 			["改造后"] = "175a"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Z3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Z3"
 	},
 	["175a"] = {
 		["ID"] = 311,
@@ -27908,7 +28494,9 @@ d.shipDataTb = {
 			["改造后"] = "180"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Z3%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Z3"
 	},
 	["176"] = {
 		["ID"] = 176,
@@ -28003,7 +28591,9 @@ d.shipDataTb = {
 			["改造后"] = "177"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "小澤 亜李"
+		["声优"] = "小澤 亜李",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Prinz%20Eugen",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Prinz_Eugen"
 	},
 	["177"] = {
 		["ID"] = 177,
@@ -28100,7 +28690,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "小澤 亜李"
+		["声优"] = "小澤 亜李",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Prinz%20Eugen%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Prinz_Eugen"
 	},
 	["178"] = {
 		["ID"] = 178,
@@ -28197,7 +28789,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Bismarck%20drei",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Bismarck"
 	},
 	["179"] = {
 		["ID"] = 179,
@@ -28292,7 +28886,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Z1%20zwei",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Z1"
 	},
 	["180"] = {
 		["ID"] = 180,
@@ -28387,7 +28983,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "遠藤 綾"
+		["声优"] = "遠藤 綾",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Z3%20zwei",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Z3"
 	},
 	["181"] = {
 		["ID"] = 181,
@@ -28482,7 +29080,9 @@ d.shipDataTb = {
 			["改造后"] = "181a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "小倉 唯"
+		["声优"] = "小倉 唯",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%B7%C4%C5%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Amatsukaze"
 	},
 	["181a"] = {
 		["ID"] = 316,
@@ -28577,7 +29177,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "小倉 唯"
+		["声优"] = "小倉 唯",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%B7%C4%C5%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Amatsukaze"
 	},
 	["182"] = {
 		["ID"] = 182,
@@ -28672,7 +29274,9 @@ d.shipDataTb = {
 			["改造后"] = "187"
 		},
 		["画师"] = "藤川",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%C0%C0%D0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akashi"
 	},
 	["183"] = {
 		["ID"] = 183,
@@ -28767,7 +29371,9 @@ d.shipDataTb = {
 			["改造后"] = "183a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%CD%E4",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ooyodo"
 	},
 	["183a"] = {
 		["ID"] = 321,
@@ -28864,7 +29470,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%CD%E4%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ooyodo"
 	},
 	["184"] = {
 		["ID"] = 184,
@@ -28960,7 +29568,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "小倉 唯"
+		["声优"] = "小倉 唯",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%E7%B7%DF",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Taigei"
 	},
 	["185"] = {
 		["ID"] = 185,
@@ -29055,7 +29665,9 @@ d.shipDataTb = {
 			["改造后"] = "190"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "小倉 唯"
+		["声优"] = "小倉 唯",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%B6%CB%B1",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Taigei"
 	},
 	["186"] = {
 		["ID"] = 186,
@@ -29148,7 +29760,9 @@ d.shipDataTb = {
 			["改造后"] = "186a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%FE%C4%C5%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tokitsukaze"
 	},
 	["186a"] = {
 		["ID"] = 322,
@@ -29243,7 +29857,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%FE%C4%C5%C9%F7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tokitsukaze"
 	},
 	["187"] = {
 		["ID"] = 187,
@@ -29340,7 +29956,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%C0%C0%D0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akashi"
 	},
 	["188"] = {
 		["ID"] = 188,
@@ -29437,7 +30055,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CD%F8%BA%AC%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Tone"
 	},
 	["189"] = {
 		["ID"] = 189,
@@ -29534,7 +30154,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C3%DE%CB%E0%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Chikuma"
 	},
 	["190"] = {
 		["ID"] = 318,
@@ -29631,7 +30253,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "小倉 唯"
+		["声优"] = "小倉 唯",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CE%B6%CB%B1%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Taigei"
 	},
 	["191"] = {
 		["ID"] = 319,
@@ -29728,7 +30352,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%AF%B9%E2%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Myoukou"
 	},
 	["192"] = {
 		["ID"] = 192,
@@ -29825,7 +30451,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C6%E1%C3%D2%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nachi"
 	},
 	["193"] = {
 		["ID"] = 193,
@@ -29922,7 +30550,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%AD%CA%C1%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ashigara"
 	},
 	["194"] = {
 		["ID"] = 194,
@@ -30019,7 +30649,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "bob",
-		["声优"] = "種田 梨沙"
+		["声优"] = "種田 梨沙",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%A9%B9%F5%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Haguro"
 	},
 	["195"] = {
 		["ID"] = 195,
@@ -30114,7 +30746,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%BD%C7%C8%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ayanami"
 	},
 	["196"] = {
 		["ID"] = 196,
@@ -30211,7 +30845,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%F4%CE%B6%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hiryuu"
 	},
 	["197"] = {
 		["ID"] = 197,
@@ -30308,7 +30944,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C1%F3%CE%B6%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Souryuu"
 	},
 	["198"] = {
 		["ID"] = 198,
@@ -30403,7 +31041,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["199"] = {
 		["ID"] = 199,
@@ -30498,7 +31138,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["200"] = {
 		["ID"] = 200,
@@ -30593,7 +31235,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B0%A4%C9%F0%B7%A8%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Abukuma"
 	},
 	["201"] = {
 		["ID"] = 404,
@@ -30691,7 +31335,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%C0%CE%B6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Unryuu"
 	},
 	["202"] = {
 		["ID"] = 331,
@@ -30789,7 +31435,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "堀江 由衣"
+		["声优"] = "堀江 由衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BE%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Amagi"
 	},
 	["203"] = {
 		["ID"] = 332,
@@ -30887,7 +31535,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B3%EB%BE%EB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Katsuragi"
 	},
 	["204"] = {
 		["ID"] = 326,
@@ -30982,7 +31632,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "彩樹",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%BD%D5%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsuharu"
 	},
 	["205"] = {
 		["ID"] = 405,
@@ -31075,7 +31727,9 @@ d.shipDataTb = {
 			["改造后"] = "205a"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "金元 寿子"
+		["声优"] = "金元 寿子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%D5%B1%AB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Harusame"
 	},
 	["205a"] = {
 		["ID"] = 323,
@@ -31170,7 +31824,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "金元 寿子"
+		["声优"] = "金元 寿子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%D5%B1%AB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Harusame"
 	},
 	["206"] = {
 		["ID"] = 406,
@@ -31267,7 +31923,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B1%C0%CE%B6%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Unryuu"
 	},
 	["207"] = {
 		["ID"] = 407,
@@ -31362,7 +32020,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "drew",
-		["声优"] = "早坂 梢"
+		["声优"] = "早坂 梢",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AC%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Ushio"
 	},
 	["208"] = {
 		["ID"] = 408,
@@ -31459,7 +32119,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C8%BB%C2%EB%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Junyou"
 	},
 	["209"] = {
 		["ID"] = 409,
@@ -31552,7 +32214,9 @@ d.shipDataTb = {
 			["改造后"] = "209a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "金元 寿子"
+		["声优"] = "金元 寿子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C1%E1%C1%FA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hayashimo"
 	},
 	["209a"] = {
 		["ID"] = 324,
@@ -31647,7 +32311,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "金元 寿子"
+		["声优"] = "金元 寿子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C1%E1%C1%FA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hayashimo"
 	},
 	["210"] = {
 		["ID"] = 410,
@@ -31740,7 +32406,9 @@ d.shipDataTb = {
 			["改造后"] = "210a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "金元 寿子"
+		["声优"] = "金元 寿子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%B6%C1%FA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kiyoshimo"
 	},
 	["210a"] = {
 		["ID"] = 325,
@@ -31835,7 +32503,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "金元 寿子"
+		["声优"] = "金元 寿子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C0%B6%C1%FA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kiyoshimo"
 	},
 	["211"] = {
 		["ID"] = 411,
@@ -31932,7 +32602,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "六花",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C9%DE%B7%AC%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Fusou"
 	},
 	["212"] = {
 		["ID"] = 412,
@@ -32029,7 +32701,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "六花",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B3%BE%EB%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yamashiro"
 	},
 	["213"] = {
 		["ID"] = 413,
@@ -32122,7 +32796,9 @@ d.shipDataTb = {
 			["改造后"] = "213a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "堀江 由衣"
+		["声优"] = "堀江 由衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AB%B1%C0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Asagumo"
 	},
 	["213a"] = {
 		["ID"] = 327,
@@ -32217,7 +32893,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "堀江 由衣"
+		["声优"] = "堀江 由衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AB%B1%C0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Asagumo"
 	},
 	["214"] = {
 		["ID"] = 414,
@@ -32310,7 +32988,9 @@ d.shipDataTb = {
 			["改造后"] = "214a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "堀江 由衣"
+		["声优"] = "堀江 由衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B3%B1%C0",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yamagumo"
 	},
 	["214a"] = {
 		["ID"] = 328,
@@ -32405,7 +33085,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "堀江 由衣"
+		["声优"] = "堀江 由衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BB%B3%B1%C0%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Yamagumo"
 	},
 	["215"] = {
 		["ID"] = 415,
@@ -32498,7 +33180,9 @@ d.shipDataTb = {
 			["改造后"] = "215a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "小澤 亜李"
+		["声优"] = "小澤 亜李",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%EE%CA%AC",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nowaki"
 	},
 	["215a"] = {
 		["ID"] = 329,
@@ -32593,7 +33277,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "小澤 亜李"
+		["声优"] = "小澤 亜李",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CC%EE%CA%AC%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Nowaki"
 	},
 	["216"] = {
 		["ID"] = 416,
@@ -32690,7 +33376,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "UGUME",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B8%C5%C2%EB%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Furutaka"
 	},
 	["217"] = {
 		["ID"] = 417,
@@ -32787,7 +33475,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "UGUME",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["218"] = {
 		["ID"] = 418,
@@ -32882,7 +33572,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["219"] = {
 		["ID"] = 419,
@@ -32977,7 +33669,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "小林 元子"
+		["声优"] = "小林 元子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%E9%C1%FA%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hatsushimo"
 	},
 	["220"] = {
 		["ID"] = 420,
@@ -33072,7 +33766,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "彩樹",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Murakumo"
 	},
 	["221"] = {
 		["ID"] = 421,
@@ -33167,7 +33863,9 @@ d.shipDataTb = {
 			["改造后"] = "221a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "小澤 亜李"
+		["声优"] = "小澤 亜李",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%A9%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akizuki"
 	},
 	["221a"] = {
 		["ID"] = 330,
@@ -33262,7 +33960,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "小澤 亜李"
+		["声优"] = "小澤 亜李",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%A9%B7%EE%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akizuki"
 	},
 	["222"] = {
 		["ID"] = 422,
@@ -33357,7 +34057,9 @@ d.shipDataTb = {
 			["改造后"] = "222a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "小松 未可子"
+		["声优"] = "小松 未可子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BE%C8%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Teruzuki"
 	},
 	["222a"] = {
 		["ID"] = 346,
@@ -33452,7 +34154,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "小松 未可子"
+		["声优"] = "小松 未可子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BE%C8%B7%EE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Teruzuki"
 	},
 	["223"] = {
 		["ID"] = 423,
@@ -33547,7 +34251,9 @@ d.shipDataTb = {
 			["改造后"] = "223a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["223a"] = {
 		["ID"] = 357,
@@ -33642,7 +34348,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "中島 愛"
+		["声优"] = "中島 愛",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["224"] = {
 		["ID"] = 424,
@@ -33735,7 +34443,9 @@ d.shipDataTb = {
 			["改造后"] = "224a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "久野 美咲"
+		["声优"] = "久野 美咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%E2%C7%C8",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Takanami"
 	},
 	["224a"] = {
 		["ID"] = 345,
@@ -33830,7 +34540,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "久野 美咲"
+		["声优"] = "久野 美咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%E2%C7%C8%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Takanami"
 	},
 	["225"] = {
 		["ID"] = 425,
@@ -33923,7 +34635,9 @@ d.shipDataTb = {
 			["改造后"] = "225a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AB%C1%FA",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Asashimo"
 	},
 	["225a"] = {
 		["ID"] = 344,
@@ -34018,7 +34732,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%AB%C1%FA%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Asashimo"
 	},
 	["226"] = {
 		["ID"] = 426,
@@ -34113,7 +34829,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%E1%C0%E3%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Fubuki"
 	},
 	["227"] = {
 		["ID"] = 427,
@@ -34210,7 +34928,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C4%BB%B3%A4%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Choukai"
 	},
 	["228"] = {
 		["ID"] = 428,
@@ -34307,7 +35027,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%E0%CC%ED%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Maya"
 	},
 	["229"] = {
 		["ID"] = 429,
@@ -34404,7 +35126,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "堀江 由衣"
+		["声优"] = "堀江 由衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BE%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Amagi"
 	},
 	["230"] = {
 		["ID"] = 430,
@@ -34501,7 +35225,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B3%EB%BE%EB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Katsuragi"
 	},
 	["231"] = {
 		["ID"] = 431,
@@ -34592,7 +35318,9 @@ d.shipDataTb = {
 			["改造后"] = "231a"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?U-511",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/U-511"
 	},
 	["231a"] = {
 		["ID"] = 334,
@@ -34685,7 +35413,9 @@ d.shipDataTb = {
 			["改造后"] = "236"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?U-511%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/U-511"
 	},
 	["232"] = {
 		["ID"] = 432,
@@ -34780,7 +35510,9 @@ d.shipDataTb = {
 			["改造后"] = "232a"
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "早見 沙織"
+		["声优"] = "早見 沙織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["232a"] = {
 		["ID"] = 353,
@@ -34877,7 +35609,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "早見 沙織"
+		["声优"] = "早見 沙織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["233"] = {
 		["ID"] = 433,
@@ -34974,7 +35708,9 @@ d.shipDataTb = {
 			["改造后"] = "238"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "伊藤 静"
+		["声优"] = "伊藤 静",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["234"] = {
 		["ID"] = 434,
@@ -35069,7 +35805,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CB%D3%B7%EE%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mutsuki"
 	},
 	["235"] = {
 		["ID"] = 435,
@@ -35164,7 +35902,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C7%A1%B7%EE%B2%FE%C6%F3",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kisaragi"
 	},
 	["236"] = {
 		["ID"] = 436,
@@ -35257,7 +35997,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "島田 フミカネ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%CF%A4500",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/U-511"
 	},
 	["237"] = {
 		["ID"] = 437,
@@ -35352,7 +36094,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "洲崎 綾"
+		["声优"] = "洲崎 綾",
+		["日文WIKI"] = "",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akatsuki"
 	},
 	["238"] = {
 		["ID"] = 438,
@@ -35450,7 +36194,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1 试制甲板用弹射器x1"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "伊藤 静"
+		["声优"] = "伊藤 静",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["239"] = {
 		["ID"] = 439,
@@ -35547,7 +36293,9 @@ d.shipDataTb = {
 			["改造后"] = "239a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "内田 秀"
+		["声优"] = "内田 秀",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["239a"] = {
 		["ID"] = 364,
@@ -35644,7 +36392,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "内田 秀"
+		["声优"] = "内田 秀",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["240"] = {
 		["ID"] = 440,
@@ -35741,7 +36491,9 @@ d.shipDataTb = {
 			["改造后"] = "240a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "橋本 ちなみ"
+		["声优"] = "橋本 ちなみ",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["240a"] = {
 		["ID"] = 360,
@@ -35838,7 +36590,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "橋本 ちなみ"
+		["声优"] = "橋本 ちなみ",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["241"] = {
 		["ID"] = 441,
@@ -35936,7 +36690,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "じじ",
-		["声优"] = "久野 美咲"
+		["声优"] = "久野 美咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Littorio",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Littorio"
 	},
 	["242"] = {
 		["ID"] = 442,
@@ -36034,7 +36790,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "じじ",
-		["声优"] = "久野 美咲"
+		["声优"] = "久野 美咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Roma",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Roma"
 	},
 	["243"] = {
 		["ID"] = 443,
@@ -36127,7 +36885,9 @@ d.shipDataTb = {
 			["改造后"] = "243a"
 		},
 		["画师"] = "じじ",
-		["声优"] = "鬼頭 明里"
+		["声优"] = "鬼頭 明里",
+		["日文WIKI"] = "",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Libeccio"
 	},
 	["243a"] = {
 		["ID"] = 347,
@@ -36222,7 +36982,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "じじ",
-		["声优"] = "鬼頭 明里"
+		["声优"] = "鬼頭 明里",
+		["日文WIKI"] = "",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Libeccio"
 	},
 	["244"] = {
 		["ID"] = 444,
@@ -36317,7 +37079,9 @@ d.shipDataTb = {
 			["改造后"] = "244a"
 		},
 		["画师"] = "じじ",
-		["声优"] = "赤崎 千夏"
+		["声优"] = "赤崎 千夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["244a"] = {
 		["ID"] = 365,
@@ -36414,7 +37178,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "じじ",
-		["声优"] = "赤崎 千夏"
+		["声优"] = "赤崎 千夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["245"] = {
 		["ID"] = 445,
@@ -36507,7 +37273,9 @@ d.shipDataTb = {
 			["改造后"] = "250"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "小松 未可子"
+		["声优"] = "小松 未可子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%A9%C4%C5%BD%A7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akitsushima"
 	},
 	["246"] = {
 		["ID"] = 446,
@@ -36604,7 +37372,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "じじ",
-		["声优"] = "久野 美咲"
+		["声优"] = "久野 美咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Italia",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Littorio"
 	},
 	["247"] = {
 		["ID"] = 447,
@@ -36701,7 +37471,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "じじ",
-		["声优"] = "久野 美咲"
+		["声优"] = "久野 美咲",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?Roma%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Roma"
 	},
 	["248"] = {
 		["ID"] = 448,
@@ -36796,7 +37568,9 @@ d.shipDataTb = {
 			["改造后"] = "248a"
 		},
 		["画师"] = "じじ",
-		["声优"] = "赤崎 千夏"
+		["声优"] = "赤崎 千夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["248a"] = {
 		["ID"] = 358,
@@ -36894,7 +37668,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "じじ",
-		["声优"] = "赤崎 千夏"
+		["声优"] = "赤崎 千夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["249"] = {
 		["ID"] = 449,
@@ -36989,7 +37765,9 @@ d.shipDataTb = {
 			["改造后"] = "249a"
 		},
 		["画师"] = "じじ",
-		["声优"] = "赤崎 千夏"
+		["声优"] = "赤崎 千夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["249a"] = {
 		["ID"] = 361,
@@ -37086,7 +37864,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "じじ",
-		["声优"] = "赤崎 千夏"
+		["声优"] = "赤崎 千夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["250"] = {
 		["ID"] = 450,
@@ -37181,7 +37961,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "小松 未可子"
+		["声优"] = "小松 未可子",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BD%A9%C4%C5%BD%A7%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Akitsushima"
 	},
 	["251"] = {
 		["ID"] = 451,
@@ -37274,7 +38056,9 @@ d.shipDataTb = {
 			["改造后"] = "251a"
 		},
 		["画师"] = "アキラ",
-		["声优"] = "石上 静香"
+		["声优"] = "石上 静香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%F0%CA%E6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mizuho"
 	},
 	["251a"] = {
 		["ID"] = 348,
@@ -37369,7 +38153,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "アキラ",
-		["声优"] = "石上 静香"
+		["声优"] = "石上 静香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%BF%F0%CA%E6",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Mizuho"
 	},
 	["252"] = {
 		["ID"] = 452,
@@ -37462,7 +38248,9 @@ d.shipDataTb = {
 			["改造后"] = "252a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "鬼頭 明里"
+		["声优"] = "鬼頭 明里",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["252a"] = {
 		["ID"] = 359,
@@ -37557,7 +38345,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "鬼頭 明里"
+		["声优"] = "鬼頭 明里",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["253"] = {
 		["ID"] = 453,
@@ -37650,7 +38440,9 @@ d.shipDataTb = {
 			["改造后"] = "253a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "鬼頭 明里"
+		["声优"] = "鬼頭 明里",
+		["日文WIKI"] = "",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kazagumo"
 	},
 	["253a"] = {
 		["ID"] = 349,
@@ -37745,7 +38537,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "鬼頭 明里"
+		["声优"] = "鬼頭 明里",
+		["日文WIKI"] = "",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kazagumo"
 	},
 	["254"] = {
 		["ID"] = 454,
@@ -37838,7 +38632,9 @@ d.shipDataTb = {
 			["改造后"] = "254a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["254a"] = {
 		["ID"] = 354,
@@ -37933,7 +38729,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["255"] = {
 		["ID"] = 455,
@@ -38026,7 +38824,9 @@ d.shipDataTb = {
 			["改造后"] = "255a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "早見 沙織"
+		["声优"] = "早見 沙織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["255a"] = {
 		["ID"] = 355,
@@ -38121,7 +38921,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "早見 沙織"
+		["声优"] = "早見 沙織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["256"] = {
 		["ID"] = 456,
@@ -38214,7 +39016,9 @@ d.shipDataTb = {
 			["改造后"] = "256a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "本渡 楓"
+		["声优"] = "本渡 楓",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["256a"] = {
 		["ID"] = 362,
@@ -38309,7 +39113,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "本渡 楓"
+		["声优"] = "本渡 楓",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["257"] = {
 		["ID"] = 457,
@@ -38402,7 +39208,9 @@ d.shipDataTb = {
 			["改造后"] = "257a"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "橋本 ちなみ"
+		["声优"] = "橋本 ちなみ",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["257a"] = {
 		["ID"] = 369,
@@ -38497,7 +39305,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "橋本 ちなみ"
+		["声优"] = "橋本 ちなみ",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["258"] = {
 		["ID"] = 458,
@@ -38590,7 +39400,9 @@ d.shipDataTb = {
 			["改造后"] = "258a"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "石上 静香"
+		["声优"] = "石上 静香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B3%A4%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Umikaze"
 	},
 	["258a"] = {
 		["ID"] = 350,
@@ -38685,7 +39497,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "石上 静香"
+		["声优"] = "石上 静香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B3%A4%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Umikaze"
 	},
 	["259"] = {
 		["ID"] = 459,
@@ -38778,7 +39592,9 @@ d.shipDataTb = {
 			["改造后"] = "259a"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "石上 静香"
+		["声优"] = "石上 静香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%BE%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kawakaze"
 	},
 	["259a"] = {
 		["ID"] = 351,
@@ -38873,7 +39689,9 @@ d.shipDataTb = {
 			["改造后"] = "269"
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "石上 静香"
+		["声优"] = "石上 静香",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%B9%BE%C9%F7",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Kawakaze"
 	},
 	["260"] = {
 		["ID"] = 460,
@@ -38966,7 +39784,9 @@ d.shipDataTb = {
 			["改造后"] = "260a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%AE%B5%DB",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hayasui"
 	},
 	["260a"] = {
 		["ID"] = 352,
@@ -39061,7 +39881,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "http://wikiwiki.jp/kancolle/?%C2%AE%B5%DB%B2%FE",
+		["英文WIKI"] = "http://kancolle.wikia.com/wiki/Hayasui"
 	},
 	["261"] = {
 		["ID"] = 461,
@@ -39158,7 +39980,9 @@ d.shipDataTb = {
 			["改造后"] = "266"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["262"] = {
 		["ID"] = 462,
@@ -39255,7 +40079,9 @@ d.shipDataTb = {
 			["改造后"] = "267"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["263"] = {
 		["ID"] = 463,
@@ -39350,7 +40176,9 @@ d.shipDataTb = {
 			["改造后"] = "268"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["264"] = {
 		["ID"] = 464,
@@ -39445,7 +40273,9 @@ d.shipDataTb = {
 			["改造后"] = "270"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["265"] = {
 		["ID"] = 465,
@@ -39540,7 +40370,9 @@ d.shipDataTb = {
 			["改造后"] = "265a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["265a"] = {
 		["ID"] = 356,
@@ -39637,7 +40469,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "茅野 愛衣"
+		["声优"] = "茅野 愛衣",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["266"] = {
 		["ID"] = 466,
@@ -39734,7 +40568,9 @@ d.shipDataTb = {
 			["改造后"] = "261"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["267"] = {
 		["ID"] = 467,
@@ -39831,7 +40667,9 @@ d.shipDataTb = {
 			["改造后"] = "262"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["268"] = {
 		["ID"] = 468,
@@ -39926,7 +40764,9 @@ d.shipDataTb = {
 			["改造后"] = "263"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["269"] = {
 		["ID"] = 469,
@@ -40021,7 +40861,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "石上 静香"
+		["声优"] = "石上 静香",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["270"] = {
 		["ID"] = 470,
@@ -40116,7 +40958,9 @@ d.shipDataTb = {
 			["改造后"] = "264"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["271"] = {
 		["ID"] = 471,
@@ -40209,7 +41053,9 @@ d.shipDataTb = {
 			["改造后"] = "276"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["272"] = {
 		["ID"] = 472,
@@ -40302,7 +41148,9 @@ d.shipDataTb = {
 			["改造后"] = "272a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "伊藤 静"
+		["声优"] = "伊藤 静",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["272a"] = {
 		["ID"] = 370,
@@ -40397,7 +41245,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "伊藤 静"
+		["声优"] = "伊藤 静",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["273"] = {
 		["ID"] = 473,
@@ -40490,7 +41340,9 @@ d.shipDataTb = {
 			["改造后"] = "273a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "能登 麻美子"
+		["声优"] = "能登 麻美子",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["273a"] = {
 		["ID"] = 363,
@@ -40585,7 +41437,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "能登 麻美子"
+		["声优"] = "能登 麻美子",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["274"] = {
 		["ID"] = 474,
@@ -40678,7 +41532,9 @@ d.shipDataTb = {
 			["改造后"] = "274a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "伊藤 静"
+		["声优"] = "伊藤 静",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["274a"] = {
 		["ID"] = 371,
@@ -40773,7 +41629,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "伊藤 静"
+		["声优"] = "伊藤 静",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["275"] = {
 		["ID"] = 475,
@@ -40866,7 +41724,9 @@ d.shipDataTb = {
 			["改造后"] = "275a"
 		},
 		["画师"] = "パセリ",
-		["声优"] = "生天目 仁美"
+		["声优"] = "生天目 仁美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["275a"] = {
 		["ID"] = 387,
@@ -40961,7 +41821,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "生天目 仁美"
+		["声优"] = "生天目 仁美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["276"] = {
 		["ID"] = 476,
@@ -41056,7 +41918,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["278"] = {
 		["ID"] = 478,
@@ -41154,7 +42018,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "彩樹",
-		["声优"] = "井口 裕香"
+		["声优"] = "井口 裕香",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["279"] = {
 		["ID"] = 479,
@@ -41247,7 +42113,9 @@ d.shipDataTb = {
 			["改造后"] = "279a"
 		},
 		["画师"] = "drew",
-		["声优"] = "鈴木 みのり"
+		["声优"] = "鈴木 みのり",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["279a"] = {
 		["ID"] = 390,
@@ -41342,7 +42210,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "drew",
-		["声优"] = "鈴木 みのり"
+		["声优"] = "鈴木 みのり",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["280"] = {
 		["ID"] = 480,
@@ -41435,7 +42305,9 @@ d.shipDataTb = {
 			["改造后"] = "280a"
 		},
 		["画师"] = "drew",
-		["声优"] = "鈴木 みのり"
+		["声优"] = "鈴木 みのり",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["280a"] = {
 		["ID"] = 391,
@@ -41530,7 +42402,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "drew",
-		["声优"] = "鈴木 みのり"
+		["声优"] = "鈴木 みのり",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["281"] = {
 		["ID"] = 481,
@@ -41623,7 +42497,9 @@ d.shipDataTb = {
 			["改造后"] = "281a"
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["281a"] = {
 		["ID"] = 366,
@@ -41718,7 +42594,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "草田草太",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["283"] = {
 		["ID"] = 483,
@@ -41809,7 +42687,9 @@ d.shipDataTb = {
 			["改造后"] = "283a"
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "小倉 唯"
+		["声优"] = "小倉 唯",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["283a"] = {
 		["ID"] = 367,
@@ -41902,7 +42782,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "くーろくろ",
-		["声优"] = "小倉 唯"
+		["声优"] = "小倉 唯",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["284"] = {
 		["ID"] = 484,
@@ -41995,7 +42877,9 @@ d.shipDataTb = {
 			["改造后"] = "284a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["284a"] = {
 		["ID"] = 680,
@@ -42090,7 +42974,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["285"] = {
 		["ID"] = 485,
@@ -42183,7 +43069,9 @@ d.shipDataTb = {
 			["改造后"] = "285a"
 		},
 		["画师"] = "藤川",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["285a"] = {
 		["ID"] = 373,
@@ -42278,7 +43166,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["286"] = {
 		["ID"] = 486,
@@ -42371,7 +43261,9 @@ d.shipDataTb = {
 			["改造后"] = "286a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["286a"] = {
 		["ID"] = 368,
@@ -42466,7 +43358,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "上坂 すみれ"
+		["声优"] = "上坂 すみれ",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["287"] = {
 		["ID"] = 487,
@@ -42561,7 +43455,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "野水 伊織"
+		["声优"] = "野水 伊織",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["288"] = {
 		["ID"] = 488,
@@ -42656,7 +43552,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["289"] = {
 		["ID"] = 489,
@@ -42751,7 +43649,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["290"] = {
 		["ID"] = 490,
@@ -42846,7 +43746,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["291"] = {
 		["ID"] = 491,
@@ -42941,7 +43843,9 @@ d.shipDataTb = {
 			["改造后"] = "291a"
 		},
 		["画师"] = "アキラ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["291a"] = {
 		["ID"] = 372,
@@ -43038,7 +43942,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "アキラ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["292"] = {
 		["ID"] = 492,
@@ -43135,7 +44041,9 @@ d.shipDataTb = {
 			["改造后"] = "292a"
 		},
 		["画师"] = "アキラ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["292a"] = {
 		["ID"] = 392,
@@ -43232,7 +44140,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "アキラ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["293"] = {
 		["ID"] = 493,
@@ -43323,7 +44233,9 @@ d.shipDataTb = {
 			["改造后"] = "293a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "今村 彩夏"
+		["声优"] = "今村 彩夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["293a"] = {
 		["ID"] = 606,
@@ -43416,7 +44328,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "今村 彩夏"
+		["声优"] = "今村 彩夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["294"] = {
 		["ID"] = 494,
@@ -43509,7 +44423,9 @@ d.shipDataTb = {
 			["改造后"] = "294a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "今村 彩夏"
+		["声优"] = "今村 彩夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["294a"] = {
 		["ID"] = 374,
@@ -43604,7 +44520,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "今村 彩夏"
+		["声优"] = "今村 彩夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["295"] = {
 		["ID"] = 495,
@@ -43697,7 +44615,9 @@ d.shipDataTb = {
 			["改造后"] = "295a"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "今村 彩夏"
+		["声优"] = "今村 彩夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["295a"] = {
 		["ID"] = 375,
@@ -43792,7 +44712,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "今村 彩夏"
+		["声优"] = "今村 彩夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["296"] = {
 		["ID"] = 496,
@@ -43889,7 +44811,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "じじ",
-		["声优"] = "赤崎 千夏"
+		["声优"] = "赤崎 千夏",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["298"] = {
 		["ID"] = 498,
@@ -43987,7 +44911,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "玖条イチソ",
-		["声优"] = "谷邊 由美"
+		["声优"] = "谷邊 由美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["299"] = {
 		["ID"] = 499,
@@ -44082,7 +45008,9 @@ d.shipDataTb = {
 			["改造后"] = "300"
 		},
 		["画师"] = "アキラ",
-		["声优"] = "瀬戸 麻沙美"
+		["声优"] = "瀬戸 麻沙美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["300"] = {
 		["ID"] = 500,
@@ -44177,7 +45105,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "アキラ",
-		["声优"] = "瀬戸 麻沙美"
+		["声优"] = "瀬戸 麻沙美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["303"] = {
 		["ID"] = 503,
@@ -44275,7 +45205,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["304"] = {
 		["ID"] = 504,
@@ -44373,7 +45305,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["308"] = {
 		["ID"] = 508,
@@ -44470,7 +45404,9 @@ d.shipDataTb = {
 			["改造后"] = "303"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["309"] = {
 		["ID"] = 509,
@@ -44567,7 +45503,9 @@ d.shipDataTb = {
 			["改造后"] = "304"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "ブリドカット セーラ 恵美"
+		["声优"] = "ブリドカット セーラ 恵美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["311"] = {
 		["ID"] = 511,
@@ -44664,7 +45602,9 @@ d.shipDataTb = {
 			["改造后"] = "312"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "瀬戸 麻沙美"
+		["声优"] = "瀬戸 麻沙美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["312"] = {
 		["ID"] = 512,
@@ -44761,7 +45701,9 @@ d.shipDataTb = {
 			["改造后"] = "316"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "瀬戸 麻沙美"
+		["声优"] = "瀬戸 麻沙美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["313"] = {
 		["ID"] = 516,
@@ -44856,7 +45798,9 @@ d.shipDataTb = {
 			["改造后"] = "313a"
 		},
 		["画师"] = "やどかり",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["313a"] = {
 		["ID"] = 395,
@@ -44953,7 +45897,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "宮川 若菜"
+		["声优"] = "宮川 若菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["315"] = {
 		["ID"] = 515,
@@ -45050,7 +45996,9 @@ d.shipDataTb = {
 			["改造后"] = "315a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "内田 秀"
+		["声优"] = "内田 秀",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["315a"] = {
 		["ID"] = 393,
@@ -45147,7 +46095,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "内田 秀"
+		["声优"] = "内田 秀",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["316"] = {
 		["ID"] = 513,
@@ -45244,7 +46194,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "瀬戸 麻沙美"
+		["声优"] = "瀬戸 麻沙美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["317"] = {
 		["ID"] = 517,
@@ -45337,7 +46289,9 @@ d.shipDataTb = {
 			["改造后"] = "317a"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "咲々木 瞳"
+		["声优"] = "咲々木 瞳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["317a"] = {
 		["ID"] = 376,
@@ -45432,7 +46386,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "UGUME",
-		["声优"] = "咲々木 瞳"
+		["声优"] = "咲々木 瞳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["318"] = {
 		["ID"] = 518,
@@ -45525,7 +46481,9 @@ d.shipDataTb = {
 			["改造后"] = "318a"
 		},
 		["画师"] = "UGUME",
-		["声优"] = "咲々木 瞳"
+		["声优"] = "咲々木 瞳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["318a"] = {
 		["ID"] = 377,
@@ -45620,7 +46578,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "UGUME",
-		["声优"] = "咲々木 瞳"
+		["声优"] = "咲々木 瞳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["319"] = {
 		["ID"] = 519,
@@ -45713,7 +46673,9 @@ d.shipDataTb = {
 			["改造后"] = "319a"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["319a"] = {
 		["ID"] = 394,
@@ -45808,7 +46770,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "東山 奈央"
+		["声优"] = "東山 奈央",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["321"] = {
 		["ID"] = 521,
@@ -45901,7 +46865,9 @@ d.shipDataTb = {
 			["改造后"] = "326"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "首藤 志奈"
+		["声优"] = "首藤 志奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["325"] = {
 		["ID"] = 535,
@@ -45992,7 +46958,9 @@ d.shipDataTb = {
 			["改造后"] = "325a"
 		},
 		["画师"] = "じじ",
-		["声优"] = "生天目 仁美"
+		["声优"] = "生天目 仁美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["325a"] = {
 		["ID"] = 605,
@@ -46085,7 +47053,9 @@ d.shipDataTb = {
 			["改造后"] = "329"
 		},
 		["画师"] = "じじ",
-		["声优"] = "生天目 仁美"
+		["声优"] = "生天目 仁美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["326"] = {
 		["ID"] = 526,
@@ -46180,7 +47150,9 @@ d.shipDataTb = {
 			["改造后"] = "326a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "首藤 志奈"
+		["声优"] = "首藤 志奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["326a"] = {
 		["ID"] = 380,
@@ -46278,7 +47250,9 @@ d.shipDataTb = {
 			["图纸"] = "改装设计图x1 试制甲板用弹射器x1"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "首藤 志奈"
+		["声优"] = "首藤 志奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["329"] = {
 		["ID"] = 539,
@@ -46371,7 +47345,9 @@ d.shipDataTb = {
 			["改造后"] = "330"
 		},
 		["画师"] = "じじ",
-		["声优"] = "生天目 仁美"
+		["声优"] = "生天目 仁美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["330"] = {
 		["ID"] = 530,
@@ -46464,7 +47440,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "じじ",
-		["声优"] = "生天目 仁美"
+		["声优"] = "生天目 仁美",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["331"] = {
 		["ID"] = 529,
@@ -46561,7 +47539,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "首藤 志奈"
+		["声优"] = "首藤 志奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["332"] = {
 		["ID"] = 532,
@@ -46656,7 +47636,9 @@ d.shipDataTb = {
 			["改造后"] = "337"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["334"] = {
 		["ID"] = 524,
@@ -46749,7 +47731,9 @@ d.shipDataTb = {
 			["改造后"] = "334a"
 		},
 		["画师"] = "赤坂 ゆづ",
-		["声优"] = "首藤 志奈"
+		["声优"] = "首藤 志奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["334a"] = {
 		["ID"] = 383,
@@ -46844,7 +47828,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "赤坂 ゆづ",
-		["声优"] = "首藤 志奈"
+		["声优"] = "首藤 志奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["335"] = {
 		["ID"] = 525,
@@ -46937,7 +47923,9 @@ d.shipDataTb = {
 			["改造后"] = "335a"
 		},
 		["画师"] = "赤坂 ゆづ",
-		["声优"] = "首藤 志奈"
+		["声优"] = "首藤 志奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["335a"] = {
 		["ID"] = 384,
@@ -47032,7 +48020,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "赤坂 ゆづ",
-		["声优"] = "首藤 志奈"
+		["声优"] = "首藤 志奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["337"] = {
 		["ID"] = 537,
@@ -47127,7 +48117,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["339"] = {
 		["ID"] = 531,
@@ -47220,7 +48212,9 @@ d.shipDataTb = {
 			["改造后"] = "339a"
 		},
 		["画师"] = "赤坂 ゆづ",
-		["声优"] = "未知"
+		["声优"] = "未知",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["339a"] = {
 		["ID"] = 385,
@@ -47315,7 +48309,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "赤坂 ゆづ",
-		["声优"] = "未知"
+		["声优"] = "未知",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["340"] = {
 		["ID"] = 540,
@@ -47408,7 +48404,9 @@ d.shipDataTb = {
 			["改造后"] = "340a"
 		},
 		["画师"] = "赤坂 ゆづ",
-		["声优"] = "未知"
+		["声优"] = "未知",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["340a"] = {
 		["ID"] = 386,
@@ -47503,7 +48501,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "赤坂 ゆづ",
-		["声优"] = "未知"
+		["声优"] = "未知",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["341"] = {
 		["ID"] = 541,
@@ -47600,7 +48600,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["343"] = {
 		["ID"] = 543,
@@ -47695,7 +48697,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "藤川",
-		["声优"] = "竹達 彩奈"
+		["声优"] = "竹達 彩奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["344"] = {
 		["ID"] = 544,
@@ -47788,7 +48792,9 @@ d.shipDataTb = {
 			["改造后"] = "344a"
 		},
 		["画师"] = "アキラ",
-		["声优"] = "内田 秀"
+		["声优"] = "内田 秀",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["344a"] = {
 		["ID"] = 396,
@@ -47883,7 +48889,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "アキラ",
-		["声优"] = "内田 秀"
+		["声优"] = "内田 秀",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["345"] = {
 		["ID"] = 545,
@@ -47980,7 +48988,9 @@ d.shipDataTb = {
 			["改造后"] = "350"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "伊藤 静"
+		["声优"] = "伊藤 静",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["346"] = {
 		["ID"] = 546,
@@ -48079,7 +49089,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "味里"
+		["声优"] = "味里",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["347"] = {
 		["ID"] = 547,
@@ -48174,7 +49186,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "UGUME",
-		["声优"] = "佐倉 綾音"
+		["声优"] = "佐倉 綾音",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["348"] = {
 		["ID"] = 548,
@@ -48269,7 +49283,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "やどかり",
-		["声优"] = "日高 里菜"
+		["声优"] = "日高 里菜",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["349"] = {
 		["ID"] = 549,
@@ -48366,7 +49382,9 @@ d.shipDataTb = {
 			["改造后"] = "349a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "久保田 ひかり"
+		["声优"] = "久保田 ひかり",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["349a"] = {
 		["ID"] = 397,
@@ -48463,7 +49481,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "久保田 ひかり"
+		["声优"] = "久保田 ひかり",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["350"] = {
 		["ID"] = 550,
@@ -48560,7 +49580,9 @@ d.shipDataTb = {
 			["改造后"] = "345"
 		},
 		["画师"] = "しずまよしのり",
-		["声优"] = "伊藤 静"
+		["声优"] = "伊藤 静",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["351"] = {
 		["ID"] = 551,
@@ -48653,7 +49675,9 @@ d.shipDataTb = {
 			["改造后"] = "351a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["351a"] = {
 		["ID"] = 678,
@@ -48748,7 +49772,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["352"] = {
 		["ID"] = 552,
@@ -48841,7 +49867,9 @@ d.shipDataTb = {
 			["改造后"] = "352a"
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["352a"] = {
 		["ID"] = 679,
@@ -48936,7 +49964,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "しばふ",
-		["声优"] = "大坪 由佳"
+		["声优"] = "大坪 由佳",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["355"] = {
 		["ID"] = 555,
@@ -49034,7 +50064,9 @@ d.shipDataTb = {
 			["图纸"] = "高速建筑材x20 开发资材x5"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["356"] = {
 		["ID"] = 556,
@@ -49129,7 +50161,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["357"] = {
 		["ID"] = 557,
@@ -49224,7 +50258,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "川澄 綾子"
+		["声优"] = "川澄 綾子",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["358"] = {
 		["ID"] = 558,
@@ -49319,7 +50355,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "パセリ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["360"] = {
 		["ID"] = 560,
@@ -49416,7 +50454,9 @@ d.shipDataTb = {
 			["改造后"] = "355"
 		},
 		["画师"] = "コニシ",
-		["声优"] = "小松 真奈"
+		["声优"] = "小松 真奈",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["361"] = {
 		["ID"] = 561,
@@ -49509,7 +50549,9 @@ d.shipDataTb = {
 			["改造后"] = "361a"
 		},
 		["画师"] = "ZECO",
-		["声优"] = "白城 なお"
+		["声优"] = "白城 なお",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["361a"] = {
 		["ID"] = 681,
@@ -49604,7 +50646,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "ZECO",
-		["声优"] = "白城 なお"
+		["声优"] = "白城 なお",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["365"] = {
 		["ID"] = 565,
@@ -49697,7 +50741,9 @@ d.shipDataTb = {
 			["改造后"] = "365a"
 		},
 		["画师"] = "未知",
-		["声优"] = "未知"
+		["声优"] = "未知",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["365a"] = {
 		["ID"] = 685,
@@ -49792,7 +50838,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "未知",
-		["声优"] = "未知"
+		["声优"] = "未知",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["366"] = {
 		["ID"] = 566,
@@ -49887,7 +50935,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	},
 	["367"] = {
 		["ID"] = 567,
@@ -49988,7 +51038,9 @@ d.shipDataTb = {
 			["改造后"] = -1
 		},
 		["画师"] = "コニシ",
-		["声优"] = "藤田 咲"
+		["声优"] = "藤田 咲",
+		["日文WIKI"] = "",
+		["英文WIKI"] = ""
 	}
 }
 
