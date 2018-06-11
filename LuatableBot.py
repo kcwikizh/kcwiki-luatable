@@ -2,7 +2,7 @@ import asyncio
 import functools
 import os
 import time
-from os import path
+from os import environ, path
 
 from AkashiListCrawler import AkashiListCrawler
 from config import (DB_PATH, ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DB,
@@ -14,6 +14,7 @@ from ShinkaiLuatable import ShinkaiLuatable
 from ShipLuatable import ShipLuatable
 from utils import nedb2json
 from WikiaCrawler import WikiaCrawler
+from WikiBot import WikiBot
 
 
 def LuatableBotTask(fn):
@@ -82,6 +83,10 @@ class LuatableBot:
         shinkaiLuatable = ShinkaiLuatable()
         await shinkaiLuatable.start()
 
+    @LuatableBotTask
+    async def WikiBotUpdate(self, wikiBot):
+        await wikiBot.start()
+
     async def main(self):
         await self.FetchDBS()
         await self.Nedb2json()
@@ -89,6 +94,12 @@ class LuatableBot:
         await self.WikiaData()
         await self.ShipLuatable()
         await self.ShinkaiLuatable()
+        KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
+        if KCWIKI_UPDATE:
+            KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
+            KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
+            wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
+            await self.WikiBotUpdate(wikiBot)
 
 
 if __name__ == '__main__':
