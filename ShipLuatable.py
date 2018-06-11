@@ -414,7 +414,7 @@ class ShipLuatable:
             improve['日期'] = {}
             req_idx = 0
             for _req in req_items:
-                improve['日期'][WEEK[req_idx]] = _req if _req else ['x']
+                improve['日期'][WEEK[req_idx]] = _req if _req else ['×']
                 req_idx += 1
             extra_remarks = []
             for extra_kit in extra_kits:
