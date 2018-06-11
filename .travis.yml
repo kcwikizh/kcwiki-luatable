@@ -1,0 +1,31 @@
+language: python
+python:
+  - 3.6
+env:
+  - LUA="lua=5.3"
+before_install:
+  - pip install hererocks
+  - hererocks lua_install -r^ --$LUA
+  - export PATH=$PATH:$PWD/lua_install/bin
+install:
+  - pip install -r requirements.txt
+branches:
+  only:
+    - master
+cache:
+  directories:
+    - cache
+script:
+  - python3 LuatableBot.py
+before_deploy:
+  - cp README.md output/README.md
+deploy:
+  provider: pages
+  name: MZI
+  email: macchenjl@foxmail.com
+  github_token: $GITHUB_TOKEN
+  skip-cleanup: true
+  keep-history: true
+  local-dir: output
+  on:
+    branch: master
