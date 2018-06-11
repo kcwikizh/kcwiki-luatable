@@ -17,6 +17,8 @@ make_update:
   variables:
     LUA: lua=5.3
   before_script:
+    - apt-get update
+    - apt-get install -y -qq unzip
     - pip install hererocks
     - hererocks lua_install -r^ --$LUA
     - export PATH=$PATH:$PWD/lua_install/bin
