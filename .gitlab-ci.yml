@@ -22,7 +22,7 @@ make_update:
     - pip install hererocks
     - hererocks lua_install -r^ --$LUA
     - export PATH=$PATH:$PWD/lua_install/bin
-    - python3 -V
+    - python -V
     - pip install -r requirements.txt
   script:
-    - python3 LuatableBot.py
+    - python LuatableBot.py

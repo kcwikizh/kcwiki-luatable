@@ -16,7 +16,7 @@ cache:
   directories:
     - cache
 script:
-  - python3 LuatableBot.py
+  - python LuatableBot.py
 before_deploy:
   - cp README.md output/README.md
 deploy:
