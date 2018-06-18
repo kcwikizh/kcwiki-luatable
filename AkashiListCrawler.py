@@ -270,7 +270,7 @@ class AkashiListCrawler(HttpClient):
                     and 'title' in status_title.attrs['class']:
                 class_list = status_title.attrs['class']
                 if len(class_list) > 1:
-                    lines_idx = 0
+                    lines_idx = 1
                     fit_select = class_list[1]
                     if fit_select == 'fit005':
                         fit_type = '命中補正値'
@@ -283,29 +283,29 @@ class AkashiListCrawler(HttpClient):
                 else:
                     status_title_name = self.get_text(status_title)
                     if status_title_name == '装備ステータス':
-                        lines_idx = 1
+                        lines_idx = 2
                     elif status_title_name == '装備可能艦種':
-                        lines_idx = 2
+                        lines_idx = 3
                     elif status_title_name == '装備可能艦種(増設装備可)':
-                        lines_idx = 2
+                        lines_idx = 3
                         is_extra_ok = True
                     elif status_title_name == '増設装備可能艦種':
-                        lines_idx = 3
+                        lines_idx = 4
                     elif status_title_name.startswith('装備ボーナス'):
                         bonus_info = status_title_name[6:].strip('()')
-                        lines_idx = 4
+                        lines_idx = 5
                 continue
             if not lines_idx:
                 continue
-            elif lines_idx == 0:
-                fitting_lines.append(status_line)
             elif lines_idx == 1:
-                stat_lines.append(status_line)
+                fitting_lines.append(status_line)
             elif lines_idx == 2:
-                equip_lines.append(status_line)
+                stat_lines.append(status_line)
             elif lines_idx == 3:
-                extra_equip_lines.append(status_line)
+                equip_lines.append(status_line)
             elif lines_idx == 4:
+                extra_equip_lines.append(status_line)
+            elif lines_idx == 5:
                 bonus_lines.append(status_line)
         # 处理stat 属性
         stat = dict()
