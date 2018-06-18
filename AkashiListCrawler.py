@@ -261,6 +261,8 @@ class AkashiListCrawler(HttpClient):
         equip_lines = list()
         extra_equip_lines = list()
         fitting_lines = list()
+        bonus_lines = list()
+        bonus_info = ''
         status_lines = status_selector.find_all('tr')
         for status_line in status_lines:
             status_title = status_line.th
@@ -268,7 +270,7 @@ class AkashiListCrawler(HttpClient):
                     and 'title' in status_title.attrs['class']:
                 class_list = status_title.attrs['class']
                 if len(class_list) > 1:
-                    lines_idx = 4
+                    lines_idx = 0
                     fit_select = class_list[1]
                     if fit_select == 'fit005':
                         fit_type = '命中補正値'
@@ -284,14 +286,19 @@ class AkashiListCrawler(HttpClient):
                         lines_idx = 1
                     elif status_title_name == '装備可能艦種':
                         lines_idx = 2
-                    elif status_title_name == '増設装備可能艦種':
-                        lines_idx = 3
                     elif status_title_name == '装備可能艦種(増設装備可)':
                         lines_idx = 2
                         is_extra_ok = True
+                    elif status_title_name == '増設装備可能艦種':
+                        lines_idx = 3
+                    elif status_title_name.startswith('装備ボーナス'):
+                        bonus_info = status_title_name[6:].strip('()')
+                        lines_idx = 4
                 continue
             if not lines_idx:
                 continue
+            elif lines_idx == 0:
+                fitting_lines.append(status_line)
             elif lines_idx == 1:
                 stat_lines.append(status_line)
             elif lines_idx == 2:
@@ -299,8 +306,7 @@ class AkashiListCrawler(HttpClient):
             elif lines_idx == 3:
                 extra_equip_lines.append(status_line)
             elif lines_idx == 4:
-                fitting_lines.append(status_line)
-
+                bonus_lines.append(status_line)
         # 处理stat 属性
         stat = dict()
         for stat_line in stat_lines:
@@ -349,6 +355,27 @@ class AkashiListCrawler(HttpClient):
             equip['extra'] = extra
         if equip:
             detail['item_equip'] = equip
+
+        if bonus_lines:
+            bonus = {
+                '-': bonus_info,
+                'stats': []
+            }
+            for bonus_line in bonus_lines:
+                bonus_items = bonus_line.contents
+                for bonus_item in bonus_items:
+                    text = self.get_text(bonus_item)
+                    if not text:
+                        continue
+                    ship_names = self.get_text(bonus_item.contents[1]).split('・')
+                    ship_bonuses = []
+                    for item in bonus_item.contents[0].contents:
+                        ship_bonuses += self.get_text(item).split()
+                    bonus['stats'].append({
+                        'ships': ship_names,
+                        'stats': ship_bonuses
+                    })
+            detail['bonus'] = bonus
 
         # 处理extra_equip 增设
         extra_equip = dict()
