@@ -359,7 +359,7 @@ class AkashiListCrawler(HttpClient):
         if bonus_lines:
             bonus = {
                 '-': bonus_info,
-                'stats': []
+                'bonuses': []
             }
             for bonus_line in bonus_lines:
                 bonus_items = bonus_line.contents
@@ -371,11 +371,11 @@ class AkashiListCrawler(HttpClient):
                     ship_bonuses = []
                     for item in bonus_item.contents[0].contents:
                         ship_bonuses += self.get_text(item).split()
-                    bonus['stats'].append({
+                    bonus['bonuses'].append({
                         'ships': ship_names,
-                        'stats': ship_bonuses
+                        'bonus': ship_bonuses
                     })
-            detail['bonus'] = bonus
+            detail['item_bonus'] = bonus
 
         # 处理extra_equip 增设
         extra_equip = dict()
