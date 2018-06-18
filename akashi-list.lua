@@ -492,6 +492,18 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "大淀型?",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+?"
+			},
+			{
+				["ship_class"] = "最上型?",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.00",
@@ -644,6 +656,18 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "夜戦命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "重巡洋艦",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+10"
+			},
+			{
+				["ship_class"] = "航空巡洋艦",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+10"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.00",
@@ -787,6 +811,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -929,6 +1015,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+5"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -1086,6 +1234,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-10(-6)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-10(-6)"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-10(-6)"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-10(-6)"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-16(-9.6)"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-10(-6)"
+			},
+			{
+				["ship_class"] = "?",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-4(-2.4)"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -6374,6 +6584,18 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "夜戦命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "重巡洋艦",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+15"
+			},
+			{
+				["ship_class"] = "航空巡洋艦",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+15"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.00",
@@ -9086,6 +9308,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -10206,6 +10490,18 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "夜戦命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "重巡洋艦",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+15"
+			},
+			{
+				["ship_class"] = "航空巡洋艦",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+15"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.00",
@@ -11000,6 +11296,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -11199,6 +11557,68 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -11323,6 +11743,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+5"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -12009,6 +12491,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -12317,6 +12861,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-3(-1.8)"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-3(-1.8)"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-3(-1.8)"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-3(-1.8)"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "?",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-2(-1.2)"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -13523,6 +14129,18 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -13952,6 +14570,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-2(-1.2)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+1"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+1"
+			},
+			{
+				["ship_class"] = "?",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-2(-1.2)"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+1"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-2(-1.2)"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -14453,6 +15133,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-2(-1.2)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+1"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+1"
+			},
+			{
+				["ship_class"] = "?",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-2(-1.2)"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+1"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-2(-1.2)"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -16453,6 +17195,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-3(-1.8)"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -18368,6 +19172,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-3(-1.8)"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -18694,6 +19560,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -18868,6 +19796,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -22115,6 +23105,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4?"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+10"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "?",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["equip_ships"] = {
 			"Гангут(Lv1)"
 		},
@@ -22153,6 +23205,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+7"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4?"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+10"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4"
+			},
+			{
+				["ship_class"] = "?",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2?"
+			}
+		},
 		["equip_ships"] = {
 			"Октябрьская",
 			"революция(Lv45)",
@@ -22241,6 +23355,13 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "命中補正値?",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "大和型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+3.3",
@@ -22446,6 +23567,18 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "大淀型?",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+?"
+			},
+			{
+				["ship_class"] = "最上型?",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+?"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.00",
@@ -22572,6 +23705,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-7(-4.2)"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+5"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -23141,6 +24336,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4～5"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			}
+		},
 		["equip_ships"] = {
 			"Richelieu(Lv1)"
 		},
@@ -23179,6 +24436,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+4～5"
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0?"
+			}
+		},
 		["equip_ships"] = {
 			"Richelieu改(Lv45)"
 		},
@@ -24999,6 +26318,68 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -25397,6 +26778,18 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",
@@ -26445,6 +27838,68 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -26515,6 +27970,68 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑改二型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛改二型",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu改級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.50",

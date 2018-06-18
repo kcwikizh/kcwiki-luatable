@@ -485,6 +485,18 @@
         "重雷装巡洋艦": 1,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "大淀型?",
+          "ship_correct": "+?",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "最上型?",
+          "ship_correct": "+?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "命中補正値",
       "item_intro": "巡洋艦の主砲だったものを、戦艦の副砲として活用しました。「大和」型に搭載され、対空戦も可能な、性能・運用性ともに優秀な戦艦副砲となりました。砲塔部の装甲が薄いのが玉に瑕で、諸説ありますが「大和」型の唯一の弱点という指摘もありました。",
       "item_name": {
@@ -636,6 +648,18 @@
         "重雷装巡洋艦": 1,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "重巡洋艦",
+          "ship_correct": "+10",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "航空巡洋艦",
+          "ship_correct": "+10",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "夜戦命中補正値",
       "item_intro": "重巡に搭載された主砲、それが20.3cm連装砲です。条約上限一杯の8インチ（20.3cm）のこの砲は、中距離での砲撃戦はもちろん、夜戦のような近距離での殴り合いでも十分にその威力を発揮します。限定的ですが、対空射撃も可能です。",
       "item_name": {
@@ -790,6 +814,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "標準的な戦艦の主砲です。「金剛」型建造と同時期に英国に発注され、後に国産化、「伊勢」型までの標準的な戦艦主砲して運用されました。遠距離からの堂々たる艦隊砲撃戦を実現します。",
       "item_name": {
@@ -934,6 +1020,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+5",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "呉海軍工廠砲熕部で開発された初の純国産戦艦主砲です。16インチ（40.6cm）を僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。これを搭載した「長門」「陸奥」は、当時世界列強の「ビッグ7」として、多くのファンに称えられていました。",
       "item_name": {
@@ -1081,6 +1229,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-10(-6)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "-10(-6)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "-10(-6)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "-10(-6)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "-16(-9.6)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-10(-6)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "?",
+          "ship_correct": "-4(-2.4)",
+          "ship_fitting": "over"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "呉海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲です。敵戦艦に対してアウトレンジが可能な最大射程40kmを超える最新鋭のこの巨砲は、機密保持のため公式には16インチ砲とされていました。「三式弾」を用いた強力な対空射撃も可能です。",
       "item_name": {
@@ -6362,6 +6572,18 @@
         "重雷装巡洋艦": 1,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "重巡洋艦",
+          "ship_correct": "+15",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "航空巡洋艦",
+          "ship_correct": "+15",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "夜戦命中補正値",
       "item_intro": "20.3cm連装砲の改良型、それが同3号連装砲です。元々優秀な重巡洋艦用主砲をさらに改良。55口径の極めて優れた重巡用主砲が完成しました。優秀な砲ですが、経済性に難があり、少量の試作だけで量産はされていません。",
       "item_name": {
@@ -9074,6 +9296,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "ビスマルク級戦艦に搭載された、かの国の戦艦主砲です。主に電動を用いた砲塔旋回・揚弾・装填などが可能です。短～中距離での砲撃戦を意識した戦艦主兵装です。",
       "item_name": {
@@ -10198,6 +10482,18 @@
         "重雷装巡洋艦": 1,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "重巡洋艦",
+          "ship_correct": "+15",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "航空巡洋艦",
+          "ship_correct": "+15",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "夜戦命中補正値",
       "item_intro": "20.3cm連装砲のマイナーバージョンアップ版、それが同2号連装砲です。元々優秀な重巡洋艦用主砲を改良して、主に妙高型などに搭載されました。初期主砲搭載の他の重巡達も、近代化改装時に順次本砲に換装されていきました。",
       "item_name": {
@@ -10985,6 +11281,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "高速戦艦に搭載するための新開発の試製戦艦主砲です。「金剛」型高速戦艦の代替新建造艦のために計画されていた三連装の35.6cm砲で、大口径主砲よりはコンパクトで軽く、もちろん従来の35.6cm砲より火力及び命中率が大きく向上しています。高速戦艦の改装時に、ぜひ運用をお試しください！",
       "item_name": {
@@ -11184,6 +11542,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "金剛型高速戦艦「榛名」の前部主砲の最終形態です。あまり効果がなかったといわれていますが、縦縞ゼブラ模様のダズル迷彩を施しています。三式弾を装填して敵機が跳梁する空を睨み、母港呉と動けない残存艦隊の防戦に努めました。",
       "item_name": {
@@ -11311,6 +11731,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+5",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "呉海軍工廠砲熕部で試作された純国産戦艦主砲の三連装砲です。16インチを僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。これを搭載した長門型戦艦は、当時世界列強の「ビッグ７」水準を遥かに超えた高火力と高命中精度を実現します。",
       "item_name": {
@@ -11995,6 +12477,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "ビスマルク級戦艦に搭載された戦艦主砲の改修型です。短～中距離での砲撃戦を意識した高速戦艦の主力兵装で、改修によってその命中精度などが大きく向上しています。",
       "item_name": {
@@ -12302,6 +12846,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "-3(-1.8)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "-3(-1.8)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "-3(-1.8)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "-3(-1.8)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "?",
+          "ship_correct": "-2(-1.2)",
+          "ship_fitting": "over"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲、その試作二連装砲です。敵戦艦に対してアウトレンジが可能な最大射程40kmを超える巨砲ですが、大和型戦艦に搭載された同三連装主砲より軽量です。主力戦艦群への搭載と同主兵装としての運用が可能です。",
       "item_name": {
@@ -13508,6 +14114,18 @@
           "長門改型"
         ]
       },
+      "item_fitting": [
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "改「大和」型、そしてその拡大発展級である超「大和」型の主兵装として開発されている新型戦艦用大口径主砲です。51cm砲が実現する群を抜いたその火力は、他の戦艦主砲の火力を圧倒します。46cm砲をも凌駕する大きさと重量なため、戦艦級の中でも限られた艦艇のみ、本兵装を装備することが可能です。",
       "item_name": {
@@ -13938,6 +14556,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-2(-1.2)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+1",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+1",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "?",
+          "ship_correct": "-2(-1.2)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+1",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-2(-1.2)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "パスタの国が生んだ三連装型の戦艦主砲です。高射速の50口径、中近距離戦闘での火力は同クラス最強です。また、射程も大和型46cm砲と同等以上のカタログスペックを誇ります。ただし、砲の耐久性に難点があります。また散布界が広く、その命中率にも課題を残していました。",
       "item_name": {
@@ -14439,6 +15119,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-2(-1.2)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+1",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+1",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "?",
+          "ship_correct": "-2(-1.2)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+1",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-2(-1.2)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "パスタの国が生んだ三連装型の戦艦主砲です。高射速の50口径、中近距離戦闘での火力は同クラス最強です。また、射程も大和型46cm砲と同等以上のカタログスペックを誇ります。砲の耐久性や命中率に課題を残していましたが、改修によってその命中精度などが向上しています。",
       "item_name": {
@@ -16438,6 +17180,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "-3(-1.8)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "Iowa級戦艦の主兵装として米国で開発された新型三連装主砲です。前級に搭載された主砲の改良型で、長砲身化などの改良によって威力がより向上しています。発展途上ではありましたが、レーダー連動の砲射撃指揮装置によるレーダー射撃も可能です。",
       "item_name": {
@@ -18352,6 +19156,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "-3(-1.8)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "Iowa級戦艦の主兵装として米国で開発された強力な新型三連装主砲と、その改良された射撃管制システムです。現在のFCSの先祖ともいえる射撃レーダーと砲射撃指揮装置によるシステムを有しており、その高火力と共に高い射撃精度が期待できます。",
       "item_name": {
@@ -18680,6 +19546,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "紅茶の国の戦艦主兵装用に開発された連装大口径主砲です。同国ならでは堅実な作りの主砲ですが、後期にはレーダーシステムの連動した射撃管制装置も開発されました。",
       "item_name": {
@@ -18853,6 +19781,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "紅茶の国で戦艦主兵装用に開発された連装大口径主砲です。堅実な作りの傑作砲に対して最大仰角を上げる等の近代化改修を行いました。熟成した戦艦主砲の改良版です。",
       "item_name": {
@@ -22099,6 +23089,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4?",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+10",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "?",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "北の国の戦艦主砲です。戦艦の主砲としては、超弩級戦艦の時代にはスケール的に時代遅れの感もありましたが、三連装主砲として当時新鋭の弩級戦艦に装備されました。",
       "item_name": {
@@ -22140,6 +23192,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "+7",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "+4?",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "+10",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "?",
+          "ship_correct": "+2?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "北の国の戦艦主砲です。戦艦の主砲としては、超弩級戦艦の時代にはスケール的に時代遅れの感もありましたが、三連装主砲として当時新鋭の弩級戦艦に装備されました。本兵装は同砲を改修した、近代化改装した北の国の戦艦のための改良型装備です。",
       "item_name": {
@@ -22226,6 +23340,13 @@
         "重雷装巡洋艦": 1,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "大和型",
+          "ship_correct": "+?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "命中補正値?",
       "item_intro": "巡洋艦主砲だったものを大型戦艦の副砲として転用しました。「大和」型戦艦に搭載され、対空戦も可能な、性能・運用性ともに優秀な戦艦副砲となりました。防御面においては、諸説ありますが「大和」型の唯一の弱点という指摘もありました。本副砲は、同砲を「大和」型副砲として運用、改修と最適化を施した改良型装備です。",
       "item_name": {
@@ -22430,6 +23551,18 @@
         "重雷装巡洋艦": 1,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "大淀型?",
+          "ship_correct": "+?",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "最上型?",
+          "ship_correct": "+?",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "命中補正値",
       "item_intro": "条約下で保有制限のあった重巡を火力を増強した強力な軽巡で補うために開発された三連装主砲です。射程・発射速度・運用性等のバランスに優れ、対空戦もある程度可能な傑作砲となりました。後に有名な「大和」型戦艦の副砲としても採用されています。本砲は、大型軽巡などでの運用で熟成・改修を重ねた同改良主砲です。",
       "item_name": {
@@ -22556,6 +23689,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "+2",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "-7(-4.2)",
+          "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "-5(-3)",
+          "ship_fitting": "over"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "+5",
+          "ship_fitting": "fit"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "呉海軍工廠砲熕部で試作された純国産戦艦主砲の三連装砲、その改修改良型です。if兵装ではありますが、各部及び射撃装置を熟成改良し、砲弾誘爆防止措置も考慮した同砲を装備した改長門型戦艦は、当時世界列強の「ビッグ７」水準を遥かに凌駕した攻防のバランスと高い砲撃精度を実現します。",
       "item_name": {
@@ -23126,6 +24321,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4～5",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "トリコロールの国で開発された戦艦主砲です。大口径38cm砲四門を一つの砲塔に収めたる迫力の四連装砲です。「Richelieu」級戦艦に装備され、大火力を実現します。",
       "item_name": {
@@ -23163,6 +24420,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "+4～5",
+          "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "トリコロールの国で開発された戦艦主砲です。大口径38cm砲四門から構成される迫力の四連装砲で、「Richelieu」級戦艦に装備されました。同砲を熟成、改修した改良大口径主砲装備です。同クラスとしては圧倒的な火力を実現します。",
       "item_name": {
@@ -24983,6 +26302,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "呉海軍工廠砲熕部が極秘開発した世界最大最強級の戦艦主砲、その改良改修型です。敵主力戦艦に対してアウトレンジが可能な「大和」型戦艦搭載用主砲を、各種戦訓を採り入れて改修強化しました。「大和」「武蔵」への装備、さらに「15.5cm三連装副砲改」との複合装備によって、本兵装はその真価を発揮します。",
       "item_name": {
@@ -25381,6 +26762,18 @@
           "長門改型"
         ]
       },
+      "item_fitting": [
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "大和型戦艦の発展強化型への搭載が検討されていた大口径大型用戦艦主砲、その完成版です。最大最強の艦艇搭載用砲熕兵装となる本砲は、改装強化された大和型等で運用可能です。実戦配備されることのなかった本砲で、海原で一斉射を！",
       "item_name": {
@@ -26430,6 +27823,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "「金剛」型高速戦艦の代替新造艦装備のために計画されていた三連装35.6cm主砲、その改二以降用if改良強化型兵装です。射撃精度が向上、効果のほどは不明ですが、最期まで呉軍港で防戦に努めた「榛名」前部主砲最終仕様と同様のゼブラ模様のダズル迷彩も施しています。",
       "item_name": {
@@ -26500,6 +27955,68 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
       "item_fitting_type": "フィット命中補正値",
       "item_intro": "呉海軍工廠砲熕部で開発された純国産戦艦用三連装主砲、その改修改良型です。if兵装ではありますが、軽量化及び射撃装置を熟成改良した同改良砲を、航空戦艦への装備、特に伊勢型航空戦艦に最適化改修した戦艦主砲兵装です。特に大規模改装後の伊勢型改二では、その潜在能力を遺憾なく発揮します。",
       "item_name": {
