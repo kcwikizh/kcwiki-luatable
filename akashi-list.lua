@@ -3247,14 +3247,14 @@ k.EquipUpdateTb = {
 				"伊勢改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				}
@@ -7123,14 +7123,14 @@ k.EquipUpdateTb = {
 				"伊勢改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				}
@@ -7598,14 +7598,14 @@ k.EquipUpdateTb = {
 				"伊勢改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複不可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+3",
 						"装甲+1",
 						"回避+2",
@@ -9605,14 +9605,14 @@ k.EquipUpdateTb = {
 				"多摩改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"扶桑型改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				},
@@ -9620,7 +9620,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"伊勢型改"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				},
@@ -9628,7 +9628,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+3"
 					}
 				}
@@ -9814,14 +9814,14 @@ k.EquipUpdateTb = {
 				"多摩改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"扶桑型改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				},
@@ -9829,7 +9829,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"伊勢型改"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				},
@@ -9837,7 +9837,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+3"
 					}
 				}
@@ -11096,14 +11096,14 @@ k.EquipUpdateTb = {
 				"伊勢改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+4"
 					}
 				}
@@ -11517,14 +11517,14 @@ k.EquipUpdateTb = {
 			["水上機母艦"] = 0,
 			["航空戦艦"] = 1
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"金剛改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				},
@@ -11532,7 +11532,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"比叡改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+1"
 					}
 				},
@@ -11540,7 +11540,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"榛名改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2",
 						"対空+1",
 						"回避+2"
@@ -11550,7 +11550,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"霧島改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+1"
 					}
 				}
@@ -12359,14 +12359,14 @@ k.EquipUpdateTb = {
 				"伊勢改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				}
@@ -22829,15 +22829,15 @@ k.EquipUpdateTb = {
 				"長門改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "★MAX時",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"神風型",
 						"睦月型"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+1",
 						"対空+1"
 					}
@@ -22846,7 +22846,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"由良改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2",
 						"対空+3"
 					}
@@ -22855,7 +22855,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"海防艦"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+1",
 						"対空+1"
 					}
@@ -23903,14 +23903,14 @@ k.EquipUpdateTb = {
 				"多摩改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"扶桑型改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2"
 					}
 				},
@@ -23918,7 +23918,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"伊勢型改"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+3"
 					}
 				},
@@ -23926,7 +23926,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+4"
 					}
 				}
@@ -25482,14 +25482,14 @@ k.EquipUpdateTb = {
 				"長門改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"長波改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+3",
 						"回避+1"
 					}
@@ -25498,7 +25498,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"陽炎型改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+3",
 						"回避+1"
 					}
@@ -25507,7 +25507,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"夕雲型"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2",
 						"回避+1"
 					}
@@ -25516,7 +25516,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"島風型"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2",
 						"回避+1"
 					}
@@ -25525,7 +25525,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"陽炎型"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+1",
 						"回避+1"
 					}
@@ -25682,15 +25682,15 @@ k.EquipUpdateTb = {
 				"不知火改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複不可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"多摩改",
 						"改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"装甲+2",
 						"回避+7"
 					}
@@ -25700,7 +25700,7 @@ k.EquipUpdateTb = {
 						"木曽改",
 						"改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"装甲+2",
 						"回避+7"
 					}
@@ -27352,9 +27352,9 @@ k.EquipUpdateTb = {
 				"Bismarck drei"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"吹雪改二",
@@ -27364,7 +27364,7 @@ k.EquipUpdateTb = {
 						"暁改二",
 						"Верный"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"雷装+2",
 						"回避+1",
 						"★MAX：火力+1"
@@ -27376,7 +27376,7 @@ k.EquipUpdateTb = {
 						"子日改二",
 						"初霜改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"雷装+2",
 						"回避+1",
 						"★MAX：火力+1"
@@ -27529,9 +27529,9 @@ k.EquipUpdateTb = {
 				"Bismarck drei"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"時雨改二",
@@ -27542,7 +27542,7 @@ k.EquipUpdateTb = {
 						"不知火改二",
 						"黒潮改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"雷装+2",
 						"回避+1",
 						"★MAX：火力+1"
@@ -27558,7 +27558,7 @@ k.EquipUpdateTb = {
 						"霞改二(乙)",
 						"長波改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"雷装+2",
 						"回避+1",
 						"★MAX：火力+1"
@@ -27797,14 +27797,14 @@ k.EquipUpdateTb = {
 			["水上機母艦"] = 0,
 			["航空戦艦"] = 1
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"金剛改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2",
 						"対空+1"
 					}
@@ -27813,7 +27813,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"比叡改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+1"
 					}
 				},
@@ -27821,7 +27821,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"榛名改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2",
 						"対空+2",
 						"回避+2"
@@ -27831,7 +27831,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"霧島改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+1"
 					}
 				}
@@ -27936,14 +27936,14 @@ k.EquipUpdateTb = {
 			["水上機母艦"] = 0,
 			["航空戦艦"] = 1
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"扶桑型改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+1"
 					}
 				},
@@ -27951,7 +27951,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"伊勢型改"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+2",
 						"対空+2",
 						"回避+1"
@@ -27961,7 +27961,7 @@ k.EquipUpdateTb = {
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+3",
 						"対空+2",
 						"回避+1"
@@ -28160,14 +28160,14 @@ k.EquipUpdateTb = {
 				"伊勢改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "重複可",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+6",
 						"回避+1"
 					}
@@ -28215,14 +28215,14 @@ k.EquipUpdateTb = {
 				"伊勢改二"
 			}
 		},
-		["bonus"] = {
+		["item_bonus"] = {
 			["-"] = "",
-			["stats"] = {
+			["bonuses"] = {
 				{
 					["ships"] = {
 						"伊勢改二"
 					},
-					["stats"] = {
+					["bonus"] = {
 						"火力+8",
 						"回避+2"
 					}
