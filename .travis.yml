@@ -12,9 +12,6 @@ install:
 branches:
   only:
     - master
-cache:
-  directories:
-    - cache
 script:
   - python LuatableBot.py
 before_deploy:

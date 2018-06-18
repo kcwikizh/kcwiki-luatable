@@ -1,15 +1,10 @@
 image: python:3
 
 stages:
-  - make_update
+  - update
 
-cache:
-  paths:
-    - cache
-  key: $CI_PROJECT_ID
-
-make_update:
-  stage: make_update
+update:
+  stage: update
   tags:
     - hn-i7
   only:
