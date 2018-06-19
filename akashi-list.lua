@@ -4019,7 +4019,7 @@ k.EquipUpdateTb = {
 						["support_weeks"] = {
 							0,
 							0,
-							0,
+							1,
 							1,
 							1,
 							0,
@@ -5823,7 +5823,7 @@ k.EquipUpdateTb = {
 						["support_weeks"] = {
 							0,
 							1,
-							0,
+							1,
 							1,
 							1,
 							0,
@@ -22944,7 +22944,7 @@ k.EquipUpdateTb = {
 						["support_weeks"] = {
 							0,
 							1,
-							0,
+							1,
 							1,
 							1,
 							0,
@@ -22973,8 +22973,8 @@ k.EquipUpdateTb = {
 						}
 					},
 					["6 ～ 9"] = {
-						["buildkit_num"] = "? / 5",
-						["remodelkit_num"] = "? / 4",
+						["buildkit_num"] = "3 / 5",
+						["remodelkit_num"] = "3 / 4",
 						["equipkit"] = {
 							"12.7cm単装高角砲(後期型) × 1"
 						}
@@ -26063,7 +26063,7 @@ k.EquipUpdateTb = {
 						["support_weeks"] = {
 							1,
 							1,
-							0,
+							1,
 							0,
 							0,
 							0,
