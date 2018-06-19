@@ -4,7 +4,6 @@ OUPUT_PATH = 'output/'
 
 # akashiListCrawler
 AKASHI_LIST_URL = 'https://akashi-list.me'
-AKASHI_LIST_CACHE_PATH = 'cache'
 AKASHI_LIST_OUTPUT_JSON = 'akashi-list.json'
 AKASHI_LIST_OUTPUT_LUA = 'akashi-list.lua'
 

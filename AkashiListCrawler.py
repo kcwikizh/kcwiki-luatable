@@ -10,9 +10,8 @@ import lxml
 from bs4 import BeautifulSoup, element
 
 import utils
-from config import (AKASHI_LIST_CACHE_PATH, AKASHI_LIST_OUTPUT_JSON,
-                    AKASHI_LIST_OUTPUT_LUA, AKASHI_LIST_URL, DB_PATH,
-                    OUPUT_PATH)
+from config import (AKASHI_LIST_OUTPUT_JSON, AKASHI_LIST_OUTPUT_LUA,
+                    AKASHI_LIST_URL, DB_PATH, OUPUT_PATH)
 from HttpClient import HttpClient
 
 
@@ -27,16 +26,13 @@ class AkashiListCrawler(HttpClient):
     ]
     ID_PATTERN = re.compile(r'[0-9]+')
 
-    def __init__(self, cache=True, sannma=False):
+    def __init__(self, sannma=False):
         super().__init__()
-        self.cache = cache
         self.sannma = sannma
         self.tot_items = 0
         self.ok_items = 0
         self.weapon_list = {}
         self.items = {}
-        if self.cache and not os.path.isdir(AKASHI_LIST_CACHE_PATH):
-            os.mkdir(AKASHI_LIST_CACHE_PATH)
 
     def get_text(self, node):
         '''
@@ -195,27 +191,8 @@ class AkashiListCrawler(HttpClient):
         '''
         根据武器id获取装备改修详情
         '''
-        requesturl = '{0}/detail/{1}.html'.format(
-            AKASHI_LIST_URL, weaponid)
-        # 处理缓存
-        if self.cache:
-            cache_path = os.path.abspath(
-                '{0}/{1}.json'.format(AKASHI_LIST_CACHE_PATH, weaponid))
-            async with self.session.head(requesturl) as hand_shake:
-                last_modified = hand_shake.headers.get('Last-Modified')
-                if os.path.isfile(cache_path) and last_modified:
-                    with open(cache_path, 'r', encoding='utf_8') as fcache:
-                        try:
-                            cache = json.load(fcache)
-                            if cache['last_modified'] == last_modified:
-                                self.ok_items += 1
-                                print(
-                                    'Akashi-List: ({} / {}) ok!'.format(self.ok_items, self.tot_items))
-                                return cache['detail']
-                        except json.JSONDecodeError:
-                            pass
+        requesturl = '{0}/detail/{1}.html'.format(AKASHI_LIST_URL, weaponid)
 
-        # 处理没有缓存或者缓存过期的文件
         content = ''
         async with self.session.get(requesturl) as res:
             content = await res.text()
@@ -367,7 +344,8 @@ class AkashiListCrawler(HttpClient):
                     text = self.get_text(bonus_item)
                     if not text:
                         continue
-                    ship_names = self.get_text(bonus_item.contents[1]).split('・')
+                    ship_names = self.get_text(
+                        bonus_item.contents[1]).split('・')
                     ship_bonuses = []
                     for item in bonus_item.contents[0].contents:
                         ship_bonuses += self.get_text(item).split()
@@ -541,14 +519,6 @@ class AkashiListCrawler(HttpClient):
             elif wiki_name == 'Wikia':
                 detail['EN_Wiki'] = wiki_link.attrs['href']
 
-        # 重写缓存
-        if self.cache and last_modified:
-            if os.path.isdir(AKASHI_LIST_CACHE_PATH):
-                with open(cache_path, 'w', encoding='utf_8') as fwptr:
-                    json.dump({
-                        'last_modified': last_modified,
-                        'detail': detail
-                    }, fwptr, ensure_ascii=False)
         self.ok_items += 1
         print('Akashi-List: ({} / {}) ok!'.format(self.ok_items, self.tot_items))
         return detail
