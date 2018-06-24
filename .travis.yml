@@ -15,7 +15,8 @@ branches:
 script:
   - python LuatableBot.py
 before_deploy:
-  - cp README.md output/README.md
+  - cp docs/index.html output/index.html
+  - cp docs/style.css output/style.css
 deploy:
   provider: pages
   name: MZI
