@@ -339,15 +339,16 @@ class AkashiListCrawler(HttpClient):
                 'bonuses': []
             }
             for bonus_line in bonus_lines:
-                bonus_items = bonus_line.contents
+                bonus_items = bonus_line.find_all('td')
                 for bonus_item in bonus_items:
                     text = self.get_text(bonus_item)
                     if not text:
                         continue
+                    bonus_item_next = bonus_item.contents
                     ship_names = self.get_text(
-                        bonus_item.contents[1]).split('・')
+                        bonus_item_next[1]).split('・')
                     ship_bonuses = []
-                    for item in bonus_item.contents[0].contents:
+                    for item in bonus_item_next[0].contents:
                         ship_bonuses += self.get_text(item).split()
                     bonus['bonuses'].append({
                         'ships': ship_names,
