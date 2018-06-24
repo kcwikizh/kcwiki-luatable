@@ -6787,7 +6787,7 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "伊勢改",
+						["support_ship"] = "伊勢改(改二不可)",
 						["support_weeks"] = {
 							1,
 							0,
@@ -27939,6 +27939,34 @@ k.EquipUpdateTb = {
 		["item_bonus"] = {
 			["-"] = "",
 			["bonuses"] = {
+				{
+					["ships"] = {
+						"扶桑型改二"
+					},
+					["bonus"] = {
+						"火力+1"
+					}
+				},
+				{
+					["ships"] = {
+						"伊勢型改"
+					},
+					["bonus"] = {
+						"火力+2",
+						"対空+2",
+						"回避+1"
+					}
+				},
+				{
+					["ships"] = {
+						"伊勢改二"
+					},
+					["bonus"] = {
+						"火力+3",
+						"対空+2",
+						"回避+1"
+					}
+				},
 				{
 					["ships"] = {
 						"扶桑型改二"
