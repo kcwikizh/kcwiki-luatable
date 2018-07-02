@@ -19,6 +19,7 @@ from ShinkaiLuatable import ShinkaiLuatable
 from ShipLuatable import ShipLuatable
 from utils import nedb2json
 from WikiaCrawler import WikiaCrawler
+from WikiwikiCrawler import WikiwikiCrawler
 from WikiBot import WikiBot
 
 
@@ -80,6 +81,11 @@ class LuatableBot:
         await akashiListCrawler.start()
 
     @LuatableBotTask
+    async def WikiwikiData(self):
+        wikiwikiCrawler = WikiwikiCrawler()
+        await wikiwikiCrawler.start()
+
+    @LuatableBotTask
     async def WikiaData(self):
         wikiaCrawler = WikiaCrawler()
         await wikiaCrawler.start()
@@ -119,6 +125,7 @@ class LuatableBot:
         await self.FetchDBS()
         await self.Nedb2json()
         await self.AkashiList()
+        await self.WikiwikiData()
         await self.WikiaData()
         await self.ShipLuatable()
         await self.ShinkaiLuatable()

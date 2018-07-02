@@ -38,11 +38,22 @@ class WikiwikiCrawler(HttpClient):
             html += f'!{th}\n'
         for tr in table:
             html += '|-\n'
+            nos = []
+            for x in tr[0][0].split('・'):
+                if x.endswith('b'):
+                    x = x[:-1].zfill(3) + 'a'
+                else:
+                    x = x.zfill(3)
+                # 
+                nos.append(x)
+            tr[0][0] = '・'.join(nos)
             for td in tr:
                 style = ''
                 if td[1] != -1:
                     style = f'style="background-color: {colors[td[1]]};"|'
                 html += f'|{style}{td[0]}\n'
+            mark = ''.join(list(map(lambda x: f'{{{{舰娘备注|{x}}}}}', nos)))
+            html += f'|{mark}\n'
         html += '|}\n'
         self.fp.write(html)
 
@@ -60,6 +71,7 @@ class WikiwikiCrawler(HttpClient):
                 table_data = []
                 for th in ths:
                     theads.append(self.__getInnerText(th))
+                theads.append('-')
                 rows = table.tbody.contents
                 for row in rows:
                     cols = row.contents
@@ -83,12 +95,3 @@ class WikiwikiCrawler(HttpClient):
     async def start(self):
         for url in self.URLS:
             await self.__getTable(url)
-
-
-async def main():
-    bot = WikiwikiCrawler()
-    await bot.start()
-
-if __name__ == '__main__':
-    LOOP = asyncio.get_event_loop()
-    LOOP.run_until_complete(main())
