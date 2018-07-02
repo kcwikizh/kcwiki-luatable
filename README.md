@@ -1,11 +1,11 @@
 # Kcwiki-Luatable
 
+[![Travis](https://img.shields.io/travis/MZIchenjl/kcwiki-luatable.svg)](https://travis-ci.org/MZIchenjl/kcwiki-luatable)
+[![GitHub last commit (gh-pages)](https://img.shields.io/github/last-commit/MZIchenjl/kcwiki-luatable/gh-pages.svg)](https://github.com/MZIchenjl/kcwiki-luatable/tree/gh-pages)
+
 kcwiki lua模块数据机器人🤖️
 
 更新频率: 每日一次
-
-[![Travis](https://img.shields.io/travis/MZIchenjl/kcwiki-luatable.svg)](https://travis-ci.org/MZIchenjl/kcwiki-luatable)
-[![GitHub last commit (gh-pages)](https://img.shields.io/github/last-commit/MZIchenjl/kcwiki-luatable/gh-pages.svg)](https://github.com/MZIchenjl/kcwiki-luatable/tree/gh-pages)
 
 ||luatable|json|
 |-|-|-|
