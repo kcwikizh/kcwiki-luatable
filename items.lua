@@ -23374,7 +23374,9 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E4%BA%8C",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_A_Kai_2"
 	},
 	["295"] = {
 		["ID"] = 295,
@@ -23419,7 +23421,9 @@ d.equipDataTb = {
 			"海防舰",
 			"长门改二"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E4%B8%89%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_A_Kai_3_%28Wartime_Modification%29_%2B_Anti-Aircraft_Fire_Director"
 	},
 	["296"] = {
 		["ID"] = 296,
@@ -23464,7 +23468,9 @@ d.equipDataTb = {
 			"海防舰",
 			"长门改二"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E5%9B%9B%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_B_Kai_4_%28Wartime_Modification%29_%2B_Anti-Aircraft_Fire_Director"
 	}
 }
 
