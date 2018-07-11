@@ -1,7 +1,7 @@
 import asyncio
 import json
 
-from config import (AKASHI_LIST_OUTPUT_JSON, DB_PATH, ENTITIES_DB,
+from config import (AKASHI_LIST_OUTPUT_JSON, BONUS_JSON, DB_PATH, ENTITIES_DB,
                     ITEM_REMARKS_EXTRA, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB,
                     KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON, OUPUT_PATH,
                     SHIP_CLASSES_DB, SHIP_NAMESUFFIX_DB, SHIP_REMODEL_EXTRA,
@@ -64,6 +64,7 @@ class ShipLuatable:
         self.SHIP_CLASSES_DB = jsonFile2dic(DB_PATH + SHIP_CLASSES_DB + '.json', masterKey='id')
         self.SHIP_SERIES_DB = jsonFile2dic(DB_PATH + SHIP_SERIES_DB + '.json', masterKey='id')
         self.ENTITIES_DB = jsonFile2dic(DB_PATH + ENTITIES_DB + '.json', masterKey='id')
+        self.BONUS = jsonFile2dic(DB_PATH + BONUS_JSON)
 
         self.ITEM_LINKS = {}
         self.SHIP_TYPES_DB = {}
@@ -430,6 +431,43 @@ class ShipLuatable:
             })
             idx += 1
 
+    def __append_item_bonus(self, __item_id, bonuses):
+        idx = 1
+        for _bonus in bonuses:
+            bonus = {}
+            if _bonus['star']:
+                bonus['改修等级'] = _bonus['star']
+            if _bonus['combined']:
+                bonus['装备组合'] = []
+                for cb in _bonus['combined']:
+                    if type(cb) is str:
+                        bonus['装备组合'].append(cb)
+                    elif type(cb) is int:
+                        bonus['装备组合'].append(self.ITEMS_DB[cb]['name']['zh_cn'])
+                    elif type(cb) is list:
+                        cbs = []
+                        for c in cb:
+                            cbs.append(self.ITEMS_DB[c]['name']['zh_cn'])
+                        bonus['装备组合'].append('/'.join(cbs))
+            if _bonus['bonus']['type'] == '-':
+                bonus['收益类型'] = '通用'
+                bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
+            elif _bonus['bonus']['type'] == 'count':
+                bonus['收益类型'] = '数量'
+                bonus['收益属性'] = {}
+                for c in _bonus['bonus']['bonus']:
+                    bonus['收益属性'][c] = self.__get_itemstats(_bonus['bonus']['bonus'][c])
+            elif _bonus['bonus']['type'] == 'improve':
+                bonus['收益类型'] = '改修'
+                bonus['收益属性'] = {}
+                for i in _bonus['bonus']['bonus']:
+                    bonus['收益属性'][i] = self.__get_itemstats(_bonus['bonus']['bonus'][i])
+            _idx = idx if idx > 1 else ''
+            self.items_data[__item_id].update({
+                '额外收益{}'.format(_idx): bonus
+            })
+            idx += 1
+
     def __append_item(self, item_id):
         _item_id = str(item_id)
         wctf_item = self.ITEMS_DB[item_id]
@@ -461,6 +499,9 @@ class ShipLuatable:
             '装备适用': self.__get_item_equipable(item_type),
             '备注': self.ITEM_REMARKS_EXTRA[__item_id] if __item_id in self.ITEM_REMARKS_EXTRA else ''
         }
+        if _item_id in self.BONUS:
+            bonuses = self.BONUS[_item_id]
+            self.__append_item_bonus(__item_id, bonuses)
         if 'improvement' in wctf_item and wctf_item['improvement']:
             improvements = wctf_item['improvement']
             self.__append_item_improvement(__item_id, improvements)
