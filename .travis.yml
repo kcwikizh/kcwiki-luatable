@@ -16,6 +16,8 @@ install:
 branches:
   only:
     - master
+before_script:
+  - git clone https://github.com/TeamFleet/KCKit.git
 script:
   - python LuatableBot.py
 before_deploy:

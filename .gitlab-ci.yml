@@ -12,6 +12,7 @@ update:
   variables:
     LUA: lua=5.3
   before_script:
+    - git clone https://github.com/TeamFleet/KCKit.git
     - apt-get update
     - curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
     - apt-get install -y -qq unzip nodejs
