@@ -1,4 +1,6 @@
-import time
+import datetime
+
+import pytz
 
 from config import (AKASHI_LIST_OUTPUT_LUA, ITEMS_DATA, OUPUT_PATH,
                     SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA, SHIPS_DATA)
@@ -20,6 +22,7 @@ class WikiBot(HttpClient):
 
     def __init__(self, username, password):
         super().__init__()
+        self.tz = pytz.timezone('Asia/Shanghai')
         self.loginToken = ''
         self.editToken = ''
         self.username = username
@@ -36,8 +39,7 @@ class WikiBot(HttpClient):
             try:
                 resp_json = await resp.json()
                 if not resp_json:
-                    raise KcwikiException(
-                        'Wiki-Bot: Failed to get login token!')
+                    raise KcwikiException('Wiki-Bot: Failed to get login token!')
                 self.loginToken = resp_json['query']['tokens']['logintoken']
             except Exception:
                 raise KcwikiException('Wiki-Bot: Failed to get login token!')
@@ -76,8 +78,8 @@ class WikiBot(HttpClient):
         print('Wiki-Bot: Login Successfully!')
 
     async def updatePage(self, page_title, filename):
-        comment = 'KcWiki Robot: Update {}'.format(time.strftime(
-            '%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
+        now = datetime.datetime.now(self.tz)
+        comment = 'KcWiki Robot: Update {}'.format(now.strftime('%Y-%m-%d %H:%M:%S'))
         rdata = {
             'action': 'edit',
             'title': page_title,
