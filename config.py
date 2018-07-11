@@ -1,6 +1,7 @@
 # global
 DB_PATH = 'db/'
 OUPUT_PATH = 'output/'
+SCRIPTS_PATH = 'scripts/'
 
 # akashiListCrawler
 AKASHI_LIST_URL = 'https://akashi-list.me'
@@ -38,3 +39,7 @@ SHINKAI_ITEMS_DATA = 'shinkai-items'
 
 # wikiwiki table
 WIKIWIKI_TABLE = 'wikiwiki_table.txt'
+
+# bonus
+BONUS_JS = 'bonus.js'
+BONUS_JSON = 'bonus.json'

@@ -8,19 +8,20 @@ import time
 from os import environ, path
 
 from AkashiListCrawler import AkashiListCrawler
-from config import (AKASHI_LIST_OUTPUT_LUA, DB_PATH, ENTITIES_DB,
+from config import (AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH, ENTITIES_DB,
                     ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB, KCDATA_SHIP_ALL_JSON,
-                    KCDATA_SLOTITEM_ALL_JSON, OUPUT_PATH, SHINKAI_ITEMS_DATA,
-                    SHINKAI_SHIPS_DATA, SHIP_CLASSES_DB, SHIP_NAMESUFFIX_DB,
-                    SHIP_SERIES_DB, SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB,
-                    SHIPS_DATA, SHIPS_DB)
+                    KCDATA_SLOTITEM_ALL_JSON, OUPUT_PATH, SCRIPTS_PATH,
+                    SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA, SHIP_CLASSES_DB,
+                    SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
+                    SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DATA,
+                    SHIPS_DB)
 from DBDownloader import DBDownloader
 from ShinkaiLuatable import ShinkaiLuatable
 from ShipLuatable import ShipLuatable
 from utils import nedb2json
 from WikiaCrawler import WikiaCrawler
-from WikiwikiCrawler import WikiwikiCrawler
 from WikiBot import WikiBot
+from WikiwikiCrawler import WikiwikiCrawler
 
 
 def LuatableBotTask(fn):
@@ -104,9 +105,21 @@ class LuatableBot:
     async def WikiBotUpdate(self, wikiBot):
         await wikiBot.start()
 
+    @LuatableBotTask
+    async def BonusJson(self):
+        self.__exec_js(SCRIPTS_PATH + BONUS_JS)
+
     def __exec_lua(self, filename):
         res = subprocess.Popen(['lua', filename], stderr=subprocess.PIPE)
         print('lua ' + filename)
+        err = res.stderr.read().decode()
+        res.stderr.close()
+        if err:
+            raise LuatableBotException(err)
+
+    def __exec_js(self, filename):
+        res = subprocess.Popen(['node', filename], stderr=subprocess.PIPE)
+        print('node ' + filename)
         err = res.stderr.read().decode()
         res.stderr.close()
         if err:
@@ -122,20 +135,21 @@ class LuatableBot:
         print('CheckLuatable: All the lua files is valid!')
 
     async def main(self):
-        await self.FetchDBS()
-        await self.Nedb2json()
-        await self.AkashiList()
-        await self.WikiwikiData()
-        await self.WikiaData()
+        # await self.FetchDBS()
+        # await self.BonusJson()
+        # await self.Nedb2json()
+        # await self.AkashiList()
+        # await self.WikiwikiData()
+        # await self.WikiaData()
         await self.ShipLuatable()
-        await self.ShinkaiLuatable()
-        await self.CheckLuatable()
-        KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
-        if KCWIKI_UPDATE:
-            KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
-            KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
-            wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
-            await self.WikiBotUpdate(wikiBot)
+        # await self.ShinkaiLuatable()
+        # await self.CheckLuatable()
+        # KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
+        # if KCWIKI_UPDATE:
+        #     KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
+        #     KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
+        #     wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
+        #     await self.WikiBotUpdate(wikiBot)
 
 
 if __name__ == '__main__':
