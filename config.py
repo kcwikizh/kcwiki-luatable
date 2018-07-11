@@ -41,5 +41,5 @@ SHINKAI_ITEMS_DATA = 'shinkai-items'
 WIKIWIKI_TABLE = 'wikiwiki_table.txt'
 
 # bonus
-BONUS_JS = 'bonus.js'
+BONUS_JS = 'Bonus.js'
 BONUS_JSON = 'bonus.json'
