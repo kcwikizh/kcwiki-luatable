@@ -135,21 +135,21 @@ class LuatableBot:
         print('CheckLuatable: All the lua files is valid!')
 
     async def main(self):
-        # await self.FetchDBS()
-        # await self.BonusJson()
-        # await self.Nedb2json()
-        # await self.AkashiList()
-        # await self.WikiwikiData()
-        # await self.WikiaData()
+        await self.FetchDBS()
+        await self.BonusJson()
+        await self.Nedb2json()
+        await self.AkashiList()
+        await self.WikiwikiData()
+        await self.WikiaData()
         await self.ShipLuatable()
-        # await self.ShinkaiLuatable()
-        # await self.CheckLuatable()
-        # KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
-        # if KCWIKI_UPDATE:
-        #     KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
-        #     KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
-        #     wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
-        #     await self.WikiBotUpdate(wikiBot)
+        await self.ShinkaiLuatable()
+        await self.CheckLuatable()
+        KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
+        if KCWIKI_UPDATE:
+            KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
+            KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
+            wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
+            await self.WikiBotUpdate(wikiBot)
 
 
 if __name__ == '__main__':
