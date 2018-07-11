@@ -13,10 +13,12 @@ update:
     LUA: lua=5.3
   before_script:
     - apt-get update
-    - apt-get install -y -qq unzip
+    - curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+    - apt-get install -y -qq unzip nodejs
     - pip install hererocks
     - hererocks lua_install -r^ --$LUA
     - export PATH=$PATH:$PWD/lua_install/bin
+    - node -v
     - python -V
     - pip --version
     - pip install -r requirements.txt
