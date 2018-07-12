@@ -431,6 +431,9 @@ class ShipLuatable:
             })
             idx += 1
 
+    def __get_shipname_byid(self, _id):
+        return self.SHIPS_DB[_id]['name']['zh_cn'] + self.__get_ship_namesuffix(self.SHIPS_DB[_id]['name']['suffix'], 'zh_cn')
+
     def __append_item_bonus(self, __item_id, bonuses):
         idx = 1
         for _bonus in bonuses:
@@ -449,6 +452,34 @@ class ShipLuatable:
                         for c in cb:
                             cbs.append(self.ITEMS_DB[c]['name']['zh_cn'])
                         bonus['装备组合'].append('/'.join(cbs))
+            _include = _bonus['ship']['include']
+            _exclude = _bonus['ship']['exclude']
+            include = []
+            exclude = []
+            if _include:
+                for itype in _include:
+                    if itype == 'id':
+                        for sid in _include[itype]:
+                            include.append(self.__get_shipname_byid(sid))
+                    elif itype == 'type':
+                        for tid in _include[itype]:
+                            include.append(self.SHIP_TYPES_DB[tid])
+                    elif itype == 'class':
+                        for cid in _include[itype]:
+                            include.append(self.SHIP_CLASSES_DB[cid]['name']['zh_cn'] + '级')
+                bonus['适用舰娘'] = include
+            if _exclude:
+                for itype in _exclude:
+                    if itype == 'id':
+                        for sid in _exclude[itype]:
+                            exclude.append(self.__get_shipname_byid(sid))
+                    elif itype == 'type':
+                        for tid in _exclude[itype]:
+                            exclude.append(self.SHIP_TYPES_DB[tid])
+                    elif itype == 'class':
+                        for cid in _exclude[itype]:
+                            exclude.append(self.SHIP_CLASSES_DB[cid]['name']['zh_cn'] + '级')
+                bonus['非适用舰娘'] = exclude
             if _bonus['bonus']['type'] == '-':
                 bonus['收益类型'] = '通用'
                 bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
