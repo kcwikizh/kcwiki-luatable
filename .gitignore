@@ -8,3 +8,5 @@ db/*
 !db/shinkai_extra.json
 output
 cache
+
+KCKit/*
