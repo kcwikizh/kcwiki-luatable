@@ -195,6 +195,10 @@ class AkashiListCrawler(HttpClient):
 
         content = ''
         async with self.session.get(requesturl) as res:
+            if res.status != 200:
+                self.ok_items += 1
+                print('Akashi-List: ({} / {}) {} miss!'.format(self.ok_items, self.tot_items, weaponid))
+                return
             content = await res.text()
         content_soup = BeautifulSoup(content, 'lxml')
         detail = dict()
@@ -559,6 +563,8 @@ class AkashiListCrawler(HttpClient):
         dones, pendings = await asyncio.wait(tasks)
         for task in dones:
             detail = task.result()
+            if not detail:
+                continue
             wp_id = int(detail['id'])
             self.weapon_list[wp_id] = detail
         print('Akashi-List: {} done, {} pendings.'.format(len(dones), len(pendings)))
