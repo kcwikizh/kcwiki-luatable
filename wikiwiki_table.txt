@@ -1271,6 +1271,26 @@
 |大発・内火艇・甲標的装備可
 |{{舰娘备注|200}}
 |-
+|277
+|天龍改二
+|84+建8開24
+|42
+|63
+|82
+|64
+|78
+|style="background-color: #FFFF99;"|89
+|70
+|53
+|17/77
+|3
+|短
+|25
+|style="background-color: #FFFF99;"|25
+|142
+|防空巡洋艦　カ号装備可水偵・副砲・大型電探装備不可
+|{{舰娘备注|277}}
+|-
 |278
 |龍田改二
 |80+建5開15
@@ -1299,7 +1319,7 @@
 |82
 |55
 |84
-|style="background-color: #FDE9D9;"|86
+|86
 |style="background-color: #FDE9D9;"|86
 |60
 |17/72
@@ -1319,7 +1339,7 @@
 |style="background-color: #FDE9D9;"|83
 |53
 |80
-|style="background-color: #FFFF99;"|88
+|style="background-color: #FDE9D9;"|88
 |83
 |style="background-color: #FDE9D9;"|63
 |16/70
