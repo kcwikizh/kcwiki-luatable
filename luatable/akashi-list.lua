@@ -91,14 +91,26 @@ k.EquipUpdateTb = {
 							0,
 							0,
 							1,
-							0
+							1
+						}
+					},
+					{
+						["support_ship"] = "如月改二",
+						["support_weeks"] = {
+							0,
+							0,
+							0,
+							0,
+							0,
+							0,
+							1
 						}
 					}
 				},
 				["resource_cost"] = {
 					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / ?",
-						["remodelkit_num"] = "1 / ?",
+						["buildkit_num"] = "2 / 2",
+						["remodelkit_num"] = "1 / 2",
 						["equipkit"] = {
 							"12cm単装砲 × 1"
 						}
@@ -10865,7 +10877,7 @@ k.EquipUpdateTb = {
 							0,
 							0,
 							1,
-							0
+							1
 						}
 					}
 				},
@@ -10874,7 +10886,7 @@ k.EquipUpdateTb = {
 						["buildkit_num"] = "3 / 3",
 						["remodelkit_num"] = "2 / 3",
 						["equipkit"] = {
-							"12.7cm連装高角砲(後期型) × 1"
+							"12.7cm連装高角砲 × 1"
 						}
 					},
 					["6 ～ 9"] = {
