@@ -178,10 +178,10 @@
             <a class="single-column" id="toggle" title="click to toggle the view"></a>
         </header>
         <ul id="files">
-            {% for file in files %}
+            {% for name, size in files %}
             <li>
-                <a href="{{ file[0] }}" title="{{ file[0] }}" class="json">{{ file[0] }}</a>
-                <i>{{ file[1] }}</i>
+                <a href="{{ name }}" title="{{ name }}" class="json">{{ name }}</a>
+                <i>{{ size }}</i>
             </li>
             {% endfor %}
         </ul>

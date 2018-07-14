@@ -117,4 +117,4 @@ class SeasonalCrawler(HttpClient):
 
         now = datetime.datetime.now(TIMEZONE)
         with open(OUPUT_PATH + SEASONAL_PATH + 'index.html', 'w') as fp:
-            fp.write(self.template.render(update=now.strftime('%Y-%m-%d %H:%M:%S'), files=files))
+            fp.write(self.template.render(update=now.strftime('%Y-%m-%d %H:%M:%S'), files=sorted(files)))
