@@ -1,7 +1,18 @@
+import pytz
+
 # global
 DB_PATH = 'db/'
 OUPUT_PATH = 'output/'
 SCRIPTS_PATH = 'scripts/'
+LUATABLE_PATH = 'luatable/'
+JSON_PATH = 'json/'
+DOCS_PATH = 'docs/'
+
+# timezone
+TIMEZONE =  pytz.timezone('Asia/Shanghai')
+
+# seasonal
+SEASONAL_PATH = 'seasonal/'
 
 # akashiListCrawler
 AKASHI_LIST_URL = 'https://akashi-list.me'
@@ -43,6 +54,3 @@ WIKIWIKI_TABLE = 'wikiwiki_table.txt'
 # bonus
 BONUS_JS = 'bonus.js'
 BONUS_JSON = 'bonus.json'
-
-# seasonal
-SEASONAL_PATH = 'seasonal/'

@@ -1,10 +1,9 @@
-from os import path
 import asyncio
+from os import path
 
-from HttpClient import HttpClient
 from config import DB_PATH
-
-SUFFIXS = ['B', 'KB', 'MB', 'GB']
+from HttpClient import HttpClient
+from utils import to_filesize
 
 
 class DBDownloader(HttpClient):
@@ -26,11 +25,7 @@ class DBDownloader(HttpClient):
                 content = await resp.text()
                 fp.write(content)
                 size = len(content)
-        suff_idx = 0
-        while size > 1024:
-            size /= 1024
-            suff_idx += 1
-        print('DBDownloader: {} ({}{}) ok!'.format(dest, round(size, 2), SUFFIXS[suff_idx]))
+        print('DBDownloader: {} ({}) ok!'.format(dest, to_filesize(size)))
 
     async def start(self):
         tasks = []

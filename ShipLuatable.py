@@ -3,10 +3,11 @@ import json
 
 from config import (AKASHI_LIST_OUTPUT_JSON, BONUS_JSON, DB_PATH, ENTITIES_DB,
                     ITEM_REMARKS_EXTRA, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB,
-                    KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON, OUPUT_PATH,
-                    SHIP_CLASSES_DB, SHIP_NAMESUFFIX_DB, SHIP_REMODEL_EXTRA,
-                    SHIP_SERIES_DB, SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB,
-                    SHIPS_DATA, SHIPS_DB)
+                    JSON_PATH, KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
+                    LUATABLE_PATH, OUPUT_PATH, SHIP_CLASSES_DB,
+                    SHIP_NAMESUFFIX_DB, SHIP_REMODEL_EXTRA, SHIP_SERIES_DB,
+                    SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DATA,
+                    SHIPS_DB)
 from utils import jsonFile2dic, luatable, sortDict
 
 STYPE = {
@@ -256,13 +257,13 @@ class ShipLuatable:
         ships_luatable += luatable(self.ships_data)
         ships_luatable += '\n'
         ships_luatable += '\nreturn d\n'
-        with open(OUPUT_PATH + SHIPS_DATA + '.lua', 'w', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + LUATABLE_PATH + SHIPS_DATA + '.lua', 'w', encoding='utf-8') as fp:
             fp.write(ships_luatable)
-        with open(OUPUT_PATH + SHIPS_DATA + '.json', 'w', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + JSON_PATH + SHIPS_DATA + '.json', 'w', encoding='utf-8') as fp:
             json.dump(self.ships_data, fp, ensure_ascii=False, indent=4)
 
     def __load_akashi_list(self):
-        with open(OUPUT_PATH + AKASHI_LIST_OUTPUT_JSON, 'r', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + JSON_PATH + AKASHI_LIST_OUTPUT_JSON, 'r', encoding='utf-8') as fp:
             akashiList = json.load(fp)['items']
             for key, val in akashiList.items():
                 self.ITEM_LINKS[int(key)] = {
@@ -557,9 +558,9 @@ class ShipLuatable:
         items_luatable += luatable(self.items_data)
         items_luatable += '\n'
         items_luatable += '\nreturn d\n'
-        with open(OUPUT_PATH + ITEMS_DATA + '.lua', 'w', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua', 'w', encoding='utf-8') as fp:
             fp.write(items_luatable)
-        with open(OUPUT_PATH + ITEMS_DATA + '.json', 'w', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + JSON_PATH + ITEMS_DATA + '.json', 'w', encoding='utf-8') as fp:
             json.dump(self.items_data, fp, ensure_ascii=False, indent=4)
 
     def start(self):

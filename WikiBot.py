@@ -1,9 +1,8 @@
 import datetime
 
-import pytz
-
-from config import (AKASHI_LIST_OUTPUT_LUA, ITEMS_DATA, OUPUT_PATH,
-                    SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA, SHIPS_DATA)
+from config import (AKASHI_LIST_OUTPUT_LUA, ITEMS_DATA, LUATABLE_PATH,
+                    OUPUT_PATH, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
+                    SHIPS_DATA, TIMEZONE)
 from HttpClient import HttpClient
 
 
@@ -22,7 +21,6 @@ class WikiBot(HttpClient):
 
     def __init__(self, username, password):
         super().__init__()
-        self.tz = pytz.timezone('Asia/Shanghai')
         self.loginToken = ''
         self.editToken = ''
         self.username = username
@@ -78,7 +76,7 @@ class WikiBot(HttpClient):
         print('Wiki-Bot: Login Successfully!')
 
     async def updatePage(self, page_title, filename):
-        now = datetime.datetime.now(self.tz)
+        now = datetime.datetime.now(TIMEZONE)
         comment = 'KcWiki Robot: Update {}'.format(now.strftime('%Y-%m-%d %H:%M:%S'))
         rdata = {
             'action': 'edit',
@@ -103,8 +101,8 @@ class WikiBot(HttpClient):
 
     async def start(self):
         await self.login()
-        await self.updatePage('模块:舰娘数据', OUPUT_PATH + SHIPS_DATA + '.lua')
-        await self.updatePage('模块:舰娘装备数据改', OUPUT_PATH + ITEMS_DATA + '.lua')
-        await self.updatePage('模块:深海装备数据', OUPUT_PATH + SHINKAI_ITEMS_DATA + '.lua')
-        await self.updatePage('模块:深海栖舰数据改二', OUPUT_PATH + SHINKAI_SHIPS_DATA + '.lua')
-        await self.updatePage('模块:明石工厂数据', OUPUT_PATH + AKASHI_LIST_OUTPUT_LUA)
+        await self.updatePage('模块:舰娘数据', OUPUT_PATH + LUATABLE_PATH + SHIPS_DATA + '.lua')
+        await self.updatePage('模块:舰娘装备数据改', OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua')
+        await self.updatePage('模块:深海装备数据', OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')
+        await self.updatePage('模块:深海栖舰数据改二', OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua')
+        await self.updatePage('模块:明石工厂数据', OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA)

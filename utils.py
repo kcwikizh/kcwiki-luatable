@@ -83,3 +83,14 @@ def luatable(data, layer=1, tab='\t', indent=False):
             idx += 1
         ret += '\n' + (tab * (layer - 1)) + '}'
     return ret
+
+
+SUFFIXS = ['B', 'KB', 'MB', 'GB']
+
+
+def to_filesize(size):
+    suff_idx = 0
+    while size > 1024:
+        size /= 1024
+        suff_idx += 1
+    return '{} {}'.format(round(size, 2), SUFFIXS[suff_idx])

@@ -1,10 +1,16 @@
 import asyncio
+import datetime
 import json
+
+import pytz
+from jinja2 import Template
+
 import lxml
 from bs4 import BeautifulSoup, element
 
+from config import DOCS_PATH, OUPUT_PATH, SEASONAL_PATH, TIMEZONE
 from HttpClient import HttpClient
-from config import OUPUT_PATH, SEASONAL_PATH
+from utils import to_filesize
 
 CATEGORY_URL = 'https://zh.kcwiki.org/wiki/Special:前缀索引/季节性/'
 KCWIKI_URL = 'https://zh.kcwiki.org/wiki/{}?action=raw'
@@ -16,6 +22,8 @@ class SeasonalCrawler(HttpClient):
         super().__init__()
         self.categories = []
         self.seasonals = {}
+        with open(DOCS_PATH + 'seasonal.html', 'r') as fp:
+            self.template = Template(fp.read())
 
     def __get_text(self, node):
         if not node:
@@ -82,7 +90,7 @@ class SeasonalCrawler(HttpClient):
             cnt += 1
             self.seasonals[wiki_id][key][arch_name] = item
 
-        print('[SeasonalSubtitles]: {} - {} 条语音。'.format(key, cnt))
+        print('Seasonal: {} - {} 条语音。'.format(key, cnt))
 
     async def __fetch_seasonal(self, category):
         seasonal_key = category[4:]
@@ -97,6 +105,16 @@ class SeasonalCrawler(HttpClient):
         for category in self.categories:
             tasks.append(asyncio.ensure_future(self.__fetch_seasonal(category)))
         await asyncio.wait(tasks)
+    
+        files = []
         for wiki_id, subtitles in self.seasonals.items():
-            with open(OUPUT_PATH + SEASONAL_PATH + '{}.json'.format(wiki_id), 'w') as fp:
-                json.dump(subtitles, fp, ensure_ascii=False, sort_keys=True, indent=2)
+            file_name = '{}.json'.format(wiki_id)
+            with open(OUPUT_PATH + SEASONAL_PATH + file_name, 'w') as fp:
+                data = json.dumps(subtitles, ensure_ascii=False, sort_keys=True, indent=2)
+                file_size = to_filesize(len(data))
+                fp.write(data)
+                files.append([file_name, file_size])
+
+        now = datetime.datetime.now(TIMEZONE)
+        with open(OUPUT_PATH + SEASONAL_PATH + 'index.html', 'w') as fp:
+            fp.write(self.template.render(update=now.strftime('%Y-%m-%d %H:%M:%S'), files=files))

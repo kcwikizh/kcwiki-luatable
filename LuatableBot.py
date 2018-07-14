@@ -8,12 +8,13 @@ import time
 from os import environ, path
 
 from config import (AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH, ENTITIES_DB,
-                    ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB, KCDATA_SHIP_ALL_JSON,
-                    KCDATA_SLOTITEM_ALL_JSON, OUPUT_PATH, SCRIPTS_PATH,
+                    ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB, JSON_PATH,
+                    KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
+                    LUATABLE_PATH, OUPUT_PATH, SCRIPTS_PATH, SEASONAL_PATH,
                     SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA, SHIP_CLASSES_DB,
                     SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
                     SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DATA,
-                    SHIPS_DB, SEASONAL_PATH)
+                    SHIPS_DB)
 from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler,
                       WikiwikiCrawler)
 from DBDownloader import DBDownloader
@@ -46,6 +47,10 @@ class LuatableBot:
             os.mkdir(DB_PATH)
         if not path.isdir(OUPUT_PATH):
             os.mkdir(OUPUT_PATH)
+        if not path.isdir(OUPUT_PATH + LUATABLE_PATH):
+            os.mkdir(OUPUT_PATH + LUATABLE_PATH)
+        if not path.isdir(OUPUT_PATH + JSON_PATH):
+            os.mkdir(OUPUT_PATH + JSON_PATH)
         if not path.isdir(OUPUT_PATH + SEASONAL_PATH):
             os.mkdir(OUPUT_PATH + SEASONAL_PATH)
 
@@ -133,11 +138,11 @@ class LuatableBot:
 
     @LuatableBotTask
     async def CheckLuatable(self):
-        self.__exec_lua(OUPUT_PATH + SHIPS_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + ITEMS_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + SHINKAI_ITEMS_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + SHINKAI_SHIPS_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + AKASHI_LIST_OUTPUT_LUA)
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIPS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA)
         print('CheckLuatable: All the lua files is valid!')
 
     async def main(self):

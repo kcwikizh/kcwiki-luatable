@@ -10,7 +10,8 @@ from bs4 import BeautifulSoup, element
 
 import utils
 from config import (AKASHI_LIST_OUTPUT_JSON, AKASHI_LIST_OUTPUT_LUA,
-                    AKASHI_LIST_URL, DB_PATH, OUPUT_PATH)
+                    AKASHI_LIST_URL, DB_PATH, JSON_PATH, LUATABLE_PATH,
+                    OUPUT_PATH)
 from HttpClient import HttpClient
 
 
@@ -568,7 +569,7 @@ class AkashiListCrawler(HttpClient):
             self.weapon_list[wp_id] = detail
         print('Akashi-List: {} done, {} pendings.'.format(len(dones), len(pendings)))
         akashi_json['items'] = self.weapon_list
-        with open(OUPUT_PATH + AKASHI_LIST_OUTPUT_JSON, 'w', encoding='utf_8') as fjson:
+        with open(OUPUT_PATH + JSON_PATH + AKASHI_LIST_OUTPUT_JSON, 'w', encoding='utf_8') as fjson:
             json.dump(akashi_json, fjson, ensure_ascii=False,
                       indent=2, sort_keys=True)
         weapon_list = OrderedDict()
@@ -576,5 +577,5 @@ class AkashiListCrawler(HttpClient):
             weapon_list[item_id] = item_info
         self.weapon_list = weapon_list
         lua_table = self.gen_luatable()
-        with open(OUPUT_PATH + AKASHI_LIST_OUTPUT_LUA, 'w', encoding='utf-8') as flua:
+        with open(OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA, 'w', encoding='utf-8') as flua:
             flua.write(lua_table)

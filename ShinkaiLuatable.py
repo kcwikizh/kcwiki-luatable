@@ -2,9 +2,10 @@ import asyncio
 import json
 import re
 
-from config import (DB_PATH, KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
-                    OUPUT_PATH, SHINKAI_EXTRA_JSON, SHINKAI_ITEMS_DATA,
-                    SHINKAI_SHIPS_DATA, WIKIA_OUTPUT_JSON)
+from config import (DB_PATH, JSON_PATH, KCDATA_SHIP_ALL_JSON,
+                    KCDATA_SLOTITEM_ALL_JSON, LUATABLE_PATH, OUPUT_PATH,
+                    SHINKAI_EXTRA_JSON, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
+                    WIKIA_OUTPUT_JSON)
 from HttpClient import HttpClient
 from slpp import slpp as lua
 from utils import jsonFile2dic, luatable, sortDict
@@ -128,9 +129,9 @@ class ShinkaiLuatable(HttpClient):
         items_luatable += luatable(self.items_data)
         items_luatable += '\n'
         items_luatable += '\nreturn d\n'
-        with open(OUPUT_PATH + SHINKAI_ITEMS_DATA + '.lua', 'w', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua', 'w', encoding='utf-8') as fp:
             fp.write(items_luatable)
-        with open(OUPUT_PATH + SHINKAI_ITEMS_DATA + '.json', 'w', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + JSON_PATH + SHINKAI_ITEMS_DATA + '.json', 'w', encoding='utf-8') as fp:
             json.dump(self.items_data, fp, ensure_ascii=False, indent=4)
 
     async def __get_allships(self):
@@ -271,9 +272,9 @@ class ShinkaiLuatable(HttpClient):
         ships_luatable += luatable(self.ships_data)
         ships_luatable += '\n'
         ships_luatable += '\nreturn d\n'
-        with open(OUPUT_PATH + SHINKAI_SHIPS_DATA + '.lua', 'w', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua', 'w', encoding='utf-8') as fp:
             fp.write(ships_luatable)
-        with open(OUPUT_PATH + SHINKAI_SHIPS_DATA + '.json', 'w', encoding='utf-8') as fp:
+        with open(OUPUT_PATH + JSON_PATH + SHINKAI_SHIPS_DATA + '.json', 'w', encoding='utf-8') as fp:
             json.dump(self.ships_data, fp, ensure_ascii=False, indent=4)
 
     async def start(self):
