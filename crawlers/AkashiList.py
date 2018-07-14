@@ -5,7 +5,6 @@ import re
 import time
 from collections import OrderedDict
 
-import aiohttp
 import lxml
 from bs4 import BeautifulSoup, element
 
