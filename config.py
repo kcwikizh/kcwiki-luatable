@@ -43,3 +43,6 @@ WIKIWIKI_TABLE = 'wikiwiki_table.txt'
 # bonus
 BONUS_JS = 'bonus.js'
 BONUS_JSON = 'bonus.json'
+
+# seasonal
+SEASONAL_PATH = 'seasonal/'
