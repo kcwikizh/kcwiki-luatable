@@ -85,16 +85,21 @@ class SeasonalCrawler(HttpClient):
             if line.startswith('}}'):
                 continue
             line = line[1:]
-            spt = line.split('=')
-            attr = spt[0].strip()
-            value = spt[-1].strip()
-            if not value:
-                value = ''
-            value = re.sub(r'<(.*)>.*?</\1>', '', value)
-            value = re.sub(r'<.*?/>', '', value)
-            value = re.sub(r'<.*?>', '', value)
-            value = re.sub(r'{{.*\|(.*?)\|(.*?)}}', r'\1(\2)', value)
-            tmp[attr] = value
+            attr = ''
+            val = ''
+            iidx = 0
+            while iidx < len(line):
+                if line[iidx] == '=':
+                    iidx += 1
+                    break
+                iidx += 1
+            attr = line[:iidx - 1].strip()
+            val = line[iidx:].strip()
+            val = re.sub(r'<(.*)>.*?</\1>', '', val)
+            val = re.sub(r'<.*?/>', '', val)
+            val = re.sub(r'<.*?>', '', val)
+            val = re.sub(r'{{ruby-zh\|(.*?)\|(.*?)}}', r'\1(\2)', val)
+            tmp[attr] = val
         for item in items:
             wid = item['编号']
             arch = item['档名']
