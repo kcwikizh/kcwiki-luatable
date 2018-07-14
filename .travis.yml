@@ -25,8 +25,8 @@ before_deploy:
   - cp docs/style.css output/style.css
 deploy:
   provider: pages
-  name: MZI
-  email: macchenjl@foxmail.com
+  name: kcwikizh
+  email: dev@kcwiki.moe
   github_token: $GITHUB_TOKEN
   skip-cleanup: true
   keep-history: true
