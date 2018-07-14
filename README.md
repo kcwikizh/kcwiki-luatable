@@ -14,4 +14,4 @@ kcwiki lua模块数据机器人🤖️
 |深海敌舰数据|[shinkai-ships.lua](https://mzichenjl.github.io/kcwiki-luatable/luatable/shinkai-ships.lua)|[shinkai-ships.json](https://mzichenjl.github.io/kcwiki-luatable/json/shinkai-ships.json)|
 |深海装备数据|[shinkai-items.lua](https://mzichenjl.github.io/kcwiki-luatable/luatable/shinkai-items.lua)|[shinkai-items.json](https://mzichenjl.github.io/kcwiki-luatable/json/shinkai-items.json)|
 |明石工厂数据|[akashi-list.lua](https://mzichenjl.github.io/kcwiki-luatable/luatable/akashi-list.lua)|[akashi-list.json](https://mzichenjl.github.io/kcwiki-luatable/json/akashi-list.json)|
-|季节性语音数据|-|[akashi-list.json](https://mzichenjl.github.io/kcwiki-luatable/seasonal)|
+|季节性语音数据|-|[seasonal](https://mzichenjl.github.io/kcwiki-luatable/seasonal)|
