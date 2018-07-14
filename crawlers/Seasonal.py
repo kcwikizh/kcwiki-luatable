@@ -90,6 +90,10 @@ class SeasonalCrawler(HttpClient):
             value = spt[-1].strip()
             if not value:
                 value = ''
+            value = re.sub(r'<(.*)>.*?</\1>', '', value)
+            value = re.sub(r'<.*?/>', '', value)
+            value = re.sub(r'<.*?>', '', value)
+            value = re.sub(r'{{.*\|(.*?)\|(.*?)}}', r'\1(\2)', value)
             tmp[attr] = value
         for item in items:
             wid = item['编号']
