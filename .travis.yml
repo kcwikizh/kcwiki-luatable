@@ -23,6 +23,7 @@ script:
 before_deploy:
   - cp docs/index.html output/index.html
   - cp docs/style.css output/style.css
+  - cp CNAME output/CNAME
 deploy:
   provider: pages
   name: kcwikizh
