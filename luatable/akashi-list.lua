@@ -86,7 +86,7 @@ k.EquipUpdateTb = {
 						["support_ship"] = "睦月改二",
 						["support_weeks"] = {
 							1,
-							0,
+							1,
 							0,
 							0,
 							0,
@@ -98,7 +98,7 @@ k.EquipUpdateTb = {
 						["support_ship"] = "如月改二",
 						["support_weeks"] = {
 							1,
-							0,
+							1,
 							0,
 							0,
 							0,
@@ -130,8 +130,8 @@ k.EquipUpdateTb = {
 				},
 				["upgrade"] = {
 					["cost"] = {
-						["buildkit_num"] = "? / ?",
-						["remodelkit_num"] = "? / ?",
+						["buildkit_num"] = "2 / ?",
+						["remodelkit_num"] = "2 / ?",
 						["equipkit"] = {
 							"22号対水上電探 × 1"
 						}
@@ -7875,6 +7875,105 @@ k.EquipUpdateTb = {
 				"長門改二"
 			}
 		},
+		["item_bonus"] = {
+			["-"] = "重複可",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"夕立改二"
+					},
+					["bonus"] = {
+						"火力+1",
+						"対空+1",
+						"雷装+1",
+						"回避+2"
+					}
+				},
+				{
+					["ships"] = {
+						"時雨改二"
+					},
+					["bonus"] = {
+						"火力+1"
+					}
+				},
+				{
+					["ships"] = {
+						"江風改二"
+					},
+					["bonus"] = {
+						"回避+2"
+					}
+				},
+				{
+					["ships"] = {
+						"綾波型",
+						"暁型",
+						"初春型"
+					},
+					["bonus"] = {
+						"対空+1"
+					}
+				},
+				{
+					["ships"] = {
+						"白露改",
+						"白露改二",
+						"村雨改二"
+					},
+					["bonus"] = {
+						"回避+1"
+					}
+				},
+				{
+					["ships"] = {
+						"夕立改二"
+					},
+					["bonus"] = {
+						"火力+1",
+						"対空+1",
+						"雷装+1",
+						"回避+2"
+					}
+				},
+				{
+					["ships"] = {
+						"時雨改二"
+					},
+					["bonus"] = {
+						"火力+1"
+					}
+				},
+				{
+					["ships"] = {
+						"江風改二"
+					},
+					["bonus"] = {
+						"回避+2"
+					}
+				},
+				{
+					["ships"] = {
+						"綾波型",
+						"暁型",
+						"初春型"
+					},
+					["bonus"] = {
+						"対空+1"
+					}
+				},
+				{
+					["ships"] = {
+						"白露改",
+						"白露改二",
+						"村雨改二"
+					},
+					["bonus"] = {
+						"回避+1"
+					}
+				}
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.00",
@@ -10513,7 +10612,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"鳥海改二(Lv65)"
+			"鳥海改二(Lv65)",
+			"白露改二(Lv77)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?22%B9%E6%C2%D0%BF%E5%BE%E5%C5%C5%C3%B5%B2%FE%BB%CD",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar_Kai_4"
@@ -10932,7 +11032,7 @@ k.EquipUpdateTb = {
 						["support_ship"] = "天龍改二",
 						["support_weeks"] = {
 							1,
-							0,
+							1,
 							0,
 							0,
 							0,
@@ -10993,7 +11093,8 @@ k.EquipUpdateTb = {
 			"多摩改二(Lv70)",
 			"阿武隈改二(Lv75)",
 			"鬼怒改二(Lv75)",
-			"龍田改二(Lv80)"
+			"龍田改二(Lv80)",
+			"天龍改二(Lv84)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%B9%E2%B3%D1%CB%A4%28%B8%E5%B4%FC%B7%BF%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_High-angle_Gun_Mount_%28Late_Model%29"
@@ -12402,6 +12503,7 @@ k.EquipUpdateTb = {
 			"皐月改二(Lv75)",
 			"阿武隈改二(Lv75)",
 			"文月改二(Lv77)",
+			"夕雲改二(Lv77)",
 			"隼鷹改二(Lv80)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?13%B9%E6%C2%D0%B6%F5%C5%C5%C3%B5%B2%FE",
@@ -23033,7 +23135,8 @@ k.EquipUpdateTb = {
 			"占守改(Lv40)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
-			"浦風丁改(Lv69)"
+			"浦風丁改(Lv69)",
+			"白露改二(Lv77)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%B8%DE%BC%B0%C7%FA%CD%EB",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_95_Depth_Charge"
@@ -25822,7 +25925,8 @@ k.EquipUpdateTb = {
 			"陽炎改二(Lv70)",
 			"不知火改二(Lv72)",
 			"黒潮改二(Lv73)",
-			"満潮改二(Lv77)"
+			"満潮改二(Lv77)",
+			"白露改二(Lv77)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%CB%A4C%B7%BF%B2%FE%C6%F3",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_C_Kai_2"
@@ -26018,7 +26122,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"長波改二(Lv75)"
+			"長波改二(Lv75)",
+			"夕雲改二(Lv75)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%CB%A4D%B7%BF%B2%FE%C6%F3",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2"
@@ -28867,9 +28972,10 @@ k.EquipUpdateTb = {
 			["対潜"] = "",
 			["索敵"] = "",
 			["命中"] = "+1",
-			["回避"] = "+1",
+			["回避"] = "",
 			["艦隊防空"] = "+2.8",
-			["射程"] = "短"
+			["射程"] = "短",
+			["装甲"] = "+1"
 		},
 		["item_equip"] = {
 			["駆逐艦"] = 1,
@@ -28914,9 +29020,10 @@ k.EquipUpdateTb = {
 			["対潜"] = "",
 			["索敵"] = "",
 			["命中"] = "+1",
-			["回避"] = "+1",
+			["回避"] = "",
 			["艦隊防空"] = "+3.1",
-			["射程"] = "短"
+			["射程"] = "短",
+			["装甲"] = "+1"
 		},
 		["item_equip"] = {
 			["駆逐艦"] = 1,
