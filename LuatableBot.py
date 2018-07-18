@@ -15,8 +15,7 @@ from config import (AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH, ENTITIES_DB,
                     SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
                     SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DATA,
                     SHIPS_DB)
-from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler,
-                      WikiwikiCrawler)
+from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler)
 from DBDownloader import DBDownloader
 from ShinkaiLuatable import ShinkaiLuatable
 from ShipLuatable import ShipLuatable
@@ -88,11 +87,6 @@ class LuatableBot:
         await akashiListCrawler.start()
 
     @LuatableBotTask
-    async def WikiwikiData(self):
-        wikiwikiCrawler = WikiwikiCrawler()
-        await wikiwikiCrawler.start()
-
-    @LuatableBotTask
     async def WikiaData(self):
         wikiaCrawler = WikiaCrawler()
         await wikiaCrawler.start()
@@ -151,7 +145,6 @@ class LuatableBot:
         await self.Nedb2json()
         await self.SeasonalSubtitles()
         await self.AkashiList()
-        await self.WikiwikiData()
         await self.WikiaData()
         await self.ShipLuatable()
         await self.ShinkaiLuatable()
