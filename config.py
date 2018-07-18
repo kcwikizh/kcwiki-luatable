@@ -48,9 +48,6 @@ ITEMS_DATA = 'items'
 SHINKAI_SHIPS_DATA = 'shinkai-ships'
 SHINKAI_ITEMS_DATA = 'shinkai-items'
 
-# wikiwiki table
-WIKIWIKI_TABLE = 'wikiwiki_table.txt'
-
 # bonus
 BONUS_JS = 'bonus.js'
 BONUS_JSON = 'bonus.json'
