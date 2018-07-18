@@ -88,8 +88,8 @@ k.EquipUpdateTb = {
 							1,
 							1,
 							1,
-							0,
-							0,
+							1,
+							1,
 							1,
 							1
 						}
@@ -100,8 +100,8 @@ k.EquipUpdateTb = {
 							1,
 							1,
 							1,
-							0,
-							0,
+							1,
+							1,
 							0,
 							1
 						}
@@ -130,8 +130,8 @@ k.EquipUpdateTb = {
 				},
 				["upgrade"] = {
 					["cost"] = {
-						["buildkit_num"] = "2 / ?",
-						["remodelkit_num"] = "2 / ?",
+						["buildkit_num"] = "2 / 4",
+						["remodelkit_num"] = "2 / 6",
 						["equipkit"] = {
 							"22号対水上電探 × 1"
 						}
@@ -11023,7 +11023,7 @@ k.EquipUpdateTb = {
 							0,
 							0,
 							0,
-							0,
+							1,
 							0,
 							0
 						}
@@ -11034,8 +11034,8 @@ k.EquipUpdateTb = {
 							1,
 							1,
 							1,
-							0,
-							0,
+							1,
+							1,
 							1,
 							1
 						}
