@@ -104,51 +104,62 @@ class WikiwikiCrawler(HttpClient):
             soup = BeautifulSoup(content, 'lxml')
             table_containers = soup.select('h2#h2_content_1_17 ~ table')
             for table_container in table_containers:
-                title = self.__getInnerText(table_container.select_one(
-                    'tr:nth-of-type(1) > td:nth-of-type(3)'))
+                title = self.__getInnerText(table_container.select_one('tr:nth-of-type(1) > td:nth-of-type(3)'))
                 table = table_container.select_one('table.style_table')
                 trs = table.select('tr')
-                ths = []
                 tdata = []
-                for th in trs[0]:
-                    cnt = 1
-                    if 'colspan' in th.attrs:
-                        cnt = int(th.attrs['colspan'])
-                    ths.append({
-                        'val': self.__getInnerText(th),
-                        'cnt': cnt
-                    })
                 for tr in trs:
                     trdata = []
                     tds = tr.select('td')
-
+                    ths = tr.select('th')
                     for td in tds:
                         cnt = 1
+                        style = ''
                         if 'rowspan' in td.attrs:
                             cnt = int(td.attrs['rowspan'])
+                        if 'style' in td.attrs and td.attrs['style'].find('color') != -1:
+                            style = td.attrs['style']
                         trdata.append({
                             'val': self.__getInnerText(td),
-                            'cnt': cnt
+                            'cnt': cnt,
+                            'style': style,
+                            'tag': 'td'
+                        })
+                    for th in ths:
+                        cnt = 1
+                        style = ''
+                        if 'colspan' in th.attrs:
+                            cnt = int(th.attrs['colspan'])
+                        if 'style' in th.attrs and th.attrs['style'].find('color') != -1:
+                            style = th.attrs['style']
+                        trdata.append({
+                            'val': self.__getInnerText(th),
+                            'cnt': cnt,
+                            'style': style,
+                            'tag': 'th'
                         })
                     if not trdata:
                         continue
                     tdata.append(trdata)
-                self.__genCompareHTML(title, ths, tdata)
+                self.__genCompareHTML(title, tdata)
 
-    def __genCompareHTML(self, title, thead, tbody):
+    def __genCompareHTML(self, title, tdata):
         html = f'=={title}==\n{{| class="wikitable sortable"\n'
-        for th in thead:
-            if th['cnt'] > 1:
-                html += f"!colspan=\"{th['cnt']}\"|{th['val']}\n"
-            else:
-                html += f"!{th['val']}\n"
-        for tr in tbody:
+        for tr in tdata:
             html += '|-\n'
-            for td in tr:
-                if td['cnt'] > 1:
-                    html += f"|rowspan=\"{td['cnt']}\"| {td['val']}\n"
+            for ti in tr:
+                sp = '|'
+                span = 'rowspan'
+                style = ''
+                if ti['tag'] == 'th':
+                    sp = '!'
+                    span = 'colspan'
+                if ti['style']:
+                    style = f"style=\"{ti['style']}\"|"
+                if ti['cnt'] > 1:
+                    html += f"{sp}{style}{span}=\"{ti['cnt']}\"| {ti['val']}\n"
                 else:
-                    html += f"| {td['val']}\n"
+                    html += f"{sp}{style} {ti['val']}\n"
         html += '|}\n'
         self.fpCompare.write(html)
 
