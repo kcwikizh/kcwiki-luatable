@@ -6,6 +6,7 @@ db/*
 !db/item_remarks.json
 !db/ship_remodel.json
 !db/shinkai_extra.json
+!db/wikiwiki_translation.json
 output
 cache
 
