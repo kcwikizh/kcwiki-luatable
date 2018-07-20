@@ -51,3 +51,8 @@ SHINKAI_ITEMS_DATA = 'shinkai-items'
 # bonus
 BONUS_JS = 'bonus.js'
 BONUS_JSON = 'bonus.json'
+
+# wikiwiki subtitles
+WIKIWIKI_TRANSLATION = 'wikiwiki_translation.json'
+WIKIWIKI_MaxValue_TABLE = 'wikiwiki_MaxValue_table.txt'
+WIKIWIKI_Compare_TABLE = 'wikiwiki_Compare_table.txt'

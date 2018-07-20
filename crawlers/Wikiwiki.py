@@ -3,11 +3,53 @@ import json
 
 from bs4 import BeautifulSoup, element
 
-from config import OUPUT_PATH
+from config import (DB_PATH, OUPUT_PATH, WIKIWIKI_TRANSLATION,
+                    WIKIWIKI_Compare_TABLE, WIKIWIKI_MaxValue_TABLE)
 from HttpClient import HttpClient
 
-WIKIWIKI_MaxValue_TABLE = 'wikiwiki_MaxValue_table.txt'
-WIKIWIKI_Compare_TABLE = 'wikiwiki_Compare_table.txt'
+TRANSLATION = {}
+
+with open(DB_PATH + WIKIWIKI_TRANSLATION, 'r', encoding='utf-8') as fp:
+    TRANSLATION = json.load(fp)
+
+class TBlock:
+    @staticmethod
+    def getInnerText(node):
+        if not node:
+            return ''
+        if isinstance(node, element.NavigableString):
+            return node.string.strip()
+        return node.get_text().strip()
+
+    def __init__(self, tag, block):
+        self.value = self.getInnerText(block)
+        if self.value in TRANSLATION:
+            self.value = TRANSLATION[self.value]
+        self.tag = tag
+        self.style = ''
+        self.colspan = 1
+        self.rowspan = 1
+        if 'style' in block.attrs and block.attrs['style'].find('color') != -1:
+            self.style = block.attrs['style']
+        if 'colspan' in block.attrs:
+            self.colspan = int(block.attrs['colspan'])
+        if 'rowspan' in block.attrs:
+            self.rowspan = int(block.attrs['rowspan'])
+
+    def __str__(self):
+        style = self.style
+        if style:
+            style = f'style=\"{style}\"|'
+        if self.rowspan > 1:
+            style += f'rowspan=\"{self.rowspan}\"|'
+        if self.colspan > 1:
+            style += f'colspan=\"{self.colspan}\"|'
+        if self.tag == 'th':
+            return f'!{style} {self.value}\n'
+        elif self.tag == 'td':
+            return f'|{style} {self.value}\n'
+        else:
+            return ''
 
 
 class WikiwikiCrawler(HttpClient):
@@ -31,38 +73,6 @@ class WikiwikiCrawler(HttpClient):
         self.fpMaxValue.close()
         self.fpCompare.close()
 
-    def __getInnerText(self, node):
-        if not node:
-            return ''
-        if isinstance(node, element.NavigableString):
-            return node.string.strip()
-        return node.get_text().strip()
-
-    def __genMaxValueHTML(self, title, thead, table):
-        colors = ['#FFFF99', '#FDE9D9']
-        html = f'=={title}==\n{{| class="wikitable sortable"\n'
-        for th in thead:
-            html += f'!{th}\n'
-        for tr in table:
-            html += '|-\n'
-            nos = []
-            for x in tr[0][0].split('・'):
-                if x.endswith('b'):
-                    x = x[:-1].zfill(3) + 'a'
-                else:
-                    x = x.zfill(3)
-                nos.append(x)
-            tr[0][0] = '・'.join(nos)
-            for td in tr:
-                style = ''
-                if td[1] != -1:
-                    style = f'style="background-color: {colors[td[1]]};"|'
-                html += f'|{style}{td[0]}\n'
-            mark = ''.join(list(map(lambda x: f'{{{{舰娘备注|{x}}}}}', nos)))
-            html += f'|{mark}\n'
-        html += '|}\n'
-        self.fpMaxValue.write(html)
-
     async def __getMaxValueTable(self, url):
         async with self.session.get(url) as resp:
             res = await resp.text()
@@ -71,32 +81,47 @@ class WikiwikiCrawler(HttpClient):
             all_titles = bs.select('#body h1 a')
             for i in range(len(all_tables)):
                 table = all_tables[i]
-                title = self.__getInnerText(all_titles[i])
-                ths = table.thead.tr.contents
-                theads = []
-                table_data = []
+                title = TBlock.getInnerText(all_titles[i])
+                trs = table.select('tr')
+                ths = trs[0]
+                trs = trs[1:]
+                trdata = []
                 for th in ths:
-                    theads.append(self.__getInnerText(th))
-                theads.append('-')
-                rows = table.tbody.contents
-                for row in rows:
-                    cols = row.contents
-                    row_data = []
-                    for i in range(len(cols)):
-                        col = cols[i]
-                        d_type = -1
-                        if 'style' in col.attrs:
-                            style = col.attrs['style']
-                            if style.find('#FFFF99') != -1:
-                                d_type = 0
-                            elif style.find('#FDE9D9') != -1:
-                                d_type = 1
-                        row_data.append([
-                            self.__getInnerText(col),
-                            d_type
-                        ])
-                    table_data.append(row_data)
-                self.__genMaxValueHTML(title, theads, table_data)
+                    trdata.append(TBlock('th', th))
+                trdata.append('! -\n')
+                tdata = [trdata]
+                for tr in trs:
+                    trdata = []
+                    tds = tr.select('td')
+                    for td in tds:
+                        trdata.append(TBlock('td', td))
+                    
+                    if not trdata:
+                        continue
+
+                    no = TBlock.getInnerText(tds[0])
+                    nl = []
+                    np = no.split('・')
+                    for n in np:
+                        if n.endswith('b'):
+                            n = n[:-1].zfill(3) + 'a'
+                        else:
+                            n = n.zfill(3)
+                        nl.append(n)
+                    trdata[0] = f"| {'・'.join(nl)}\n"
+                    mark = '・'.join(list(map(lambda x: f'{{{{舰娘备注|{x}}}}}', nl)))
+                    trdata.append(f"| {mark}\n")
+                    tdata.append(trdata)
+                self.__genHTML(self.fpMaxValue, title, tdata)
+
+    def __genHTML(self, fp, title, tdata):
+        html = f'=={title}==\n{{| class="wikitable sortable"\n'
+        for tr in tdata:
+            html += '|-\n'
+            for td in tr:
+                html += str(td)
+        html += '|}\n'
+        fp.write(html)
 
     async def __getCompareTables(self, url):
         async with self.session.get(url) as resp:
@@ -104,7 +129,7 @@ class WikiwikiCrawler(HttpClient):
             soup = BeautifulSoup(content, 'lxml')
             table_containers = soup.select('h2#h2_content_1_17 ~ table')
             for table_container in table_containers:
-                title = self.__getInnerText(table_container.select_one('tr:nth-of-type(1) > td:nth-of-type(3)'))
+                title = TBlock.getInnerText(table_container.select_one('tr:nth-of-type(1) > td:nth-of-type(3)'))
                 table = table_container.select_one('table.style_table')
                 trs = table.select('tr')
                 tdata = []
@@ -113,57 +138,15 @@ class WikiwikiCrawler(HttpClient):
                     tds = tr.select('td')
                     ths = tr.select('th')
                     for td in tds:
-                        cnt = 1
-                        style = ''
-                        if 'rowspan' in td.attrs:
-                            cnt = int(td.attrs['rowspan'])
-                        if 'style' in td.attrs and td.attrs['style'].find('color') != -1:
-                            style = td.attrs['style']
-                        trdata.append({
-                            'val': self.__getInnerText(td),
-                            'cnt': cnt,
-                            'style': style,
-                            'tag': 'td'
-                        })
+                        trdata.append(TBlock('td', td))
                     for th in ths:
-                        cnt = 1
-                        style = ''
-                        if 'colspan' in th.attrs:
-                            cnt = int(th.attrs['colspan'])
-                        if 'style' in th.attrs and th.attrs['style'].find('color') != -1:
-                            style = th.attrs['style']
-                        trdata.append({
-                            'val': self.__getInnerText(th),
-                            'cnt': cnt,
-                            'style': style,
-                            'tag': 'th'
-                        })
+                        trdata.append(TBlock('th', th))
                     if not trdata:
                         continue
                     tdata.append(trdata)
-                self.__genCompareHTML(title, tdata)
-
-    def __genCompareHTML(self, title, tdata):
-        html = f'=={title}==\n{{| class="wikitable sortable"\n'
-        for tr in tdata:
-            html += '|-\n'
-            for ti in tr:
-                sp = '|'
-                span = 'rowspan'
-                style = ''
-                if ti['tag'] == 'th':
-                    sp = '!'
-                    span = 'colspan'
-                if ti['style']:
-                    style = f"style=\"{ti['style']}\"|"
-                if ti['cnt'] > 1:
-                    html += f"{sp}{style}{span}=\"{ti['cnt']}\"| {ti['val']}\n"
-                else:
-                    html += f"{sp}{style} {ti['val']}\n"
-        html += '|}\n'
-        self.fpCompare.write(html)
+                self.__genHTML(self.fpCompare, title, tdata)
 
     async def start(self):
-        # for url in self.MaxValueURLS:
-        #     await self.__getMaxValueTable(url)
+        for url in self.MaxValueURLS:
+            await self.__getMaxValueTable(url)
         await self.__getCompareTables(self.CompareURL)
