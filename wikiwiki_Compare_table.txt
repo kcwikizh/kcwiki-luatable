@@ -1,0 +1,2310 @@
+==小口径主砲の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 対空
+! 命中
+! 回避
+! 対潜
+! 改修
+! 高角砲
+|-
+| 10cm高角砲＋高射装置
+| +3
+| +10
+| +1
+| +1
+| 
+| 可
+| ●
+|-
+| 120mm連装砲
+| +3
+| +2
+| +1
+| 
+| 
+| 
+| 
+|-
+| 12.7cm連装砲B型改二
+| +3
+| +2
+| 
+| 
+| 
+| 可
+| 
+|-
+| 12.7cm連装高角砲(後期型)
+| +2
+| +5
+| +1
+| +1
+| +1
+| 
+| ●
+|-
+| 10cm連装高角砲
+| +2
+| +7
+| 
+| 
+| 
+| 
+| ●
+|-
+| 12.7cm連装砲
+| +2
+| +2
+| 
+| 
+| 
+| 可
+| 
+|-
+| 12.7cm単装砲
+| +2
+| 
+| +1
+| 
+| 
+| 
+| 
+|-
+| 12.7cm単装高角砲(後期型)
+| +1
+| +4
+| +1
+| +1
+| +1
+| 
+| ●
+|-
+| 12.7cm単装高角砲
+| +1
+| +3
+| 
+| 
+| 
+| 
+| ●
+|-
+| 12cm単装砲
+| +1
+| +1
+| 
+| 
+| 
+| 
+| 
+|}
+==中口径主砲の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 対空
+! 命中
+! 回避
+! 装甲
+! 射程
+! 改修
+! フィット砲補正
+|-
+| SKC34 20.3cm連装砲
+| +10
+| +2
+| +3
+| 
+| 
+| 
+| 
+| ？
+|-
+| 20.3cm(3号)連装砲
+| +10
+| +4
+| 
+| 
+| 
+| 
+| 可
+| 重巡
+|-
+| 20.3cm(2号)連装砲
+| +9
+| +3
+| +1
+| 
+| 
+| 
+| 可
+| 
+|-
+| 203mm/53 連装砲
+| +9
+| +1
+| -2
+| 
+| 
+| 長
+| 可
+| ？
+|-
+| 20.3cm連装砲
+| +8
+| +3
+| 
+| 
+| 
+| 
+| 可
+| 重巡
+|-
+| 15.5cm三連装砲改
+| +7
+| +4
+| +2
+| +1
+| +1
+| 
+| 可
+| ？
+|-
+| 15.5cm三連装砲
+| +7
+| +4
+| +1
+| 
+| 
+| 
+| 可
+| ？
+|-
+| 15.2cm連装砲改
+| +5
+| +3
+| +4
+| 
+| 
+| 
+| 可
+| 軽巡
+|-
+| 15.2cm連装砲
+| +4
+| +3
+| +3
+| 
+| 
+| 
+| 可
+| 軽巡
+|-
+| 14cm連装砲
+| +3
+| 
+| +2
+| 
+| 
+| 
+| 可
+| 軽巡
+|-
+| 14cm単装砲
+| +2
+| 
+| +1
+| 
+| 
+| 
+| 可
+| 軽巡
+|}
+==副砲の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 対空
+! 命中
+! 回避
+! 装甲
+! 改修
+! 射程
+! 高角砲
+! 内蔵高射装置
+|-
+| OTO 152mm三連装速射砲
+| +8
+| +2
+| +1
+| 
+| 
+| 可
+| 中
+| 
+| 
+|-
+| 15.5cm三連装副砲改
+| +7
+| +4
+| +3
+| +1
+| 
+| 
+| 中
+| 
+| 
+|-
+| 15.5cm三連装副砲
+| +7
+| +3
+| +2
+| 
+| 
+| 
+| 中
+| 
+| 
+|-
+| 15.2cm三連装砲
+| +6
+| +1
+| +3
+| 
+| 
+| 
+| 中
+| 
+| 
+|-
+| 15cm連装副砲
+| +4
+| +2
+| +2
+| 
+| 
+| 
+| 中
+| 
+| 
+|-
+| 5inch連装砲 Mk.28 mod.2
+| +4
+| +9
+| +2
+| +1
+| +1
+| 
+| 短
+| 〇
+| 有
+|-
+| 10.5cm連装砲
+| +3
+| +6
+| +2
+| +1
+| 
+| 
+| 短
+| 〇
+| 
+|-
+| 15.2cm単装砲
+| +2
+| 
+| +1
+| 
+| 
+| 可
+| 中
+| 
+| 
+|-
+| 12.7cm連装高角砲
+| +2
+| +4
+| +1
+| 
+| 
+| 
+| 短
+| 〇
+| 
+|-
+| 12.7cm高角砲＋高射装置
+| +1
+| +8
+| +1
+| +1
+| 
+| 
+| 短
+| 〇
+| 有
+|-
+| 90mm単装高角砲
+| +1
+| +8
+| +1
+| 
+| 
+| 可
+| 短
+| 〇
+| 有
+|-
+| 10cm連装高角砲(砲架)
+| +1
+| +7
+| +1
+| 
+| 
+| 
+| 短
+| 〇
+| 
+|-
+| 8cm高角砲改＋増設機銃
+| +1
+| +7
+| +2
+| +1
+| 
+| 
+| 短
+| 〇
+| 
+|-
+| 8cm高角砲
+| +1
+| +6
+| +2
+| 
+| 
+| 
+| 短
+| 〇
+| 
+|}
+==大口径主砲の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 対空
+! 命中
+! 回避
+! 装甲
+! 射程
+! 改修
+|-
+| 試製51cm連装砲
+| +30
+| +5
+| +1
+| -1
+| 
+| 超長
+| 可
+|-
+| 46cm三連装砲
+| +26
+| +5
+| 
+| 
+| 
+| 超長
+| 可
+|-
+| 16inch三連装砲 Mk.7＋GFCS
+| +24
+| +3
+| +7
+| +1
+| +1
+| 
+| 可
+|-
+| 16inch三連装砲 Mk.7
+| +24
+| +3
+| +4
+| 
+| +1
+| 
+| 可
+|-
+| 試製46cm連装砲
+| +23
+| +4
+| +1
+| 
+| 
+| 超長
+| 可
+|-
+| 41cm三連装砲改
+| +22
+| +6
+| +4
+| 
+| +1
+| 
+| 可
+|-
+| 38cm四連装砲改
+| +22
+| +2
+| +3
+| 
+| 
+| 
+| 
+|-
+| 試製41cm三連装砲
+| +22
+| +5
+| +2
+| 
+| 
+| 
+| 可
+|-
+| 381mm/50 三連装砲改
+| +21
+| +4
+| -1
+| -1
+| 
+| 超長
+| 可
+|-
+| 38cm四連装砲
+| +21
+| +1
+| +1
+| 
+| 
+| 中
+| 
+|-
+| 41cm連装砲
+| +20
+| +4
+| 
+| 
+| 
+| 
+| 可
+|-
+| 381mm/50 三連装砲
+| +20
+| +2
+| -3
+| -1
+| 
+| 超長
+| 可
+|-
+| 38.1cm Mk.I/N連装砲改
+| +19
+| +3
+| +2
+| 
+| 
+| 
+| 可
+|-
+| 試製35.6cm三連装砲
+| +18
+| +5
+| +2
+| 
+| 
+| 
+| 可
+|-
+| 38.1cm Mk.I連装砲
+| +18
+| +1
+| +1
+| 
+| 
+| 
+| 可
+|-
+| 30.5cm三連装砲改
+| +17
+| +3
+| +3
+| +1
+| +1
+| 
+| 
+|-
+| 38cm連装砲改
+| +17
+| +2
+| +3
+| 
+| 
+| 
+| 可
+|-
+| 38cm連装砲
+| +16
+| +1
+| +1
+| 
+| 
+| 
+| 可
+|-
+| 30.5cm三連装砲改
+| +16
+| 
+| +1
+| 
+| +1
+| 
+| 
+|-
+| 35.6cm連装砲(ダズル迷彩)
+| +15
+| +5
+| +1
+| +1
+| 
+| 
+| 可
+|-
+| 35.6cm連装砲
+| +15
+| +4
+| 
+| 
+| 
+| 
+| 可
+|}
+==電探の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 装甲
+! 装備艦種別
+! 電探種別
+! 改修
+|-
+| 15m二重測距儀＋21号電探改二
+| +1
+| +8
+| 
+| +7
+| +9
+| +1
+| +1
+| 戦艦
+| 対空
+| 
+|-
+| FuMO25 レーダー
+| +3
+| +7
+| 
+| +9
+| +10
+| 
+| 
+| 大型
+| 対空
+| 
+|-
+| 32号対水上電探改
+| 
+| 
+| 
+| +11
+| +9
+| 
+| 
+| 大型
+| 水上
+| 可
+|-
+| 32号対水上電探
+| 
+| 
+| 
+| +10
+| +8
+| 
+| 
+| 大型
+| 水上
+| 可
+|-
+| 14号対空電探
+| 
+| +6
+| 
+| +5
+| +4
+| 
+| 
+| 大型
+| 対空
+| 
+|-
+| 21号対空電探改
+| 
+| +5
+| 
+| +6
+| +3
+| +1
+| 
+| 大型
+| 対空
+| 可
+|-
+| 21号対空電探
+| 
+| +4
+| 
+| +4
+| +2
+| 
+| 
+| 大型
+| 対空
+| 可
+|-
+! 名称
+! 火力
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 装甲
+! 装備艦種別
+! 電探種別
+! 改修
+|-
+| 33号対水上電探
+| 
+| 
+| 
+| +7
+| +5
+| 
+| 
+| 小型
+| 水上
+| 
+|-
+| 22号対水上電探改四
+| 
+| 
+| +2
+| +5
+| +8
+| 
+| 
+| 小型
+| 水上
+| 可
+|-
+| 22号対水上電探
+| 
+| 
+| 
+| +5
+| +3
+| 
+| 
+| 小型
+| 水上
+| 可
+|-
+| 13号対空電探改
+| 
+| +4
+| 
+| +4
+| +2
+| +1
+| 
+| 小型
+| 対空
+| 可
+|-
+| 13号対空電探
+| 
+| +2
+| 
+| +3
+| +1
+| 
+| 
+| 小型
+| 対空
+| 可
+|}
+==艦上戦闘機の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 改修
+! 戦闘行動半径
+|-
+|style="background-color:#3e3;"| 震電改
+| 
+| +15
+| 
+| 
+| 
+| 
+| 
+| 2
+|-
+|style="background-color:#3e3;"| 零式艦戦53型(岩本隊)
+| 
+| +12
+| 
+| +3
+| +2
+| +4
+| 可
+| 6
+|-
+|style="background-color:#3e3;"| 烈風改
+| 
+| +12
+| 
+| 
+| 
+| 
+| 
+| 5
+|-
+|style="background-color:#3e3;"| 零戦52型甲(付岩本小隊)
+| 
+| +11
+| 
+| +1
+| +1
+| +3
+| 可
+| 6
+|-
+|style="background-color:#3e3;"| Re.2005 改
+| +1
+| +11
+| 
+| 
+| 
+| +3
+| 
+| 3
+|-
+|style="background-color:#3e3;"| 烈風(六〇一空)
+| 
+| +11
+| 
+| 
+| +1
+| +2
+| △
+| 5
+|-
+|style="background-color:#3e3;"| Fw190T改
+| +2
+| +10
+| 
+| 
+| 
+| +2
+| 
+| 3
+|-
+|style="background-color:#aac;"| F6F-5N
+| 
+| +10
+| +5
+| +3
+| +3
+| +3
+| 
+| 5
+|-
+|style="background-color:#3e3;"| F6F-5
+| +1
+| +10
+| 
+| +1
+| +1
+| +3
+| 可
+| 5
+|-
+|style="background-color:#3e3;"| 零戦52型丙(付岩井小隊)
+| 
+| +10
+| 
+| +1
+| +1
+| +2
+| 可
+| 6
+|-
+|style="background-color:#3e3;"| 烈風
+| 
+| +10
+| 
+| 
+| 
+| 
+| 
+| 5
+|-
+! 名称
+! 火力
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 改修
+! 戦闘行動半径
+|-
+|style="background-color:#3e3;"| 零戦21型(付岩本小隊)
+| 
+| +9
+| 
+| +1
+| +1
+| +3
+| △
+| 7
+|-
+|style="background-color:#3e3;"| 零式艦戦52型(熟練)
+| 
+| +9
+| 
+| +1
+| +1
+| +2
+| 可
+| 6
+|-
+|style="background-color:#3e3;"| 紫電改二
+| 
+| +9
+| 
+| 
+| 
+| +3
+| 
+| 3
+|-
+|style="background-color:#3e3;"| 零戦52型丙(六〇一空)
+| 
+| +9
+| 
+| 
+| +1
+| +1
+| 可
+| 6
+|-
+|style="background-color:#aac;"| F6F-3N
+| 
+| +8
+| +4
+| +2
+| +2
+| +3
+| 
+| 5
+|-
+|style="background-color:#3e3;"| F6F-3
+| +1
+| +8
+| 
+| +1
+| +1
+| +2
+| 可
+| 5
+|-
+|style="background-color:#3e3;"| Bf109T改
+| +1
+| +8
+| 
+| 
+| 
+| +4
+| 
+| 2
+|-
+|style="background-color:#3e3;"| 零式艦戦32型(熟練)
+| 
+| +8
+| 
+| 
+| +1
+| +4
+| 可
+| 5
+|-
+|style="background-color:#3e3;"| 零式艦戦21型(熟練)
+| 
+| +8
+| 
+| +1
+| +2
+| +2
+| 可
+| 7
+|-
+|style="background-color:#3e3;"| Re.2001 OR改
+| +3
+| +6
+| 
+| 
+| 
+| +2
+| 
+| 4
+|-
+|style="background-color:#3e3;"| 零式艦戦52型
+| 
+| +6
+| 
+| 
+| 
+| 
+| 可
+| 6
+|-
+|style="background-color:#3e3;"| F4F-4
+| +1
+| +5
+| 
+| +1
+| +1
+| +2
+| 可
+| 4
+|-
+|style="background-color:#3e3;"| 零式艦戦32型
+| 
+| +5
+| 
+| 
+| 
+| +2
+| 可
+| 5
+|-
+|style="background-color:#3e3;"| 零式艦戦21型
+| 
+| +5
+| 
+| 
+| 
+| 
+| 可
+| 7
+|-
+|style="background-color:#3e3;"| F4F-3
+| +1
+| +4
+| 
+| 
+| 
+| +2
+| 可
+| 4
+|-
+|style="background-color:#3e3;"| Fulmar
+| +1
+| +3
+| +2
+| +1
+| +2
+| +1
+| 
+| 4
+|-
+|style="background-color:#3e3;"| 九六式艦戦
+| 
+| +2
+| 
+| 
+| 
+| 
+| 可
+| 3
+|}
+==偵察機・飛行艇の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 爆装
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 戦闘行動半径
+! 種別
+|-
+|style="background-color:#ffe830; text-align:left; width:160px;"| 試製景雲(艦偵型)
+| +2
+| 
+| 
+| 
+| +11
+| +2
+| 
+| 8
+| 艦上機
+|-
+|style="background-color:#ffe830; text-align:left; width:160px;"| 彩雲(東カロリン空)
+| +1
+| 
+| 
+| 
+| +10
+| +2
+| 
+| 8
+| 艦上機
+|-
+|style="background-color:#ffe830; text-align:left; width:160px;"| 彩雲
+| 
+| 
+| 
+| 
+| +9
+| +2
+| 
+| 8
+| 艦上機
+|-
+|style="background-color:#ffe830; text-align:left; width:160px;"| 二式艦上偵察機
+| 
+| 
+| +1
+| 
+| +7
+| +3
+| 
+| 5
+| 艦上機
+|-
+! 名称
+! 火力
+! 爆装
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 戦闘行動半径
+! 種別
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 紫雲
+| 
+| +1
+| 
+| +2
+| +8
+| +1
+| 
+| 4
+| 水上機
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| OS2U
+| 
+| +1
+| +1
+| +1
+| +6
+| +2
+| +1
+| 3
+| 水上機
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 零式水上観測機
+| 
+| +1
+| +2
+| +4
+| +6
+| +2
+| 
+| 3
+| 水上機
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| Ar196改
+| 
+| +1
+| +1
+| +5
+| +5
+| +2
+| 
+| 3
+| 水上機
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 零式水上偵察機
+| 
+| +1
+| +1
+| +2
+| +5
+| +1
+| 
+| 7
+| 水上機
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| Ro.43水偵
+| +1
+| 
+| +1
+| +2
+| +4
+| +2
+| +1
+| 3
+| 水上機
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 九八式水上偵察機(夜偵)
+| 
+| 
+| 
+| +1
+| +3
+| +1
+| 
+| 6
+| 水上機
+|-
+! 名称
+! 火力
+! 爆装
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 戦闘行動半径
+! 種別
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 二式大艇
+| 
+| 
+| 
+| +1
+| +12
+| +1
+| 
+| 20
+| 飛行艇
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| PBY-5A Catalina
+| 
+| 
+| 
+| +2
+| +9
+| +2
+| 
+| 10
+| 飛行艇
+|}
+==水上戦闘機の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 戦闘行動半径
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 二式水戦改(熟練)
+| +5
+| +1
+| +1
+| +1
+| +2
+| 4
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 強風改
+| +5
+| 
+| +1
+| 
+| +3
+| 3
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| Ro.44水上戦闘機bis
+| +3
+| +1
+| +3
+| +2
+| +2
+| 3
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 二式水戦改
+| +3
+| +1
+| +1
+| +1
+| +2
+| 4
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| Ro.44水上戦闘機
+| +2
+| +1
+| +2
+| +1
+| +2
+| 3
+|}
+==水上爆撃機の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 爆装
+! 雷装
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 戦闘行動半径
+! 艦攻搭載補給艦の砲撃戦威力
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 晴嵐(六三一空)
+| 
+| +12
+| 
+| 
+| +3
+| +6
+| +2
+| 
+| 4
+| +22.5(23.4)
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 試製晴嵐
+| 
+| +11
+| 
+| 
+| +6
+| +6
+| +1
+| 
+| 4
+| +21(21.45)
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 瑞雲(六三四空／熟練)
+| 
+| +9
+| 
+| +4
+| +6
+| +7
+| +1
+| +1
+| 5
+| +16.5(17.55)
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 瑞雲12型(六三四空)
+| 
+| +9
+| 
+| +3
+| +6
+| +7
+| +1
+| 
+| 5
+| +16.5(17.55)
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 瑞雲12型
+| 
+| +7
+| 
+| +3
+| +5
+| +6
+| +1
+| 
+| 5
+| +13.5(13.65)
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 瑞雲(六三一空)
+| 
+| +7
+| 
+| +1
+| +2
+| +4
+| +2
+| 
+| 5
+| +13.5(13.65)
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 瑞雲(六三四空)
+| 
+| +6
+| 
+| +2
+| +5
+| +6
+| +1
+| 
+| 5
+| +10.5(11.7)
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| Late 298B
+| +2
+| +5
+| +4
+| +1
+| +2
+| +4
+| 
+| +1
+| 4
+| +18(18.75)
+|-
+|style="background-color:#9f9; text-align:left; width:160px;"| 瑞雲
+| 
+| +4
+| 
+| +2
+| +4
+| +6
+| +1
+| 
+| 5
+| +7.5(7.8)
+|}
+==艦上攻撃機・艦上爆撃機・噴式戦闘爆撃機の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 火力
+! 雷装
+! 爆装
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 戦闘行動半径
+! 触接
+! 砲撃戦威力
+! 開幕航空攻撃期待値
+|-
+|style="background-color:#ffd018; text-align:left; width:160px;"| 噴式景雲改
+| 
+| 
+| +15
+| +6
+| 
+| +3
+| +1
+| 
+| 3
+| 
+| +28.5(29.25)
+| 15
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 彗星(江草隊)
+| 
+| 
+| +13
+| +1
+| +5
+| +4
+| +4
+| 
+| 5
+| 
+| +24(25.35)
+| 13
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 天山(村田隊)
+| 
+| +15
+| 
+| +1
+| +6
+| +4
+| +2
+| 
+| 5
+| +17%
+| +22.5
+| 17.25
+|-
+|style="background-color:#ffd018; text-align:left; width:160px;"| 橘花改
+| 
+| 
+| +11
+| +12
+| 
+| 
+| 
+| +1
+| 2
+| 
+| +21(21.45)
+| 11
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 彗星(六〇一空)
+| 
+| 
+| +11
+| 
+| +4
+| +1
+| +1
+| 
+| 5
+| 
+| +21(21.45)
+| 11
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 試製南山
+| 
+| 
+| +11
+| +1
+| +4
+| +2
+| 
+| 
+| 5
+| 
+| +21(21.45)
+| 11
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 天山一二型(友永隊)
+| 
+| +14
+| 
+| +1
+| +6
+| +5
+| +3
+| 
+| 5
+| +20%
+| +21
+| 16.1
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 流星(六〇一空)
+| 
+| +13
+| 
+| 
+| +5
+| +3
+| +1
+| 
+| 6
+| +12%
+| +19.5
+| 14.95
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 流星改
+| 
+| +13
+| 
+| 
+| +3
+| +2
+| 
+| 
+| 6
+| +12%
+| +19.5
+| 14.95
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 九九式艦爆(江草隊)
+| 
+| 
+| +10
+| 
+| +5
+| +3
+| +4
+| 
+| 4
+| 
+| +19.5
+| 10
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 彗星一二型甲
+| 
+| 
+| +10
+| 
+| +3
+| +1
+| 
+| 
+| 5
+| 
+| +19.5
+| 10
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 九七式艦攻(村田隊)
+| 
+| +12
+| 
+| +1
+| +5
+| +4
+| +2
+| 
+| 4
+| +17%
+| +18
+| 13.8
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| Swordfish Mk.III(熟練)
+| +4
+| +8
+| 
+| 
+| +10
+| +5
+| +4
+| 
+| 3
+| +20%
+| +18
+| 9.2
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| Ju87C改
+| 
+| 
+| +9
+| 
+| +5
+| 
+| +1
+| 
+| 4
+| 
+| +16.5(17.55)
+| 9
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 九七式艦攻(友永隊)
+| 
+| +11
+| 
+| +1
+| +5
+| +4
+| +3
+| 
+| 4
+| +20%
+| +16.5
+| 12.65
+|-
+|style="background-color:#aac; text-align:left; width:160px;"| TBM-3D
+| +2
+| +9
+| 
+| +1
+| +8
+| +4
+| +2
+| 
+| 6
+| +17%
+| +16.5
+| 10.35
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| TBF
+| +2
+| +9
+| 
+| +1
+| +6
+| +2
+| 
+| 
+| 6
+| +12%
+| +16.5
+| 10.35
+|-
+! 名称
+! 火力
+! 雷装
+! 爆装
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 戦闘行動半径
+! 触接
+! 砲撃戦威力
+! 開幕航空攻撃期待値
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 天山(六〇一空)
+| 
+| +10
+| 
+| 
+| +4
+| +2
+| +1
+| 
+| 5
+| +12%
+| +15
+| 11.5
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 流星
+| 
+| +10
+| 
+| 
+| +4
+| +1
+| 
+| 
+| 6
+| +12%
+| +15
+| 11.5
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 彗星
+| 
+| 
+| +8
+| 
+| +3
+| 
+| 
+| 
+| 4
+| 
+| +15(15.6)
+| 8
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| F4U-1D
+| +1
+| 
+| +7
+| +7
+| +1
+| +1
+| 
+| +1
+| 6
+| 
+| +15(15.15)
+| 7
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 九九式艦爆(熟練)
+| 
+| 
+| +7
+| +1
+| +4
+| +2
+| +2
+| 
+| 4
+| 
+| +13.5(13.65)
+| 7
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 天山(九三一空)
+| 
+| +9
+| 
+| 
+| +8
+| +2
+| 
+| 
+| 5
+| +12%
+| +13.5
+| 10.35
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 九七式艦攻(熟練)
+| 
+| +8
+| 
+| 
+| +5
+| +2
+| +2
+| 
+| 4
+| +17%
+| +12
+| 9.2
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| Swordfish Mk.II(熟練)
+| +3
+| +5
+| 
+| 
+| +6
+| +2
+| +3
+| 
+| 3
+| +20%
+| +12
+| 5.75
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| SBD
+| +1
+| 
+| +6
+| +2
+| +3
+| +2
+| +1
+| +2
+| 4
+| 
+| +10.5(11.7)
+| 6
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 天山
+| 
+| +7
+| 
+| 
+| +3
+| +1
+| 
+| 
+| 5
+| +12%
+| +10.5
+| 8.05
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| Re.2001 G改
+| +3
+| +4
+| 
+| +4
+| 
+| 
+| 
+| +2
+| 3
+| 
+| +10.5
+| 4.6
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 零式艦戦63型(爆戦)
+| 
+| 
+| +5
+| +5
+| +2
+| 
+| 
+| 
+| 4
+| 
+| +9(9.75)
+| 5
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 九九式艦爆
+| 
+| 
+| +5
+| 
+| +3
+| 
+| 
+| 
+| 4
+| 
+| +9(9.75)
+| 5
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 九七式艦攻(九三一空)
+| 
+| +6
+| 
+| 
+| +7
+| +2
+| 
+| 
+| 4
+| +12%
+| +9
+| 6.9
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 零戦62型(爆戦/岩井隊)
+| 
+| 
+| +4
+| +7
+| +3
+| +1
+| +1
+| +2
+| 5
+| 
+| +7.5(7.8)
+| 4
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| 零式艦戦62型(爆戦)
+| 
+| 
+| +4
+| +4
+| +3
+| 
+| 
+| 
+| 4
+| 
+| +7.5(7.8)
+| 4
+|-
+|style="background-color:#fcc; text-align:left; width:160px;"| Skua
+| 
+| 
+| +4
+| +2
+| +2
+| 
+| 
+| +2
+| 4
+| 
+| +7.5(7.8)
+| 4
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| TBD
+| +1
+| +5
+| 
+| 
+| +4
+| +2
+| 
+| 
+| 4
+| +12%
+| +7.5
+| 5.75
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| 九七式艦攻
+| 
+| +5
+| 
+| 
+| +4
+| +1
+| 
+| 
+| 4
+| +12%
+| +7.5
+| 5.75
+|-
+|style="background-color:#8bf; text-align:left; width:160px;"| Swordfish
+| +2
+| +3
+| 
+| 
+| +4
+| +1
+| +1
+| 
+| 3
+| +12%
+| +7.5
+| 3.45
+|-
+! 名称
+! 火力
+! 雷装
+! 爆装
+! 対空
+! 対潜
+! 索敵
+! 命中
+! 回避
+! 戦闘行動半径
+! 触接
+! 砲撃戦威力
+! 開幕航空攻撃期待値
+|}
+==主要な対潜装備の比較==
+{| class="wikitable sortable"
+|-
+! 名称
+! 対潜
+! 命中
+!colspan="8"| 装備可能艦
+! 备注
+|-
+|style="background-color:#adf; text-align:left; width:145px;"| 四式水中聴音機
+| +12
+| +1
+| 水雷系
+| 
+| 
+| 秋津洲
+| 仏水母
+| 速吸改
+| 
+| 
+|rowspan="5"| ソ爆シナジー装備改修
+|-
+|style="background-color:#adf; text-align:left; width:145px;"| 三式水中探信儀
+| +10
+| +2
+| 水雷系
+| 
+| 
+| 秋津洲
+| 仏水母
+| 速吸改
+| 
+| 
+|-
+|style="background-color:#adf; text-align:left; width:145px;"| 九三式水中聴音機
+| +6
+| +1
+| 水雷系
+| 
+| 
+| 秋津洲
+| 仏水母
+| 速吸改
+| 
+| 
+|-
+|style="background-color:#adf; text-align:left; width:145px;"| 三式爆雷投射機
+| +8
+| 
+| 水雷系
+| 
+| 水母系
+| 秋津洲
+| 
+| 
+| 
+| 
+|-
+|style="background-color:#adf; text-align:left; width:145px;"| 九四式爆雷投射機
+| +5
+| 
+| 水雷系
+| 
+| 水母系
+| 秋津洲
+| 
+| 
+| 
+| 
+|-
+|style="background-color:#adf; text-align:left; width:145px;"| 零式水中聴音機
+| +11
+| +1
+| 
+| 航巡系
+| 水母系
+| 秋津洲
+| 仏水母
+| 
+| 
+| 軽空母
+| ソ爆シナジー
+|-
+|style="background-color:#9f9; text-align:left; width:145px;"| カ号観測機
+| +9
+| +1
+| 
+| 航巡系
+| 
+| 
+| 仏水母
+| 速吸改
+| あきつ
+| 軽空母
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:145px;"| 三式指揮連絡機(対潜)
+| +7
+| +2
+| 
+| 
+| 
+| 
+| 
+| 
+| あきつ
+| 軽空母
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:145px;"| 試製晴嵐
+| +6
+| +1
+| 
+| 航巡系
+| 水母系
+| 秋津洲
+| 仏水母
+| 速吸改
+| 
+| 
+|rowspan="18"| 艦載機熟練度
+|-
+|style="background-color:#9f9; text-align:left; width:145px;"| 瑞雲12型(六三四空)
+| +6
+| +1
+| 
+| 航巡系
+| 水母系
+| 秋津洲
+| 仏水母
+| 速吸改
+| 
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:145px;"| 瑞雲12型
+| +5
+| +1
+| 
+| 航巡系
+| 水母系
+| 秋津洲
+| 仏水母
+| 速吸改
+| 
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:145px;"| 瑞雲(六三四空)
+| +5
+| +1
+| 
+| 航巡系
+| 水母系
+| 秋津洲
+| 仏水母
+| 速吸改
+| 
+| 
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| Swordfish Mk.III(熟練)
+| +10
+| +4
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#aac; text-align:left; width:145px;"| TBM-3D
+| +8
+| +2
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| 天山(九三一空)
+| +8
+| 
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| 九七式艦攻(九三一空)
+| +7
+| 
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| 天山一二型(友永隊)
+| +6
+| +3
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| Swordfish Mk.II(熟練)
+| +6
+| +3
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| 天山(村田隊)
+| +6
+| +2
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| TBF
+| +6
+| 
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| 九七式艦攻(友永隊)
+| +5
+| +3
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| 九七式艦攻(熟練)
+| +5
+| +2
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#8bf; text-align:left; width:145px;"| 流星(六〇一空)
+| +5
+| +1
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 軽空母
+|-
+|style="background-color:#fcc; text-align:left; width:145px;"| 彗星(江草隊)
+| +5
+| +4
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 軽空母
+|-
+|style="background-color:#fcc; text-align:left; width:145px;"| 九九式艦爆(江草隊)
+| +5
+| +4
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 軽空母
+|-
+|style="background-color:#fcc; text-align:left; width:145px;"| Ju87C改
+| +5
+| +1
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 軽空母
+|}
