@@ -102,7 +102,7 @@ k.EquipUpdateTb = {
 							1,
 							1,
 							1,
-							0,
+							1,
 							1
 						}
 					}
@@ -10720,6 +10720,18 @@ k.EquipUpdateTb = {
 							0,
 							0
 						}
+					},
+					{
+						["support_ship"] = "武蔵改二",
+						["support_weeks"] = {
+							0,
+							0,
+							1,
+							1,
+							0,
+							0,
+							0
+						}
 					}
 				},
 				["resource_cost"] = {
@@ -11024,8 +11036,8 @@ k.EquipUpdateTb = {
 							0,
 							0,
 							1,
-							0,
-							0
+							1,
+							1
 						}
 					},
 					{
