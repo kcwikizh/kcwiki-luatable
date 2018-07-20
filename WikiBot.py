@@ -107,5 +107,5 @@ class WikiBot(HttpClient):
         await self.updatePage('模块:深海装备数据', OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')
         await self.updatePage('模块:深海栖舰数据改二', OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua')
         await self.updatePage('模块:明石工厂数据', OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA)
-        await self.updatePage('User:MZI/装备の比较', OUPUT_PATH + WIKIWIKI_Compare_TABLE)
+        await self.updatePage('User:MZI/装備の比較', OUPUT_PATH + WIKIWIKI_Compare_TABLE)
         await self.updatePage('User:MZI/最大值表', OUPUT_PATH + WIKIWIKI_MaxValue_TABLE)
