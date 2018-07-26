@@ -8,8 +8,8 @@
     }
   },
   "2018年冬季活动决战前夜": {
-    "069-Sec1EveOfBattle2018": {
-      "file": "/f/f7/069-Sec1EveOfBattle2018.mp3",
+    "069a-Sec1EveOfBattle2018": {
+      "file": "/4/42/069a-Sec1EveOfBattle2018.mp3",
       "ja": "どうしたの、ご主人さま？",
       "vname": "秘书舰1",
       "zh": "怎么了，主人?"
@@ -18,9 +18,9 @@
   "2018年初夏季节": {
     "069a-Sec1EveOfBattle2018": {
       "file": "/4/42/069a-Sec1EveOfBattle2018.mp3",
-      "ja": "",
+      "ja": "どうしたの、ご主人さま？",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "怎么了，主人?"
     }
   },
   "2018年情人节": {
