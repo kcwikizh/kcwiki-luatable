@@ -199,7 +199,7 @@ class ShipLuatable:
                 '索敌': [wctf_ship['stat']['los'], wctf_ship['stat']['los_max']],
                 '运': [wctf_ship['stat']['luck'], wctf_ship['stat']['luck_max']],
                 '速力': wctf_ship['stat']['speed'],
-                '射程': [wctf_ship['stat']['range']],
+                '射程': wctf_ship['stat']['range'],
                 '稀有': wctf_ship['rare']
             },
             '装备': {
