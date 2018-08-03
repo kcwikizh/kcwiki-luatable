@@ -115,7 +115,7 @@ class WikiwikiCrawler(HttpClient):
                 self.__genHTML(self.fpMaxValue, title, tdata)
 
     def __genHTML(self, fp, title, tdata):
-        html = f'=={title}==\n{{| class="wikitable sortable"\n'
+        html = f'===={title}====\n{{| class="wikitable sortable"\n'
         for tr in tdata:
             html += '|-\n'
             for td in tr:
