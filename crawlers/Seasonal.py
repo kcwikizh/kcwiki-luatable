@@ -101,10 +101,18 @@ class SeasonalCrawler(HttpClient):
             val = re.sub(r'{{ruby-zh\|(.*?)\|(.*?)}}', r'\1(\2)', val)
             tmp[attr] = val
         for item in items:
-            wid = item['编号']
-            arch = item['档名']
-            zh = item['中文译文']
-            ja = item['日文台词']
+            wid = ''
+            arch = ''
+            zh = ''
+            ja = ''
+            try:
+                wid = item['编号']
+                arch = item['档名']
+                zh = item['中文译文']
+                ja = item['日文台词']
+            except KeyError:
+                print(f'Seasonal: !!! 错误语音 =\n{{季节性前缀 = {key}, 编号 = {wid}, 档名 = {arch}}}')
+                continue
             if wid not in self.seasonals:
                 self.seasonals[wid] = {}
             if key not in self.seasonals[wid]:
