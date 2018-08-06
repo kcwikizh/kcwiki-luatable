@@ -242,16 +242,16 @@
     }
   },
   "2018年盛夏季节": {
-    "067-DockMedShoka": {
-      "file": "/a/ae/067-DockMedShoka.mp3",
+    "067-DockMedDmgShoka2015": {
+      "file": "/8/86/067-DockMedDmgShoka2015.mp3",
       "ja": "くぅっ……せっかくの水着が……。だ、大丈夫っ。お風呂入れば直ります……た、多分。",
-      "vname": "-",
+      "vname": "中破入渠",
       "zh": "呜呜呜……好不容易准备的泳衣……。没，没关系。 入浴后就会补好的……大、大概吧。"
     },
-    "067-JoinShoka": {
-      "file": "/5/50/067-JoinShoka.mp3",
+    "067-FleetOrgShoka2015": {
+      "file": "/c/c2/067-FleetOrgShoka2015.mp3",
       "ja": "夏の闘い、いよいよですね！第七駆逐隊、夏は張り切って参ります！",
-      "vname": "-",
+      "vname": "编成",
       "zh": "夏天的战斗，终于也要开始了呢！第七驱逐队，纵使是炎热的夏天也会全力以赴的！"
     },
     "067-Sec1Shoka": {

@@ -324,16 +324,16 @@
     }
   },
   "2018年盛夏季节": {
-    "081-DockingMedium": {
-      "file": "/a/ac/081-DockingMedium.mp3",
+    "081-DockMedDmgShoka2015": {
+      "file": "/b/b5/081-DockMedDmgShoka2015.mp3",
       "ja": "やられてしまったわ。せっかくの水着だったのに……ま、いいわ。お風呂してきますね。",
-      "vname": "-",
+      "vname": "中破入渠",
       "zh": "啊呀中弹了，明明是难得的泳装。嘛，算了。我去洗澡了哦。"
     },
-    "081-Join": {
-      "file": "/d/d9/081-Join.mp3",
+    "081-FleetOrgShoka2015": {
+      "file": "/d/d3/081-FleetOrgShoka2015.mp3",
       "ja": "村雨のちょっといい水着、見せてあげる。ちやん～提督、どうおがしら？ね？",
-      "vname": "-",
+      "vname": "编成",
       "zh": "村雨的稍微感觉不错的泳衣，让你看一看。锵～提督，感觉怎么样？呢？"
     },
     "081-Sec2Seika2018": {
