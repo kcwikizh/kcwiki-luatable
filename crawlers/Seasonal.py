@@ -69,6 +69,9 @@ class SeasonalCrawler(HttpClient):
             line = _line.strip()
             if not line:
                 continue
+            if line == '==旧语音==':
+                ok = False
+                break
             if line.startswith('{{台词翻译表/页头|type=seasonal}}'):
                 ok = True
                 continue
@@ -155,8 +158,7 @@ class SeasonalCrawler(HttpClient):
         for wiki_id, subtitles in self.seasonals.items():
             file_name = '{}.json'.format(wiki_id)
             with open(OUPUT_PATH + SEASONAL_PATH + file_name, 'w') as fp:
-                data = json.dumps(subtitles, ensure_ascii=False,
-                                  sort_keys=True, indent=2)
+                data = json.dumps(subtitles, ensure_ascii=False, sort_keys=True, indent=2)
                 file_size = to_filesize(len(data))
                 fp.write(data)
                 files.append([file_name, file_size])
