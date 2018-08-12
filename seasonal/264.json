@@ -8,6 +8,30 @@
     }
   },
   "2018年盛夏季节": {
+    "264-Atk1Seika2018": {
+      "file": "/8/8e/264-Atk1Seika2018.mp3",
+      "ja": "この格好動くにくいから。",
+      "vname": "攻击1",
+      "zh": "这身泳装活动起来不方便啊。"
+    },
+    "264-ConstCompleteSeika2018": {
+      "file": "/9/92/264-ConstCompleteSeika2018.mp3",
+      "ja": "ああもう！夏は本当馬鹿ばっかり！",
+      "vname": "建造完成",
+      "zh": "啊啊真是的！夏天里尽是些笨蛋！"
+    },
+    "264-DockLightDmgSeika2018": {
+      "file": "/e/e5/264-DockLightDmgSeika2018.mp3",
+      "ja": "覗くな！馬鹿！",
+      "vname": "小破入渠",
+      "zh": "别偷看啊！笨蛋！"
+    },
+    "264-DockMedDmgSeika2018": {
+      "file": "/d/d9/264-DockMedDmgSeika2018.mp3",
+      "ja": "覗くな！馬鹿！…たっく、いつまで経っても…",
+      "vname": "中破入渠",
+      "zh": "别偷看啊！笨蛋！…真是的，不管多久都还是这样…"
+    },
     "264-Sec1Seika2018": {
       "file": "/f/f6/264-Sec1Seika2018.mp3",
       "ja": "なんなの？なんなのよ？暑いからよ、それだけなんだからー！ふんっ、バカじゃないの？",
