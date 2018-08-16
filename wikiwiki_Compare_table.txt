@@ -1988,97 +1988,210 @@
 ! 名称
 ! 対潜
 ! 命中
-!colspan="8"| 装備可能艦
+!colspan="10"| 装備可能艦
 ! 备注
 |-
-|style="background-color:#adf; text-align:left; width:145px;"| 四式水中聴音機
+|style="background-color:#cef; text-align:left; width:175px;"| HF/DF＋Type144/147 ASDIC
+| +15
+| +3
+| 水雷系
+| 
+| 
+| 仏水母
+| 秋津洲
+| 神威母
+| 速吸改
+| 
+| 大鷹二
+| 
+|rowspan="6"| ソ投爆シナジー
+|-
+|style="background-color:#cef; text-align:left; width:175px;"| Type144/147 ASDIC
+| +13
+| +3
+| 水雷系
+| 
+| 
+| 仏水母
+| 秋津洲
+| 神威母
+| 速吸改
+| 
+| 大鷹二
+| 
+|-
+|style="background-color:#cef; text-align:left; width:175px;"| 四式水中聴音機
 | +12
 | +1
 | 水雷系
 | 
 | 
-| 秋津洲
 | 仏水母
+| 秋津洲
+| 神威母
 | 速吸改
 | 
+| 大鷹二
 | 
-|rowspan="5"| ソ爆シナジー装備改修
 |-
-|style="background-color:#adf; text-align:left; width:145px;"| 三式水中探信儀
+|style="background-color:#cef; text-align:left; width:175px;"| Type124 ASDIC
+| +11
+| +2
+| 水雷系
+| 
+| 
+| 仏水母
+| 秋津洲
+| 神威母
+| 速吸改
+| 
+| 大鷹二
+| 
+|-
+|style="background-color:#cef; text-align:left; width:175px;"| 三式水中探信儀
 | +10
 | +2
 | 水雷系
 | 
 | 
-| 秋津洲
 | 仏水母
+| 秋津洲
+| 神威母
 | 速吸改
 | 
+| 大鷹二
 | 
 |-
-|style="background-color:#adf; text-align:left; width:145px;"| 九三式水中聴音機
+|style="background-color:#cef; text-align:left; width:175px;"| 九三式水中聴音機
 | +6
 | +1
 | 水雷系
 | 
 | 
-| 秋津洲
 | 仏水母
+| 秋津洲
+| 神威母
 | 速吸改
 | 
+| 大鷹二
 | 
 |-
-|style="background-color:#adf; text-align:left; width:145px;"| 三式爆雷投射機
+|style="background-color:#7df; text-align:left; width:175px;"| 試製15cm9連装対潜噴進砲
+| +15
+| +1
+| 水雷系
+| 
+| 水母系
+| 
+| 秋津洲
+| 神威母
+| 
+| 
+| 大鷹二
+| 
+|rowspan="2"| ソ投シナジーのみ有り爆雷とのシナジー無し
+|-
+|style="background-color:#7df; text-align:left; width:175px;"| 三式爆雷投射機 集中配備
+| +12
+| 
+| 水雷系
+| 
+| 水母系
+| 
+| 秋津洲
+| 神威母
+| 
+| 
+| 大鷹二
+| 
+|-
+|style="background-color:#7df; text-align:left; width:175px;"| 三式爆雷投射機
 | +8
 | 
 | 水雷系
 | 
 | 水母系
+| 
 | 秋津洲
+| 神威母
 | 
 | 
+| 大鷹二
 | 
-| 
+|rowspan="5"| ソ投爆シナジー
 |-
-|style="background-color:#adf; text-align:left; width:145px;"| 九四式爆雷投射機
+|style="background-color:#7df; text-align:left; width:175px;"| 九四式爆雷投射機
 | +5
 | 
 | 水雷系
 | 
 | 水母系
+| 
 | 秋津洲
+| 神威母
 | 
 | 
-| 
+| 大鷹二
 | 
 |-
-|style="background-color:#adf; text-align:left; width:145px;"| 零式水中聴音機
+|style="background-color:#dcf; text-align:left; width:175px;"| 二式爆雷
+| +7
+| 
+| 水雷系
+| 
+| 水母系
+| 
+| 秋津洲
+| 神威母
+| 
+| 
+| 大鷹二
+| 
+|-
+|style="background-color:#dcf; text-align:left; width:175px;"| 九五式爆雷
+| +4
+| 
+| 水雷系
+| 
+| 水母系
+| 
+| 秋津洲
+| 神威母
+| 
+| 
+| 大鷹二
+| 
+|-
+|style="background-color:#cef; text-align:left; width:175px;"| 零式水中聴音機
 | +11
 | +1
 | 
 | 航巡系
 | 水母系
-| 秋津洲
 | 仏水母
+| 秋津洲
 | 
 | 
+| 
+| 大鷹二
 | 軽空母
-| ソ爆シナジー
 |-
-|style="background-color:#9f9; text-align:left; width:145px;"| カ号観測機
+|style="background-color:#9f9; text-align:left; width:175px;"| カ号観測機
 | +9
 | +1
 | 
 | 航巡系
 | 
-| 
 | 仏水母
+| 
+| 神威母
 | 速吸改
 | あきつ
+| 大鷹二
 | 軽空母
 | 
 |-
-|style="background-color:#9f9; text-align:left; width:145px;"| 三式指揮連絡機(対潜)
+|style="background-color:#9f9; text-align:left; width:175px;"| 三式指揮連絡機(対潜)
 | +7
 | +2
 | 
@@ -2087,60 +2200,114 @@
 | 
 | 
 | 
+| 
 | あきつ
+| 大鷹二
 | 軽空母
 | 
 |-
-|style="background-color:#9f9; text-align:left; width:145px;"| 試製晴嵐
+|style="background-color:#9f9; text-align:left; width:175px;"| 零式水上偵察機11型乙(熟練)
+| +8
+| +3
+| 
+| 航巡系
+| 水母系
+| 仏水母
+| 秋津洲
+| 神威母
+| 速吸改
+| 
+| 
+| 
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:175px;"| 零式水上偵察機11型乙
+| +7
+| +2
+| 
+| 航巡系
+| 水母系
+| 仏水母
+| 秋津洲
+| 神威母
+| 速吸改
+| 
+| 
+| 
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:175px;"| 試製晴嵐
 | +6
 | +1
 | 
 | 航巡系
 | 水母系
-| 秋津洲
 | 仏水母
+| 秋津洲
+| 神威母
 | 速吸改
 | 
 | 
-|rowspan="18"| 艦載機熟練度
+| 
+|rowspan="20"| 艦載機熟練度効果有り
 |-
-|style="background-color:#9f9; text-align:left; width:145px;"| 瑞雲12型(六三四空)
+|style="background-color:#9f9; text-align:left; width:175px;"| 瑞雲12型(六三四空)
 | +6
 | +1
 | 
 | 航巡系
 | 水母系
-| 秋津洲
 | 仏水母
+| 秋津洲
+| 神威母
 | 速吸改
 | 
 | 
+| 
 |-
-|style="background-color:#9f9; text-align:left; width:145px;"| 瑞雲12型
+|style="background-color:#9f9; text-align:left; width:175px;"| 瑞雲(六三四空/熟練)
+| +6
+| +1
+| 
+| 航巡系
+| 水母系
+| 仏水母
+| 秋津洲
+| 神威母
+| 速吸改
+| 
+| 
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:175px;"| 瑞雲12型
 | +5
 | +1
 | 
 | 航巡系
 | 水母系
-| 秋津洲
 | 仏水母
+| 秋津洲
+| 神威母
 | 速吸改
 | 
 | 
+| 
 |-
-|style="background-color:#9f9; text-align:left; width:145px;"| 瑞雲(六三四空)
+|style="background-color:#9f9; text-align:left; width:175px;"| 瑞雲(六三四空)
 | +5
 | +1
 | 
 | 航巡系
 | 水母系
-| 秋津洲
 | 仏水母
+| 秋津洲
+| 神威母
 | 速吸改
 | 
 | 
+| 
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| Swordfish Mk.III(熟練)
+|style="background-color:#8bf; text-align:left; width:175px;"| Swordfish Mk.III(熟練)
 | +10
 | +4
 | 
@@ -2148,11 +2315,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#aac; text-align:left; width:145px;"| TBM-3D
+|style="background-color:#aac; text-align:left; width:175px;"| TBM-3D
 | +8
 | +2
 | 
@@ -2160,11 +2329,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| 天山(九三一空)
+|style="background-color:#8bf; text-align:left; width:175px;"| 天山(九三一空)
 | +8
 | 
 | 
@@ -2172,11 +2343,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| 九七式艦攻(九三一空)
+|style="background-color:#8bf; text-align:left; width:175px;"| 九七式艦攻(九三一空)
 | +7
 | 
 | 
@@ -2184,11 +2357,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| 天山一二型(友永隊)
+|style="background-color:#8bf; text-align:left; width:175px;"| 天山一二型(友永隊)
 | +6
 | +3
 | 
@@ -2196,11 +2371,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| Swordfish Mk.II(熟練)
+|style="background-color:#8bf; text-align:left; width:175px;"| Swordfish Mk.II(熟練)
 | +6
 | +3
 | 
@@ -2208,11 +2385,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| 天山(村田隊)
+|style="background-color:#8bf; text-align:left; width:175px;"| 天山(村田隊)
 | +6
 | +2
 | 
@@ -2220,11 +2399,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| TBF
+|style="background-color:#8bf; text-align:left; width:175px;"| TBF
 | +6
 | 
 | 
@@ -2232,11 +2413,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| 九七式艦攻(友永隊)
+|style="background-color:#8bf; text-align:left; width:175px;"| 九七式艦攻(友永隊)
 | +5
 | +3
 | 
@@ -2244,11 +2427,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| 九七式艦攻(熟練)
+|style="background-color:#8bf; text-align:left; width:175px;"| 九七式艦攻(熟練)
 | +5
 | +2
 | 
@@ -2256,11 +2441,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#8bf; text-align:left; width:145px;"| 流星(六〇一空)
+|style="background-color:#8bf; text-align:left; width:175px;"| 流星(六〇一空)
 | +5
 | +1
 | 
@@ -2268,11 +2455,13 @@
 | 
 | 
 | 
+| 
 | 速吸改
 | 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#fcc; text-align:left; width:145px;"| 彗星(江草隊)
+|style="background-color:#fcc; text-align:left; width:175px;"| 彗星(江草隊)
 | +5
 | +4
 | 
@@ -2282,9 +2471,11 @@
 | 
 | 
 | 
+| 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#fcc; text-align:left; width:145px;"| 九九式艦爆(江草隊)
+|style="background-color:#fcc; text-align:left; width:175px;"| 九九式艦爆(江草隊)
 | +5
 | +4
 | 
@@ -2294,9 +2485,25 @@
 | 
 | 
 | 
+| 
+| 大鷹二
 | 軽空母
 |-
-|style="background-color:#fcc; text-align:left; width:145px;"| Ju87C改
+|style="background-color:#fcc; text-align:left; width:175px;"| 彗星二二型(六三四空/熟練)
+| +5
+| +3
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 大鷹二
+| 軽空母
+|-
+|style="background-color:#fcc; text-align:left; width:175px;"| Ju87C改
 | +5
 | +1
 | 
@@ -2306,5 +2513,7 @@
 | 
 | 
 | 
+| 
+| 大鷹二
 | 軽空母
 |}
