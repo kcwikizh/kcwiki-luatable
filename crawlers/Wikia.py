@@ -25,15 +25,18 @@ class WikiaCrawler(HttpClient):
     async def getDetail(self, moduleName):
         MODULE_NAME = '_'.join(moduleName.strip()[7:].split())
         ret = []
-        async with self.session.get(self.SHIP_URL.format(moduleName)) as resp:
+        url = self.SHIP_URL.format('_'.join(moduleName.split()))
+        async with self.session.get(url) as resp:
             content = await resp.text()
             all_types = self.SHIPTYPE_PATTERN.findall(content)
             text = ''
             for _type in all_types:
                 text += '{{{{EnemyShipInfoKai|{}/{}}}}}'.format(
                     MODULE_NAME, _type.strip('{}'))
-            async with self.session.get(self.DETAIL_URL.format(text)) as resp:
+            url = self.DETAIL_URL.format('_'.join(text.split()))
+            async with self.session.get(url) as resp:
                 res_json = await resp.json()
+                # print(url)
                 htmlArr = res_json['expandtemplates']['*'].split("{|")[1:]
                 for val in htmlArr:
                     txt = val.split("'''")
