@@ -36,7 +36,6 @@ class WikiaCrawler(HttpClient):
             url = self.DETAIL_URL.format('_'.join(text.split()))
             async with self.session.get(url) as resp:
                 res_json = await resp.json()
-                # print(url)
                 htmlArr = res_json['expandtemplates']['*'].split("{|")[1:]
                 for val in htmlArr:
                     txt = val.split("'''")

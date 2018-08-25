@@ -113,8 +113,13 @@ class LuatableBot:
         await shinkaiLuatable.start()
 
     @LuatableBotTask
-    async def WikiBotUpdate(self, wikiBot):
-        await wikiBot.start()
+    async def WikiBotUpdate(self):
+        KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
+        if KCWIKI_UPDATE:
+            KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
+            KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
+            wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
+            await wikiBot.start()
 
     @LuatableBotTask
     async def BonusJson(self):
@@ -156,12 +161,8 @@ class LuatableBot:
         await self.ShipLuatable()
         await self.ShinkaiLuatable()
         await self.CheckLuatable()
-        KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
-        if KCWIKI_UPDATE:
-            KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
-            KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
-            wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
-            await self.WikiBotUpdate(wikiBot)
+        await self.WikiBotUpdate()
+        
 
 
 if __name__ == '__main__':
