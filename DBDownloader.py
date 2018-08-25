@@ -3,7 +3,7 @@ from os import path
 
 from config import DB_PATH
 from HttpClient import HttpClient
-from utils import to_filesize
+from utils import format_filesize
 
 
 class DBDownloader(HttpClient):
@@ -25,7 +25,7 @@ class DBDownloader(HttpClient):
                 content = await resp.text()
                 fp.write(content)
                 size = len(content)
-        print('DBDownloader: {} ({}) ok!'.format(dest, to_filesize(size)))
+        print('DBDownloader: {} ({}) ok!'.format(dest, format_filesize(size)))
 
     async def start(self):
         tasks = []

@@ -2,6 +2,7 @@ import asyncio
 import datetime
 import hashlib
 import json
+import os
 import re
 
 import lxml
@@ -11,7 +12,7 @@ from jinja2 import Template
 
 from config import DOCS_PATH, OUPUT_PATH, SEASONAL_PATH, TIMEZONE
 from HttpClient import HttpClient
-from utils import to_filesize
+from utils import format_filesize
 
 CATEGORY_URL = 'https://zh.kcwiki.org/wiki/Special:前缀索引/季节性/'
 KCWIKI_URL = 'https://zh.kcwiki.org/wiki/{}?action=raw'
@@ -158,10 +159,9 @@ class SeasonalCrawler(HttpClient):
         for wiki_id, subtitles in self.seasonals.items():
             file_name = '{}.json'.format(wiki_id)
             with open(OUPUT_PATH + SEASONAL_PATH + file_name, 'w') as fp:
-                data = json.dumps(subtitles, ensure_ascii=False, sort_keys=True, indent=2)
-                file_size = to_filesize(len(data))
-                fp.write(data)
-                files.append([file_name, file_size])
+                json.dump(subtitles, fp, ensure_ascii=False, sort_keys=True, indent=2)
+            file_size = format_filesize(os.path.getsize(OUPUT_PATH + SEASONAL_PATH + file_name))
+            files.append([file_name, file_size])
 
         now = datetime.datetime.now(TIMEZONE)
         with open(OUPUT_PATH + SEASONAL_PATH + 'index.html', 'w') as fp:
