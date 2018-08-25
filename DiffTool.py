@@ -86,4 +86,5 @@ class DiffTool(HttpClient):
     async def perform(self):
         res = await self._diff(OUPUT_PATH)
         if not res:
+            print('[Difftool] No file changed.')
             await self._repair()
