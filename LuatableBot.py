@@ -44,6 +44,7 @@ class LuatableBotException(Exception):
 class LuatableBot:
 
     def __init__(self):
+        self.diff = False
         if not path.isdir(DB_PATH):
             os.mkdir(DB_PATH)
         if not path.isdir(OUPUT_PATH):
@@ -115,6 +116,8 @@ class LuatableBot:
 
     @LuatableBotTask
     async def WikiBotUpdate(self):
+        if not self.diff:
+            return
         KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
         if KCWIKI_UPDATE:
             KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
@@ -129,7 +132,7 @@ class LuatableBot:
     @LuatableBotTask
     async def DiffFiles(self):
         diffTool = DiffTool()
-        await diffTool.perform()
+        self.diff = await diffTool.perform()
 
     def __exec_lua(self, filename):
         res = subprocess.Popen(['lua', filename], stderr=subprocess.PIPE)
@@ -167,9 +170,8 @@ class LuatableBot:
         await self.ShipLuatable()
         await self.ShinkaiLuatable()
         await self.CheckLuatable()
-        await self.WikiBotUpdate()
         await self.DiffFiles()
-        
+        await self.WikiBotUpdate()
 
 
 if __name__ == '__main__':

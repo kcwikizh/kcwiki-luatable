@@ -88,3 +88,4 @@ class DiffTool(HttpClient):
         if not res:
             print('[Difftool] No file changed.')
             await self._repair()
+        return res
