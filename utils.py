@@ -85,7 +85,7 @@ def luatable(data, layer=1, tab='\t', indent=False):
     return ret
 
 
-UNIT_NAMES = ['B', 'KB', 'MB', 'GB']
+UNIT_NAMES = ['B', 'kB', 'MB', 'GB']
 
 
 def format_filesize(size):

@@ -18,6 +18,7 @@ from config import (AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH, ENTITIES_DB,
 from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler,
                       WikiwikiCrawler)
 from DBDownloader import DBDownloader
+from DiffTool import DiffTool
 from ShinkaiLuatable import ShinkaiLuatable
 from ShipLuatable import ShipLuatable
 from utils import nedb2json
@@ -125,6 +126,11 @@ class LuatableBot:
     async def BonusJson(self):
         self.__exec_js(SCRIPTS_PATH + BONUS_JS)
 
+    @LuatableBotTask
+    async def DiffFiles(self):
+        diffTool = DiffTool()
+        await diffTool.perform()
+
     def __exec_lua(self, filename):
         res = subprocess.Popen(['lua', filename], stderr=subprocess.PIPE)
         print('lua ' + filename)
@@ -162,6 +168,7 @@ class LuatableBot:
         await self.ShinkaiLuatable()
         await self.CheckLuatable()
         await self.WikiBotUpdate()
+        await self.DiffFiles()
         
 
 

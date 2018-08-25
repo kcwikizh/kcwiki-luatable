@@ -9,7 +9,7 @@ JSON_PATH = 'json/'
 DOCS_PATH = 'docs/'
 
 # timezone
-TIMEZONE =  pytz.timezone('Asia/Shanghai')
+TIMEZONE = pytz.timezone('Asia/Shanghai')
 
 # seasonal
 SEASONAL_PATH = 'seasonal/'
@@ -56,3 +56,9 @@ BONUS_JSON = 'bonus.json'
 WIKIWIKI_TRANSLATION = 'wikiwiki_translation.json'
 WIKIWIKI_MaxValue_TABLE = 'wikiwiki_MaxValue_table.txt'
 WIKIWIKI_Compare_TABLE = 'wikiwiki_Compare_table.txt'
+
+# diff
+GITHUB_PAGES_URL = 'https://bot.kcwiki.moe/'
+IGNORE_FILES = [
+    'seasonal/index.html'
+]
