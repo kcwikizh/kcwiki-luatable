@@ -19,7 +19,6 @@ class DiffTool(HttpClient):
 
     async def _mkdiff(self, absolute, relative):
         url = f'{GITHUB_PAGES_URL}{relative}'
-        res = False
         async with self.session.get(url) as resp:
             if resp.status != 200:
                 return True
@@ -31,28 +30,15 @@ class DiffTool(HttpClient):
                     rrline = rline.decode().strip()
                     fline = fline.strip()
                     if fline != rrline:
-                        print(
-                            f'++--@@ {relative}:{lidx + 1} {rrline} -> {fline} ')
+                        return True
                     fline = fp.readline()
                     rline = await resp.content.readline()
                     lidx += 1
                 if fline and not rline:
-                    res = True
-                    while fline:
-                        fline = fline.strip()
-                        print(
-                            f'++--@@ {relative}:{lidx + 1} <[+]> -> {fline} ')
-                        fline = fp.readline()
-                        lidx += 1
+                    return True
                 if rline and not fline:
-                    res = True
-                    while rline:
-                        rrline = rline.decode().strip()
-                        print(
-                            f'++--@@ {relative}:{lidx + 1} {rrline} -> <[-]> ')
-                        rline = await resp.content.readline()
-                        lidx += 1
-        return res
+                    return True
+        return False
 
     async def _repair(self):
         for ignore_file in IGNORE_FILES:
@@ -66,7 +52,6 @@ class DiffTool(HttpClient):
 
     async def _diff(self, root, parrent=''):
         items = os.listdir(root)
-        res = False
         for item in items:
             ignore = False
             itemname = path.join(root, item)
@@ -77,11 +62,14 @@ class DiffTool(HttpClient):
                     break
             if ignore:
                 continue
+            res = False
             if path.isfile(itemname):
                 res = await self._mkdiff(itemname, relative)
             elif path.isdir(itemname):
                 res = await self._diff(itemname, relative)
-        return res
+            if res:
+                return True
+        return False
 
     async def perform(self):
         res = await self._diff(OUPUT_PATH)
