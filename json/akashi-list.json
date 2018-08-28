@@ -3681,6 +3681,8 @@
         "涼月(Lv1)",
         "水無月改(Lv20)",
         "卯月改(Lv25)",
+        "雪風改(Lv20)",
+        "島風改(Lv20)",
         "早霜改(Lv30)",
         "清霜改(Lv30)",
         "高波改(Lv30)",
@@ -3856,6 +3858,7 @@
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar",
       "JA_Wiki": "http://wikiwiki.jp/kancolle/?22%B9%E6%C2%D0%BF%E5%BE%E5%C5%C5%C3%B5",
       "equip_ships": [
+        "島風(Lv1)",
         "夕雲改(Lv30)",
         "浜風改(Lv30)",
         "早霜改(Lv30)",
@@ -5289,6 +5292,8 @@
         "天城(Lv1)",
         "葛城(Lv1)",
         "阿武隈改(Lv17)",
+        "雪風改(Lv20)",
+        "島風改(Lv20)",
         "卯月改(Lv25)",
         "夕張改(Lv25)",
         "速吸改(Lv25)",
@@ -5663,6 +5668,12 @@
         "浜風(Lv1)",
         "嵐(Lv1)",
         "鹿島(Lv1)",
+        "暁改(Lv20)",
+        "響改(Lv20)",
+        "雷改(Lv20)",
+        "電改(Lv20)",
+        "白露改(Lv20)",
+        "時雨改(Lv20)",
         "谷風改(Lv30)",
         "早霜改(Lv30)",
         "海風改(Lv30)",
@@ -5970,6 +5981,8 @@
       "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%BB%B0%BC%B0%BF%E5%C3%E6%C4%B0%B2%BB%B5%A1",
       "equip_ships": [
         "朝霜(Lv1)",
+        "雪風改(Lv20)",
+        "島風改(Lv20)",
         "谷風改(Lv30)",
         "浦風改(Lv35)",
         "野分改(Lv35)",
@@ -13448,6 +13461,7 @@
       "equip_ships": [
         "香取(Lv1)",
         "鹿島(Lv1)",
+        "夕張改(Lv25)",
         "香取改(Lv35)",
         "鹿島改(Lv35)"
       ],
@@ -14259,6 +14273,10 @@
       "EN_Wiki": "http://kancolle.wikia.com/wiki/61cm_Triple_%28Oxygen%29_Torpedo_Mount",
       "JA_Wiki": "http://wikiwiki.jp/kancolle/?61cm%BB%B0%CF%A2%C1%F5%28%BB%C0%C1%C7%29%B5%FB%CD%EB",
       "equip_ships": [
+        "初春改(Lv20)",
+        "子日改(Lv20)",
+        "若葉改(Lv20)",
+        "初霜改(Lv20)",
         "天霧改(Lv35)",
         "睦月改二(Lv65)",
         "如月改二(Lv65)",
@@ -22937,6 +22955,8 @@
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_95_Depth_Charge",
       "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%B8%DE%BC%B0%C7%FA%CD%EB",
       "equip_ships": [
+        "白露改(Lv20)",
+        "時雨改(Lv20)",
         "択捉改(Lv37)",
         "松輪改(Lv37)",
         "佐渡改(Lv37)",
@@ -29008,7 +29028,14 @@
         "深雪(Lv1)",
         "叢雲(Lv1)",
         "磯波(Lv1)",
-        "浦波(Lv1)"
+        "浦波(Lv1)",
+        "吹雪改(Lv20)",
+        "白雪改(Lv20)",
+        "初雪改(Lv20)",
+        "深雪改(Lv20)",
+        "叢雲改(Lv20)",
+        "磯波改(Lv20)",
+        "浦波改(Lv30)"
       ],
       "id": 297,
       "item_equip": {
@@ -29116,7 +29143,7 @@
               "support_weeks": [
                 0,
                 1,
-                0,
+                1,
                 1,
                 0,
                 0,
@@ -29128,7 +29155,7 @@
               "support_weeks": [
                 1,
                 1,
-                0,
+                1,
                 1,
                 1,
                 1,
