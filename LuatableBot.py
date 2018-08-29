@@ -117,7 +117,7 @@ class LuatableBot:
     @LuatableBotTask
     async def WikiBotUpdate(self):
         if not self.diff:
-            print('Skip the kcwiki pages update.')
+            print('Skip the kcwiki pages update (no file changes).')
             return
         KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
         if KCWIKI_UPDATE:
@@ -125,6 +125,8 @@ class LuatableBot:
             KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
             wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
             await wikiBot.start()
+        else:
+            print('Skip the kcwiki pages update (`KCWIKI_UPDATE` not set).')
 
     @LuatableBotTask
     async def BonusJson(self):
