@@ -4554,8 +4554,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?14%B9%E6%C2%D0%B6%F5%C5%C5%C3%B5",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_14_Air_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/42%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
+		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_42_Air_Radar"
 	},
 	["33"] = {
 		["id"] = 33,
@@ -22904,7 +22904,7 @@ k.EquipUpdateTb = {
 		["no"] = "No.224",
 		["item_name"] = {
 			["zh"] = "爆装一式战 隼III型改（55战队）",
-			["ja"] = "爆装一式戦 隼III型改(55戦隊)"
+			["ja"] = "爆装一式戦 隼III型改(65戦隊)"
 		},
 		["item_type"] = "陸上攻撃機",
 		["item_intro"] = "陸軍主力戦闘機、一式戦「隼」、その爆装機を装備する飛行戦隊です。電波欺瞞紙、現代でいうチャフを装備した爆装一式戦などを駆使して、苦しい戦局の中、通常戦闘で奮戦しました。",
@@ -22922,8 +22922,8 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?%C7%FA%C1%F5%B0%EC%BC%B0%C0%EF%20%C8%BBIII%B7%BF%B2%FE%2855%C0%EF%C2%E2%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bomb-carrying_Type_1_Fighter_Hayabusa_Model_III_Kai_%2855th_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%88%86%E8%A3%85%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E6%94%B9%2865%E6%88%A6%E9%9A%8A%29",
+		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bomb-carrying_Type_1_Fighter_Hayabusa_Model_III_Kai_%2865th_Squadron%29"
 	},
 	["225"] = {
 		["id"] = 225,
