@@ -116,7 +116,8 @@ class LuatableBot:
 
     @LuatableBotTask
     async def WikiBotUpdate(self):
-        if not self.diff:
+        UPDATE_FORCE = environ.get('UPDATE_FORCE')
+        if not UPDATE_FORCE and not self.diff:
             print('Skip the kcwiki pages update (no file changes).')
             return
         KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
