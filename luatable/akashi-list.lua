@@ -3841,6 +3841,10 @@ k.EquipUpdateTb = {
 			"卯月改(Lv25)",
 			"雪風改(Lv20)",
 			"島風改(Lv20)",
+			"朧改(Lv20)",
+			"曙改(Lv20)",
+			"漣改(Lv20)",
+			"潮改(Lv20)",
 			"早霜改(Lv30)",
 			"清霜改(Lv30)",
 			"高波改(Lv30)",
@@ -6626,6 +6630,10 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"朧改(Lv20)",
+			"曙改(Lv20)",
+			"漣改(Lv20)",
+			"潮改(Lv20)",
 			"狭霧改(Lv30)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?25mm%C3%B1%C1%F5%B5%A1%BD%C6",
