@@ -29207,6 +29207,498 @@
           }
         }
       ]
+    },
+    "298": {
+      "EN_Wiki": "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 298,
+      "item_equip": {
+        "戦艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 0,
+        "航空戦艦": 1,
+        "軽巡洋艦": 0,
+        "軽空母": 0,
+        "重巡洋艦": 0,
+        "駆逐艦": 0
+      },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
+      "item_intro": "紅茶の国で開発されたビックセブン、条約下時代に建造された16inch砲搭載超弩級戦艦ネルソン級。その主兵装として、同艦前部に集中配備された大口径三連装戦艦主砲です。課題を残しつつも、本三連装主砲三基九門を全て艦前部に集中配備した野心的な艦形を持つネルソン級は、日本の長門、そして陸奥と並んで、ビックセブンの一角を構成しました。",
+      "item_name": {
+        "ja": "16inch Mk.I三連装砲",
+        "zh": "16inch MK.I 三连装炮"
+      },
+      "item_stat": {
+        "命中": "+2",
+        "回避": "",
+        "対潜": "",
+        "対空": "",
+        "射程": "長",
+        "火力": "+21",
+        "爆装": "",
+        "索敵": "",
+        "装甲": "+1",
+        "雷装": ""
+      },
+      "item_type": "大口径主砲",
+      "no": "No.298"
+    },
+    "299": {
+      "EN_Wiki": "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_%2B_AFCT_Kai",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%EF%BC%8BAFCT%E6%94%B9",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 299,
+      "item_equip": {
+        "戦艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 0,
+        "航空戦艦": 1,
+        "軽巡洋艦": 0,
+        "軽空母": 0,
+        "重巡洋艦": 0,
+        "駆逐艦": 0
+      },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
+      "item_intro": "紅茶の国で開発されたビックセブン、条約下時代に建造された16inch砲搭載超弩級戦艦ネルソン級。その主兵装として、同艦前部に集中配備された大口径三連装戦艦主砲です。同射撃管制用最新アナログコンピューターAdmiralty Fire Control Tableの熟成改良を重ね、その射撃精度を向上させました。ネルソン級などで運用することで、高い戦闘力を発揮します。",
+      "item_name": {
+        "ja": "16inch Mk.I三連装砲＋AFCT改",
+        "zh": "16inch MK.I 三连装炮+AFCT改"
+      },
+      "item_stat": {
+        "命中": "+4",
+        "回避": "",
+        "対潜": "",
+        "対空": "",
+        "射程": "長",
+        "火力": "+22",
+        "爆装": "",
+        "索敵": "",
+        "装甲": "+1",
+        "雷装": ""
+      },
+      "item_type": "大口径主砲",
+      "no": "No.299"
+    },
+    "300": {
+      "EN_Wiki": "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_Kai_%2B_FCR_Type_284",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%EF%BC%8BFCR%20type284",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 300,
+      "item_equip": {
+        "戦艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 0,
+        "航空戦艦": 1,
+        "軽巡洋艦": 0,
+        "軽空母": 0,
+        "重巡洋艦": 0,
+        "駆逐艦": 0
+      },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛改二型",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu改級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
+      "item_intro": "紅茶の国で開発されたビックセブン、条約下時代に建造された16inch砲搭載超弩級戦艦ネルソン級。その主兵装として、同艦前部に集中配備された大口径三連装戦艦主砲の改良型です。さらに同砲と連携する射撃管制レーダー284型を採用、精度の高いレーダー射撃も可能です。ネルソン級や紅茶の国の戦艦で運用することで、高い戦闘力を期待できます。",
+      "item_name": {
+        "ja": "16inch Mk.I三連装砲改＋FCR type284",
+        "zh": "16inch MK.I 三连装炮改+FCR type284"
+      },
+      "item_stat": {
+        "命中": "+6",
+        "回避": "+2",
+        "対潜": "",
+        "対空": "+7",
+        "射程": "長",
+        "火力": "+23",
+        "爆装": "",
+        "索敵": "",
+        "装甲": "+1",
+        "雷装": ""
+      },
+      "item_type": "大口径主砲",
+      "no": "No.300"
+    },
+    "301": {
+      "EN_Wiki": "http://kancolle.wikia.com/wiki/20-tube_7inch_UP_Rocket_Launchers",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/20%E9%80%A3%E8%A3%857inch%20UP%20Rocket%20Launchers",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 301,
+      "item_bonus": {
+        "-": "",
+        "bonuses": [
+          {
+            "bonus": [
+              "対空+2",
+              "回避+1",
+              "装甲+1"
+            ],
+            "ships": [
+              "Warspite",
+              "Ark Royal",
+              "Jervis"
+            ]
+          },
+          {
+            "bonus": [
+              "対空+2",
+              "回避+1",
+              "装甲+1"
+            ],
+            "ships": [
+              "Warspite",
+              "Ark Royal",
+              "Jervis"
+            ]
+          }
+        ]
+      },
+      "item_equip": {
+        "戦艦": 1,
+        "正規空母": 1,
+        "水上機母艦": 1,
+        "航空戦艦": 1,
+        "軽巡洋艦": 1,
+        "軽空母": 1,
+        "重巡洋艦": 1,
+        "駆逐艦": 1
+      },
+      "item_intro": "紅茶の国で開発され、大型艦などの対空近接防御に使用された多連装対空ロケットランチャーです。日本の対空噴進砲に使用された12cmロサ弾より大型のロケット弾を採用しています。紅茶の国の艦艇や一部の戦艦などでポンポン砲と一緒に、または集中運用することで、限定的ではありますが近接対空防御に効果を発揮します。",
+      "item_name": {
+        "ja": "20連装7inch UP Rocket Launchers",
+        "zh": "20连装7inch UP火箭发射器"
+      },
+      "item_stat": {
+        "命中": "",
+        "回避": "+2",
+        "対潜": "",
+        "対空": "+7",
+        "射程": "",
+        "火力": "",
+        "爆装": "",
+        "索敵": "",
+        "雷装": ""
+      },
+      "item_type": "対空機銃",
+      "no": "No.301"
+    },
+    "303": {
+      "EN_Wiki": "http://kancolle.wikia.com/wiki/Bofors_15.2cm_Twin_Gun_Mount_Model_1930",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Bofors15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%20Model1930",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 303,
+      "item_equip": {
+        "extra": [
+          "C.Teste級",
+          "神威改母"
+        ],
+        "戦艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 0,
+        "練習巡洋艦": 1,
+        "航空巡洋艦": 1,
+        "航空戦艦": 1,
+        "軽巡洋艦": 1,
+        "軽空母": 0,
+        "重巡洋艦": 1,
+        "重雷装巡洋艦": 1,
+        "駆逐艦": 0
+      },
+      "item_intro": "北欧スウェーデンの名門火器メーカーが開発した軽巡用中口径連装主砲兵装です。日本の5,500t級軽巡とほぼ同じ排水量を持つ、スウェーデン海軍の軽巡級に採用されました。限定的ではありますが、対空戦闘にも対応可能です。",
+      "item_name": {
+        "ja": "Bofors15.2cm連装砲 Model1930",
+        "zh": "博福斯（Bofors）15.2cm连装炮 Model 1930"
+      },
+      "item_stat": {
+        "命中": "+3",
+        "回避": "+1",
+        "対潜": "",
+        "対空": "+4",
+        "射程": "中",
+        "火力": "+5",
+        "爆装": "",
+        "索敵": "",
+        "雷装": ""
+      },
+      "item_type": "中口径主砲",
+      "no": "No.303"
+    },
+    "304": {
+      "EN_Wiki": "http://kancolle.wikia.com/wiki/S9_Osprey",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/S9%20Osprey",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 304,
+      "item_equip": {
+        "extra": [
+          "大鯨型"
+        ],
+        "基地航空隊": 1,
+        "戦艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 1,
+        "潜水空母": 1,
+        "練習巡洋艦": 1,
+        "航空巡洋艦": 1,
+        "航空戦艦": 1,
+        "補給艦": 1,
+        "軽巡洋艦": 1,
+        "軽空母": 0,
+        "重巡洋艦": 1,
+        "駆逐艦": 0
+      },
+      "item_intro": "紅茶の国で生まれた複葉複座機の傑作機Hawker Hart。やや旧式ではありますが、同ベストセラー機の改良水上機型が本機「Osprey」です。スウェーデン海軍にも採用され、偵察や弾着観測機として運用されました。",
+      "item_name": {
+        "ja": "S9 Osprey",
+        "zh": "S9鹗（Osprey）"
+      },
+      "item_stat": {
+        "命中": "+2",
+        "回避": "",
+        "対潜": "+2",
+        "対空": "+1",
+        "戦闘行動半径": "3",
+        "火力": "",
+        "爆装": "",
+        "索敵": "+4",
+        "雷装": ""
+      },
+      "item_type": "水上偵察機",
+      "no": "No.304"
+    },
+    "305": {
+      "EN_Wiki": "http://kancolle.wikia.com/wiki/Ju_87C_Kai_Ni_%28w/_KMX%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 305,
+      "item_equip": {
+        "extra": [
+          "伊勢改二"
+        ],
+        "基地航空隊": 1,
+        "戦艦": 0,
+        "正規空母": 1,
+        "水上機母艦": 0,
+        "航空戦艦": 0,
+        "軽巡洋艦": 0,
+        "軽空母": 1,
+        "重巡洋艦": 0,
+        "駆逐艦": 0
+      },
+      "item_intro": "かの国の急降下爆撃機の代表的存在。日本に輸入された本機を改修し、磁気探知対潜兵装と艦載用装備を施した対潜用if艦爆です。「スツーカ」というあまりにも有名な呼称と優れた急降下爆撃性能を誇る逆ガル式翼が特徴的な本機と対潜護衛空母の組み合わせで、新たな対潜捜索掃蕩戦を！",
+      "item_name": {
+        "ja": "Ju87C改二(KMX搭載機)",
+        "zh": "Ju87C改二（KMX搭载机）"
+      },
+      "item_stat": {
+        "命中": "+2",
+        "回避": "+1",
+        "対潜": "+9",
+        "対空": "",
+        "戦闘行動半径": "4",
+        "火力": "",
+        "爆装": "+9",
+        "索敵": "+2",
+        "雷装": ""
+      },
+      "item_type": "艦上爆撃機",
+      "no": "No.305"
     }
   },
   "pre_star": [

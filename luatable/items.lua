@@ -24836,7 +24836,9 @@ d.equipDataTb = {
 				["装甲"] = 1,
 				["回避"] = -3
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount"
 	},
 	["299"] = {
 		["ID"] = 299,
@@ -24895,7 +24897,9 @@ d.equipDataTb = {
 				["装甲"] = 1,
 				["回避"] = -3
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%EF%BC%8BAFCT%E6%94%B9",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_%2B_AFCT_Kai"
 	},
 	["300"] = {
 		["ID"] = 300,
@@ -24956,7 +24960,9 @@ d.equipDataTb = {
 				["装甲"] = 1,
 				["回避"] = -3
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%EF%BC%8BFCR%20type284",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_Kai_%2B_FCR_Type_284"
 	},
 	["301"] = {
 		["ID"] = 301,
@@ -25023,7 +25029,9 @@ d.equipDataTb = {
 				["回避"] = 1,
 				["装甲"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/20%E9%80%A3%E8%A3%857inch%20UP%20Rocket%20Launchers",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/20-tube_7inch_UP_Rocket_Launchers"
 	},
 	["303"] = {
 		["ID"] = 303,
@@ -25082,7 +25090,9 @@ d.equipDataTb = {
 				["火力"] = 1,
 				["对空"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Bofors15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%20Model1930",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Bofors_15.2cm_Twin_Gun_Mount_Model_1930"
 	},
 	["304"] = {
 		["ID"] = 304,
@@ -25129,7 +25139,9 @@ d.equipDataTb = {
 			"舰队油船",
 			"改装航空战列舰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/S9%20Osprey",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/S9_Osprey"
 	},
 	["305"] = {
 		["ID"] = 305,
@@ -25182,7 +25194,9 @@ d.equipDataTb = {
 				["对潜"] = 1,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai_Ni_%28w/_KMX%29"
 	}
 }
 
