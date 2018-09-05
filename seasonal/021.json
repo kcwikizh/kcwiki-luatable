@@ -39,6 +39,14 @@
       "zh": "HEY，提督！三周年了哟！！耶！恭喜！还有Burning Looooove！！"
     }
   },
+  "2016年圣诞节": {
+    "021-Sec1Christmas2015": {
+      "file": "/f/f0/021-Sec1Christmas2015.mp3",
+      "ja": "へい！！！提督！！！メーーリーーークリスマスだよ！！！アホウ！！！さあ！私へのプレゼンツを、早く出すのデス！さあ、さあああ！あ、逃げたデス！待っっっっって！！！！！！！！",
+      "vname": "秘书舰1",
+      "zh": "嘿！提督！圣~~诞~~快乐！！！！啊嘿！快点！把给我的礼物掏出来吧！快点！快点！！！啊！跑了！！等等！！！！"
+    }
+  },
   "2016年情人节": {
     "021-Sec1Valentine2016": {
       "file": "/0/04/021-Sec1Valentine2016.mp3",
@@ -59,6 +67,14 @@
       "ja": "わぁ、Happy New Year！！提督ぅ、New Yearも、金剛型高速戦艦を、よろしくお願いしマース！！",
       "vname": "秘书舰1",
       "zh": "哇，Happy New Year!提督，New Year也，请多多关照，金刚型高速战舰的说！"
+    }
+  },
+  "2016年梅雨季节": {
+    "021-Sec1Tsuyu2015": {
+      "file": "/e/ec/021-Sec1Tsuyu2015.mp3",
+      "ja": "Oh、Rainyな梅雨のSeason、私苦手デース！うぅ～！",
+      "vname": "秘书舰1",
+      "zh": "Oh，下雨(Rainy)的梅雨季节(Season)，我最不喜欢了！呜呜～！"
     }
   },
   "2016年白色情人节": {
@@ -99,6 +115,20 @@
       "ja": "HEY HEY HEY!提督ぅー！　Fourth Anniversaryダヨー!!　Yeaaah！！ Congratulations! and Burning! …Looooooove!!",
       "vname": "秘书舰1",
       "zh": "嘿！嘿！嘿！提督u！ Fourth Anniversary了哟！ 耶！！！！！ Congratulations! and Burning! loooooooove!"
+    }
+  },
+  "2017年情人节": {
+    "021-Atk1Valentine2017": {
+      "file": "/9/9b/021-Atk1Valentine2017.mp3",
+      "ja": "Burning Valentine Love！！",
+      "vname": "攻击1",
+      "zh": "Burning Valentine Love！！"
+    },
+    "021-Sec1Valentine2016": {
+      "file": "/0/04/021-Sec1Valentine2016.mp3",
+      "ja": "HEY、提督ぅー！　Burning Love！！　な、Chocolates！持ってきたヨ－！",
+      "vname": "秘书舰1",
+      "zh": "Hey!提督！Burning Love! 呐！巧克力！我给你了哦！"
     }
   },
   "2017年新年季节": {
