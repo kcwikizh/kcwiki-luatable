@@ -721,12 +721,12 @@
       },
       "item_fitting": [
         {
-          "ship_class": "重巡洋艦",
+          "ship_class": "重巡洋艦・航空巡洋艦",
           "ship_correct": "+10",
           "ship_fitting": "fit"
         },
         {
-          "ship_class": "航空巡洋艦",
+          "ship_class": "重巡洋艦・航空巡洋艦",
           "ship_correct": "+10",
           "ship_fitting": "fit"
         }
@@ -6405,9 +6405,11 @@
       ]
     },
     "48": {
-      "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Single_High-angle_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%C3%B1%C1%F5%B9%E2%B3%D1%CB%A4",
+      "EN_Wiki": "http://kancolle.wikia.com/wiki/12cm_Single_High-angle_Gun_Mount",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
       "equip_ships": [
+        "睦月改(Lv20)",
+        "如月改(Lv20)",
         "弥生改(Lv20)",
         "水無月改(Lv20)",
         "夕張改(Lv25)"
@@ -6667,12 +6669,12 @@
       },
       "item_fitting": [
         {
-          "ship_class": "重巡洋艦",
+          "ship_class": "重巡洋艦・航空巡洋艦",
           "ship_correct": "+15",
           "ship_fitting": "fit"
         },
         {
-          "ship_class": "航空巡洋艦",
+          "ship_class": "重巡洋艦・航空巡洋艦",
           "ship_correct": "+15",
           "ship_fitting": "fit"
         }
@@ -10108,6 +10110,29 @@
         "大鷹改(Lv60)"
       ],
       "id": 82,
+      "item_bonus": {
+        "-": "重複可",
+        "bonuses": [
+          {
+            "bonus": [
+              "対潜+1",
+              "回避+1"
+            ],
+            "ships": [
+              "大鷹型"
+            ]
+          },
+          {
+            "bonus": [
+              "対潜+1",
+              "回避+1"
+            ],
+            "ships": [
+              "大鷹型"
+            ]
+          }
+        ]
+      },
       "item_equip": {
         "extra": [
           "速吸改"
@@ -10749,12 +10774,12 @@
       },
       "item_fitting": [
         {
-          "ship_class": "重巡洋艦",
+          "ship_class": "重巡洋艦・航空巡洋艦",
           "ship_correct": "+15",
           "ship_fitting": "fit"
         },
         {
-          "ship_class": "航空巡洋艦",
+          "ship_class": "重巡洋艦・航空巡洋艦",
           "ship_correct": "+15",
           "ship_fitting": "fit"
         }
@@ -29703,6 +29728,35 @@
         "-"
       ],
       "id": 303,
+      "item_bonus": {
+        "-": "",
+        "bonuses": [
+          {
+            "bonus": [
+              "火力+1",
+              "対空+1"
+            ],
+            "ships": [
+              "多摩型",
+              "長良型",
+              "川内型",
+              "阿賀野型"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+1",
+              "対空+1"
+            ],
+            "ships": [
+              "多摩型",
+              "長良型",
+              "川内型",
+              "阿賀野型"
+            ]
+          }
+        ]
+      },
       "item_equip": {
         "extra": [
           "C.Teste級",
@@ -29805,6 +29859,15 @@
           },
           {
             "bonus": [
+              "対潜+3",
+              "回避+2"
+            ],
+            "ships": [
+              "神鷹"
+            ]
+          },
+          {
+            "bonus": [
               "対潜+1",
               "回避+1"
             ],
@@ -29828,6 +29891,15 @@
             "ships": [
               "Graf Zeppelin",
               "Aquila"
+            ]
+          },
+          {
+            "bonus": [
+              "対潜+3",
+              "回避+2"
+            ],
+            "ships": [
+              "神鷹"
             ]
           },
           {

@@ -729,12 +729,12 @@ k.EquipUpdateTb = {
 		["item_fitting_type"] = "夜戦命中補正値",
 		["item_fitting"] = {
 			{
-				["ship_class"] = "重巡洋艦",
+				["ship_class"] = "重巡洋艦・航空巡洋艦",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+10"
 			},
 			{
-				["ship_class"] = "航空巡洋艦",
+				["ship_class"] = "重巡洋艦・航空巡洋艦",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+10"
 			}
@@ -6447,12 +6447,14 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"睦月改(Lv20)",
+			"如月改(Lv20)",
 			"弥生改(Lv20)",
 			"水無月改(Lv20)",
 			"夕張改(Lv25)"
 		},
-		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?12.7cm%C3%B1%C1%F5%B9%E2%B3%D1%CB%A4",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Single_High-angle_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
+		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12cm_Single_High-angle_Gun_Mount"
 	},
 	["49"] = {
 		["id"] = 49,
@@ -6679,12 +6681,12 @@ k.EquipUpdateTb = {
 		["item_fitting_type"] = "夜戦命中補正値",
 		["item_fitting"] = {
 			{
-				["ship_class"] = "重巡洋艦",
+				["ship_class"] = "重巡洋艦・航空巡洋艦",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+15"
 			},
 			{
-				["ship_class"] = "航空巡洋艦",
+				["ship_class"] = "重巡洋艦・航空巡洋艦",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+15"
 			}
@@ -10135,6 +10137,29 @@ k.EquipUpdateTb = {
 				"速吸改"
 			}
 		},
+		["item_bonus"] = {
+			["-"] = "重複可",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"大鷹型"
+					},
+					["bonus"] = {
+						"対潜+1",
+						"回避+1"
+					}
+				},
+				{
+					["ships"] = {
+						"大鷹型"
+					},
+					["bonus"] = {
+						"対潜+1",
+						"回避+1"
+					}
+				}
+			}
+		},
 		["equip_ships"] = {
 			"龍鳳改(Lv50)",
 			"大鷹改(Lv60)"
@@ -10757,12 +10782,12 @@ k.EquipUpdateTb = {
 		["item_fitting_type"] = "夜戦命中補正値",
 		["item_fitting"] = {
 			{
-				["ship_class"] = "重巡洋艦",
+				["ship_class"] = "重巡洋艦・航空巡洋艦",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+15"
 			},
 			{
-				["ship_class"] = "航空巡洋艦",
+				["ship_class"] = "重巡洋艦・航空巡洋艦",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+15"
 			}
@@ -29734,6 +29759,35 @@ k.EquipUpdateTb = {
 				"神威改母"
 			}
 		},
+		["item_bonus"] = {
+			["-"] = "",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"多摩型",
+						"長良型",
+						"川内型",
+						"阿賀野型"
+					},
+					["bonus"] = {
+						"火力+1",
+						"対空+1"
+					}
+				},
+				{
+					["ships"] = {
+						"多摩型",
+						"長良型",
+						"川内型",
+						"阿賀野型"
+					},
+					["bonus"] = {
+						"火力+1",
+						"対空+1"
+					}
+				}
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -29833,6 +29887,15 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
+						"神鷹"
+					},
+					["bonus"] = {
+						"対潜+3",
+						"回避+2"
+					}
+				},
+				{
+					["ships"] = {
 						"大鷹"
 					},
 					["bonus"] = {
@@ -29856,6 +29919,15 @@ k.EquipUpdateTb = {
 					["bonus"] = {
 						"火力+1",
 						"回避+1"
+					}
+				},
+				{
+					["ships"] = {
+						"神鷹"
+					},
+					["bonus"] = {
+						"対潜+3",
+						"回避+2"
 					}
 				},
 				{
