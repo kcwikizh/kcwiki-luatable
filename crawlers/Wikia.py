@@ -119,6 +119,8 @@ p.enemyFighterPowerDataTb = {
 '''
         for _id in sorted(result):
             detail = result[_id]
+            if not detail["AirPower"]:
+                continue
             airPowerTable += '    ["{}"] = {},\n'.format(_id, detail["AirPower"])
         airPowerTable += '''}
 
