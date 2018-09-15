@@ -25,6 +25,8 @@ class WikiaCrawler(HttpClient):
 
     async def getDetail(self, moduleName):
         MODULE_NAME = '_'.join(moduleName.strip()[7:].split())
+        if MODULE_NAME.find('(fog)') != -1:
+            return []
         ret = []
         url = self.SHIP_URL.format('_'.join(moduleName.split()))
         async with self.session.get(url) as resp:
