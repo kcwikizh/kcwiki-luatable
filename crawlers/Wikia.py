@@ -32,9 +32,8 @@ class WikiaCrawler(HttpClient):
             all_types = self.SHIPTYPE_PATTERN.findall(content)
             text = ''
             for _type in all_types:
-                text += '{{{{EnemyShipInfoKai|{}/{}}}}}'.format(
-                    MODULE_NAME, _type.strip('{}'))
-            url = self.DETAIL_URL.format('_'.join(text.split()))
+                text += '{{{{EnemyShipInfoKai|{}/{}}}}}'.format('_'.join(MODULE_NAME.split()), _type.strip('{}'))
+            url = self.DETAIL_URL.format(text)
             async with self.session.get(url) as resp:
                 res_json = await resp.json()
                 htmlArr = res_json['expandtemplates']['*'].split("{|")[1:]
@@ -66,6 +65,9 @@ class WikiaCrawler(HttpClient):
                     }
                     if res['id'] == '??':
                         continue
+                    res['id'] = int(res['id'])
+                    if res['id'] < 1000:
+                        res['id'] += 1000
                     ret.append(res)
         print('Wikia-Crawler: {} ok!'.format(MODULE_NAME))
         return ret
@@ -121,7 +123,8 @@ p.enemyFighterPowerDataTb = {
             detail = result[_id]
             if not detail["AirPower"]:
                 continue
-            airPowerTable += '    ["{}"] = {},\n'.format(_id, detail["AirPower"])
+            airPowerTable += '    ["{}"] = {},\n'.format(
+                _id, detail["AirPower"])
         airPowerTable += '''}
 
 p.enemyFighterPowerDataTb2 = {
