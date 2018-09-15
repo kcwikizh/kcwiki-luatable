@@ -3,7 +3,7 @@ import datetime
 from config import (AKASHI_LIST_OUTPUT_LUA, ITEMS_DATA, LUATABLE_PATH,
                     OUPUT_PATH, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
                     SHIPS_DATA, TIMEZONE, WIKIWIKI_Compare_TABLE,
-                    WIKIWIKI_MaxValue_TABLE)
+                    WIKIWIKI_MaxValue_TABLE, AIRPOWER_TABLE)
 from HttpClient import HttpClient
 
 
@@ -102,6 +102,7 @@ class WikiBot(HttpClient):
 
     async def start(self):
         await self.login()
+        await self.updatePage('模块:深海栖舰制空数据', OUPUT_PATH + LUATABLE_PATH + AIRPOWER_TABLE)
         await self.updatePage('模块:舰娘数据', OUPUT_PATH + LUATABLE_PATH + SHIPS_DATA + '.lua')
         await self.updatePage('模块:舰娘装备数据改', OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua')
         await self.updatePage('模块:深海装备数据', OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')

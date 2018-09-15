@@ -62,3 +62,5 @@ GITHUB_PAGES_URL = 'https://bot.kcwiki.moe/'
 IGNORE_FILES = [
     'seasonal/index.html'
 ]
+
+AIRPOWER_TABLE = 'airpower_table.lua'

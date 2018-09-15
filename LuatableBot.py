@@ -7,9 +7,9 @@ import subprocess
 import time
 from os import environ, path
 
-from config import (AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH, ENTITIES_DB,
-                    ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB, JSON_PATH,
-                    KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
+from config import (AIRPOWER_TABLE, AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH,
+                    ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB,
+                    JSON_PATH, KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
                     LUATABLE_PATH, OUPUT_PATH, SCRIPTS_PATH, SEASONAL_PATH,
                     SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA, SHIP_CLASSES_DB,
                     SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
@@ -161,6 +161,7 @@ class LuatableBot:
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA)
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AIRPOWER_TABLE)
         print('CheckLuatable: All the lua files is valid!')
 
     async def main(self):

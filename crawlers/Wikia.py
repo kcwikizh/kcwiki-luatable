@@ -5,7 +5,8 @@ import time
 
 import aiohttp
 
-from config import DB_PATH, WIKIA_OUTPUT_JSON
+from config import (AIRPOWER_TABLE, DB_PATH, LUATABLE_PATH, OUPUT_PATH,
+                    WIKIA_OUTPUT_JSON)
 from HttpClient import HttpClient
 
 
@@ -43,10 +44,18 @@ class WikiaCrawler(HttpClient):
                     re_res = self.NUM_PATTERN.search(txt[47].strip())
                     if re_res:
                         dayBattle = int(re_res.group(0))
+                    airPower = txt[36].split('|')[3].strip()
+                    try:
+                        airPower = int(airPower)
+                    except ValueError:
+                        if airPower.find('?') != -1:
+                            airPower = 9999
+                        else:
+                            print(airPower)
                     res = {
                         'id': txt[3].split('No.')[1].split(' ')[0].strip(),
                         'DayBattle': dayBattle,
-                        # 'AirPower': txt[36].split('|')[3].strip(),
+                        'AirPower': airPower
                         # 'Slots': txt[36].split('|')[5].strip(),
                         # 'OpeningAirstrike': txt[43].strip(),
                         # 'OpeningTorpedo': txt[45].strip(),
@@ -104,5 +113,63 @@ class WikiaCrawler(HttpClient):
                         print('Wikia-Crawler: ' + i1)
                         print('Wikia-Crawler: ' + i2)
                         print('Wikia-Crawler: === duplicate ===')
+        airPowerTable = '''local p = { }
+
+p.enemyFighterPowerDataTb = {
+'''
+        for _id in sorted(result):
+            detail = result[_id]
+            airPowerTable += '    ["{}"] = {},\n'.format(_id, detail["AirPower"])
+        airPowerTable += '''}
+
+p.enemyFighterPowerDataTb2 = {
+
+    -- 陆航阶段的深海栖舰制空值
+    ["1505"] = 1,
+    ["1518"] = 1,
+    ["1506"] = 1,
+    ["1519"] = 1,
+    ["1555"] = 1,
+    ["1507"] = 1,
+    ["1520"] = 1,
+    ["1509"] = 1,
+    ["1522"] = 2,
+    ["1527"] = 2,
+    ["1566"] = 4,
+    ["1511"] = 1,
+    ["1529"] = 2,
+    ["1567"] = 4,
+    ["1541"] = 2,
+    ["1543"] = 2,
+    ["1591"] = 1,
+    ["1592"] = 1,
+    ["1594"] = 2,
+    ["1595"] = 2,
+    ["1601"] = 1,
+    ["1602"] = 1,
+    ["1603"] = 2,
+    ["1604"] = 2,
+    ["1659"] = 4,
+    ["1660"] = 4,
+    ["1661"] = 4,
+    ["1662"] = 4,
+    ["1663"] = 4,
+    ["1664"] = 4,
+    ["1684"] = 4,
+    ["1685"] = 4,
+    ["1686"] = 4,
+    ["1687"] = 4,
+    ["1688"] = 4,
+    ["1689"] = 4,
+    ["1705"] = 4,
+    ["1706"] = 4,
+    ["1707"] = 4,
+}
+
+return p
+
+'''
+        with open(OUPUT_PATH + LUATABLE_PATH + AIRPOWER_TABLE, 'w', encoding='utf-8') as fp:
+            fp.write(airPowerTable)
         with open(DB_PATH + WIKIA_OUTPUT_JSON, 'w', encoding='utf-8') as fp:
             json.dump(result, fp, ensure_ascii=False, indent=4, sort_keys=True)
