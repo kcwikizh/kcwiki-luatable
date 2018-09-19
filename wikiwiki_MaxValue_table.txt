@@ -1322,7 +1322,7 @@
 | 78
 | 82
 | 60
-|style="background-color:#FDE9D9;"| 20/74
+| 20/74
 | 3
 | 短
 | 25
@@ -1339,7 +1339,7 @@
 | 82
 | 64
 | 78
-|style="background-color:#FFFF99;"| 89
+|style="background-color:#FDE9D9;"| 89
 | 70
 | 53
 | 17/77
@@ -1399,7 +1399,7 @@
 |style="background-color:#FDE9D9;"| 83
 | 53
 | 80
-|style="background-color:#FDE9D9;"| 88
+| 88
 | 83
 |style="background-color:#FDE9D9;"| 63
 | 16/70
@@ -1430,6 +1430,26 @@
 | 150
 | 大発・内火艇・整備員・カ号・水爆/水戦・バルジ装備可北方迷彩(＋北方装備)装備時にボーナス
 | {{舰娘备注|347}}
+|-
+| 379
+| Gotland改
+| 55
+| 43
+| 63
+| 
+| 62
+| 70
+|style="background-color:#FFFF99;"| 102
+| 
+| 
+|style="background-color:#FDE9D9;"| 24/
+| 4
+| 中
+| 30
+|style="background-color:#FDE9D9;"| 30
+| 132
+| スロット：4(1,1,1,1)
+| {{舰娘备注|379}}
 |}
 ====艦船最大値/雷巡上位早見表/テーブル====
 {| class="wikitable sortable"
