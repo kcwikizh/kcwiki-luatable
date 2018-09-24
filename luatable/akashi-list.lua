@@ -29259,7 +29259,7 @@ k.EquipUpdateTb = {
 					{
 						["support_ship"] = "吹雪",
 						["support_weeks"] = {
-							1,
+							0,
 							1,
 							1,
 							1,
