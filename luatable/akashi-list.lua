@@ -1135,7 +1135,7 @@ k.EquipUpdateTb = {
 			{
 				["ship_class"] = "Гангут改級",
 				["ship_fitting"] = "overover",
-				["ship_correct"] = "-7(-4.2)"
+				["ship_correct"] = "-13(-7.8)"
 			},
 			{
 				["ship_class"] = "Richelieu改級",
@@ -12206,7 +12206,7 @@ k.EquipUpdateTb = {
 			{
 				["ship_class"] = "Гангут改級",
 				["ship_fitting"] = "overover",
-				["ship_correct"] = "-7(-4.2)"
+				["ship_correct"] = "-13(-7.8)"
 			},
 			{
 				["ship_class"] = "Richelieu改級",
@@ -13326,7 +13326,7 @@ k.EquipUpdateTb = {
 			{
 				["ship_class"] = "Гангут改級",
 				["ship_fitting"] = "overover",
-				["ship_correct"] = "-7(-4.2)"
+				["ship_correct"] = "-13(-7.8)"
 			},
 			{
 				["ship_class"] = "Richelieu改級",
@@ -24218,7 +24218,7 @@ k.EquipUpdateTb = {
 			{
 				["ship_class"] = "Гангут改級",
 				["ship_fitting"] = "overover",
-				["ship_correct"] = "-7(-4.2)"
+				["ship_correct"] = "-13(-7.8)"
 			},
 			{
 				["ship_class"] = "Richelieu改級",
@@ -28561,63 +28561,63 @@ k.EquipUpdateTb = {
 		["item_fitting"] = {
 			{
 				["ship_class"] = "伊勢改型",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
 			},
 			{
 				["ship_class"] = "扶桑改二型",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
 			},
 			{
 				["ship_class"] = "大和改型",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
 			},
 			{
 				["ship_class"] = "長門改型",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
 			},
 			{
 				["ship_class"] = "金剛改二型",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
 			},
 			{
 				["ship_class"] = "Bismarck drei級",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
 			},
 			{
 				["ship_class"] = "V.Veneto改級",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
 			},
 			{
 				["ship_class"] = "Iowa改級",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
 			},
 			{
 				["ship_class"] = "Queen Elizabeth改級",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+2"
 			},
 			{
 				["ship_class"] = "Гангут改級",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "overover",
+				["ship_correct"] = "-13(-7.8)"
 			},
 			{
 				["ship_class"] = "Richelieu改級",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "over",
+				["ship_correct"] = "-5(-3)"
 			},
 			{
 				["ship_class"] = "長門改二",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+5"
 			}
 		},
 		["item_remodel"] = {
