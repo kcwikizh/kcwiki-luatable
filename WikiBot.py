@@ -97,6 +97,7 @@ class WikiBot(HttpClient):
                 if resp_json['edit']['result'] != 'Success':
                     raise KcwikiException('Wiki-Bot: Failed to update page!')
             except KeyError:
+                print(resp_json)
                 print('Wiki-Bot: Page {{{{{}}}}} failed to update! (Kcwiki BOOM)'.format(page_title))
             except Exception:
                 raise KcwikiException('Wiki-Bot: Failed to update page!')
