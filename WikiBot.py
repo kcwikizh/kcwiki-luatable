@@ -96,9 +96,11 @@ class WikiBot(HttpClient):
                 resp_json = await resp.json()
                 if resp_json['edit']['result'] != 'Success':
                     raise KcwikiException('Wiki-Bot: Failed to update page!')
+            except KeyError:
+                print('Wiki-Bot: Page {{{{{}}}}} failed to update! (Kcwiki BOOM)'.format(page_title))
             except Exception:
                 raise KcwikiException('Wiki-Bot: Failed to update page!')
-        print('Wiki-Bot: Page {{{{{}}}}} update successfully'.format(page_title))
+        print('Wiki-Bot: Page {{{{{}}}}} updated successfully'.format(page_title))
 
     async def start(self):
         await self.login()
