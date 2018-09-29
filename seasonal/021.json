@@ -85,14 +85,6 @@
       "zh": "HEY!提督！给我的白色情人节大惊喜是什么啊？！"
     }
   },
-  "2016年盛夏季节": {
-    "021-Seika2015": {
-      "file": "/7/73/021-Seika2015.mp3",
-      "ja": "Summer Season到来デース！　比叡、私のSwimming wearは？　……えっ、Nothing！？",
-      "vname": "-",
-      "zh": "夏季(Summer Season)到了DeSu！比睿，我的泳装(Swimming wear)在哪来着？ 哎？没有(Nothing)！？"
-    }
-  },
   "2016年秋刀鱼祭典": {
     "021-Sec1Sanma2016": {
       "file": "/2/22/021-Sec1Sanma2016.mp3",
@@ -115,34 +107,6 @@
       "ja": "HEY HEY HEY!提督ぅー！　Fourth Anniversaryダヨー!!　Yeaaah！！ Congratulations! and Burning! …Looooooove!!",
       "vname": "秘书舰1",
       "zh": "嘿！嘿！嘿！提督u！ Fourth Anniversary了哟！ 耶！！！！！ Congratulations! and Burning! loooooooove!"
-    }
-  },
-  "2017年情人节": {
-    "021-Atk1Valentine2017": {
-      "file": "/9/9b/021-Atk1Valentine2017.mp3",
-      "ja": "Burning Valentine Love！！",
-      "vname": "攻击1",
-      "zh": "Burning Valentine Love！！"
-    },
-    "021-Sec1Valentine2016": {
-      "file": "/0/04/021-Sec1Valentine2016.mp3",
-      "ja": "HEY、提督ぅー！　Burning Love！！　な、Chocolates！持ってきたヨ－！",
-      "vname": "秘书舰1",
-      "zh": "Hey!提督！Burning Love! 呐！巧克力！我给你了哦！"
-    }
-  },
-  "2017年新年季节": {
-    "021-Sec1Nenmatsu2015": {
-      "file": "/6/6f/021-Sec1Nenmatsu2015.mp3",
-      "ja": "Oh...!!　今年ももうDecemberネー。早いものデスネー、提督ぅ。鎮守府も大掃除デスカー？　私に任せるデース！",
-      "vname": "秘书舰1",
-      "zh": "Oh~今年也已经十二月了。时间过的真是好快，提督。镇守府要进行大扫除吗？交给我吧！"
-    },
-    "021-Sec1Shinnen2016": {
-      "file": "/2/2b/021-Sec1Shinnen2016.mp3",
-      "ja": "わぁ、Happy New Year！！提督ぅ、New Yearも、金剛型高速戦艦を、よろしくお願いしマース！！",
-      "vname": "秘书舰1",
-      "zh": "哇，Happy New Year!提督，New Year也，请多多关照，金刚型高速战舰的说！"
     }
   },
   "2017年梅雨季节": {

@@ -395,8 +395,8 @@
 | 
 | 中
 | ランキング
-| ◯
-| 
+| △
+| 現状は改修不可
 |}
 ====副砲の比較====
 {| class="wikitable sortable"
@@ -591,7 +591,7 @@
 | 日
 | 任務、ランキング
 | ◯
-| 航空戦艦に数値ボーナス。対空電探混載でボーナス(対空+2、回避+3)
+| 航空戦艦に装備ボーナス。対空電探混載でボーナス(対空+2、回避+3)
 |-
 |style="background-color:#fdd;"| 41cm三連装砲改
 | 22
@@ -655,7 +655,7 @@
 | 日
 | ランキング
 | -
-| 金剛型改二に数値ボーナス。金剛改二、榛名改二のみ水上電探混載で火力ボーナス(+2)
+| 金剛型改二に装備ボーナス。金剛改二、榛名改二のみ水上電探混載で火力ボーナス(+2)
 |-
 |style="background-color:#fdd;"| 試製35.6cm三連装砲
 | 18
@@ -687,7 +687,7 @@
 | 日
 | 初期装備
 | ◯
-| 金剛型改二に数値ボーナス
+| 金剛型改二に装備ボーナス
 |-
 |style="background-color:#fdd;"| 35.6cm連装砲
 | 15
@@ -781,9 +781,9 @@
 |style="background-color:#dff;"| +1
 | 長
 | 英
-| ランキング
+| イベント、ランキング
 | -
-| -
+| Nelson、Warspite、金剛型改二に装備ボーナス
 |-
 |style="background-color:#fee;"| 16inch Mk.I三連装砲＋AFCT改
 | 22
@@ -797,7 +797,7 @@
 |style="background-color:#dff;"| +1
 | 長
 | 英
-| ランキング
+| 初期装備、ランキング
 | -
 | -
 |-
@@ -813,7 +813,7 @@
 |style="background-color:#dff;"| +1
 | 長
 | 英
-| ランキング
+| 初期装備、ランキング
 | -
 | -
 |-
@@ -922,7 +922,7 @@
 |style="background-color:#efc;"| 9
 | 
 | 
-| ランキング
+| イベント、ランキング
 | -
 | 小
 | 水上
@@ -1579,6 +1579,21 @@
 | 任務、初期装備
 | -
 | 
+|-
+|style="background-color:#cfc;"| 304
+|style="background-color:#cfc;"| S9 Osprey
+| 
+| 
+| 1
+| 2
+| 4
+| 2
+| 
+| 3
+| 17%
+| 初期装備、イベント、ランキング
+| -
+| 
 |}
 ====水上爆撃機の比較====
 {| class="wikitable sortable"
@@ -1918,6 +1933,20 @@
 | 4
 | 初期装備
 | 
+|-
+|style="background-color:#cff;"| 九七式艦攻(九三一空／熟練)
+| 
+|style="background-color:#efc;"| 8
+| 
+|style="background-color:#efc;"| 9
+| 3
+| 2
+| 1
+| 17%
+|style="background-color:#efc;"| 12
+| 4
+| イベント
+| 先制対潜トリガー装備
 |-
 |style="background-color:#cef;"| 九七式艦攻(熟練)
 | 
