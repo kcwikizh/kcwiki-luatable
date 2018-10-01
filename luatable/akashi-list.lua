@@ -2663,6 +2663,7 @@ k.EquipUpdateTb = {
 			"隼鷹(Lv1)",
 			"祥鳳(Lv1)",
 			"瑞鳳(Lv1)",
+			"神鷹(Lv1)",
 			"赤城(Lv1)",
 			"加賀(Lv1)",
 			"蒼龍(Lv1)",
@@ -3154,6 +3155,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"神鷹(Lv1)",
 			"鳳翔改(Lv25)",
 			"龍驤改(Lv25)",
 			"飛鷹改(Lv25)",
@@ -5268,6 +5270,7 @@ k.EquipUpdateTb = {
 			"藤波改(Lv30)",
 			"浦波改(Lv30)",
 			"天霧改(Lv35)",
+			"岸波改(Lv35)",
 			"明石改(Lv35)",
 			"択捉改(Lv37)",
 			"松輪改(Lv37)",
@@ -5507,6 +5510,7 @@ k.EquipUpdateTb = {
 			"朝霜改(Lv45)",
 			"涼月改(Lv55)",
 			"潮改二(Lv60)",
+			"神鷹改(Lv60)",
 			"初春改二(Lv65)",
 			"木曾改二(Lv65)",
 			"浜風乙改(Lv67)",
@@ -6954,6 +6958,7 @@ k.EquipUpdateTb = {
 			"葛城改(Lv50)",
 			"隼鷹改二(Lv80)",
 			"扶桑改二(Lv80)",
+			"神鷹改二(Lv85)",
 			"伊勢改二(Lv88)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?12cm30%CF%A2%C1%F5%CA%AE%BF%CA%CB%A4",
@@ -10162,7 +10167,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"龍鳳改(Lv50)",
-			"大鷹改(Lv60)"
+			"大鷹改(Lv60)",
+			"神鷹改(Lv60)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%B6%E5%BB%B0%B0%EC%B6%F5%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28931_Air_Group%29"
@@ -16504,7 +16510,9 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Libeccio(Lv1)",
-			"Libeccio改(Lv30)"
+			"Maestrale(Lv1)",
+			"Libeccio改(Lv30)",
+			"Maestrale(Lv35)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?120mm%CF%A2%C1%F5%CB%A4",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/120mm_Twin_Gun_Mount"
@@ -18882,7 +18890,8 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["equip_ships"] = {
-			"Iowa改(Lv50)"
+			"Iowa改(Lv50)",
+			"Gotland改(Lv55)"
 		},
 		["JA_Wiki"] = "http://wikiwiki.jp/kancolle/?Bofors%2040mm%BB%CD%CF%A2%C1%F5%B5%A1%B4%D8%CB%A4",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bofors_40mm_Quadruple_Autocannon_Mount"
@@ -29452,7 +29461,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Nelson(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount"
@@ -29552,7 +29561,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Nelson改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%EF%BC%8BAFCT%E6%94%B9",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_%2B_AFCT_Kai"
@@ -29717,7 +29726,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Nelson改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20%E9%80%A3%E8%A3%857inch%20UP%20Rocket%20Launchers",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/20-tube_7inch_UP_Rocket_Launchers"
@@ -29789,7 +29798,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Gotland(Lv1)",
+			"Gotland改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%20Model1930",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bofors_15.2cm_Twin_Gun_Mount_Model_1930"
@@ -29833,7 +29843,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Gotland(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S9%20Osprey",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/S9_Osprey"
@@ -29950,7 +29960,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"神鷹改二(Lv85)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai_Ni_%28w/_KMX%29"
