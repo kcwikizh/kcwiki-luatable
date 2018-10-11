@@ -26,9 +26,8 @@ class AkashiListCrawler(HttpClient):
     ]
     ID_PATTERN = re.compile(r'[0-9]+')
 
-    def __init__(self, sannma=False):
+    def __init__(self):
         super().__init__()
-        self.sannma = sannma
         self.tot_items = 0
         self.ok_items = 0
         self.weapon_list = {}
@@ -44,20 +43,6 @@ class AkashiListCrawler(HttpClient):
             return node.string.strip()
         return node.get_text().strip()
 
-    def get_sannma(self, soup):
-        '''
-        获取对秋刀鱼装备数据
-        '''
-        sannmas = dict()
-        all_aura = soup.find_all('img', attrs={'aura': '1'})
-        for aura in all_aura:
-            aura_weapon = aura.parent.parent
-            w_id = aura_weapon.attrs['id']
-            aura_stat = self.get_text(aura_weapon.find(
-                'span', class_='saurytxt').contents[-1])
-            sannmas[w_id] = aura_stat
-        return sannmas
-
     async def get_weaponlist(self):
         '''
         解析首页得到全部装备的编号
@@ -65,10 +50,7 @@ class AkashiListCrawler(HttpClient):
         async with self.session.get(AKASHI_LIST_URL) as resp:
             content = await resp.text()
             content_soup = BeautifulSoup(content, 'lxml')
-            sannma_stats = None
-            if self.sannma:
-                sannma_stats = self.get_sannma(content_soup)
-            weapon_selector = content_soup.select('div.weapon')
+            weapon_selector = content_soup.select('#weapon-remodel div.weapon')
             weapon_id_list = list()
             for weapon in weapon_selector:
                 if 'id' in weapon.attrs:
@@ -79,7 +61,7 @@ class AkashiListCrawler(HttpClient):
                             weapon.attrs['data-title']).group()
                     weapon_id_list.append(_id.strip())
             self.tot_items = len(weapon_id_list)
-            return weapon_id_list, sannma_stats
+            return weapon_id_list
 
     def get_remodel(self, resource, supports):
         '''
@@ -550,10 +532,7 @@ class AkashiListCrawler(HttpClient):
             ]
         }
 
-        id_list, sannma_stats = await self.get_weaponlist()
-
-        if self.sannma:
-            akashi_json['sannma_stats'] = sannma_stats
+        id_list = await self.get_weaponlist()
 
         print('Akashi-List: Total {} items.'.format(len(id_list)))
         tasks = []
