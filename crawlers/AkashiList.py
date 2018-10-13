@@ -50,7 +50,7 @@ class AkashiListCrawler(HttpClient):
         async with self.session.get(AKASHI_LIST_URL) as resp:
             content = await resp.text()
             content_soup = BeautifulSoup(content, 'lxml')
-            weapon_selector = content_soup.select('#weapon-remodel div.weapon')
+            weapon_selector = content_soup.select('.weapons-uninited div.weapon')
             weapon_id_list = list()
             for weapon in weapon_selector:
                 if 'id' in weapon.attrs:
