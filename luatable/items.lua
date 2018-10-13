@@ -1922,9 +1922,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber"
+		["备注"] = ""
 	},
 	["017"] = {
 		["ID"] = 17,
@@ -1964,9 +1962,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan"
+		["备注"] = ""
 	},
 	["018"] = {
 		["ID"] = 18,
@@ -2006,9 +2002,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei"
+		["备注"] = ""
 	},
 	["019"] = {
 		["ID"] = 19,
@@ -4366,9 +4360,7 @@ d.equipDataTb = {
 			"改装航空战列舰",
 			"轻航空巡洋舰"
 		},
-		["备注"] = "避免一次被击沉<br />发动后装备消失不可再用",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B1%FE%B5%DE%BD%A4%CD%FD%CD%D7%B0%F7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Emergency_Repair_Personnel"
+		["备注"] = "避免一次被击沉<br />发动后装备消失不可再用"
 	},
 	["043"] = {
 		["ID"] = 43,
@@ -4421,9 +4413,7 @@ d.equipDataTb = {
 			"改装航空战列舰",
 			"轻航空巡洋舰"
 		},
-		["备注"] = "避免一次被击沉<br />并且回满耐久油弹<br />发动后装备消失不可再用",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B1%FE%B5%DE%BD%A4%CD%FD%BD%F7%BF%C0",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Emergency_Repair_Goddess"
+		["备注"] = "避免一次被击沉<br />并且回满耐久油弹<br />发动后装备消失不可再用"
 	},
 	["044"] = {
 		["ID"] = 44,
@@ -5453,9 +5443,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1%B2%FE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei_Kai"
+		["备注"] = ""
 	},
 	["053"] = {
 		["ID"] = 53,
@@ -7057,9 +7045,7 @@ d.equipDataTb = {
 			"武藏改二",
 			"多摩改二"
 		},
-		["备注"] = "航巡、扬陆、工作舰可以装备",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%A5%AB%B9%E6%B4%D1%C2%AC%B5%A1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ka_Type_Observation_Autogyro"
+		["备注"] = "航巡、扬陆、工作舰可以装备"
 	},
 	["070"] = {
 		["ID"] = 70,
@@ -7097,9 +7083,7 @@ d.equipDataTb = {
 			"改装航空战列舰",
 			"大鹰改"
 		},
-		["备注"] = "扬陆可以装备",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%BB%D8%B4%F8%CF%A2%CD%ED%B5%A1%28%C2%D0%C0%F8%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Command_Liaison_Aircraft_%28ASW%29"
+		["备注"] = "扬陆可以装备"
 	},
 	["071"] = {
 		["ID"] = 71,
@@ -8161,9 +8145,7 @@ d.equipDataTb = {
 				["对潜"] = 1,
 				["回避"] = 1
 			}
-		},
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%B6%E5%BB%B0%B0%EC%B6%F5%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28931_Air_Group%29"
+		}
 	},
 	["083"] = {
 		["ID"] = 83,
@@ -8203,9 +8185,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%B6%E5%BB%B0%B0%EC%B6%F5%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_%28931_Air_Group%29"
+		["备注"] = ""
 	},
 	["084"] = {
 		["ID"] = 84,
@@ -9037,9 +9017,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%CD%A7%B1%CA%C2%E2%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Tomonaga_Squadron%29"
+		["备注"] = ""
 	},
 	["094"] = {
 		["ID"] = 94,
@@ -9081,9 +9059,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%B0%EC%C6%F3%B7%BF%28%CD%A7%B1%CA%C2%E2%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Tomonaga_Squadron%29"
+		["备注"] = ""
 	},
 	["095"] = {
 		["ID"] = 95,
@@ -9323,9 +9299,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%BD%CF%CE%FD%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Skilled%29"
+		["备注"] = ""
 	},
 	["099"] = {
 		["ID"] = 99,
@@ -10389,9 +10363,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_%28601_Air_Group%29"
+		["备注"] = ""
 	},
 	["113"] = {
 		["ID"] = 113,
@@ -10432,9 +10404,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei_%28601_Air_Group%29"
+		["备注"] = ""
 	},
 	["114"] = {
 		["ID"] = 114,
@@ -12674,9 +12644,7 @@ d.equipDataTb = {
 			"水上机母舰",
 			"神威改母"
 		},
-		["备注"] = "只有秋津洲(含改)可以装备",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C6%F3%BC%B0%C2%E7%C4%FA",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Large_Flying_Boat"
+		["备注"] = "只有秋津洲(含改)可以装备"
 	},
 	["139"] = {
 		["ID"] = 139,
@@ -13104,9 +13072,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%C2%BC%C5%C4%C2%E2%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Murata_Squadron%29"
+		["备注"] = ""
 	},
 	["144"] = {
 		["ID"] = 144,
@@ -13148,9 +13114,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%C2%BC%C5%C4%C2%E2%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Murata_Squadron%29"
+		["备注"] = ""
 	},
 	["145"] = {
 		["ID"] = 145,
@@ -15831,9 +15795,7 @@ d.equipDataTb = {
 			"水上机母舰",
 			"神威改母"
 		},
-		["备注"] = "只有秋津洲(含改)可以装备",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?PBY-5A%20Catalina",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/PBY-5A_Catalina"
+		["备注"] = "只有秋津洲(含改)可以装备"
 	},
 	["179"] = {
 		["ID"] = 179,
@@ -16522,9 +16484,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?Re.2001%20G%B2%FE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Re.2001_G_Kai"
+		["备注"] = ""
 	},
 	["189"] = {
 		["ID"] = 189,
@@ -17097,9 +17057,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?TBD",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBD"
+		["备注"] = ""
 	},
 	["197"] = {
 		["ID"] = 197,
@@ -20774,9 +20732,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?Swordfish",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish"
+		["备注"] = ""
 	},
 	["243"] = {
 		["ID"] = 243,
@@ -20818,9 +20774,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?Swordfish%20Mk.II%28%BD%CF%CE%FD%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish_Mk.II_%28Skilled%29"
+		["备注"] = ""
 	},
 	["244"] = {
 		["ID"] = 244,
@@ -20862,9 +20816,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?Swordfish%20Mk.III%28%BD%CF%CE%FD%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish_Mk.III_%28Skilled%29"
+		["备注"] = ""
 	},
 	["245"] = {
 		["ID"] = 245,
@@ -21427,9 +21379,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?TBF",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBF"
+		["备注"] = ""
 	},
 	["257"] = {
 		["ID"] = 257,
@@ -21472,9 +21422,7 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?TBM-3D",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBM-3D"
+		["备注"] = ""
 	},
 	["258"] = {
 		["ID"] = 258,
@@ -25668,7 +25616,154 @@ d.equipDataTb = {
 				["对潜"] = 3,
 				["回避"] = 2
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai_Ni_%28w/_KMX/Skilled%29"
+	},
+	["307"] = {
+		["ID"] = 307,
+		["日文名"] = "GFCS Mk.37",
+		["中文名"] = "GFCS Mk.37",
+		["类别"] = {
+			5,
+			8,
+			12,
+			11,
+			0
+		},
+		["稀有度"] = "☆☆☆☆☆",
+		["状态"] = {
+			["开发"] = 0,
+			["改修"] = 0,
+			["更新"] = 0,
+			["熟练"] = 0
+		},
+		["属性"] = {
+			["火力"] = 2,
+			["对空"] = 7,
+			["装甲"] = 1,
+			["回避"] = 2,
+			["命中"] = 9,
+			["索敌"] = 6,
+			["射程"] = "中"
+		},
+		["废弃"] = {
+			["燃料"] = 0,
+			["弹药"] = 0,
+			["钢材"] = 20,
+			["铝"] = 24
+		},
+		["装备适用"] = {
+			"驱逐舰",
+			"轻巡洋舰",
+			"重雷装巡洋舰",
+			"重巡洋舰",
+			"航空巡洋舰",
+			"战列舰",
+			"战列巡洋舰",
+			"航空战列舰",
+			"轻型航母",
+			"正规航母",
+			"装甲航母",
+			"水上机母舰",
+			"登陆突击舰",
+			"维修舰",
+			"潜艇补给舰",
+			"练习巡洋舰",
+			"舰队油船",
+			"海防舰",
+			"改装航空战列舰",
+			"轻航空巡洋舰"
+		},
+		["备注"] = "",
+		["额外收益"] = {
+			["适用舰娘"] = {
+				"衣阿华级"
+			},
+			["收益类型"] = "通用",
+			["收益属性"] = {
+				["火力"] = 1,
+				["对空"] = 1,
+				["回避"] = 1
+			}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/GFCS_Mk.37"
+	},
+	["308"] = {
+		["ID"] = 308,
+		["日文名"] = "5inch単装砲 Mk.30改+GFCS Mk.37",
+		["中文名"] = "5inch单装炮 Mk.30改+GFCS Mk.37",
+		["类别"] = {
+			1,
+			1,
+			1,
+			16,
+			0
+		},
+		["稀有度"] = "☆☆☆☆☆☆",
+		["状态"] = {
+			["开发"] = 0,
+			["改修"] = 0,
+			["更新"] = 0,
+			["熟练"] = 0
+		},
+		["属性"] = {
+			["火力"] = 3,
+			["对空"] = 11,
+			["装甲"] = 1,
+			["回避"] = 2,
+			["命中"] = 6,
+			["索敌"] = 3,
+			["射程"] = "中"
+		},
+		["废弃"] = {
+			["燃料"] = 0,
+			["弹药"] = 2,
+			["钢材"] = 22,
+			["铝"] = 28
+		},
+		["装备适用"] = {
+			"驱逐舰",
+			"轻巡洋舰",
+			"重雷装巡洋舰",
+			"水上机母舰",
+			"登陆突击舰",
+			"维修舰",
+			"潜艇补给舰",
+			"练习巡洋舰",
+			"舰队油船",
+			"海防舰",
+			"轻航空巡洋舰",
+			"长门改二"
+		},
+		["备注"] = "",
+		["额外收益"] = {
+			["适用舰娘"] = {
+				"驱逐舰",
+				"驱逐舰"
+			},
+			["非适用舰娘"] = {
+				"约翰·C·巴特勒级"
+			},
+			["收益类型"] = "通用",
+			["收益属性"] = {
+				["火力"] = 1
+			}
+		},
+		["额外收益2"] = {
+			["适用舰娘"] = {
+				"约翰·C·巴特勒级"
+			},
+			["收益类型"] = "通用",
+			["收益属性"] = {
+				["火力"] = 2,
+				["对空"] = 1,
+				["回避"] = 1
+			}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%E6%94%B9%EF%BC%8BGFCS%20Mk.37",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30_Kai_%2B_GFCS_Mk.37"
 	}
 }
 
