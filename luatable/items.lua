@@ -1922,7 +1922,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber"
 	},
 	["017"] = {
 		["ID"] = 17,
@@ -1962,7 +1964,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan"
 	},
 	["018"] = {
 		["ID"] = 18,
@@ -2002,7 +2006,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei"
 	},
 	["019"] = {
 		["ID"] = 19,
@@ -4360,7 +4366,9 @@ d.equipDataTb = {
 			"改装航空战列舰",
 			"轻航空巡洋舰"
 		},
-		["备注"] = "避免一次被击沉<br />发动后装备消失不可再用"
+		["备注"] = "避免一次被击沉<br />发动后装备消失不可再用",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B1%FE%B5%DE%BD%A4%CD%FD%CD%D7%B0%F7",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Emergency_Repair_Personnel"
 	},
 	["043"] = {
 		["ID"] = 43,
@@ -4413,7 +4421,9 @@ d.equipDataTb = {
 			"改装航空战列舰",
 			"轻航空巡洋舰"
 		},
-		["备注"] = "避免一次被击沉<br />并且回满耐久油弹<br />发动后装备消失不可再用"
+		["备注"] = "避免一次被击沉<br />并且回满耐久油弹<br />发动后装备消失不可再用",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B1%FE%B5%DE%BD%A4%CD%FD%BD%F7%BF%C0",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Emergency_Repair_Goddess"
 	},
 	["044"] = {
 		["ID"] = 44,
@@ -5443,7 +5453,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1%B2%FE",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei_Kai"
 	},
 	["053"] = {
 		["ID"] = 53,
@@ -7045,7 +7057,9 @@ d.equipDataTb = {
 			"武藏改二",
 			"多摩改二"
 		},
-		["备注"] = "航巡、扬陆、工作舰可以装备"
+		["备注"] = "航巡、扬陆、工作舰可以装备",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%A5%AB%B9%E6%B4%D1%C2%AC%B5%A1",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ka_Type_Observation_Autogyro"
 	},
 	["070"] = {
 		["ID"] = 70,
@@ -7083,7 +7097,9 @@ d.equipDataTb = {
 			"改装航空战列舰",
 			"大鹰改"
 		},
-		["备注"] = "扬陆可以装备"
+		["备注"] = "扬陆可以装备",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%BB%D8%B4%F8%CF%A2%CD%ED%B5%A1%28%C2%D0%C0%F8%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Command_Liaison_Aircraft_%28ASW%29"
 	},
 	["071"] = {
 		["ID"] = 71,
@@ -8145,7 +8161,9 @@ d.equipDataTb = {
 				["对潜"] = 1,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%B6%E5%BB%B0%B0%EC%B6%F5%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28931_Air_Group%29"
 	},
 	["083"] = {
 		["ID"] = 83,
@@ -8185,7 +8203,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%B6%E5%BB%B0%B0%EC%B6%F5%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_%28931_Air_Group%29"
 	},
 	["084"] = {
 		["ID"] = 84,
@@ -9017,7 +9037,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%CD%A7%B1%CA%C2%E2%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Tomonaga_Squadron%29"
 	},
 	["094"] = {
 		["ID"] = 94,
@@ -9059,7 +9081,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%B0%EC%C6%F3%B7%BF%28%CD%A7%B1%CA%C2%E2%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Tomonaga_Squadron%29"
 	},
 	["095"] = {
 		["ID"] = 95,
@@ -9299,7 +9323,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%BD%CF%CE%FD%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Skilled%29"
 	},
 	["099"] = {
 		["ID"] = 99,
@@ -10363,7 +10389,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_%28601_Air_Group%29"
 	},
 	["113"] = {
 		["ID"] = 113,
@@ -10404,7 +10432,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei_%28601_Air_Group%29"
 	},
 	["114"] = {
 		["ID"] = 114,
@@ -12644,7 +12674,9 @@ d.equipDataTb = {
 			"水上机母舰",
 			"神威改母"
 		},
-		["备注"] = "只有秋津洲(含改)可以装备"
+		["备注"] = "只有秋津洲(含改)可以装备",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C6%F3%BC%B0%C2%E7%C4%FA",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Large_Flying_Boat"
 	},
 	["139"] = {
 		["ID"] = 139,
@@ -13072,7 +13104,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%C2%BC%C5%C4%C2%E2%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Murata_Squadron%29"
 	},
 	["144"] = {
 		["ID"] = 144,
@@ -13114,7 +13148,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%C2%BC%C5%C4%C2%E2%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Murata_Squadron%29"
 	},
 	["145"] = {
 		["ID"] = 145,
@@ -15795,7 +15831,9 @@ d.equipDataTb = {
 			"水上机母舰",
 			"神威改母"
 		},
-		["备注"] = "只有秋津洲(含改)可以装备"
+		["备注"] = "只有秋津洲(含改)可以装备",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?PBY-5A%20Catalina",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/PBY-5A_Catalina"
 	},
 	["179"] = {
 		["ID"] = 179,
@@ -16484,7 +16522,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?Re.2001%20G%B2%FE",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Re.2001_G_Kai"
 	},
 	["189"] = {
 		["ID"] = 189,
@@ -17057,7 +17097,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?TBD",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBD"
 	},
 	["197"] = {
 		["ID"] = 197,
@@ -20732,7 +20774,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?Swordfish",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish"
 	},
 	["243"] = {
 		["ID"] = 243,
@@ -20774,7 +20818,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?Swordfish%20Mk.II%28%BD%CF%CE%FD%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish_Mk.II_%28Skilled%29"
 	},
 	["244"] = {
 		["ID"] = 244,
@@ -20816,7 +20862,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?Swordfish%20Mk.III%28%BD%CF%CE%FD%29",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish_Mk.III_%28Skilled%29"
 	},
 	["245"] = {
 		["ID"] = 245,
@@ -21379,7 +21427,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?TBF",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBF"
 	},
 	["257"] = {
 		["ID"] = 257,
@@ -21422,7 +21472,9 @@ d.equipDataTb = {
 			"大鹰改",
 			"大鹰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?TBM-3D",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBM-3D"
 	},
 	["258"] = {
 		["ID"] = 258,
