@@ -3582,7 +3582,7 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "伊勢改",
+						["support_ship"] = "伊勢改(改二不可)",
 						["support_weeks"] = {
 							1,
 							0,
@@ -4244,7 +4244,7 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "伊勢",
+						["support_ship"] = "伊勢・伊勢改二",
 						["support_weeks"] = {
 							1,
 							1,
@@ -4420,7 +4420,7 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "伊勢",
+						["support_ship"] = "伊勢・伊勢改二",
 						["support_weeks"] = {
 							0,
 							0,
@@ -5701,7 +5701,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["海防艦"] = 1,
 			["extra"] = {
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["item_remodel"] = {
@@ -5853,7 +5854,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["海防艦"] = 1,
 			["extra"] = {
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["item_remodel"] = {
@@ -6025,7 +6027,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste級",
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["item_remodel"] = {
@@ -6275,7 +6278,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste級",
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["item_remodel"] = {
@@ -9897,7 +9901,7 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "伊勢改",
+						["support_ship"] = "伊勢改(改二不可)",
 						["support_weeks"] = {
 							1,
 							0,
@@ -12580,7 +12584,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste級",
 				"由良改二",
-				"Zara due"
+				"Zara due",
+				"多摩改二"
 			}
 		},
 		["equip_ships"] = {
@@ -16124,7 +16129,7 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "伊勢",
+						["support_ship"] = "伊勢・伊勢改二",
 						["support_weeks"] = {
 							1,
 							1,
@@ -16598,7 +16603,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste級",
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["item_remodel"] = {
@@ -23028,7 +23034,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["海防艦"] = 1,
 			["extra"] = {
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["item_remodel"] = {
@@ -23181,7 +23188,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["海防艦"] = 1,
 			["extra"] = {
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["equip_ships"] = {
@@ -25542,7 +25550,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste級",
 				"由良改二",
-				"Zara due"
+				"Zara due",
+				"多摩改二"
 			}
 		},
 		["equip_ships"] = {
@@ -25587,7 +25596,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste級",
 				"由良改二",
-				"Zara due"
+				"Zara due",
+				"多摩改二"
 			}
 		},
 		["equip_ships"] = {
@@ -25634,7 +25644,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste級",
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["equip_ships"] = {
@@ -25681,7 +25692,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste級",
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["equip_ships"] = {
@@ -25728,7 +25740,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste級",
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["equip_ships"] = {
@@ -26025,15 +26038,7 @@ k.EquipUpdateTb = {
 			["bonuses"] = {
 				{
 					["ships"] = {
-						"長波改二"
-					},
-					["bonus"] = {
-						"火力+3",
-						"回避+1"
-					}
-				},
-				{
-					["ships"] = {
+						"夕雲型改二",
 						"陽炎型改二"
 					},
 					["bonus"] = {
@@ -26043,7 +26048,8 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"夕雲型"
+						"夕雲型",
+						"島風型"
 					},
 					["bonus"] = {
 						"火力+2",
@@ -26052,6 +26058,26 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
+						"陽炎型"
+					},
+					["bonus"] = {
+						"火力+1",
+						"回避+1"
+					}
+				},
+				{
+					["ships"] = {
+						"夕雲型改二",
+						"陽炎型改二"
+					},
+					["bonus"] = {
+						"火力+3",
+						"回避+1"
+					}
+				},
+				{
+					["ships"] = {
+						"夕雲型",
 						"島風型"
 					},
 					["bonus"] = {
@@ -28083,17 +28109,13 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_bonus"] = {
-			["-"] = "",
+			["-"] = "重複可",
 			["bonuses"] = {
 				{
 					["ships"] = {
-						"時雨改二",
-						"村雨改二",
-						"夕立改二",
-						"江風改二",
-						"陽炎改二",
-						"不知火改二",
-						"黒潮改二"
+						"白露型改二",
+						"朝潮型改二",
+						"夕雲型改二"
 					},
 					["bonus"] = {
 						"雷装+2",
@@ -28103,17 +28125,35 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"朝潮改二(丁)",
-						"大潮改二",
-						"満潮改二",
-						"荒潮改二",
-						"霰改二",
-						"霞改二(乙)",
-						"長波改二"
+						"陽炎型改二"
 					},
 					["bonus"] = {
 						"雷装+2",
 						"回避+1",
+						"★5～：雷装+1",
+						"★MAX：火力+1"
+					}
+				},
+				{
+					["ships"] = {
+						"白露型改二",
+						"朝潮型改二",
+						"夕雲型改二"
+					},
+					["bonus"] = {
+						"雷装+2",
+						"回避+1",
+						"★MAX：火力+1"
+					}
+				},
+				{
+					["ships"] = {
+						"陽炎型改二"
+					},
+					["bonus"] = {
+						"雷装+2",
+						"回避+1",
+						"★5～：雷装+1",
 						"★MAX：火力+1"
 					}
 				}
@@ -28269,7 +28309,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["海防艦"] = 1,
 			["extra"] = {
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["equip_ships"] = {
@@ -28311,7 +28352,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["海防艦"] = 1,
 			["extra"] = {
-				"大鷹改"
+				"大鷹改",
+				"神鷹"
 			}
 		},
 		["equip_ships"] = {
