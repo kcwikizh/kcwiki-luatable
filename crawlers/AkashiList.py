@@ -189,14 +189,14 @@ class AkashiListCrawler(HttpClient):
         # 解析获取编号，名字，装备类型 这三个数据
         name_selector = content_soup.select_one('div.name')
         item_no = self.get_text(name_selector.find('span', class_='no'))
-        item_name = self.get_text(name_selector).split()[2]
+        item_title = self.get_text(name_selector.find('span', class_='wname'))
         wiki_links_selector = name_selector.find_all('a')
         if item_no:
             detail['no'] = item_no
-        if item_name:
+        if item_title:
             detail['item_name'] = {
                 'zh': self.items[detail['id']]['name']['zh_cn'],
-                'ja': item_name
+                'ja': item_title
             }
 
         for name_child in name_selector:
