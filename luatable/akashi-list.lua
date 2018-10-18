@@ -3549,7 +3549,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["item_remodel"] = {
@@ -7294,6 +7295,31 @@ k.EquipUpdateTb = {
 				"Bismarck drei"
 			}
 		},
+		["item_bonus"] = {
+			["-"] = "重複可",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"重雷装巡洋艦",
+						"島風型",
+						"秋月型"
+					},
+					["bonus"] = {
+						"雷装+1"
+					}
+				},
+				{
+					["ships"] = {
+						"重雷装巡洋艦",
+						"島風型",
+						"秋月型"
+					},
+					["bonus"] = {
+						"雷装+1"
+					}
+				}
+			}
+		},
 		["item_remodel"] = {
 			["雷撃"] = {
 				"+1.20",
@@ -7771,7 +7797,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["equip_ships"] = {
@@ -8823,6 +8850,7 @@ k.EquipUpdateTb = {
 				"龍田改二",
 				"天龍改二",
 				"多摩改二",
+				"Gotland",
 				"武蔵改二"
 			}
 		},
@@ -8964,7 +8992,7 @@ k.EquipUpdateTb = {
 				"不知火改二",
 				"黒潮改二",
 				"夕雲改二",
-				"Gotland 改"
+				"Gotland改"
 			}
 		},
 		["item_extra_equip"] = {
@@ -8991,7 +9019,7 @@ k.EquipUpdateTb = {
 				"不知火改二",
 				"黒潮改二",
 				"夕雲改二",
-				"Gotland 改"
+				"Gotland改"
 			}
 		},
 		["item_remodel"] = {
@@ -9817,7 +9845,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["item_bonus"] = {
@@ -10004,7 +10033,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["equip_ships"] = {
@@ -10052,7 +10082,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["item_bonus"] = {
@@ -12622,7 +12653,7 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"Zara due",
 				"多摩改二",
-				"Gotland 改"
+				"Gotland"
 			}
 		},
 		["equip_ships"] = {
@@ -15981,7 +16012,7 @@ k.EquipUpdateTb = {
 				"C.Teste級",
 				"Zara due",
 				"天龍改二",
-				"Gotland 改"
+				"Gotland改"
 			}
 		},
 		["item_remodel"] = {
@@ -20651,7 +20682,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["equip_ships"] = {
@@ -21245,7 +21277,7 @@ k.EquipUpdateTb = {
 				"不知火改二",
 				"黒潮改二",
 				"夕雲改二",
-				"Gotland 改"
+				"Gotland改"
 			}
 		},
 		["item_extra_equip"] = {
@@ -21272,7 +21304,7 @@ k.EquipUpdateTb = {
 				"不知火改二",
 				"黒潮改二",
 				"夕雲改二",
-				"Gotland 改"
+				"Gotland改"
 			}
 		},
 		["item_remodel"] = {
@@ -21757,7 +21789,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["equip_ships"] = {
@@ -21804,7 +21837,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["equip_ships"] = {
@@ -24448,7 +24482,8 @@ k.EquipUpdateTb = {
 				"V.Veneto改級",
 				"阿賀野改型",
 				"由良改二",
-				"多摩改二"
+				"多摩改二",
+				"Gotland"
 			}
 		},
 		["item_bonus"] = {
@@ -25615,7 +25650,7 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"Zara due",
 				"多摩改二",
-				"Gotland 改"
+				"Gotland"
 			}
 		},
 		["equip_ships"] = {
@@ -25662,7 +25697,7 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"Zara due",
 				"多摩改二",
-				"Gotland 改"
+				"Gotland"
 			}
 		},
 		["equip_ships"] = {
@@ -26310,7 +26345,7 @@ k.EquipUpdateTb = {
 				"不知火改二",
 				"黒潮改二",
 				"夕雲改二",
-				"Gotland 改"
+				"Gotland改"
 			}
 		},
 		["item_bonus"] = {
@@ -26382,7 +26417,7 @@ k.EquipUpdateTb = {
 				"不知火改二",
 				"黒潮改二",
 				"夕雲改二",
-				"Gotland 改"
+				"Gotland改"
 			}
 		},
 		["equip_ships"] = {
