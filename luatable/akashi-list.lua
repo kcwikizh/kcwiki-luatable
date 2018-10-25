@@ -5427,6 +5427,18 @@ k.EquipUpdateTb = {
 						}
 					},
 					{
+						["support_ship"] = "村雨改二",
+						["support_weeks"] = {
+							0,
+							0,
+							0,
+							1,
+							1,
+							1,
+							1
+						}
+					},
+					{
 						["support_ship"] = "五十鈴改二",
 						["support_weeks"] = {
 							0,
@@ -13885,18 +13897,6 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "摩耶",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
 						["support_ship"] = "秋月",
 						["support_weeks"] = {
 							1,
@@ -13916,6 +13916,18 @@ k.EquipUpdateTb = {
 							0,
 							0,
 							1,
+							1,
+							1
+						}
+					},
+					{
+						["support_ship"] = "摩耶",
+						["support_weeks"] = {
+							1,
+							1,
+							0,
+							0,
+							0,
 							1,
 							1
 						}
