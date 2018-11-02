@@ -1,6 +1,7 @@
 ====小口径主砲の比較====
 {| class="wikitable sortable"
 |-
+| 追加
 ! No
 ! 装備名 － 小口径主砲
 ! 火力
@@ -26,6 +27,7 @@
 | ◯
 | 
 | 高射装置機能
+| 編集
 |-
 |style="background-color:#cfc;"| 296
 |style="background-color:#cfc;"| 12.7cm連装砲B型改四(戦時改修)＋高射装置
@@ -39,6 +41,7 @@
 | -
 | 綾波型～白露型に装備ボーナス，水上電探混載シナジー，対空電探混載シナジー
 | 高射装置機能
+| 編集
 |-
 |style="background-color:#cfc;"| 295
 |style="background-color:#cfc;"| 12.7cm連装砲A型改三(戦時改修)＋高射装置
@@ -52,6 +55,7 @@
 | 〇
 | 特型に装備ボーナス(火力+2、対空+2)，水上電探混載シナジー(火力+3、雷装+1、回避+2)，対空電探混載シナジー(対空+6)
 | 高射装置機能
+| 編集
 |-
 |style="background-color:#cfc;"| 003
 |style="background-color:#cfc;"| 10cm連装高角砲
@@ -65,6 +69,7 @@
 | -
 | 
 | 
+| 編集
 |-
 |style="background-color:#cfc;"| 091
 |style="background-color:#cfc;"| 12.7cm連装高角砲(後期型)
@@ -78,6 +83,7 @@
 | ◯
 | 軽巡に対する命中フィット補正有
 | 
+| 編集
 |-
 |style="background-color:#cfc;"| 229
 |style="background-color:#cfc;"| 12.7cm単装高角砲(後期型)
@@ -91,6 +97,7 @@
 | ◯
 | 軽巡に対する命中フィット補正有★7以上の改修で神風型、睦月型、海防艦、由良改二にフィット補正と電探シナジー有り
 | 
+| 編集
 |-
 |style="background-color:#dfd;"| 308
 |style="background-color:#dfd;"| 5inch単装砲 Mk.30改＋GFCS Mk.37
@@ -104,6 +111,7 @@
 | -
 | 
 | 索敵+3、高射装置機能、射程：中
+| 編集
 |-
 |style="background-color:#dfd;"| 284
 |style="background-color:#dfd;"| 5inch単装砲 Mk.30
@@ -117,6 +125,7 @@
 | ◯
 | 
 | 
+| 編集
 |-
 |style="background-color:#fcc;"| 267
 |style="background-color:#fcc;"| 12.7cm連装砲D型改二
@@ -130,6 +139,7 @@
 | ◯
 | 夕雲改二、長波改二水上電探混載でボーナス（火力+3、雷装+4、回避+3）
 | 専用主魚電CI、電探ボーナス重復無
+| 編集
 |-
 |style="background-color:#fcc;"| 267
 |style="background-color:#fcc;"| 12.7cm連装砲D型改二
@@ -143,6 +153,7 @@
 | ◯
 | 夕雲型および陽炎型改二、島風水上電探混載でボーナス（夕雲型：火力+2、雷装+3、回避+1）（島風改：火力+1、雷装+3、回避+2）
 | 専用主魚電CI、電探ボーナス重復無
+| 編集
 |-
 |style="background-color:#fcc;"| 267
 |style="background-color:#fcc;"| 12.7cm連装砲D型改二
@@ -156,6 +167,7 @@
 | ◯
 | 陽炎型
 | 専用主魚電CI
+| 編集
 |-
 |style="background-color:#fcc;"| 267
 |style="background-color:#fcc;"| 12.7cm連装砲D型改二
@@ -169,6 +181,7 @@
 | ◯
 | 
 | 専用主魚電CI
+| 編集
 |-
 |style="background-color:#fdd;"| 266
 |style="background-color:#fdd;"| 12.7cm連装砲C型改二
@@ -182,6 +195,7 @@
 | ◯
 | 白露型・朝潮型・陽炎型改二に装備ボーナス（最大で火力+3まで）,水上電探混載でボーナス
 | 
+| 編集
 |-
 |style="background-color:#fdd;"| 063
 |style="background-color:#fdd;"| 12.7cm連装砲B型改二
@@ -195,6 +209,7 @@
 | ◯
 | 
 | 
+| 編集
 |-
 |style="background-color:#fdd;"| 294
 |style="background-color:#fdd;"| 12.7cm連装砲A型改二
@@ -208,6 +223,7 @@
 | ◯
 | 吹雪型に装備ボーナス（火力+1），水上電探混載シナジー（火力+3、雷装+1、回避+2），魚雷混載シナジー（火力+1、雷装+6）
 | 電探ボーナス加算重復無
+| 編集
 |-
 |style="background-color:#fdd;"| 002
 |style="background-color:#fdd;"| 12.7cm連装砲
@@ -221,6 +237,7 @@
 | ◯
 | 
 | 
+| 編集
 |-
 |style="background-color:#fdd;"| 297
 |style="background-color:#fdd;"| 12.7cm連装砲A型
@@ -234,6 +251,7 @@
 | ◯
 | 吹雪型に装備ボーナス（回避+2），綾波型・暁型に装備ボーナス（回避+1）
 | 
+| 編集
 |-
 |style="background-color:#fdd;"| 293
 |style="background-color:#fdd;"| 12cm単装砲改二
@@ -247,6 +265,7 @@
 | -
 | 神風型、睦月型に装備ボーナス(火力+2、対空+1、回避+3)、海防艦（火力+1、対空+1、回避+2）
 | 
+| 編集
 |-
 |style="background-color:#fee;"| 282
 |style="background-color:#fee;"| 130mm B-13連装砲
@@ -260,6 +279,7 @@
 | ◯
 | 
 | 
+| 編集
 |-
 |style="background-color:#fee;"| 280
 |style="background-color:#fee;"| QF 4.7inch砲 Mk.XII改
@@ -273,6 +293,7 @@
 | ◯
 | 
 | 
+| 編集
 |-
 |style="background-color:#fee;"| 147
 |style="background-color:#fee;"| 120mm連装砲
@@ -286,6 +307,7 @@
 | -
 | 
 | 
+| 編集
 |}
 ====中口径主砲の比較====
 {| class="wikitable sortable"
@@ -1115,7 +1137,7 @@
 |style="background-color:#efc;"| 1
 | 2
 | 
-| イベント
+| イベント、ランキング
 | -
 | 大
 | 対空
@@ -2244,4 +2266,167 @@
 | ◯
 | 爆
 | 
+|}
+====対潜装備の搭載可能艦一覧表====
+{| class="wikitable sortable"
+|-
+! 分類
+!colspan="13"| 装備可能艦
+! 备注
+|-
+|style="background-color:#cef; text-align:left; width:250px;"| ソナー 四式水中聴音機 など
+| 水雷系
+| 天龍型
+| 多摩他
+| 由良他
+| 
+| 
+| 仏水母
+| 秋津洲
+| 神威母
+| 速吸改
+| 
+| 大鷹型
+| 
+|rowspan="2"| ソ投爆シナジー
+|-
+|style="background-color:#7df; text-align:left; width:250px;"| 爆雷投射機 三式爆雷投射機 など
+| 水雷系
+| 天龍型
+| 多摩他
+| 由良他
+| 
+| 水母系
+| 
+| 秋津洲
+| 神威母
+| 
+| 
+| 大鷹型
+| 
+|-
+|style="background-color:#7df; text-align:left; width:250px;"| 爆雷投射機試製15cm9連装対潜噴進砲 など
+| 水雷系
+| 天龍型
+| 多摩他
+| 由良他
+| 
+| 水母系
+| 
+| 秋津洲
+| 神威母
+| 
+| 
+| 大鷹型
+| 
+| ソ投シナジーのみ有り爆雷とのシナジー無し
+|-
+|style="background-color:#dcf; text-align:left; width:250px;"| 爆雷 二式爆雷 など
+| 水雷系
+| 天龍型
+| 多摩他
+| 由良他
+| 
+| 水母系
+| 
+| 秋津洲
+| 神威母
+| 
+| 
+| 大鷹型
+| 
+|rowspan="2"| ソ投爆シナジー
+|-
+|style="background-color:#cef; text-align:left; width:250px;"| 大型ソナー 零式水中聴音機
+| 
+| 
+| 
+| 
+| 航巡系
+| 水母系
+| 仏水母
+| 秋津洲
+| 
+| 
+| 
+| 大鷹型
+| 軽空母
+|-
+|style="background-color:#9f9; text-align:left; width:250px;"| オートジャイロ カ号観測機
+| 
+| 天龍型
+| 多摩他
+| 
+| 航巡系
+| 
+| 仏水母
+| 
+| 神威母
+| 速吸改
+| あきつ
+| 大鷹型
+| 軽空母
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:250px;"| 対潜哨戒機 三式指揮連絡機(対潜)
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| あきつ
+| 大鷹型
+| 軽空母
+| 
+|-
+|style="background-color:#9f9; text-align:left; width:250px;"| 水上爆撃機 瑞雲 など
+| 
+| 
+| 多摩他
+| 由良他
+| 航巡系
+| 水母系
+| 仏水母
+| 秋津洲
+| 神威母
+| 速吸改
+| 
+| 
+| 
+|rowspan="3"| 艦載機熟練度効果有り
+|-
+|style="background-color:#8bf; text-align:left; width:250px;"| 艦上攻撃機 流星 など
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 速吸改
+| 
+| 大鷹型
+| 軽空母
+|-
+|style="background-color:#fcc; text-align:left; width:250px;"| 艦上爆撃機 彗星 など
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 大鷹型
+| 軽空母
 |}
