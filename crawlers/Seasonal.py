@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import asyncio
 import datetime
 import hashlib

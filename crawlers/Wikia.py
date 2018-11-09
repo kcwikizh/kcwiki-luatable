@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import asyncio
 import json
 import re
@@ -6,7 +7,7 @@ import time
 import aiohttp
 
 from config import (AIRPOWER_TABLE, DB_PATH, LUATABLE_PATH, OUPUT_PATH,
-                    WIKIA_OUTPUT_JSON)
+                    WIKIA_OUTPUT_JSON, ABYSSAL_AIRPOWER_WHITELIST)
 from HttpClient import HttpClient
 
 
@@ -41,6 +42,7 @@ class WikiaCrawler(HttpClient):
                 htmlArr = res_json['expandtemplates']['*'].split("{|")[1:]
                 for val in htmlArr:
                     txt = val.split("'''")
+                    shipid = txt[3].split('No.')[1].split(' ')[0].strip(),
                     dayBattle = 0
                     re_res = self.NUM_PATTERN.search(txt[47].strip())
                     if re_res:
@@ -50,7 +52,12 @@ class WikiaCrawler(HttpClient):
                         airPower = int(airPower)
                     except ValueError:
                         if airPower.find('?') != -1:
-                            airPower = 9999
+                            print(shipid)
+                            if shipid[0] in ABYSSAL_AIRPOWER_WHITELIST:
+                                print(airPower.strip('?'))
+                                airPower = int(airPower.strip('?'))
+                            else:
+                                airPower = 9999
                         else:
                             print(airPower)
                     res = {
