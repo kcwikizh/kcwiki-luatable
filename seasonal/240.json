@@ -39,6 +39,14 @@
       "zh": "太棒了！樱花好漂亮！真不错，很合心意啊！赏花？嗯，有兴趣呢。"
     }
   },
+  "2017年四周年纪念": {
+    "240-Sec1FourthAnniversary": {
+      "file": "/e/ef/240-Sec1FourthAnniversary.mp3",
+      "ja": "Admiral！4th memorial seasonね！おめでとう、Great！New seasonも、meとUSS shipをよろしくね！",
+      "vname": "秘书舰1",
+      "zh": "Admiral！4th memorial season(提督！四周年)了呢！恭喜，Great（太棒了）! New season（新的一年）也要，多多关照Me(我）和USS ship（美国舰娘）哦！"
+    }
+  },
   "2017年情人节": {
     "240-Sec1Valentine2017": {
       "file": "/4/48/240-Sec1Valentine2017.mp3",
@@ -63,6 +71,14 @@
       "zh": "真是多雨呢…这个季节。是念作“To you”吗？为了…你？何等浪漫的季节啊。真不愧是日本！【*“梅雨（TsuYu）”在日语中的发音和“To you”非常接近】"
     }
   },
+  "2017年白色情人节": {
+    "240-Sec1WhiteDay2017": {
+      "file": "/f/f7/240-Sec1WhiteDay2017.mp3",
+      "ja": "Whiteday?何か白いの？クッキー？Admiral、Why？や、頂くけと…",
+      "vname": "秘书舰1",
+      "zh": "白色的日子?有什么白色的吗？曲奇？提督，为什么？到，倒是会收下啦…"
+    }
+  },
   "2017年秋刀鱼祭典": {
     "240-Sec1Sanma2016": {
       "file": "/6/64/240-Sec1Sanma2016.mp3",
@@ -77,6 +93,14 @@
       "ja": "What？セツブーン？何それ…や、知らないけど…",
       "vname": "秘书舰1",
       "zh": "什么？JIE-FEN？那是什么啊…不明白啊……"
+    }
+  },
+  "2018年五周年纪念": {
+    "240-Sec1FifthAnniversary": {
+      "file": "/8/8a/240-Sec1FifthAnniversary.mp3",
+      "ja": "Admiral! 5th memorialってわけね！おめでとう、Great! New seasonも、meとStatesをよろしくね！",
+      "vname": "秘书舰1",
+      "zh": "提督！是五周年呢！恭喜，恭喜！新的一期里，我和合众国也请多指教咯！"
     }
   }
 }
