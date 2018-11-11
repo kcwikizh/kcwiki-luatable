@@ -23273,7 +23273,7 @@ d.equipDataTb = {
 			},
 			["改修备注"] = ""
 		},
-		["日文Wiki"] = "http://wikiwiki.jp/kancolle/?51cm%CF%A2%C1%F5%CB%A4",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/51cm%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["英文Wiki"] = "http://kancolle.wikia.com/wiki/51cm_Twin_Gun_Mount"
 	},
 	["282"] = {
