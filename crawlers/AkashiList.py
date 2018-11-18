@@ -332,6 +332,7 @@ class AkashiListCrawler(HttpClient):
                     if not text:
                         continue
                     bonus_item_next = bonus_item.contents
+                    bonus_item_next = [ x for x in bonus_item_next if x!= '\n' ]
                     ship_names = self.get_text(
                         bonus_item_next[1]).split('・')
                     ship_bonuses = []
