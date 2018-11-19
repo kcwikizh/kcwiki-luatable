@@ -318,6 +318,10 @@
 ! 命中
 ! 回避
 ! 装甲
+! 火ボ
+! 雷ボ
+! 空ボ
+! 回ボ
 ! 射程
 ! 入手方法
 ! 改修
@@ -329,6 +333,10 @@
 | 1
 | 
 | 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 中
 | 初期装備、改修、ランキング
 | ◯
@@ -340,10 +348,14 @@
 | 1
 | 
 | 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
 | 中
 | 初期装備、改修
 | ◯
-| 重巡に夜戦命中率補正、古鷹型・青葉型に装備ボーナス
+| 重巡に夜戦命中率補正、古鷹型・青葉型に装備ボーナス。水上/対空電探混載でシナジーボーナス（火力+3，雷装+2，回避+2）（対空+5，回避+2）
 |-
 |style="background-color:#fdd;"| 20.3cm連装砲
 | 8
@@ -351,6 +363,10 @@
 | 
 | 
 | 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 中
 | 開発、初期装備
 | ◯
@@ -362,6 +378,10 @@
 | 3
 | 1
 | 1
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 中
 | 改修
 | ◯
@@ -373,6 +393,10 @@
 | 1
 | 
 | 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 中
 | 開発、初期装備
 | ◯
@@ -384,6 +408,10 @@
 | 4
 | 
 | 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 中
 | 改修、ランキング
 | ◯
@@ -395,6 +423,10 @@
 | 3
 | 
 | 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 中
 | 開発、初期装備
 | ◯
@@ -406,6 +438,10 @@
 | 3
 | 
 | 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 中
 | 初期装備
 | 
@@ -417,6 +453,10 @@
 | -2
 | 
 | 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 長
 | 初期装備、任務*4
 | ◯
@@ -428,6 +468,10 @@
 | 3
 | 1
 | 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 中
 | ランキング、初期装備
 | △
