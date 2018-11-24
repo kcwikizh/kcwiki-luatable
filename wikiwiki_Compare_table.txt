@@ -10,6 +10,11 @@
 ! 命中
 ! 回避
 ! 装甲
+! 索敵
+! 火ボ
+! 雷ボ
+! 空ボ
+! 回ボ
 ! 入手方法
 ! 改修
 ! 補正効果等
@@ -23,6 +28,11 @@
 | 1
 | 1
 | 
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 初期装備、改修
 | ◯
 | 
@@ -37,9 +47,14 @@
 | 1
 | 
 | 1
+| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +2
 | 任務、ランキング
 | -
-| 綾波型～白露型に装備ボーナス，水上電探混載シナジー，対空電探混載シナジー
+| 綾波型・暁型・初春型・白露型に装備ボーナス，水上(火力+1、雷装+3、回避+2)・対空電探(対空+6)相互シナジーボーナス
 | 高射装置機能
 | 編集
 |-
@@ -51,9 +66,14 @@
 | 1
 | 
 | 1
+| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
 | 任務、ランキング
-| 〇
-| 特型に装備ボーナス(火力+2、対空+2)，水上電探混載シナジー(火力+3、雷装+1、回避+2)，対空電探混載シナジー(対空+6)
+| ◯
+| 特型に装備ボーナス、水上電探(火力+3、雷装+1、回避+2)・対空電探(対空+6)相互シナジーボーナス
 | 高射装置機能
 | 編集
 |-
@@ -65,6 +85,11 @@
 | 
 | 
 | 
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 開発、初期装備
 | -
 | 
@@ -79,6 +104,11 @@
 | 1
 | 1
 | 
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 初期装備、任務、ランキング
 | ◯
 | 軽巡に対する命中フィット補正有
@@ -93,6 +123,11 @@
 | 1
 | 1
 | 
+| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +3
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 初期装備
 | ◯
 | 軽巡に対する命中フィット補正有★7以上の改修で神風型、睦月型、海防艦、由良改二にフィット補正と電探シナジー有り
@@ -107,10 +142,15 @@
 | 6
 | 2
 | 1
+| 3
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
 | ランキング
 | -
-| 
-| 索敵+3、高射装置機能、射程：中
+| Sam・全ての駆逐艦に装備ボーナス
+| 高射装置機能、射程：中
 | 編集
 |-
 |style="background-color:#dfd;"| 284
@@ -121,65 +161,33 @@
 | 1
 | 2
 | 1
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 初期装備、ランキング
 | ◯
 | 
 | 
 | 編集
 |-
-|style="background-color:#fcc;"| 267
-|style="background-color:#fcc;"| 12.7cm連装砲D型改二
-| 6
-| 4
-| 
-| 2
-| 2
-| 1
-| 初期装備、ランキング
-| ◯
-| 夕雲改二、長波改二水上電探混載でボーナス（火力+3、雷装+4、回避+3）
-| 専用主魚電CI、電探ボーナス重復無
-| 編集
-|-
-|style="background-color:#fcc;"| 267
-|style="background-color:#fcc;"| 12.7cm連装砲D型改二
-| 5
-| 4
-| 
-| 2
-| 2
-| 1
-| 初期装備、ランキング
-| ◯
-| 夕雲型および陽炎型改二、島風水上電探混載でボーナス（夕雲型：火力+2、雷装+3、回避+1）（島風改：火力+1、雷装+3、回避+2）
-| 専用主魚電CI、電探ボーナス重復無
-| 編集
-|-
-|style="background-color:#fcc;"| 267
-|style="background-color:#fcc;"| 12.7cm連装砲D型改二
-| 4
-| 4
-| 
-| 2
-| 2
-| 1
-| 初期装備、ランキング
-| ◯
-| 陽炎型
-| 専用主魚電CI
-| 編集
-|-
-|style="background-color:#fcc;"| 267
-|style="background-color:#fcc;"| 12.7cm連装砲D型改二
+|style="background-color:#fdd;"| 267
+|style="background-color:#fdd;"| 12.7cm連装砲D型改二
 | 3
 | 4
 | 
 | 2
 | 1
 | 1
+| 
+|style="background-color:#dff;"| +3
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
 | 初期装備、ランキング
 | ◯
-| 
+| 夕雲型、島風、陽炎型に装備・水上電探(火力+3、雷装+4、回避+3)相互シナジーボーナス
 | 専用主魚電CI
 | 編集
 |-
@@ -191,9 +199,14 @@
 | 1
 | 
 | 1
+| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
 | 初期装備、改修、任務
 | ◯
-| 白露型・朝潮型・陽炎型改二に装備ボーナス（最大で火力+3まで）,水上電探混載でボーナス
+| 白露型・朝潮型・陽炎型に装備ボーナス、水上電探(火力+2、雷装+3、回避+1)相互シナジーボーナス
 | 
 | 編集
 |-
@@ -205,9 +218,14 @@
 | 
 | 
 | 
+| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +2
 | 初期装備、改修、ランキング
 | ◯
-| 
+| 綾波型・暁型・初春型・白露型の一部に装備ボーナス
 | 
 | 編集
 |-
@@ -219,10 +237,15 @@
 | 1
 | 
 | 1
+| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 改修、ランキング
 | ◯
-| 吹雪型に装備ボーナス（火力+1），水上電探混載シナジー（火力+3、雷装+1、回避+2），魚雷混載シナジー（火力+1、雷装+6）
-| 電探ボーナス加算重復無
+| 特型に装備ボーナス，水上電探（火力+3、雷装+1、回避+2），魚雷（火力+1、雷装+4）相互シナジーボーナス
+| 
 | 編集
 |-
 |style="background-color:#fdd;"| 002
@@ -233,6 +256,11 @@
 | 
 | 
 | 
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 開発、初期装備
 | ◯
 | 
@@ -247,6 +275,11 @@
 | 
 | 
 | 
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
 | 初期装備
 | ◯
 | 吹雪型に装備ボーナス（回避+2），綾波型・暁型に装備ボーナス（回避+1）
@@ -261,9 +294,14 @@
 | 1
 | 1
 | 1
+| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +3
 | ランキング
 | -
-| 神風型、睦月型に装備ボーナス(火力+2、対空+1、回避+3)、海防艦（火力+1、対空+1、回避+2）
+| 神風型、睦月型、海防艦に装備ボーナス、水上電探（火力+2、雷装+1、回避+3、対潜+1）・魚雷（火力+2、雷装+4）相互シナジーボーナス
 | 
 | 編集
 |-
@@ -275,6 +313,11 @@
 | 
 | 
 | 1
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 初期装備、イベント
 | ◯
 | 
@@ -289,6 +332,11 @@
 | 1
 | 1
 | 
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 初期装備
 | ◯
 | 
@@ -303,6 +351,11 @@
 | 1
 | 
 | 
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 初期装備
 | -
 | 

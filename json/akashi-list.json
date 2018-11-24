@@ -2,7 +2,7 @@
   "items": {
     "1": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12cm_Single_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12cm%C3%B1%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "占守(Lv1)",
         "国後(Lv1)",
@@ -183,7 +183,7 @@
     },
     "2": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "主なcommon駆逐艦の初期装備"
       ],
@@ -323,7 +323,7 @@
     },
     "3": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?10cm%CF%A2%C1%F5%B9%E2%B3%D1%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
       "equip_ships": [
         "朝潮改(Lv20)",
         "大潮改(Lv20)",
@@ -389,7 +389,7 @@
     },
     "4": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/14cm_Single_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?14cm%C3%B1%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/14cm%E5%8D%98%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "主なcommon軽巡の初期装備"
       ],
@@ -526,7 +526,7 @@
     },
     "5": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15.5cm_Triple_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15.5cm%BB%B0%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "最上(Lv1)",
         "大淀(Lv1)"
@@ -690,7 +690,7 @@
     },
     "6": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/20.3cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?20.3cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/20.3cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "主なcommon重巡の初期装備"
       ],
@@ -852,7 +852,7 @@
     },
     "7": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/35.6cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?35.6cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "伊勢(Lv1)",
         "日向(Lv1)",
@@ -1061,7 +1061,7 @@
     },
     "8": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/41cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?41cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "長門(Lv1)",
         "陸奥(Lv1)",
@@ -1285,7 +1285,7 @@
     },
     "9": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/46cm_Triple_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?46cm%BB%B0%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/46cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "大和(Lv1)",
         "武蔵(Lv1)",
@@ -1524,7 +1524,7 @@
     },
     "10": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Twin_High-angle_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%B9%E2%B3%D1%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
       "equip_ships": [
         "千歳(Lv1)",
         "千代田(Lv1)",
@@ -1741,7 +1741,7 @@
     },
     "11": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15.2cm_Single_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15.2cm%C3%B1%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15.2cm%E5%8D%98%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "金剛(Lv1)",
         "比叡(Lv1)",
@@ -1908,7 +1908,7 @@
     },
     "12": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15.5cm_Triple_Secondary_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15.5cm%BB%B0%CF%A2%C1%F5%C9%FB%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2",
       "equip_ships": [
         "大和(Lv1)",
         "武蔵(Lv1)",
@@ -2136,7 +2136,7 @@
     },
     "13": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/61cm_Triple_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?61cm%BB%B0%CF%A2%C1%F5%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "吹雪(Lv1)",
         "綾波(Lv1)",
@@ -2317,7 +2317,7 @@
     },
     "14": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/61cm_Quadruple_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?61cm%BB%CD%CF%A2%C1%F5%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "雪風(Lv1)",
         "島風(Lv1)",
@@ -2479,7 +2479,7 @@
     },
     "15": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/61cm_Quadruple_%28Oxygen%29_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?61cm%BB%CD%CF%A2%C1%F5%28%BB%C0%C1%C7%29%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "主な駆逐艦、軽巡、重巡洋艦改の初期装備"
       ],
@@ -2652,7 +2652,7 @@
     },
     "16": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB",
       "equip_ships": [
         "龍驤(Lv1)",
         "飛鷹(Lv1)",
@@ -2727,7 +2727,7 @@
     },
     "17": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Tenzan",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1",
       "equip_ships": [
         "大鳳(Lv1)",
         "瑞鳳改(Lv25)"
@@ -2776,7 +2776,7 @@
     },
     "18": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ryuusei",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F",
       "equip_ships": [
         "速吸改(Lv25)",
         "大鳳改(Lv40)"
@@ -2825,7 +2825,7 @@
     },
     "19": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_96_Fighter",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%CF%BB%BC%B0%B4%CF%C0%EF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E8%89%A6%E6%88%A6",
       "equip_ships": [
         "龍驤(Lv1)",
         "飛鷹(Lv1)",
@@ -2940,7 +2940,7 @@
     },
     "20": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_21",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF21%B7%BF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B",
       "equip_ships": [
         "赤城(Lv1)",
         "加賀(Lv1)",
@@ -3073,7 +3073,7 @@
     },
     "21": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_52",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF52%B7%BF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B",
       "equip_ships": [
         "神鷹(Lv1)",
         "鳳翔改(Lv25)",
@@ -3214,7 +3214,7 @@
     },
     "22": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Reppuu",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%F5%C9%F7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8",
       "equip_ships": [
         "大鳳改(Lv40)",
         "隼鷹改二(Lv80)"
@@ -3265,7 +3265,7 @@
     },
     "23": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%B6%E5%BC%B0%B4%CF%C7%FA",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86",
       "equip_ships": [
         "鳳翔(Lv1)",
         "飛鷹(Lv1)",
@@ -3323,7 +3323,7 @@
     },
     "24": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Suisei",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%D7%C2%C0%B1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F",
       "equip_ships": [
         "大鳳(Lv1)",
         "龍驤改(Lv25)",
@@ -3404,7 +3404,7 @@
     },
     "25": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%BF%E5%BE%E5%C4%E5%BB%A1%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
       "equip_ships": [
         "主な軽巡・重巡・戦艦の初期装備"
       ],
@@ -3556,7 +3556,7 @@
     },
     "26": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zuiun",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BF%F0%B1%C0",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2",
       "equip_ships": [
         "速吸(Lv1)",
         "千歳改(Lv10)",
@@ -3723,7 +3723,7 @@
     },
     "27": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_13_Air_Radar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?13%B9%E6%C2%D0%B6%F5%C5%C5%C3%B5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
       "equip_ships": [
         "涼月(Lv1)",
         "水無月改(Lv20)",
@@ -3907,7 +3907,7 @@
     },
     "28": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?22%B9%E6%C2%D0%BF%E5%BE%E5%C5%C5%C3%B5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
       "equip_ships": [
         "島風(Lv1)",
         "夕雲改(Lv30)",
@@ -4082,7 +4082,7 @@
     },
     "29": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_21_Air_Radar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?33%B9%E6%C2%D0%BF%E5%BE%E5%C5%C5%C3%B5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/33%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
       "equip_ships": [
         "-"
       ],
@@ -4210,7 +4210,7 @@
     },
     "30": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_21_Air_Radar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?21%B9%E6%C2%D0%B6%F5%C5%C5%C3%B5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
       "equip_ships": [
         "五十鈴改(Lv12)",
         "鬼怒改(Lv17)",
@@ -4399,7 +4399,7 @@
     },
     "31": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_32_Surface_Radar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?32%B9%E6%C2%D0%BF%E5%BE%E5%C5%C5%C3%B5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/32%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
       "equip_ships": [
         "-"
       ],
@@ -4600,6 +4600,7 @@
         "射程": "",
         "火力": "",
         "爆装": "",
+        "特性": "対空＆水上電探",
         "索敵": "+5",
         "艦隊防空": "+2.4",
         "雷装": ""
@@ -4609,7 +4610,7 @@
     },
     "33": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Improved_Kanhon_Type_Turbine",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B2%FE%CE%C9%B7%BF%B4%CF%CB%DC%BC%B0%A5%BF%A1%BC%A5%D3%A5%F3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%94%B9%E8%89%AF%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3",
       "equip_ships": [
         "Ташкент(Lv1)",
         "Ташкент改(Lv50)"
@@ -4664,7 +4665,7 @@
     },
     "34": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Enhanced_Kanhon_Type_Boiler",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%AF%B2%BD%B7%BF%B4%CF%CB%DC%BC%B0%B4%CC",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BC%B7%E5%8C%96%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E7%BC%B6",
       "equip_ships": [
         "天津風(Lv1)",
         "Ташкент(Lv1)",
@@ -4787,7 +4788,7 @@
     },
     "35": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Shell",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%C3%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE",
       "equip_ships": [
         "比叡改二(Lv75)",
         "榛名改二(Lv80)"
@@ -4833,7 +4834,7 @@
     },
     "36": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_91_Armor_Piercing_Shell",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%B0%EC%BC%B0%C5%B0%B9%C3%C3%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE",
       "equip_ships": [
         "-"
       ],
@@ -4977,7 +4978,7 @@
     },
     "37": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/7.7mm_Machine_Gun",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?7.7mm%B5%A1%BD%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/7.7mm%E6%A9%9F%E9%8A%83",
       "equip_ships": [
         "睦月(Lv1)",
         "天龍(Lv1)",
@@ -5040,7 +5041,7 @@
     },
     "38": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7mm_Single_Machine_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7mm%C3%B1%C1%F5%B5%A1%BD%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
       "equip_ships": [
         "-"
       ],
@@ -5094,7 +5095,7 @@
     },
     "39": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/25mm_Twin_Autocannon_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?25mm%CF%A2%C1%F5%B5%A1%BD%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/25mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
       "equip_ships": [
         "占守(Lv1)",
         "国後(Lv1)",
@@ -5336,7 +5337,7 @@
     },
     "40": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/25mm_Triple_Autocannon_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?25mm%BB%B0%CF%A2%C1%F5%B5%A1%BD%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
       "equip_ships": [
         "磯風(Lv1)",
         "初月(Lv1)",
@@ -5583,7 +5584,7 @@
     },
     "41": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Kouhyouteki",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B9%C3%C9%B8%C5%AA%20%B9%C3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E7%94%B2",
       "equip_ships": [
         "千歳甲(Lv12)",
         "千代田甲(Lv12)",
@@ -5635,7 +5636,7 @@
     },
     "42": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Emergency_Repair_Personnel",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B1%FE%B5%DE%BD%A4%CD%FD%CD%D7%B0%F7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BF%9C%E6%80%A5%E4%BF%AE%E7%90%86%E8%A6%81%E5%93%A1",
       "equip_ships": [
         "-"
       ],
@@ -5681,7 +5682,7 @@
     },
     "43": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Emergency_Repair_Goddess",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B1%FE%B5%DE%BD%A4%CD%FD%BD%F7%BF%C0",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BF%9C%E6%80%A5%E4%BF%AE%E7%90%86%E5%A5%B3%E7%A5%9E",
       "equip_ships": [
         "-"
       ],
@@ -5727,7 +5728,7 @@
     },
     "44": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_94_Depth_Charge_Projector",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%BB%CD%BC%B0%C7%FA%CD%EB%C5%EA%BC%CD%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%9B%9B%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
       "equip_ships": [
         "浦風(Lv1)",
         "谷風(Lv1)",
@@ -5855,13 +5856,13 @@
             {
               "support_ship": "-",
               "support_weeks": [
+                0,
+                0,
+                0,
                 1,
                 1,
-                1,
-                1,
-                1,
-                1,
-                1
+                0,
+                0
               ]
             }
           ],
@@ -5880,7 +5881,7 @@
     },
     "45": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Depth_Charge_Projector",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%C7%FA%CD%EB%C5%EA%BC%CD%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
       "equip_ships": [
         "嵐改(Lv35)",
         "五十鈴改二(Lv50)",
@@ -6047,7 +6048,7 @@
     },
     "46": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_93_Passive_Sonar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%BB%B0%BC%B0%BF%E5%C3%E6%C4%B0%B2%BB%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
       "equip_ships": [
         "朝霜(Lv1)",
         "雪風改(Lv20)",
@@ -6298,7 +6299,7 @@
     },
     "47": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Active_Sonar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%BF%E5%C3%E6%C3%B5%BF%AE%B5%B7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E6%8E%A2%E4%BF%A1%E5%84%80",
       "equip_ships": [
         "天津風改(Lv20)",
         "巻雲改(Lv30)",
@@ -6524,7 +6525,7 @@
     },
     "49": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/25mm_Single_Autocannon_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?25mm%C3%B1%C1%F5%B5%A1%BD%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/25mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
       "equip_ships": [
         "朧改(Lv20)",
         "曙改(Lv20)",
@@ -6709,7 +6710,7 @@
     },
     "50": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/20.3cm_%28No.3%29_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?20.3cm%283%B9%E6%29%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/20.3cm%283%E5%8F%B7%29%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "三隈改(Lv30)",
         "衣笠改二(Lv55)",
@@ -6849,7 +6850,7 @@
     },
     "51": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12cm_30-tube_Rocket_Launcher",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12cm30%CF%A2%C1%F5%CA%AE%BF%CA%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2",
       "equip_ships": [
         "雲龍(Lv1)",
         "瑞鶴改(Lv25)",
@@ -7023,7 +7024,7 @@
     },
     "52": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ryuusei_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -7071,7 +7072,7 @@
     },
     "53": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Reppuu_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%F5%C9%F7%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -7111,7 +7112,7 @@
     },
     "54": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Saiun",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BA%CC%B1%C0",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2",
       "equip_ships": [
         "雲龍改(Lv50)"
       ],
@@ -7158,7 +7159,7 @@
     },
     "55": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Shiden_Kai_2",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%E7%C5%C5%B2%FE%C6%F3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%E4%BA%8C",
       "equip_ships": [
         "-"
       ],
@@ -7207,7 +7208,7 @@
     },
     "56": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Shinden_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BF%CC%C5%C5%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9C%87%E9%9B%BB%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -7248,7 +7249,7 @@
     },
     "57": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Suisei_Model_12A",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%D7%C2%C0%B1%B0%EC%C6%F3%B7%BF%B9%C3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2",
       "equip_ships": [
         "-"
       ],
@@ -7318,7 +7319,7 @@
     },
     "58": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/61cm_Quintuple_%28Oxygen%29_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?61cm%B8%DE%CF%A2%C1%F5%28%BB%C0%C1%C7%29%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/61cm%E4%BA%94%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "大井改二(Lv50)",
         "北上改二(Lv50)",
@@ -7477,7 +7478,7 @@
     },
     "59": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Observation_Seaplane",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%BF%E5%BE%E5%B4%D1%C2%AC%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E8%A6%B3%E6%B8%AC%E6%A9%9F",
       "equip_ships": [
         "大和(Lv1)",
         "武蔵(Lv1)",
@@ -7619,7 +7620,7 @@
     },
     "60": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_62_%28Fighter-bomber%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF62%B7%BF%28%C7%FA%C0%EF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A662%E5%9E%8B%28%E7%88%86%E6%88%A6%29",
       "equip_ships": [
         "大鳳(Lv1)",
         "龍驤改二(Lv75)"
@@ -7756,7 +7757,7 @@
     },
     "61": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_2_Reconnaissance_Aircraft",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C6%F3%BC%B0%B4%CF%BE%E5%C4%E5%BB%A1%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E8%89%A6%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
       "equip_ships": [
         "龍驤改二(Lv75)",
         "蒼龍改二(Lv78)"
@@ -7832,7 +7833,7 @@
     },
     "62": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_Seiran",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD%C0%B2%CD%F2",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%99%B4%E5%B5%90",
       "equip_ships": [
         "伊401改(Lv35)",
         "伊400改(Lv37)",
@@ -7882,7 +7883,7 @@
     },
     "63": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_B_Kai_2",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%CB%A4B%B7%BF%B2%FE%C6%F3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E4%BA%8C",
       "equip_ships": [
         "綾波改(Lv20)",
         "春雨改(Lv30)",
@@ -8150,7 +8151,7 @@
     },
     "64": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ju_87C_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Ju87C%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9",
       "equip_ships": [
         "Graf",
         "Zeppelin改(Lv50)"
@@ -8191,7 +8192,7 @@
     },
     "65": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15.2cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15.2cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "阿賀野(Lv1)",
         "能代(Lv1)",
@@ -8359,7 +8360,7 @@
     },
     "66": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/8cm_High-angle_Gun",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?8cm%B9%E2%B3%D1%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/8cm%E9%AB%98%E8%A7%92%E7%A0%B2",
       "equip_ships": [
         "阿賀野(Lv1)",
         "能代(Lv1)",
@@ -8588,7 +8589,7 @@
     },
     "67": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/53cm_Bow_%28Oxygen%29_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?53cm%B4%CF%BC%F3%28%BB%C0%C1%C7%29%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/53cm%E8%89%A6%E9%A6%96%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "-"
       ],
@@ -8655,7 +8656,7 @@
     },
     "68": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Daihatsu_Landing_Craft",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C2%E7%C8%AF%C6%B0%C4%FA",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
       "equip_ships": [
         "あきつ丸(Lv1)",
         "霰改二(Lv63)",
@@ -8665,41 +8666,6 @@
         "鬼怒改二(Lv75)"
       ],
       "id": 68,
-      "item_equip": {
-        "extra": [
-          "速吸改",
-          "神威改母",
-          "阿武隈改二",
-          "鬼怒改二",
-          "由良改二",
-          "多摩改二",
-          "龍田改二",
-          "霞改二",
-          "霞改二乙",
-          "朝潮改二丁",
-          "Верный",
-          "霰改二",
-          "大潮改二",
-          "満潮改二",
-          "荒潮改二",
-          "江風改二",
-          "皐月改二",
-          "文月改二",
-          "睦月改二",
-          "如月改二",
-          "村雨改二",
-          "長門改二"
-        ],
-        "戦艦": 0,
-        "揚陸艦": 1,
-        "正規空母": 0,
-        "水上機母艦": 1,
-        "航空戦艦": 0,
-        "軽巡洋艦": 0,
-        "軽空母": 0,
-        "重巡洋艦": 0,
-        "駆逐艦": 0
-      },
       "item_intro": "大発動艇、略して「大発」。輸送船からの揚陸作業や上陸船に用いた、現代でいうところの「上陸用舟艇」です。海上のトラックの様な「大発」は、大型輸送船や強襲揚陸艦等で運用可能です。",
       "item_name": {
         "ja": "大発動艇",
@@ -8907,7 +8873,7 @@
     },
     "69": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ka_Type_Observation_Autogyro",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%A5%AB%B9%E6%B4%D1%C2%AC%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E3%82%AB%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F",
       "equip_ships": [
         "あきつ丸改(Lv25)"
       ],
@@ -8956,7 +8922,7 @@
     },
     "70": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Command_Liaison_Aircraft_%28ASW%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%BB%D8%B4%F8%CF%A2%CD%ED%B5%A1%28%C2%D0%C0%F8%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%8C%87%E6%8F%AE%E9%80%A3%E7%B5%A1%E6%A9%9F%28%E5%AF%BE%E6%BD%9C%29",
       "equip_ships": [
         "あきつ丸改(Lv25)"
       ],
@@ -8996,7 +8962,7 @@
     },
     "71": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_%28Carriage%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?10cm%CF%A2%C1%F5%B9%E2%B3%D1%CB%A4%28%CB%A4%B2%CD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E7%A0%B2%E6%9E%B6%29",
       "equip_ships": [
         "大淀(Lv1)",
         "大鳳改(Lv40)",
@@ -9043,7 +9009,7 @@
     },
     "72": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Anti-torpedo_Bulge_%28Medium%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C1%FD%C0%DF%A5%D0%A5%EB%A5%B8%28%C3%E6%B7%BF%B4%CF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E4%B8%AD%E5%9E%8B%E8%89%A6%29",
       "equip_ships": [
         "Zara",
         "due(Lv88)"
@@ -9063,11 +9029,12 @@
           "木曾改・改二",
           "神威改母",
           "Верный",
-          "長波改二",
+          "黒潮改二",
           "陽炎改二",
           "不知火改二",
-          "黒潮改二",
           "夕雲改二",
+          "巻雲改二",
+          "長波改二",
           "Gotland改"
         ],
         "工作艦": 1,
@@ -9090,11 +9057,12 @@
           "木曾改・改二",
           "神威改母",
           "Верный",
-          "長波改二",
+          "黒潮改二",
           "陽炎改二",
           "不知火改二",
-          "黒潮改二",
           "夕雲改二",
+          "巻雲改二",
+          "長波改二",
           "Gotland改"
         ],
         "工作艦": 1,
@@ -9217,7 +9185,7 @@
     },
     "73": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Anti-torpedo_Bulge_%28Large%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C1%FD%C0%DF%A5%D0%A5%EB%A5%B8%28%C2%E7%B7%BF%B4%CF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29",
       "equip_ships": [
         "長門改二(Lv88)"
       ],
@@ -9380,7 +9348,7 @@
     },
     "74": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Searchlight",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C3%B5%BE%C8%C5%F4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%8E%A2%E7%85%A7%E7%81%AF",
       "equip_ships": [
         "鹿島改(Lv35)",
         "川内改二(Lv60)",
@@ -9397,6 +9365,87 @@
         "山城改二(Lv80)"
       ],
       "id": 74,
+      "item_bonus": {
+        "-": "",
+        "bonuses": [
+          {
+            "bonus": [
+              "火力+2",
+              "雷装+2",
+              "回避-1"
+            ],
+            "ships": [
+              "神通"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+2",
+              "回避-1"
+            ],
+            "ships": [
+              "比叡",
+              "霧島",
+              "鳥海",
+              "暁"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+1"
+            ],
+            "ships": [
+              "秋雲"
+            ]
+          },
+          {
+            "bonus": [
+              "対空+1"
+            ],
+            "ships": [
+              "雪風"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+2",
+              "雷装+2",
+              "回避-1"
+            ],
+            "ships": [
+              "神通"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+2",
+              "回避-1"
+            ],
+            "ships": [
+              "比叡",
+              "霧島",
+              "鳥海",
+              "暁"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+1"
+            ],
+            "ships": [
+              "秋雲"
+            ]
+          },
+          {
+            "bonus": [
+              "対空+1"
+            ],
+            "ships": [
+              "雪風"
+            ]
+          }
+        ]
+      },
       "item_equip": {
         "戦艦": 1,
         "正規空母": 0,
@@ -9532,11 +9581,11 @@
               "support_ship": "鳥海",
               "support_weeks": [
                 1,
+                1,
                 0,
                 0,
                 0,
-                0,
-                0,
+                1,
                 1
               ]
             },
@@ -9568,9 +9617,9 @@
               "support_ship": "秋雲",
               "support_weeks": [
                 1,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
                 0,
                 0,
                 1
@@ -9592,7 +9641,7 @@
     },
     "75": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Drum_Canister_%28Transport_Use%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%A5%C9%A5%E9%A5%E0%B4%CC%28%CD%A2%C1%F7%CD%D1%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E3%83%89%E3%83%A9%E3%83%A0%E7%BC%B6%28%E8%BC%B8%E9%80%81%E7%94%A8%29",
       "equip_ships": [
         "春雨改(Lv30)"
       ],
@@ -9640,7 +9689,7 @@
     },
     "76": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/38cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?38cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/38cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Bismarck(Lv1)",
         "Bismarck改(Lv30)",
@@ -9835,7 +9884,7 @@
     },
     "77": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15cm_Twin_Secondary_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15cm%CF%A2%C1%F5%C9%FB%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15cm%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2",
       "equip_ships": [
         "Bismarck(Lv1)",
         "Bismarck改(Lv30)"
@@ -9880,7 +9929,7 @@
     },
     "78": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Single_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%C3%B1%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Z1(Lv1)",
         "Z3(Lv1)",
@@ -9933,7 +9982,7 @@
     },
     "79": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zuiun_%28634_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BF%F0%B1%C0%28%CF%BB%BB%B0%BB%CD%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
       "equip_ships": [
         "利根改二(Lv70)",
         "筑摩改二(Lv70)"
@@ -10121,7 +10170,7 @@
     },
     "80": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zuiun_Model_12",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BF%F0%B1%C012%B7%BF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B",
       "equip_ships": [
         "扶桑改二(Lv80)",
         "山城改二(Lv80)"
@@ -10170,7 +10219,7 @@
     },
     "81": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zuiun_Model_12_%28634_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BF%F0%B1%C012%B7%BF%28%CF%BB%BB%B0%BB%CD%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
       "equip_ships": [
         "-"
       ],
@@ -10271,7 +10320,7 @@
     },
     "82": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28931_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%B6%E5%BB%B0%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "龍鳳改(Lv50)",
         "大鷹改(Lv60)",
@@ -10336,7 +10385,7 @@
     },
     "83": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Tenzan_%28931_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%B6%E5%BB%B0%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "大鷹改二(Lv85)"
       ],
@@ -10376,7 +10425,7 @@
     },
     "84": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/2cm_Flakvierling_38",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?2cm%20%BB%CD%CF%A2%C1%F5FlaK%2038",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/2cm%20%E5%9B%9B%E9%80%A3%E8%A3%85FlaK%2038",
       "equip_ships": [
         "Prinz",
         "Eugen改(Lv45)",
@@ -10428,7 +10477,7 @@
     },
     "85": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/3.7cm_FlaK_M42",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?3.7cm%20FlaK%20M42",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/3.7cm%20FlaK%20M42",
       "equip_ships": [
         "Bismarck",
         "zwei(Lv50)",
@@ -10480,7 +10529,7 @@
     },
     "86": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ship_Repair_Facility",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B4%CF%C4%FA%BD%A4%CD%FD%BB%DC%C0%DF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%89%87%E4%BF%AE%E7%90%86%E6%96%BD%E8%A8%AD",
       "equip_ships": [
         "明石(Lv1)",
         "明石改(Lv35)"
@@ -10511,7 +10560,7 @@
     },
     "87": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/New_Model_High_Temperature_High_Pressure_Boiler",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BF%B7%B7%BF%B9%E2%B2%B9%B9%E2%B0%B5%B4%CC",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%96%B0%E5%9E%8B%E9%AB%98%E6%B8%A9%E9%AB%98%E5%9C%A7%E7%BC%B6",
       "equip_ships": [
         "天津風改(Lv20)",
         "武蔵改二(Lv89)"
@@ -10622,7 +10671,7 @@
     },
     "88": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar_Kai_4",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?22%B9%E6%C2%D0%BF%E5%BE%E5%C5%C5%C3%B5%B2%FE%BB%CD",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B",
       "equip_ships": [
         "鳥海改二(Lv65)",
         "白露改二(Lv77)"
@@ -10757,7 +10806,7 @@
     },
     "89": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_21_Air_Radar_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?21%B9%E6%C2%D0%B6%F5%C5%C5%C3%B5%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -10830,6 +10879,7 @@
         "射程": "",
         "火力": "",
         "爆装": "",
+        "特性": "対空＆水上電探",
         "索敵": "+6",
         "艦隊防空": "+2",
         "雷装": ""
@@ -10911,7 +10961,7 @@
     },
     "90": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/20.3cm_%28No.2%29_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?20.3cm%282%B9%E6%29%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/20.3cm%282%E5%8F%B7%29%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "那智改二(Lv65)",
         "足柄改二(Lv65)",
@@ -11104,7 +11154,7 @@
                 0,
                 0,
                 0,
-                0,
+                1,
                 1,
                 1
               ]
@@ -11125,7 +11175,7 @@
     },
     "91": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Twin_High-angle_Gun_Mount_%28Late_Model%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%B9%E2%B3%D1%CB%A4%28%B8%E5%B4%FC%B7%BF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
       "equip_ships": [
         "時津風改(Lv30)",
         "浦波改(Lv30)",
@@ -11314,7 +11364,7 @@
     },
     "92": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Bi_Type_40mm_Twin_Autocannon_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C8%FB%BC%B040mm%CF%A2%C1%F5%B5%A1%BD%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%AF%98%E5%BC%8F40mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
       "equip_ships": [
         "大鯨(Lv1)",
         "春雨(Lv1)"
@@ -11362,7 +11412,7 @@
     },
     "93": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Tomonaga_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%CD%A7%B1%CA%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E5%8F%8B%E6%B0%B8%E9%9A%8A%29",
       "equip_ships": [
         "飛龍改二(Lv77)"
       ],
@@ -11402,7 +11452,7 @@
     },
     "94": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Tomonaga_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%B0%EC%C6%F3%B7%BF%28%CD%A7%B1%CA%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%8F%8B%E6%B0%B8%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -11442,7 +11492,7 @@
     },
     "95": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Submarine_53cm_Bow_Torpedo_Mount_%288_tubes%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C0%F8%BF%E5%B4%CF53cm%B4%CF%BC%F3%B5%FB%CD%EB%288%CC%E7%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A653cm%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%288%E9%96%80%29",
       "equip_ships": [
         "-"
       ],
@@ -11472,7 +11522,7 @@
     },
     "96": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_21_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF21%B7%BF%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "飛龍改二(Lv77)",
         "蒼龍改二(Lv78)"
@@ -11589,7 +11639,7 @@
     },
     "97": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%B6%E5%BC%B0%B4%CF%C7%FA%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "飛龍改二(Lv77)"
       ],
@@ -11629,7 +11679,7 @@
     },
     "98": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "蒼龍改二(Lv78)"
       ],
@@ -11669,7 +11719,7 @@
     },
     "99": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber_%28Egusa_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%B6%E5%BC%B0%B4%CF%C7%FA%28%B9%BE%C1%F0%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
       "equip_ships": [
         "蒼龍改二(Lv78)"
       ],
@@ -11709,7 +11759,7 @@
     },
     "100": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Suisei_%28Egusa_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%D7%C2%C0%B1%28%B9%BE%C1%F0%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -11770,7 +11820,7 @@
     },
     "101": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Star_Shell",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BE%C8%CC%C0%C3%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%85%A7%E6%98%8E%E5%BC%BE",
       "equip_ships": [
         "川内改二(Lv60)",
         "綾波改二(Lv70)",
@@ -11814,7 +11864,7 @@
     },
     "102": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_98_Reconnaissance_Seaplane_%28Night_Recon%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%C8%AC%BC%B0%BF%E5%BE%E5%C4%E5%BB%A1%B5%A1%28%CC%EB%C4%E5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AB%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E5%A4%9C%E5%81%B5%29",
       "equip_ships": [
         "川内改二(Lv60)"
       ],
@@ -11920,7 +11970,7 @@
     },
     "103": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_35.6cm_Triple_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD35.6cm%BB%B0%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD35.6cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "-"
       ],
@@ -12147,7 +12197,7 @@
     },
     "104": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/35.6cm_Twin_Gun_Mount_%28Dazzle_Camouflage%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?35.6cm%CF%A2%C1%F5%CB%A4%28%A5%C0%A5%BA%A5%EB%CC%C2%BA%CC%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%28%E3%83%80%E3%82%BA%E3%83%AB%E8%BF%B7%E5%BD%A9%29",
       "equip_ships": [
         "榛名改二(Lv80)"
       ],
@@ -12397,7 +12447,7 @@
     },
     "105": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_41cm_Triple_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD41cm%BB%B0%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "扶桑改二(Lv80)",
         "山城改二(Lv80)",
@@ -12605,7 +12655,7 @@
     },
     "106": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_13_Air_Radar_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?13%B9%E6%C2%D0%B6%F5%C5%C5%C3%B5%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9",
       "equip_ships": [
         "大淀改(Lv35)",
         "秋月改(Lv40)",
@@ -12767,7 +12817,7 @@
     },
     "107": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Fleet_Command_Facility",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B4%CF%C2%E2%BB%CA%CE%E1%C9%F4%BB%DC%C0%DF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%96%BD%E8%A8%AD",
       "equip_ships": [
         "大淀改(Lv35)"
       ],
@@ -12815,7 +12865,7 @@
     },
     "108": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Skilled_Carrier-based_Aircraft_Maintenance_Personnel",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BD%CF%CE%FD%B4%CF%BA%DC%B5%A1%C0%B0%C8%F7%B0%F7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%89%A6%E8%BC%89%E6%A9%9F%E6%95%B4%E5%82%99%E5%93%A1",
       "equip_ships": [
         "-"
       ],
@@ -12861,7 +12911,7 @@
     },
     "109": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52C_%28601_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%C0%EF52%B7%BF%CA%BA%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E4%B8%99%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "雲龍改(Lv50)",
         "天城改(Lv50)",
@@ -12978,7 +13028,7 @@
     },
     "110": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Reppuu_%28601_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%F5%C9%F7%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "-"
       ],
@@ -13019,7 +13069,7 @@
     },
     "111": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Suisei_%28601_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%D7%C2%C0%B1%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "雲龍改(Lv50)",
         "天城改(Lv50)"
@@ -13081,7 +13131,7 @@
     },
     "112": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Tenzan_%28601_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "雲龍改(Lv50)",
         "天城改(Lv50)"
@@ -13122,7 +13172,7 @@
     },
     "113": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ryuusei_%28601_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%AE%C0%B1%28%CF%BB%A1%BB%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "葛城改(Lv50)"
       ],
@@ -13162,7 +13212,7 @@
     },
     "114": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/38cm_Twin_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?38cm%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/38cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "Bismarck",
         "drei(Lv75)"
@@ -13354,7 +13404,7 @@
     },
     "115": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ar196_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Ar196%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Ar196%E6%94%B9",
       "equip_ships": [
         "Prinz",
         "Eugen(Lv1)",
@@ -13401,7 +13451,7 @@
     },
     "116": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Armor_Piercing_Shell",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%C5%B0%B9%C3%C3%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE",
       "equip_ships": [
         "-"
       ],
@@ -13537,7 +13587,7 @@
     },
     "117": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_46cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD46cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD46cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "-"
       ],
@@ -13741,7 +13791,7 @@
     },
     "118": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Shiun",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%E7%B1%C0",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%B2",
       "equip_ships": [
         "-"
       ],
@@ -13785,7 +13835,7 @@
     },
     "119": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/14cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?14cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "香取(Lv1)",
         "鹿島(Lv1)",
@@ -13918,7 +13968,7 @@
     },
     "120": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_91_Anti-Aircraft_Fire_Director",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?91%BC%B0%B9%E2%BC%CD%C1%F5%C3%D6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/91%E5%BC%8F%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
       "equip_ships": [
         "初霜改二(Lv70)"
       ],
@@ -14089,7 +14139,7 @@
     },
     "121": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_94_Anti-Aircraft_Fire_Director",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?94%BC%B0%B9%E2%BC%CD%C1%F5%C3%D6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/94%E5%BC%8F%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
       "equip_ships": [
         "吹雪改二(Lv70)",
         "摩耶改二(Lv75)"
@@ -14331,7 +14381,7 @@
     },
     "122": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_%2B_Anti-Aircraft_Fire_Director",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?10cm%B9%E2%B3%D1%CB%A4%A1%DC%B9%E2%BC%CD%C1%F5%C3%D6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/10cm%E9%AB%98%E8%A7%92%E7%A0%B2%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
       "equip_ships": [
         "秋月(Lv1)",
         "照月(Lv1)",
@@ -14532,7 +14582,7 @@
     },
     "123": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/SKC34_20.3cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?SKC34%2020.3cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/SKC34%2020.3cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Prinz",
         "Eugen(Lv1)",
@@ -14578,7 +14628,7 @@
     },
     "124": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/FuMO25_Radar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?FuMO25%20%A5%EC%A1%BC%A5%C0%A1%BC",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/FuMO25%20%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
       "equip_ships": [
         "Prinz",
         "Eugen改(Lv45)"
@@ -14614,6 +14664,7 @@
         "射程": "",
         "火力": "+3",
         "爆装": "",
+        "特性": "対空＆水上電探",
         "索敵": "+9",
         "艦隊防空": "+2.8",
         "雷装": ""
@@ -14623,7 +14674,7 @@
     },
     "125": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/61cm_Triple_%28Oxygen%29_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?61cm%BB%B0%CF%A2%C1%F5%28%BB%C0%C1%C7%29%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "初春改(Lv20)",
         "子日改(Lv20)",
@@ -14767,7 +14818,7 @@
     },
     "126": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/WG42_%28Wurfger%C3%A4t_42%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?WG42%20%28Wurfgerat%2042%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/WG42%20%28Wurfgerat%2042%29",
       "equip_ships": [
         "U-511(Lv1)"
       ],
@@ -14813,7 +14864,7 @@
     },
     "127": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_FaT_Type_95_Oxygen_Torpedo_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BDFaT%BB%C5%CD%CD%B6%E5%B8%DE%BC%B0%BB%C0%C1%C7%B5%FB%CD%EB%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BDFaT%E4%BB%95%E6%A7%98%E4%B9%9D%E4%BA%94%E5%BC%8F%E9%85%B8%E7%B4%A0%E9%AD%9A%E9%9B%B7%E6%94%B9",
       "equip_ships": [
         "呂500(Lv55)"
       ],
@@ -14843,7 +14894,7 @@
     },
     "128": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_51cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD51cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD51cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "武蔵改二(Lv89)"
       ],
@@ -14987,7 +15038,7 @@
     },
     "129": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Skilled_Lookouts",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BD%CF%CE%FD%B8%AB%C4%A5%B0%F7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%A6%8B%E5%BC%B5%E5%93%A1",
       "equip_ships": [
         "高波改(Lv30)",
         "風雲改(Lv30)",
@@ -15017,6 +15068,7 @@
         "zh": "熟练瞭望员"
       },
       "item_stat": {
+        "+水上電探": "夜戦回避向上",
         "カットイン率": "+5%",
         "命中": "+2",
         "回避": "+3",
@@ -15033,7 +15085,7 @@
     },
     "130": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_High-angle_Gun_%2B_Anti-Aircraft_Fire_Director",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%B9%E2%B3%D1%CB%A4%A1%DC%B9%E2%BC%CD%C1%F5%C3%D6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%AB%98%E8%A7%92%E7%A0%B2%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
       "equip_ships": [
         "-"
       ],
@@ -15078,7 +15130,7 @@
     },
     "131": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/25mm_Triple_Autocannon_Mount_%28Concentrated_Deployment%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?25mm%BB%B0%CF%A2%C1%F5%B5%A1%BD%C6%20%BD%B8%C3%E6%C7%DB%C8%F7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
       "equip_ships": [
         "皐月改二(Lv75)",
         "摩耶改二(Lv75)",
@@ -15239,7 +15291,7 @@
     },
     "132": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Passive_Sonar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%BF%E5%C3%E6%C4%B0%B2%BB%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
       "equip_ships": [
         "-"
       ],
@@ -15280,7 +15332,7 @@
     },
     "133": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/381mm/50_Triple_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?381mm%A1%BF50%20%BB%B0%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/381mm%EF%BC%8F50%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Littorio(Lv1)",
         "Roma(Lv1)"
@@ -15485,7 +15537,7 @@
     },
     "134": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/OTO_152mm_Triple_Rapid_Fire_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?OTO%20152mm%BB%B0%CF%A2%C1%F5%C2%AE%BC%CD%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/OTO%20152mm%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2",
       "equip_ships": [
         "Littorio(Lv1)",
         "Roma(Lv1)",
@@ -15631,7 +15683,7 @@
     },
     "135": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/90mm_Single_High-angle_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?90mm%C3%B1%C1%F5%B9%E2%B3%D1%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/90mm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
       "equip_ships": [
         "Italia(Lv35)",
         "Roma改(Lv35)"
@@ -15800,7 +15852,7 @@
     },
     "136": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Pugliese_Underwater_Protection_Bulkhead",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%A5%D7%A5%EA%A5%A8%A1%BC%A5%BC%BC%B0%BF%E5%C3%E6%CB%C9%B8%E6%B3%D6%CA%C9",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E3%83%97%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BC%E5%BC%8F%E6%B0%B4%E4%B8%AD%E9%98%B2%E5%BE%A1%E9%9A%94%E5%A3%81",
       "equip_ships": [
         "Littorio(Lv1)",
         "Roma(Lv1)"
@@ -15848,7 +15900,7 @@
     },
     "137": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/381mm/50_Triple_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?381mm%A1%BF50%20%BB%B0%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/381mm%EF%BC%8F50%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "Italia(Lv35)",
         "Roma改(Lv35)"
@@ -16052,7 +16104,7 @@
     },
     "138": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_2_Large_Flying_Boat",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C6%F3%BC%B0%C2%E7%C4%FA",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E5%A4%A7%E8%89%87",
       "equip_ships": [
         "秋津洲改(Lv35)"
       ],
@@ -16085,7 +16137,7 @@
     },
     "139": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15.2cm_Twin_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15.2cm%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -16227,11 +16279,36 @@
     },
     "140": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_96_150cm_Searchlight",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?96%BC%B0150cm%C3%B5%BE%C8%C5%F4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/96%E5%BC%8F150cm%E6%8E%A2%E7%85%A7%E7%81%AF",
       "equip_ships": [
         "-"
       ],
       "id": 140,
+      "item_bonus": {
+        "-": "",
+        "bonuses": [
+          {
+            "bonus": [
+              "火力+3",
+              "回避-2"
+            ],
+            "ships": [
+              "比叡",
+              "霧島"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+3",
+              "回避-2"
+            ],
+            "ships": [
+              "比叡",
+              "霧島"
+            ]
+          }
+        ]
+      },
       "item_equip": {
         "extra": [
           "C.Teste級",
@@ -16382,7 +16459,7 @@
     },
     "141": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_32_Surface_Radar_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?32%B9%E6%C2%D0%BF%E5%BE%E5%C5%C5%C3%B5%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/32%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -16535,7 +16612,7 @@
     },
     "142": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15m_Duplex_Rangefinder_%2B_Type_21_Radar_Kai_Ni",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15m%C6%F3%BD%C5%C2%AC%B5%F7%B5%B7%A1%DC21%B9%E6%C5%C5%C3%B5%B2%FE%C6%F3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15m%E4%BA%8C%E9%87%8D%E6%B8%AC%E8%B7%9D%E5%84%80%EF%BC%8B21%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C",
       "equip_ships": [
         "武蔵改二(Lv89)"
       ],
@@ -16563,6 +16640,7 @@
         "射程": "",
         "火力": "+1",
         "爆装": "",
+        "特性": "対空＆水上電探",
         "索敵": "+7",
         "艦隊防空": "+3.2",
         "装甲": "+1",
@@ -16573,7 +16651,7 @@
     },
     "143": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Murata_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%BC%B7%BC%B0%B4%CF%B9%B6%28%C2%BC%C5%C4%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E6%9D%91%E7%94%B0%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -16613,7 +16691,7 @@
     },
     "144": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Murata_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C5%B7%BB%B3%28%C2%BC%C5%C4%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E6%9D%91%E7%94%B0%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -16653,7 +16731,7 @@
     },
     "145": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Combat_Ration",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C0%EF%C6%AE%CE%C8%BF%A9",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%88%A6%E9%97%98%E7%B3%A7%E9%A3%9F",
       "equip_ships": [
         "-"
       ],
@@ -16759,7 +16837,7 @@
     },
     "146": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Underway_Replenishment",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CD%CE%BE%E5%CA%E4%B5%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%B4%8B%E4%B8%8A%E8%A3%9C%E7%B5%A6",
       "equip_ships": [
         "速吸(Lv1)",
         "速吸改(Lv25)"
@@ -16793,7 +16871,7 @@
     },
     "147": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/120mm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?120mm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/120mm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Libeccio(Lv1)",
         "Maestrale(Lv1)",
@@ -16842,7 +16920,7 @@
     },
     "148": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_Nanzan",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD%C6%EE%BB%B3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E5%8D%97%E5%B1%B1",
       "equip_ships": [
         "-"
       ],
@@ -16882,7 +16960,7 @@
     },
     "149": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_4_Passive_Sonar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%CD%BC%B0%BF%E5%C3%E6%C4%B0%B2%BB%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
       "equip_ships": [
         "-"
       ],
@@ -17067,7 +17145,7 @@
     },
     "150": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Canned_Mackerel",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BD%A9%C5%E1%B5%FB%A4%CE%B4%CC%B5%CD",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E5%88%80%E9%AD%9A%E3%81%AE%E7%BC%B6%E8%A9%B0",
       "equip_ships": [
         "-"
       ],
@@ -17113,7 +17191,7 @@
     },
     "151": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_Keiun_%28Carrier-based_Reconnaissance_Model%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD%B7%CA%B1%C0%28%B4%CF%C4%E5%B7%BF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%99%AF%E9%9B%B2%28%E8%89%A6%E5%81%B5%E5%9E%8B%29",
       "equip_ships": [
         "-"
       ],
@@ -17221,7 +17299,7 @@
     },
     "152": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_52_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF52%B7%BF%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "-"
       ],
@@ -17336,7 +17414,7 @@
     },
     "153": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52C_%28w/_Iwai_Flight%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%C0%EF52%B7%BF%CA%BA%28%C9%D5%B4%E4%B0%E6%BE%AE%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E4%B8%99%28%E4%BB%98%E5%B2%A9%E4%BA%95%E5%B0%8F%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -17439,7 +17517,7 @@
     },
     "154": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_62_%28Fighter-bomber_/_Iwai_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%C0%EF62%B7%BF%28%C7%FA%C0%EF%A1%BF%B4%E4%B0%E6%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A662%E5%9E%8B%28%E7%88%86%E6%88%A6%EF%BC%8F%E5%B2%A9%E4%BA%95%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -17541,7 +17619,7 @@
     },
     "155": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_21_%28w/_Iwamoto_Flight%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%C0%EF21%B7%BF%28%C9%D5%B4%E4%CB%DC%BE%AE%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A621%E5%9E%8B%28%E4%BB%98%E5%B2%A9%E6%9C%AC%E5%B0%8F%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -17582,7 +17660,7 @@
     },
     "156": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52A_%28w/_Iwamoto_Flight%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%C0%EF52%B7%BF%B9%C3%28%C9%D5%B4%E4%CB%DC%BE%AE%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E7%94%B2%28%E4%BB%98%E5%B2%A9%E6%9C%AC%E5%B0%8F%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -17685,7 +17763,7 @@
     },
     "157": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_53_%28Iwamoto_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF53%B7%BF%28%B4%E4%CB%DC%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A653%E5%9E%8B%28%E5%B2%A9%E6%9C%AC%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -17788,7 +17866,7 @@
     },
     "158": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Bf_109T_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Bf109T%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Bf109T%E6%94%B9",
       "equip_ships": [
         "Graf",
         "Zeppelin(Lv1)"
@@ -17830,7 +17908,7 @@
     },
     "159": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Fw_190T_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Fw190T%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Fw190T%E6%94%B9",
       "equip_ships": [
         "Graf",
         "Zeppelin改(Lv50)"
@@ -17872,7 +17950,7 @@
     },
     "160": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/10.5cm_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?10.5cm%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/10.5cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Graf",
         "Zeppelin(Lv1)",
@@ -17919,7 +17997,7 @@
     },
     "161": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/16inch_Triple_Gun_Mount_Mk.7",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?16inch%BB%B0%CF%A2%C1%F5%CB%A4%20Mk.7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.7",
       "equip_ships": [
         "Iowa(Lv1)",
         "Iowa改(Lv50)"
@@ -18113,7 +18191,7 @@
     },
     "162": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/203mm/53_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?203mm%A1%BF53%20%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/203mm%EF%BC%8F53%20%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Zara(Lv1)",
         "Pola(Lv1)",
@@ -18247,7 +18325,7 @@
     },
     "163": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ro.43_Reconnaissance_Seaplane",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Ro.43%BF%E5%C4%E5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Ro.43%E6%B0%B4%E5%81%B5",
       "equip_ships": [
         "Zara改(Lv40)"
       ],
@@ -18399,7 +18477,7 @@
     },
     "164": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ro.44_Seaplane_Fighter",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Ro.44%BF%E5%BE%E5%C0%EF%C6%AE%B5%A1",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Ro.44%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F",
       "equip_ships": [
         "Pola改(Lv40)",
         "Zara",
@@ -18513,7 +18591,7 @@
     },
     "165": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_2_Seaplane_Fighter_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C6%F3%BC%B0%BF%E5%C0%EF%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E6%B0%B4%E6%88%A6%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -18625,46 +18703,11 @@
     },
     "166": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Daihatsu_Landing_Craft_%28Type_89_Medium_Tank_%26_Landing_Force%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C2%E7%C8%AF%C6%B0%C4%FA%28%C8%AC%B6%E5%BC%B0%C3%E6%C0%EF%BC%D6%A1%F5%CE%A6%C0%EF%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%28%E5%85%AB%E4%B9%9D%E5%BC%8F%E4%B8%AD%E6%88%A6%E8%BB%8A%EF%BC%86%E9%99%B8%E6%88%A6%E9%9A%8A%29",
       "equip_ships": [
         "-"
       ],
       "id": 166,
-      "item_equip": {
-        "extra": [
-          "速吸改",
-          "神威改母",
-          "阿武隈改二",
-          "鬼怒改二",
-          "由良改二",
-          "多摩改二",
-          "龍田改二",
-          "霞改二",
-          "霞改二乙",
-          "朝潮改二丁",
-          "Верный",
-          "霰改二",
-          "大潮改二",
-          "満潮改二",
-          "荒潮改二",
-          "江風改二",
-          "皐月改二",
-          "文月改二",
-          "睦月改二",
-          "如月改二",
-          "村雨改二",
-          "長門改二"
-        ],
-        "戦艦": 0,
-        "揚陸艦": 1,
-        "正規空母": 0,
-        "水上機母艦": 1,
-        "航空戦艦": 0,
-        "軽巡洋艦": 0,
-        "軽空母": 0,
-        "重巡洋艦": 0,
-        "駆逐艦": 0
-      },
       "item_intro": "大発動艇、略して「大発」。旧式ではありますが量産型「大発」に積載可能な「八九式中戦車」と、重火器で武装した陸戦隊を搭載した、上陸作戦用の強襲揚陸バージョン(試製噴進砲もif装備)です。輸送任務ではなく、敵地への上陸作戦等に適しています。",
       "item_name": {
         "ja": "大発動艇(八九式中戦車&陸戦隊)",
@@ -18813,46 +18856,11 @@
     },
     "167": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Special_Type_2_Amphibious_Landing_Craft",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C6%C3%C6%F3%BC%B0%C6%E2%B2%D0%C4%FA",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%89%B9%E4%BA%8C%E5%BC%8F%E5%86%85%E7%81%AB%E8%89%87",
       "equip_ships": [
         "-"
       ],
       "id": 167,
-      "item_equip": {
-        "extra": [
-          "速吸改",
-          "神威改母",
-          "阿武隈改二",
-          "鬼怒改二",
-          "由良改二",
-          "多摩改二",
-          "龍田改二",
-          "霞改二",
-          "霞改二乙",
-          "朝潮改二丁",
-          "Верный",
-          "霰改二",
-          "大潮改二",
-          "満潮改二",
-          "荒潮改二",
-          "黒潮改二",
-          "白露改二",
-          "皐月改二",
-          "文月改二",
-          "長門改二"
-        ],
-        "戦艦": 0,
-        "揚陸艦": 1,
-        "正規空母": 0,
-        "水上機母艦": 1,
-        "潜水空母": 1,
-        "潜水艦": 1,
-        "航空戦艦": 0,
-        "軽巡洋艦": 0,
-        "軽空母": 0,
-        "重巡洋艦": 0,
-        "駆逐艦": 0
-      },
       "item_intro": "島嶼への上陸作戦のために開発された水陸両用「特二式内火艇」、通称「カミ車」です。前後に着脱式のフロートを備え、機甲戦力として敵地への上陸作戦が可能です。輸送時の水密化構造が採用されており、潜水艦での運用も可能でした。",
       "item_name": {
         "ja": "特二式内火艇",
@@ -19000,7 +19008,7 @@
     },
     "168": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_96_Land-based_Attack_Aircraft",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%CF%BB%BC%B0%CE%A6%B9%B6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E9%99%B8%E6%94%BB",
       "id": 168,
       "item_build": {
         "cost": {
@@ -19035,7 +19043,7 @@
     },
     "169": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%CE%A6%B9%B6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB",
       "id": 169,
       "item_equip": {
         "基地航空隊": 1
@@ -19061,7 +19069,7 @@
     },
     "170": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft_%28Nonaka_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%CE%A6%B9%B6%28%CC%EE%C3%E6%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%28%E9%87%8E%E4%B8%AD%E9%9A%8A%29",
       "id": 170,
       "item_equip": {
         "基地航空隊": 1
@@ -19087,7 +19095,7 @@
     },
     "171": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/OS2U",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?OS2U",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/OS2U",
       "equip_ships": [
         "Iowa改(Lv50)"
       ],
@@ -19131,7 +19139,7 @@
     },
     "172": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/5inch_Twin_Gun_Mount_Mk.28_mod.2",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?5inch%CF%A2%C1%F5%CB%A4%20Mk.28%20mod.2",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.28%20mod.2",
       "equip_ships": [
         "Iowa(Lv1)",
         "Iowa改(Lv50)"
@@ -19178,7 +19186,7 @@
     },
     "173": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Bofors_40mm_Quadruple_Autocannon_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Bofors%2040mm%BB%CD%CF%A2%C1%F5%B5%A1%B4%D8%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Bofors%2040mm%E5%9B%9B%E9%80%A3%E8%A3%85%E6%A9%9F%E9%96%A2%E7%A0%B2",
       "equip_ships": [
         "Iowa改(Lv50)",
         "Gotland改(Lv55)"
@@ -19227,7 +19235,7 @@
     },
     "174": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/53cm_Twin_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?53cm%CF%A2%C1%F5%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/53cm%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "神風(Lv1)",
         "朝風(Lv1)",
@@ -19402,7 +19410,7 @@
     },
     "175": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Raiden",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CD%EB%C5%C5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B7%E9%9B%BB",
       "id": 175,
       "item_equip": {
         "基地航空隊": 1
@@ -19429,7 +19437,7 @@
     },
     "176": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%C0%EF%20%C8%F4%B1%ED",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95",
       "id": 176,
       "item_equip": {
         "基地航空隊": 1
@@ -19456,7 +19464,7 @@
     },
     "177": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien_%28244th_Air_Combat_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%C0%EF%20%C8%F4%B1%ED%28%C8%F4%B9%D4%C2%E8244%C0%EF%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95%28%E9%A3%9B%E8%A1%8C%E7%AC%AC244%E6%88%A6%E9%9A%8A%29",
       "id": 177,
       "item_equip": {
         "基地航空隊": 1
@@ -19483,7 +19491,7 @@
     },
     "178": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/PBY-5A_Catalina",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?PBY-5A%20Catalina",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/PBY-5A%20Catalina",
       "equip_ships": [
         "-"
       ],
@@ -19516,7 +19524,7 @@
     },
     "179": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_61cm_Sextuple_%28Oxygen%29_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD61cm%CF%BB%CF%A2%C1%F5%28%BB%C0%C1%C7%29%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD61cm%E5%85%AD%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "-"
       ],
@@ -19681,7 +19689,7 @@
     },
     "180": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft_Model_22A",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%CE%A6%B9%B6%20%C6%F3%C6%F3%B7%BF%B9%C3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%BA%8C%E4%BA%8C%E5%9E%8B%E7%94%B2",
       "id": 180,
       "item_equip": {
         "基地航空隊": 1
@@ -19707,7 +19715,7 @@
     },
     "181": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_32",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF32%B7%BF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A632%E5%9E%8B",
       "equip_ships": [
         "-"
       ],
@@ -19832,7 +19840,7 @@
     },
     "182": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_32_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF32%B7%BF%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A632%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "-"
       ],
@@ -19948,7 +19956,7 @@
     },
     "183": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/16inch_Triple_Gun_Mount_Mk.7_%2B_GFCS",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?16inch%BB%B0%CF%A2%C1%F5%CB%A4%20Mk.7%A1%DCGFCS",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.7%EF%BC%8BGFCS",
       "equip_ships": [
         "-"
       ],
@@ -20140,7 +20148,7 @@
     },
     "184": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Re.2001_OR_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Re.2001%20OR%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Re.2001%20OR%E6%94%B9",
       "equip_ships": [
         "Aquila(Lv1)",
         "Aquila改(Lv45)"
@@ -20182,7 +20190,7 @@
     },
     "185": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien_Model_1D",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%B0%BC%B0%C0%EF%20%C8%F4%B1%ED%B0%EC%B7%BF%C3%FA",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95%E4%B8%80%E5%9E%8B%E4%B8%81",
       "id": 185,
       "item_equip": {
         "基地航空隊": 1
@@ -20209,7 +20217,7 @@
     },
     "186": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft_Model_34",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%CE%A6%B9%B6%20%BB%B0%BB%CD%B7%BF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%B8%89%E5%9B%9B%E5%9E%8B",
       "id": 186,
       "item_equip": {
         "基地航空隊": 1
@@ -20235,7 +20243,7 @@
     },
     "187": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ginga",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E4%B2%CF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3",
       "id": 187,
       "item_equip": {
         "基地航空隊": 1
@@ -20261,7 +20269,7 @@
     },
     "188": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Re.2001_G_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Re.2001%20G%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Re.2001%20G%E6%94%B9",
       "equip_ships": [
         "Aquila改(Lv45)"
       ],
@@ -20301,7 +20309,7 @@
     },
     "189": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Re.2005_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Re.2005%20%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Re.2005%20%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -20342,7 +20350,7 @@
     },
     "190": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/38.1cm_Mk.I_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?38.1cm%20Mk.I%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/38.1cm%20Mk.I%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Warspite(Lv1)",
         "Warspite改(Lv75)"
@@ -20534,7 +20542,7 @@
     },
     "191": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/QF_2-pounder_Octuple_Pom-pom_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?QF%202%A5%DD%A5%F3%A5%C98%CF%A2%C1%F5%A5%DD%A5%F3%A5%DD%A5%F3%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/QF%202%E3%83%9D%E3%83%B3%E3%83%898%E9%80%A3%E8%A3%85%E3%83%9D%E3%83%B3%E3%83%9D%E3%83%B3%E7%A0%B2",
       "equip_ships": [
         "Ark",
         "Royal改(Lv45)",
@@ -20583,7 +20591,7 @@
     },
     "192": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/38.1cm_Mk.I/N_Twin_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?38.1cm%20Mk.I%A1%BFN%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/38.1cm%20Mk.I%EF%BC%8FN%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -20774,46 +20782,11 @@
     },
     "193": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Toku_Daihatsu_Landing_Craft",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C6%C3%C2%E7%C8%AF%C6%B0%C4%FA",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
       "equip_ships": [
         "-"
       ],
       "id": 193,
-      "item_equip": {
-        "extra": [
-          "速吸改",
-          "神威改母",
-          "阿武隈改二",
-          "鬼怒改二",
-          "由良改二",
-          "多摩改二",
-          "龍田改二",
-          "霞改二",
-          "霞改二乙",
-          "朝潮改二丁",
-          "Верный",
-          "霰改二",
-          "大潮改二",
-          "満潮改二",
-          "荒潮改二",
-          "江風改二",
-          "皐月改二",
-          "文月改二",
-          "睦月改二",
-          "如月改二",
-          "村雨改二",
-          "長門改二"
-        ],
-        "戦艦": 0,
-        "揚陸艦": 1,
-        "正規空母": 0,
-        "水上機母艦": 1,
-        "航空戦艦": 0,
-        "軽巡洋艦": 0,
-        "軽空母": 0,
-        "重巡洋艦": 0,
-        "駆逐艦": 0
-      },
       "item_intro": "特大発動艇、略して「特大発」。輸送船からの揚陸作業や上陸戦に用いる数多く量産された上陸用舟艇、「大発」。この海上のトラック「大発」を新型中戦車搭載等に対応するためより大型化、搭載力が向上しています。",
       "item_name": {
         "ja": "特大発動艇",
@@ -20936,7 +20909,7 @@
     },
     "194": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Lat%C3%A9_298B",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Late%20298B",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Late%20298B",
       "equip_ships": [
         "Commandant",
         "Teste(Lv1)",
@@ -20987,7 +20960,7 @@
     },
     "195": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/SBD",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?SBD",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/SBD",
       "equip_ships": [
         "Saratoga改(Lv40)"
       ],
@@ -21027,7 +21000,7 @@
     },
     "196": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/TBD",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?TBD",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/TBD",
       "equip_ships": [
         "Saratoga(Lv1)"
       ],
@@ -21067,7 +21040,7 @@
     },
     "197": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/F4F-3",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?F4F-3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/F4F-3",
       "equip_ships": [
         "Saratoga(Lv1)"
       ],
@@ -21195,7 +21168,7 @@
     },
     "198": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/F4F-4",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?F4F-4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/F4F-4",
       "equip_ships": [
         "Saratoga改(Lv40)"
       ],
@@ -21323,7 +21296,7 @@
     },
     "199": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Jet_Keiun_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CA%AE%BC%B0%B7%CA%B1%C0%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%99%B4%E5%BC%8F%E6%99%AF%E9%9B%B2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -21358,7 +21331,7 @@
     },
     "200": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Kikka_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B5%CC%B2%D6%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%A9%98%E8%8A%B1%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -21393,7 +21366,7 @@
     },
     "201": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Shiden_Model_11",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%E7%C5%C5%B0%EC%B0%EC%B7%BF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%B8%80%E4%B8%80%E5%9E%8B",
       "id": 201,
       "item_equip": {
         "基地航空隊": 1
@@ -21496,7 +21469,7 @@
     },
     "202": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Shiden_Model_21_Shiden_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%E7%C5%C5%C6%F3%B0%EC%B7%BF%20%BB%E7%C5%C5%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%BA%8C%E4%B8%80%E5%9E%8B%20%E7%B4%AB%E9%9B%BB%E6%94%B9",
       "id": 202,
       "item_equip": {
         "基地航空隊": 1
@@ -21524,7 +21497,7 @@
     },
     "203": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/New_Kanhon_Design_Anti-torpedo_Bulge_%28Medium%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B4%CF%CB%DC%BF%B7%C0%DF%B7%D7%20%C1%FD%C0%DF%A5%D0%A5%EB%A5%B8%28%C3%E6%B7%BF%B4%CF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%89%A6%E6%9C%AC%E6%96%B0%E8%A8%AD%E8%A8%88%20%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E4%B8%AD%E5%9E%8B%E8%89%A6%29",
       "equip_ships": [
         "-"
       ],
@@ -21537,11 +21510,12 @@
           "木曾改・改二",
           "神威改母",
           "Верный",
-          "長波改二",
+          "黒潮改二",
           "陽炎改二",
           "不知火改二",
-          "黒潮改二",
           "夕雲改二",
+          "巻雲改二",
+          "長波改二",
           "Gotland改"
         ],
         "工作艦": 1,
@@ -21564,11 +21538,12 @@
           "木曾改・改二",
           "神威改母",
           "Верный",
-          "長波改二",
+          "黒潮改二",
           "陽炎改二",
           "不知火改二",
-          "黒潮改二",
           "夕雲改二",
+          "巻雲改二",
+          "長波改二",
           "Gotland改"
         ],
         "工作艦": 1,
@@ -21667,7 +21642,7 @@
     },
     "204": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/New_Kanhon_Design_Anti-torpedo_Bulge_%28Large%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B4%CF%CB%DC%BF%B7%C0%DF%B7%D7%20%C1%FD%C0%DF%A5%D0%A5%EB%A5%B8%28%C2%E7%B7%BF%B4%CF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%89%A6%E6%9C%AC%E6%96%B0%E8%A8%AD%E8%A8%88%20%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29",
       "equip_ships": [
         "-"
       ],
@@ -21800,7 +21775,7 @@
     },
     "205": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/F6F-3",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?F6F-3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/F6F-3",
       "equip_ships": [
         "Intrepid(Lv1)"
       ],
@@ -21928,7 +21903,7 @@
     },
     "206": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/F6F-5",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?F6F-5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/F6F-5",
       "equip_ships": [
         "-"
       ],
@@ -22043,7 +22018,7 @@
     },
     "207": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zuiun_%28631_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BF%F0%B1%C0%28%CF%BB%BB%B0%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "-"
       ],
@@ -22091,7 +22066,7 @@
     },
     "208": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Seiran_%28631_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C0%B2%CD%F2%28%CF%BB%BB%B0%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%99%B4%E5%B5%90%28%E5%85%AD%E4%B8%89%E4%B8%80%E7%A9%BA%29",
       "equip_ships": [
         "-"
       ],
@@ -22139,7 +22114,7 @@
     },
     "209": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Saiun_%28Disassembled_for_Transport%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BA%CC%B1%C0%28%CD%A2%C1%F7%CD%D1%CA%AC%B2%F2%BA%D1%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E8%BC%B8%E9%80%81%E7%94%A8%E5%88%86%E8%A7%A3%E6%B8%88%29",
       "equip_ships": [
         "-"
       ],
@@ -22179,7 +22154,7 @@
     },
     "210": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Submarine_Radar_%26_Waterproof_Telescope",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C0%F8%BF%E5%B4%CF%C5%EB%BA%DC%C5%C5%C3%B5%A1%F5%BF%E5%CB%C9%BC%B0%CB%BE%B1%F3%B6%C0",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E6%B0%B4%E9%98%B2%E5%BC%8F%E6%9C%9B%E9%81%A0%E9%8F%A1",
       "equip_ships": [
         "-"
       ],
@@ -22194,6 +22169,7 @@
         "zh": "潜艇搭载电探 & 水防式望远镜"
       },
       "item_stat": {
+        "カットイン率": "",
         "命中": "+2",
         "回避": "+8",
         "対潜": "",
@@ -22258,7 +22234,7 @@
     },
     "211": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Submarine_Radar_%26_Passive_Radiolocator_%28E27%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C0%F8%BF%E5%B4%CF%C5%EB%BA%DC%C5%C5%C3%B5%A1%F5%B5%D5%C3%B5%28E27%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2%28E27%29",
       "equip_ships": [
         "伊13改(Lv45)"
       ],
@@ -22288,7 +22264,7 @@
     },
     "212": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Saiun_%28Eastern_Caroline_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BA%CC%B1%C0%28%C5%EC%A5%AB%A5%ED%A5%EA%A5%F3%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E6%9D%B1%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%B3%E7%A9%BA%29",
       "equip_ships": [
         "-"
       ],
@@ -22328,7 +22304,7 @@
     },
     "213": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Late_Model_Bow_Torpedo_Mount_%286_tubes%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B8%E5%B4%FC%B7%BF%B4%CF%BC%F3%B5%FB%CD%EB%286%CC%E7%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%286%E9%96%80%29",
       "equip_ships": [
         "-"
       ],
@@ -22358,7 +22334,7 @@
     },
     "214": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Skilled_Sonar_Personnel_%2B_Late_Model_Bow_Torpedo_Mount_%286_tubes%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BD%CF%CE%FD%C4%B0%B2%BB%B0%F7%A1%DC%B8%E5%B4%FC%B7%BF%B4%CF%BC%F3%B5%FB%CD%EB%286%CC%E7%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%81%B4%E9%9F%B3%E5%93%A1%EF%BC%8B%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%286%E9%96%80%29",
       "equip_ships": [
         "-"
       ],
@@ -22388,7 +22364,7 @@
     },
     "215": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Ro.44_Seaplane_Fighter_bis",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Ro.44%BF%E5%BE%E5%C0%EF%C6%AE%B5%A1bis",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Ro.44%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9Fbis",
       "equip_ships": [
         "-"
       ],
@@ -22499,7 +22475,7 @@
     },
     "216": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_2_Seaplane_Fighter_Kai_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C6%F3%BC%B0%BF%E5%C0%EF%B2%FE%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E6%B0%B4%E6%88%A6%E6%94%B9%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "-"
       ],
@@ -22610,7 +22586,7 @@
     },
     "217": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Kyoufuu_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%AF%C9%F7%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BC%B7%E9%A2%A8%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -22733,7 +22709,7 @@
     },
     "218": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_4_Fighter_Hayate",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%CD%BC%B0%C0%EF%20%BC%C0%C9%F7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E6%88%A6%20%E7%96%BE%E9%A2%A8",
       "id": 218,
       "item_equip": {
         "基地航空隊": 1
@@ -22760,7 +22736,7 @@
     },
     "219": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_63_%28Fighter-bomber%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%B4%CF%C0%EF63%B7%BF%28%C7%FA%C0%EF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A663%E5%9E%8B%28%E7%88%86%E6%88%A6%29",
       "equip_ships": [
         "-"
       ],
@@ -22874,7 +22850,7 @@
     },
     "220": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/8cm_High-angle_Gun_Kai_%2B_Extra_Machine_Guns",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?8cm%B9%E2%B3%D1%CB%A4%B2%FE%A1%DC%C1%FD%C0%DF%B5%A1%BD%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/8cm%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%EF%BC%8B%E5%A2%97%E8%A8%AD%E6%A9%9F%E9%8A%83",
       "equip_ships": [
         "-"
       ],
@@ -23080,7 +23056,7 @@
     },
     "221": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_II",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%C0%EF%20%C8%BBII%B7%BF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B",
       "id": 221,
       "item_equip": {
         "基地航空隊": 1
@@ -23196,7 +23172,7 @@
     },
     "222": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_III_A",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%C0%EF%20%C8%BBIII%B7%BF%B9%C3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2",
       "id": 222,
       "item_equip": {
         "基地航空隊": 1
@@ -23310,7 +23286,7 @@
     },
     "223": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_III_A_%2854th_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%C0%EF%20%C8%BBIII%B7%BF%B9%C3%2854%C0%EF%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2%2854%E6%88%A6%E9%9A%8A%29",
       "id": 223,
       "item_equip": {
         "基地航空隊": 1
@@ -23363,7 +23339,7 @@
     },
     "225": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_II_%2864th_Squadron%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B0%EC%BC%B0%C0%EF%20%C8%BBII%B7%BF%2864%C0%EF%C2%E2%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B%2864%E6%88%A6%E9%9A%8A%29",
       "id": 225,
       "item_equip": {
         "基地航空隊": 1
@@ -23390,7 +23366,7 @@
     },
     "226": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_95_Depth_Charge",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%B8%DE%BC%B0%C7%FA%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%BA%94%E5%BC%8F%E7%88%86%E9%9B%B7",
       "equip_ships": [
         "白露改(Lv20)",
         "時雨改(Lv20)",
@@ -23545,7 +23521,7 @@
     },
     "227": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_2_Depth_Charge",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C6%F3%BC%B0%C7%FA%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7",
       "equip_ships": [
         "-"
       ],
@@ -23588,7 +23564,7 @@
     },
     "228": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_96_Fighter_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%B6%E5%CF%BB%BC%B0%B4%CF%C0%EF%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E8%89%A6%E6%88%A6%E6%94%B9",
       "equip_ships": [
         "春日丸(Lv1)",
         "大鷹(Lv30)"
@@ -23630,7 +23606,7 @@
     },
     "229": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Single_High-angle_Gun_Mount_%28Late_Model%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%C3%B1%C1%F5%B9%E2%B3%D1%CB%A4%28%B8%E5%B4%FC%B7%BF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
       "equip_ships": [
         "択捉改(Lv37)",
         "松輪改(Lv37)",
@@ -23898,46 +23874,11 @@
     },
     "230": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Toku_Daihatsu_Landing_Craft_%2B_11th_Tank_Regiment",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C6%C3%C2%E7%C8%AF%C6%B0%C4%FA%A1%DC%C0%EF%BC%D6%C2%E811%CF%A2%C2%E2",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%EF%BC%8B%E6%88%A6%E8%BB%8A%E7%AC%AC11%E9%80%A3%E9%9A%8A",
       "equip_ships": [
         "-"
       ],
       "id": 230,
-      "item_equip": {
-        "extra": [
-          "速吸改",
-          "神威改母",
-          "阿武隈改二",
-          "鬼怒改二",
-          "由良改二",
-          "多摩改二",
-          "龍田改二",
-          "霞改二",
-          "霞改二乙",
-          "朝潮改二丁",
-          "Верный",
-          "霰改二",
-          "大潮改二",
-          "満潮改二",
-          "荒潮改二",
-          "江風改二",
-          "皐月改二",
-          "文月改二",
-          "睦月改二",
-          "如月改二",
-          "村雨改二",
-          "長門改二"
-        ],
-        "戦艦": 0,
-        "揚陸艦": 1,
-        "正規空母": 0,
-        "水上機母艦": 1,
-        "航空戦艦": 0,
-        "軽巡洋艦": 0,
-        "軽空母": 0,
-        "重巡洋艦": 0,
-        "駆逐艦": 0
-      },
       "item_intro": "終戦時、北千島最北端、占守島に布陣していた精鋭、戦車第11連隊。「士魂」部隊とも云われた同精鋭部隊を特大発動艇で輸送、海上機動及び上陸戦闘運用が可能です。",
       "item_name": {
         "ja": "特大発動艇+戦車第11連隊",
@@ -23961,7 +23902,7 @@
     },
     "231": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/30.5cm_Triple_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?30.5cm%BB%B0%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Гангут(Lv1)"
       ],
@@ -24066,7 +24007,7 @@
     },
     "232": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/30.5cm_Triple_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?30.5cm%BB%B0%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "Октябрьская",
         "революция(Lv45)",
@@ -24174,7 +24115,7 @@
     },
     "233": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/F4U-1D",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?F4U-1D",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/F4U-1D",
       "equip_ships": [
         "Intrepid改(Lv50)"
       ],
@@ -24214,7 +24155,7 @@
     },
     "234": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15.5cm_Triple_Secondary_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15.5cm%BB%B0%CF%A2%C1%F5%C9%FB%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -24426,7 +24367,7 @@
     },
     "235": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15.5cm_Triple_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15.5cm%BB%B0%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -24571,7 +24512,7 @@
     },
     "236": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/41cm_Triple_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?41cm%BB%B0%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -24766,7 +24707,7 @@
     },
     "237": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Zuiun_%28634_Air_Group/Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BF%F0%B1%C0%28%CF%BB%BB%B0%BB%CD%B6%F5%A1%BF%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "-"
       ],
@@ -24945,7 +24886,7 @@
     },
     "238": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane_Model_11B",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%BF%E5%BE%E5%C4%E5%BB%A1%B5%A111%B7%BF%B2%B5",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F11%E5%9E%8B%E4%B9%99",
       "equip_ships": [
         "由良改二(Lv77)"
       ],
@@ -24989,7 +24930,7 @@
     },
     "239": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane_Model_11B_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CE%ED%BC%B0%BF%E5%BE%E5%C4%E5%BB%A1%B5%A111%B7%BF%B2%B5%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F11%E5%9E%8B%E4%B9%99%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "-"
       ],
@@ -25033,7 +24974,7 @@
     },
     "240": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar_Kai_4_%28Calibrated_Late_Model%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?22%B9%E6%C2%D0%BF%E5%BE%E5%C5%C5%C3%B5%B2%FE%BB%CD%28%B8%E5%B4%FC%C4%B4%C0%B0%B7%BF%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B%28%E5%BE%8C%E6%9C%9F%E8%AA%BF%E6%95%B4%E5%9E%8B%29",
       "equip_ships": [
         "-"
       ],
@@ -25069,7 +25010,7 @@
     },
     "241": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Combat_Ration_%28Special_Onigiri%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C0%EF%C6%AE%CE%C8%BF%A9%28%C6%C3%CA%CC%A4%CA%A4%AA%A4%CB%A4%AE%A4%EA%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%88%A6%E9%97%98%E7%B3%A7%E9%A3%9F%28%E7%89%B9%E5%88%A5%E3%81%AA%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%29",
       "equip_ships": [
         "-"
       ],
@@ -25115,7 +25056,7 @@
     },
     "242": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Swordfish",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Swordfish",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Swordfish",
       "equip_ships": [
         "Ark",
         "Royal(Lv1)",
@@ -25158,7 +25099,7 @@
     },
     "243": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Swordfish_Mk.II_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Swordfish%20Mk.II%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Swordfish%20Mk.II%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "-"
       ],
@@ -25198,7 +25139,7 @@
     },
     "244": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Swordfish_Mk.III_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Swordfish%20Mk.III%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%28%E7%86%9F%E7%B7%B4%29",
       "equip_ships": [
         "-"
       ],
@@ -25238,7 +25179,7 @@
     },
     "245": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/38cm_Quadruple_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?38cm%BB%CD%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Richelieu(Lv1)"
       ],
@@ -25431,7 +25372,7 @@
     },
     "246": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/38cm_Quadruple_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?38cm%BB%CD%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "Richelieu改(Lv45)"
       ],
@@ -25623,7 +25564,7 @@
     },
     "247": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/15.2cm_Triple_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?15.2cm%BB%B0%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/15.2cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Richelieu(Lv1)",
         "Richelieu改(Lv45)"
@@ -25755,7 +25696,7 @@
     },
     "248": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Skua",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Skua",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Skua",
       "equip_ships": [
         "Ark",
         "Royal(Lv1)"
@@ -25796,7 +25737,7 @@
     },
     "249": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Fulmar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Fulmar",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Fulmar",
       "equip_ships": [
         "Ark",
         "Royal改(Lv45)"
@@ -25838,7 +25779,7 @@
     },
     "250": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Spitfire_Mk.I",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Spitfire%20Mk.I",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Spitfire%20Mk.I",
       "id": 250,
       "item_equip": {
         "基地航空隊": 1
@@ -25865,7 +25806,7 @@
     },
     "251": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Spitfire_Mk.V",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Spitfire%20Mk.V",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Spitfire%20Mk.V",
       "id": 251,
       "item_equip": {
         "基地航空隊": 1
@@ -25892,7 +25833,7 @@
     },
     "252": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Seafire_Mk.III_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Seafire%20Mk.III%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Seafire%20Mk.III%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -25934,7 +25875,7 @@
     },
     "253": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Spitfire_Mk.IX_%28Skilled%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Spitfire%20Mk.IX%28%BD%CF%CE%FD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Spitfire%20Mk.IX%28%E7%86%9F%E7%B7%B4%29",
       "id": 253,
       "item_equip": {
         "基地航空隊": 1
@@ -25961,7 +25902,7 @@
     },
     "254": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/F6F-3N",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?F6F-3N",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/F6F-3N",
       "equip_ships": [
         "-"
       ],
@@ -26002,7 +25943,7 @@
     },
     "255": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/F6F-5N",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?F6F-5N",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/F6F-5N",
       "equip_ships": [
         "-"
       ],
@@ -26043,7 +25984,7 @@
     },
     "256": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/TBF",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?TBF",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/TBF",
       "equip_ships": [
         "Gambier",
         "Bay改(Lv45)"
@@ -26084,7 +26025,7 @@
     },
     "257": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/TBM-3D",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?TBM-3D",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/TBM-3D",
       "equip_ships": [
         "-"
       ],
@@ -26124,7 +26065,7 @@
     },
     "258": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Night_Battle_Operation_Aviation_Personnel",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CC%EB%B4%D6%BA%EE%C0%EF%B9%D2%B6%F5%CD%D7%B0%F7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1",
       "equip_ships": [
         "-"
       ],
@@ -26171,7 +26112,7 @@
     },
     "259": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Night_Battle_Operation_Aviation_Personnel_%2B_Skilled_Deck_Hands",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CC%EB%B4%D6%BA%EE%C0%EF%B9%D2%B6%F5%CD%D7%B0%F7%A1%DC%BD%CF%CE%FD%B9%C3%C8%C4%B0%F7",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1%EF%BC%8B%E7%86%9F%E7%B7%B4%E7%94%B2%E6%9D%BF%E5%93%A1",
       "equip_ships": [
         "-"
       ],
@@ -26218,7 +26159,7 @@
     },
     "260": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type124_ASDIC",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Type124%20ASDIC",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Type124%20ASDIC",
       "equip_ships": [
         "Jervis改(Lv45)"
       ],
@@ -26266,7 +26207,7 @@
     },
     "261": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type144/147_ASDIC",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?Type144%A1%BF147%20ASDIC",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/Type144%EF%BC%8F147%20ASDIC",
       "equip_ships": [
         "-"
       ],
@@ -26314,7 +26255,7 @@
     },
     "262": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/HF/DF_%2B_Type144/147_ASDIC",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?HF%A1%BFDF%A1%DCType144%A1%BF147%20ASDIC",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/HF%EF%BC%8FDF%EF%BC%8BType144%EF%BC%8F147%20ASDIC",
       "equip_ships": [
         "-"
       ],
@@ -26362,7 +26303,7 @@
     },
     "263": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Shiden_Kai_%28343_Air_Group%29_301st_Fighter_Squadron",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%E7%C5%C5%B2%FE%28%BB%B0%BB%CD%BB%B0%B6%F5%29%20%C0%EF%C6%AE301",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%28%E4%B8%89%E5%9B%9B%E4%B8%89%E7%A9%BA%29%20%E6%88%A6%E9%97%98301",
       "id": 263,
       "item_equip": {
         "基地航空隊": 1
@@ -26390,7 +26331,7 @@
     },
     "266": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_C_Kai_2",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%CB%A4C%B7%BF%B2%FE%C6%F3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2C%E5%9E%8B%E6%94%B9%E4%BA%8C",
       "equip_ships": [
         "霰改二(Lv63)",
         "村雨改二(Lv70)",
@@ -26643,7 +26584,7 @@
     },
     "267": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12.7cm%CF%A2%C1%F5%CB%A4D%B7%BF%B2%FE%C6%F3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%BA%8C",
       "equip_ships": [
         "夕雲改二(Lv75)",
         "巻雲改二(Lv75)",
@@ -26868,7 +26809,7 @@
     },
     "268": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Arctic_Camouflage_%28%2B_Arctic_Equipment%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CB%CC%CA%FD%CC%C2%BA%CC%28%A1%DC%CB%CC%CA%FD%C1%F5%C8%F7%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%8C%97%E6%96%B9%E8%BF%B7%E5%BD%A9%28%EF%BC%8B%E5%8C%97%E6%96%B9%E8%A3%85%E5%82%99%29",
       "equip_ships": [
         "多摩改二(Lv70)"
       ],
@@ -26910,11 +26851,12 @@
           "木曾改・改二",
           "神威改母",
           "Верный",
-          "長波改二",
+          "黒潮改二",
           "陽炎改二",
           "不知火改二",
-          "黒潮改二",
           "夕雲改二",
+          "巻雲改二",
+          "長波改二",
           "Gotland改"
         ],
         "工作艦": 1,
@@ -26937,11 +26879,12 @@
           "木曾改・改二",
           "神威改母",
           "Верный",
-          "長波改二",
+          "黒潮改二",
           "陽炎改二",
           "不知火改二",
-          "黒潮改二",
           "夕雲改二",
+          "巻雲改二",
+          "長波改二",
           "Gotland改"
         ],
         "工作艦": 1,
@@ -26978,7 +26921,7 @@
     },
     "269": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_Toukai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%EE%C0%BD%C5%EC%B3%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%9D%B1%E6%B5%B7",
       "id": 269,
       "item_equip": {
         "基地航空隊": 1
@@ -27004,7 +26947,7 @@
     },
     "270": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Toukai_%28901_Air_Group%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%C5%EC%B3%A4%28%B6%E5%A1%BB%B0%EC%B6%F5%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E6%9D%B1%E6%B5%B7%28%E4%B9%9D%E3%80%87%E4%B8%80%E7%A9%BA%29",
       "id": 270,
       "item_equip": {
         "基地航空隊": 1
@@ -27030,7 +26973,7 @@
     },
     "271": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Shiden_Kai_4",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BB%E7%C5%C5%B2%FE%BB%CD",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%E5%9B%9B",
       "equip_ships": [
         "-"
       ],
@@ -27072,7 +27015,7 @@
     },
     "272": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Striking_Force_Fleet_Command_Facility",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%CD%B7%B7%E2%C9%F4%C2%E2%20%B4%CF%C2%E2%BB%CA%CE%E1%C9%F4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E9%81%8A%E6%92%83%E9%83%A8%E9%9A%8A%20%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8",
       "equip_ships": [
         "-"
       ],
@@ -27120,7 +27063,7 @@
     },
     "273": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Saiun_%284th_Recon_Squad%29",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?%BA%CC%B1%C0%28%C4%E5%BB%CD%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E5%81%B5%E5%9B%9B%29",
       "equip_ships": [
         "-"
       ],
@@ -27160,7 +27103,7 @@
     },
     "274": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/12cm_30-tube_Rocket_Launcher_Kai_Ni",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?12cm30%CF%A2%C1%F5%CA%AE%BF%CA%CB%A4%B2%FE%C6%F3",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2%E6%94%B9%E4%BA%8C",
       "equip_ships": [
         "-"
       ],
@@ -27352,7 +27295,7 @@
     },
     "275": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_Kai_%2B_Additional_Machine_Guns",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?10cm%CF%A2%C1%F5%B9%E2%B3%D1%CB%A4%B2%FE%A1%DC%C1%FD%C0%DF%B5%A1%BD%C6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%EF%BC%8B%E5%A2%97%E8%A8%AD%E6%A9%9F%E9%8A%83",
       "equip_ships": [
         "武蔵改二(Lv89)"
       ],
@@ -27528,7 +27471,7 @@
     },
     "276": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/46cm_Triple_Gun_Mount_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?46cm%BB%B0%CF%A2%C1%F5%CB%A4%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/46cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
       "equip_ships": [
         "-"
       ],
@@ -27732,7 +27675,7 @@
     },
     "277": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/FM-2",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?FM-2",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/FM-2",
       "equip_ships": [
         "Gambier",
         "Bay(Lv1)",
@@ -27775,7 +27718,7 @@
     },
     "278": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/SK_Radar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?SK%A5%EC%A1%BC%A5%C0%A1%BC",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/SK%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
       "equip_ships": [
         "-"
       ],
@@ -27810,6 +27753,7 @@
         "射程": "",
         "火力": "",
         "爆装": "",
+        "特性": "対空＆水上電探",
         "索敵": "+10",
         "艦隊防空": "+3.2",
         "雷装": ""
@@ -27819,7 +27763,7 @@
     },
     "279": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/SK_%2B_SG_Radar",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?SK%A1%DCSG%A5%EC%A1%BC%A5%C0%A1%BC",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/SK%EF%BC%8BSG%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
       "equip_ships": [
         "-"
       ],
@@ -27854,6 +27798,7 @@
         "射程": "中",
         "火力": "+1",
         "爆装": "",
+        "特性": "対空＆水上電探",
         "索敵": "+12",
         "艦隊防空": "+3.6",
         "雷装": ""
@@ -27863,7 +27808,7 @@
     },
     "280": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/QF_4.7inch_Gun_Mk.XII_Kai",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?QF%204.7inch%CB%A4%20Mk.XII%B2%FE",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/QF%204.7inch%E7%A0%B2%20Mk.XII%E6%94%B9",
       "equip_ships": [
         "Jervis(Lv1)",
         "Jervis改(Lv45)"
@@ -28130,7 +28075,7 @@
     },
     "282": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/130mm_B-13_Twin_Gun_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?130mm%20B-13%CF%A2%C1%F5%CB%A4",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/130mm%20B-13%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
         "Ташкент(Lv1)",
         "Ташкент改(Lv50)"
@@ -28265,7 +28210,7 @@
     },
     "283": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/533mm_Triple_Torpedo_Mount",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?533mm%20%BB%B0%CF%A2%C1%F5%B5%FB%CD%EB",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "Ташкент改(Lv50)"
       ],
@@ -28397,7 +28342,7 @@
     },
     "284": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30",
-      "JA_Wiki": "http://wikiwiki.jp/kancolle/?5inch%C3%B1%C1%F5%CB%A4%20Mk.30",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30",
       "equip_ships": [
         "Samuel",
         "B.Roberts(Lv1)",
