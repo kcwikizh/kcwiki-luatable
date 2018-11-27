@@ -405,7 +405,7 @@ class AkashiListCrawler(HttpClient):
                     remodel_row_name = remodel_row.name
                     if remodel_row_name:
                         child_count += 1
-                if child_count is 1 and 'class' not in remodel_line.attrs:
+                if child_count is 1 or 'class' not in remodel_line.attrs:
                     continue
                 class_list = remodel_line.attrs['class']
                 if 'equip-count' in class_list or 'equip-per-star' in class_list:
