@@ -1,12 +1,4 @@
 {
-  "2015年二周年纪念": {
-    "021-2ndAnniv": {
-      "file": "/3/32/021-2ndAnniv.mp3",
-      "ja": "ヘイ、提督！セカンドアニバーサリーだよ！コングラチュレーション！",
-      "vname": "-",
-      "zh": "Hey～提督～！Second Anniversary了呦～Congratulation～！"
-    }
-  },
   "2015年圣诞节": {
     "021-Sec1Christmas2015": {
       "file": "/f/f0/021-Sec1Christmas2015.mp3",
@@ -115,20 +107,6 @@
       "ja": "HEY HEY HEY!提督ぅー！　Fourth Anniversaryダヨー!!　Yeaaah！！ Congratulations! and Burning! …Looooooove!!",
       "vname": "秘书舰1",
       "zh": "嘿！嘿！嘿！提督u！ Fourth Anniversary了哟！ 耶！！！！！ Congratulations! and Burning! loooooooove!"
-    }
-  },
-  "2017年情人节": {
-    "021-Atk1Valentine2017": {
-      "file": "/9/9b/021-Atk1Valentine2017.mp3",
-      "ja": "Burning Valentine Love！！",
-      "vname": "攻击1",
-      "zh": "Burning Valentine Love！！"
-    },
-    "021-Sec1Valentine2016": {
-      "file": "/0/04/021-Sec1Valentine2016.mp3",
-      "ja": "HEY、提督ぅー！　Burning Love！！　な、Chocolates！持ってきたヨ－！",
-      "vname": "秘书舰1",
-      "zh": "Hey!提督！Burning Love! 呐！巧克力！我给你了哦！"
     }
   },
   "2017年新年季节": {
