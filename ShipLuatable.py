@@ -45,6 +45,14 @@ RANK_UPGARDABLE = [
 ]
 
 REMODEL_TYPES = ['', '', '改装设计图x1', '改装设计图x1 试制甲板用弹射器x1']
+AREA_MAP = {
+    'North': '北方'
+}
+
+def getArea(_id):
+    if _id not in AREA_MAP:
+        return _id
+    return AREA_MAP[_id]
 
 
 class ShipLuatable:
@@ -494,6 +502,11 @@ class ShipLuatable:
                 bonus['收益属性'] = {}
                 for i in _bonus['bonus']['bonus']:
                     bonus['收益属性'][i] = self.__get_itemstats(_bonus['bonus']['bonus'][i])
+            elif _bonus['bonus']['type'] == 'area':
+                bonus['收益类型'] = '区域'
+                bonus['收益属性'] = {}
+                for i in _bonus['bonus']['bonus']:
+                    bonus['收益属性'][getArea(i)] = self.__get_itemstats(_bonus['bonus']['bonus'][i])
             _idx = idx if idx > 1 else ''
             self.items_data[__item_id].update({
                 '额外收益{}'.format(_idx): bonus
