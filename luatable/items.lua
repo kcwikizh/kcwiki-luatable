@@ -26453,7 +26453,9 @@ d.equipDataTb = {
 				["火力"] = 2,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Twin_Gun_Mount_Kai"
 	},
 	["311"] = {
 		["ID"] = 311,
@@ -26488,7 +26490,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
+		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Land-based_Reconnaissance_Aircraft"
 	}
 }
 
