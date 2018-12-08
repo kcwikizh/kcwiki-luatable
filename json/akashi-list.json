@@ -19470,6 +19470,20 @@
         "ja": "三式戦 飛燕",
         "zh": "三式战 飞燕"
       },
+      "item_remodel": {
+        "対空": [
+          "+0.2",
+          "+0.4",
+          "+0.6",
+          "+0.8",
+          "+1.0",
+          "+1.2",
+          "+1.4",
+          "+1.6",
+          "+1.8",
+          "+2.0"
+        ]
+      },
       "item_stat": {
         "回避": "",
         "対潜": "",
@@ -19483,7 +19497,69 @@
         "雷装": ""
       },
       "item_type": "陸軍戦闘機",
-      "no": "No.176"
+      "no": "No.176",
+      "remodel_info": [
+        {
+          "base_cost": {
+            "ammo": 150,
+            "bauxite": 330,
+            "fuel": 100
+          },
+          "resource_cost": {
+            "0 ～ 5": {
+              "buildkit_num": "6 / 7",
+              "equipkit": [
+                "零式艦戦21型 × 1"
+              ],
+              "remodelkit_num": "2 / 3"
+            },
+            "6 ～ 9": {
+              "buildkit_num": "8 / 10",
+              "equipkit": [
+                "零式艦戦32型 × 1"
+              ],
+              "remodelkit_num": "3 / 5"
+            }
+          },
+          "support_ships": [
+            {
+              "support_ship": "あきつ丸",
+              "support_weeks": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "support_ship": "春日丸",
+              "support_weeks": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "upgrade": {
+            "cost": {
+              "buildkit_num": "12 / 20",
+              "equipkit": [
+                "零式艦戦52型 × 3",
+                "新型航空兵装資材 × 1"
+              ],
+              "remodelkit_num": "6 / 10"
+            },
+            "item_name": "三式戦 飛燕一型丁"
+          }
+        }
+      ]
     },
     "177": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien_%28244th_Air_Combat_Group%29",
@@ -25826,6 +25902,20 @@
         "ja": "Spitfire Mk.I",
         "zh": "喷火（Spitfire） Mk.I"
       },
+      "item_remodel": {
+        "対空": [
+          "+0.2",
+          "+0.4",
+          "+0.6",
+          "+0.8",
+          "+1.0",
+          "+1.2",
+          "+1.4",
+          "+1.6",
+          "+1.8",
+          "+2.0"
+        ]
+      },
       "item_stat": {
         "回避": "",
         "対潜": "",
@@ -25839,7 +25929,69 @@
         "雷装": ""
       },
       "item_type": "陸軍戦闘機",
-      "no": "No.250"
+      "no": "No.250",
+      "remodel_info": [
+        {
+          "base_cost": {
+            "ammo": 130,
+            "bauxite": 360,
+            "fuel": 90
+          },
+          "resource_cost": {
+            "0 ～ 5": {
+              "buildkit_num": "5 / 6",
+              "equipkit": [
+                "九六式艦戦 × 1"
+              ],
+              "remodelkit_num": "2 / 3"
+            },
+            "6 ～ 9": {
+              "buildkit_num": "6 / 8",
+              "equipkit": [
+                "零式艦戦21型 × 2"
+              ],
+              "remodelkit_num": "2 / 4"
+            }
+          },
+          "support_ships": [
+            {
+              "support_ship": "Warspite",
+              "support_weeks": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "support_ship": "Ark Royal",
+              "support_weeks": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "upgrade": {
+            "cost": {
+              "buildkit_num": "9 / 16",
+              "equipkit": [
+                "零式艦戦32型 × 2",
+                "新型航空兵装資材 × 1"
+              ],
+              "remodelkit_num": "5 / 7"
+            },
+            "item_name": "Spitfire Mk.V"
+          }
+        }
+      ]
     },
     "251": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Spitfire_Mk.V",

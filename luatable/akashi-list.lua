@@ -19483,6 +19483,82 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
+		["item_remodel"] = {
+			["対空"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
+		["remodel_info"] = {
+			{
+				["support_ships"] = {
+					{
+						["support_ship"] = "あきつ丸",
+						["support_weeks"] = {
+							0,
+							1,
+							0,
+							0,
+							0,
+							1,
+							0
+						}
+					},
+					{
+						["support_ship"] = "春日丸",
+						["support_weeks"] = {
+							0,
+							1,
+							0,
+							0,
+							0,
+							1,
+							1
+						}
+					}
+				},
+				["resource_cost"] = {
+					["0 ～ 5"] = {
+						["buildkit_num"] = "6 / 7",
+						["remodelkit_num"] = "2 / 3",
+						["equipkit"] = {
+							"零式艦戦21型 × 1"
+						}
+					},
+					["6 ～ 9"] = {
+						["buildkit_num"] = "8 / 10",
+						["remodelkit_num"] = "3 / 5",
+						["equipkit"] = {
+							"零式艦戦32型 × 1"
+						}
+					}
+				},
+				["base_cost"] = {
+					["fuel"] = 100,
+					["ammo"] = 150,
+					["bauxite"] = 330
+				},
+				["upgrade"] = {
+					["cost"] = {
+						["buildkit_num"] = "12 / 20",
+						["remodelkit_num"] = "6 / 10",
+						["equipkit"] = {
+							"零式艦戦52型 × 3",
+							"新型航空兵装資材 × 1"
+						}
+					},
+					["item_name"] = "三式戦 飛燕一型丁"
+				}
+			}
+		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien"
 	},
@@ -25838,6 +25914,82 @@ k.EquipUpdateTb = {
 		},
 		["item_equip"] = {
 			["基地航空隊"] = 1
+		},
+		["item_remodel"] = {
+			["対空"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
+		["remodel_info"] = {
+			{
+				["support_ships"] = {
+					{
+						["support_ship"] = "Warspite",
+						["support_weeks"] = {
+							1,
+							0,
+							0,
+							0,
+							0,
+							1,
+							1
+						}
+					},
+					{
+						["support_ship"] = "Ark Royal",
+						["support_weeks"] = {
+							1,
+							0,
+							0,
+							0,
+							0,
+							1,
+							1
+						}
+					}
+				},
+				["resource_cost"] = {
+					["0 ～ 5"] = {
+						["buildkit_num"] = "5 / 6",
+						["remodelkit_num"] = "2 / 3",
+						["equipkit"] = {
+							"九六式艦戦 × 1"
+						}
+					},
+					["6 ～ 9"] = {
+						["buildkit_num"] = "6 / 8",
+						["remodelkit_num"] = "2 / 4",
+						["equipkit"] = {
+							"零式艦戦21型 × 2"
+						}
+					}
+				},
+				["base_cost"] = {
+					["fuel"] = 90,
+					["ammo"] = 130,
+					["bauxite"] = 360
+				},
+				["upgrade"] = {
+					["cost"] = {
+						["buildkit_num"] = "9 / 16",
+						["remodelkit_num"] = "5 / 7",
+						["equipkit"] = {
+							"零式艦戦32型 × 2",
+							"新型航空兵装資材 × 1"
+						}
+					},
+					["item_name"] = "Spitfire Mk.V"
+				}
+			}
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.I",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Spitfire_Mk.I"
