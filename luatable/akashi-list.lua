@@ -19503,19 +19503,19 @@ k.EquipUpdateTb = {
 					{
 						["support_ship"] = "あきつ丸",
 						["support_weeks"] = {
-							0,
+							1,
 							1,
 							0,
 							0,
 							0,
 							1,
-							0
+							1
 						}
 					},
 					{
 						["support_ship"] = "春日丸",
 						["support_weeks"] = {
-							0,
+							1,
 							1,
 							0,
 							0,
@@ -25936,7 +25936,7 @@ k.EquipUpdateTb = {
 						["support_ship"] = "Warspite",
 						["support_weeks"] = {
 							1,
-							0,
+							1,
 							0,
 							0,
 							0,
@@ -25948,8 +25948,8 @@ k.EquipUpdateTb = {
 						["support_ship"] = "Ark Royal",
 						["support_weeks"] = {
 							1,
-							0,
-							0,
+							1,
+							1,
 							0,
 							0,
 							1,
