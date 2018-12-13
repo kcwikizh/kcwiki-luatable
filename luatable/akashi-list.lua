@@ -25955,6 +25955,18 @@ k.EquipUpdateTb = {
 							1,
 							1
 						}
+					},
+					{
+						["support_ship"] = "Jervis",
+						["support_weeks"] = {
+							0,
+							0,
+							0,
+							1,
+							1,
+							0,
+							0
+						}
 					}
 				},
 				["resource_cost"] = {
