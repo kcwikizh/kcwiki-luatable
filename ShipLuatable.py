@@ -446,7 +446,7 @@ class ShipLuatable:
     def __append_item_bonus(self, __item_id, bonuses):
         idx = 1
         for _bonus in bonuses:
-            bonus = { '是否可叠加': False }
+            bonus = { '是否可叠加': 0 }
             if _bonus['star']:
                 bonus['改修等级'] = _bonus['star']
             if _bonus['combined']:
@@ -494,7 +494,7 @@ class ShipLuatable:
                 bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
             elif _bonus['bonus']['type'] == 'count':
                 bonus['收益类型'] = '数量'
-                bonus['是否可叠加'] = True
+                bonus['是否可叠加'] = 1
                 bonus['收益属性'] = {}
                 for c in _bonus['bonus']['bonus']:
                     bonus['收益属性'][c] = self.__get_itemstats(_bonus['bonus']['bonus'][c])
