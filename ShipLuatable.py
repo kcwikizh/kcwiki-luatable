@@ -494,6 +494,7 @@ class ShipLuatable:
                 bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
             elif _bonus['bonus']['type'] == 'count':
                 bonus['收益类型'] = '数量'
+                bonus['是否可叠加'] = True
                 bonus['收益属性'] = {}
                 for c in _bonus['bonus']['bonus']:
                     bonus['收益属性'][c] = self.__get_itemstats(_bonus['bonus']['bonus'][c])
