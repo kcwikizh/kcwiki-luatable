@@ -99,6 +99,9 @@ for (let _bonus of bonusList) {
     bns['bonus'] = _bonus['bonusArea']
   }
   bonus['bonus'] = bns
+  if ('bonusAccumulate' in _bonus) {
+    bonus['accumulate'] = _bonus['bonusAccumulate']
+  }
   if (!(id in allBonus)) {
     allBonus[id] = []
   }

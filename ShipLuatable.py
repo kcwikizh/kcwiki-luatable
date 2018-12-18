@@ -509,6 +509,10 @@ class ShipLuatable:
                 bonus['收益属性'] = {}
                 for i in _bonus['bonus']['bonus']:
                     bonus['收益属性'][getArea(i)] = self.__get_itemstats(_bonus['bonus']['bonus'][i])
+            if 'accumulate' in _bonus:
+                bonus['累计套装加成'] = {}
+                bonus['累计套装加成'] = self.__get_itemstats(_bonus['accumulate'])
+
             _idx = idx if idx > 1 else ''
             self.items_data[__item_id].update({
                 '额外收益{}'.format(_idx): bonus
