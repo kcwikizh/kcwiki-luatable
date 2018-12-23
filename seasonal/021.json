@@ -109,6 +109,14 @@
       "zh": "嘿~~提督！！！今年的节分，由我们金刚四姐妹带你飞！！！首先来决定谁扮鬼…。啊！提督！为什么跑了嘛！！！"
     }
   },
+  "2017年四周年纪念": {
+    "021-Sec1FourthAnniversary": {
+      "file": "/4/4f/021-Sec1FourthAnniversary.mp3",
+      "ja": "HEY HEY HEY!提督ぅー！　Fourth Anniversaryダヨー!!　Yeaaah！！ Congratulations! and Burning! …Looooooove!!",
+      "vname": "秘书舰1",
+      "zh": "嘿！嘿！嘿！提督u！ Fourth Anniversary了哟！ 耶！！！！！ Congratulations! and Burning! loooooooove!"
+    }
+  },
   "2017年情人节": {
     "021-Atk1Valentine2017": {
       "file": "/9/9b/021-Atk1Valentine2017.mp3",
@@ -137,6 +145,14 @@
       "zh": "哇，Happy New Year!提督，New Year也，请多多关照，金刚型高速战舰的说！"
     }
   },
+  "2017年梅雨季节": {
+    "021-Sec1Tsuyu2015": {
+      "file": "/e/ec/021-Sec1Tsuyu2015.mp3",
+      "ja": "Oh、Rainyな梅雨のSeason、私苦手デース！うぅ～！",
+      "vname": "秘书舰1",
+      "zh": "Oh，下雨(Rainy)的梅雨季节(Season)，我最不喜欢了！呜呜～！"
+    }
+  },
   "2017年白色情人节": {
     "021-Sec1WhiteDay2015": {
       "file": "/c/c9/021-Sec1WhiteDay2015.mp3",
@@ -159,6 +175,40 @@
       "ja": "へい～～～提督！！！今年の節分は、この金剛型四姉妹がdirectionされていただきます！まず、鬼役ですが…あ、提督！なぜ逃げるです！！！",
       "vname": "秘书舰1",
       "zh": "嘿~~提督！！！今年的节分，由我们金刚四姐妹带你飞！！！首先来决定谁扮鬼…。啊！提督！为什么跑了嘛！！！"
+    }
+  },
+  "2018年五周年纪念": {
+    "021-Sec1FifthAnniversary": {
+      "file": "/2/20/021-Sec1FifthAnniversary.mp3",
+      "ja": "Hey提督ぅー！Fifth Anniversaryダヨー！ Congratulations and burning looove!",
+      "vname": "秘书舰1",
+      "zh": "嘿提督！五周年到了哦！恭喜！以及 Burning Looove！"
+    }
+  },
+  "2018年冬季活动决战前夜": {
+    "021-Atk1EveOfBattle2018": {
+      "file": "/b/bf/021-Atk1EveOfBattle2018.mp3",
+      "ja": "届いて、もう少しだから！",
+      "vname": "攻击1",
+      "zh": "命中吧，就差一点了！"
+    },
+    "021-Atk2EveOfBattle2018": {
+      "file": "/1/1a/021-Atk2EveOfBattle2018.mp3",
+      "ja": "食らいついたら離さないって、言ったデース！",
+      "vname": "攻击2",
+      "zh": "被我咬住了就不会放过，我说过了DESU！"
+    },
+    "021-Sec1EveOfBattle2018": {
+      "file": "/3/30/021-Sec1EveOfBattle2018.mp3",
+      "ja": "提督ぅ、私達三戦隊も、準備を始めるネ。",
+      "vname": "秘书舰1",
+      "zh": "提督，我们三战队也开始准备了呢。"
+    },
+    "021-Sec2EveOfBattle2018": {
+      "file": "/0/0e/021-Sec2EveOfBattle2018.mp3",
+      "ja": "この戦いのあとも、また提督と紅茶を飲みたいネ！",
+      "vname": "秘书舰2",
+      "zh": "这场战斗之后，还想再跟提督一起喝红茶呢！"
     }
   },
   "2018年晚秋季节": {
