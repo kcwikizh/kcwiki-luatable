@@ -153,6 +153,25 @@
 | 高射装置機能、射程：中
 | 編集
 |-
+|style="background-color:#dfd;"| 313
+|style="background-color:#dfd;"| 5inch単装砲 Mk.30改
+| 3
+| 7
+| 
+| 2
+| 2
+| 1
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+| 初期装備、イベント
+| -
+| 
+| 
+| 編集
+|-
 |style="background-color:#dfd;"| 284
 |style="background-color:#dfd;"| 5inch単装砲 Mk.30
 | 2
