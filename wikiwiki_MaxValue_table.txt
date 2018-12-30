@@ -4099,11 +4099,11 @@
 | 099・100
 | 千歳甲・千代田甲
 |style="background-color:#FFFF99;"| 12
-|style="background-color:#FDE9D9;"| 42
+| 42
 | 39
 |style="background-color:#FDE9D9;"| 49
 | 29
-|style="background-color:#FFFF99;"| 72
+|style="background-color:#FDE9D9;"| 72
 | 39
 | 69
 | 10/59
@@ -4139,11 +4139,11 @@
 | 251
 | 瑞穂改
 | 40
-|style="background-color:#FDE9D9;"| 42
+| 42
 |style="background-color:#FDE9D9;"| 48
 | 42
-|style="background-color:#FDE9D9;"| 45
-|style="background-color:#FFFF99;"| 72
+| 45
+|style="background-color:#FDE9D9;"| 72
 |style="background-color:#FDE9D9;"| 44
 |style="background-color:#FFFF99;"| 94
 | 10/54
@@ -4159,12 +4159,12 @@
 | 291a
 | Commandant Teste改
 | 40
-|style="background-color:#FFFF99;"| 43
+|style="background-color:#FDE9D9;"| 43
 |style="background-color:#FFFF99;"| 56
 | 44
-|style="background-color:#FFFF99;"| 58
+|style="background-color:#FDE9D9;"| 58
 | 0
-|style="background-color:#FFFF99;"| 48
+|style="background-color:#FDE9D9;"| 48
 |style="background-color:#FDE9D9;"| 88
 |style="background-color:#FFFF99;"| 20/88
 |style="background-color:#FFFF99;"| 38
@@ -4195,6 +4195,26 @@
 |style="background-color:#FFFF99;"| 45
 | 甲標的装備可 射程:中
 | {{舰娘备注|299}}
+|-
+| 386
+| 日進甲
+| 60
+|style="background-color:#FFFF99;"| 49
+| 47
+| 
+|style="background-color:#FFFF99;"| 60
+|style="background-color:#FFFF99;"| 88
+|style="background-color:#FFFF99;"| 65
+| 
+| 10/58
+|style="background-color:#FDE9D9;"| 32
+|style="background-color:#FFFF99;"| 4(8,8,12,4)
+|style="background-color:#FFFF99;"| 高速
+| 40
+|style="background-color:#FDE9D9;"| 45
+| 85
+| 甲標的・大型飛行艇・大型探照灯装備可 射程:中
+| {{舰娘备注|386}}
 |}
 ====艦船最大値/海防艦上位早見表/テーブル====
 {| class="wikitable sortable"
