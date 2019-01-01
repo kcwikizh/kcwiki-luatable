@@ -875,6 +875,25 @@
 | 自动先制反潜，低速
 | {{舰娘备注|361a}}
 |-
+| 362a
+| Johnston改
+| 55+建10開80
+| 34
+| 52
+| 
+| 55
+| 72
+| 90
+| 
+| 
+| 40
+| 82
+| 20
+| 20
+| 127
+| 防空駆逐艦、自動先制対潜
+| {{舰娘备注|362a}}
+|-
 | 363
 | 巻雲改二
 | 75 +図報
@@ -4101,7 +4120,7 @@
 |style="background-color:#FFFF99;"| 12
 | 42
 | 39
-|style="background-color:#FDE9D9;"| 49
+| 49
 | 29
 |style="background-color:#FDE9D9;"| 72
 | 39
@@ -4145,7 +4164,7 @@
 | 45
 |style="background-color:#FDE9D9;"| 72
 |style="background-color:#FDE9D9;"| 44
-|style="background-color:#FFFF99;"| 94
+|style="background-color:#FDE9D9;"| 94
 | 10/54
 |style="background-color:#FDE9D9;"| 32
 |style="background-color:#FDE9D9;"| 3(12,12,8)
@@ -4165,7 +4184,7 @@
 |style="background-color:#FDE9D9;"| 58
 | 0
 |style="background-color:#FDE9D9;"| 48
-|style="background-color:#FDE9D9;"| 88
+| 88
 |style="background-color:#FFFF99;"| 20/88
 |style="background-color:#FFFF99;"| 38
 |style="background-color:#FFFF99;"| 4(12,12,7,7)
@@ -4201,11 +4220,11 @@
 | 60
 |style="background-color:#FFFF99;"| 49
 | 47
-| 
+|style="background-color:#FDE9D9;"| 63
 |style="background-color:#FFFF99;"| 60
 |style="background-color:#FFFF99;"| 88
 |style="background-color:#FFFF99;"| 65
-| 
+|style="background-color:#FFFF99;"| 96
 | 10/58
 |style="background-color:#FDE9D9;"| 32
 |style="background-color:#FFFF99;"| 4(8,8,12,4)
@@ -4213,7 +4232,7 @@
 | 40
 |style="background-color:#FDE9D9;"| 45
 | 85
-| 甲標的・大型飛行艇・大型探照灯装備可 射程:中
+| 中口径主砲・甲標的・大型飛行艇・大型探照灯装備可 射程:中
 | {{舰娘备注|386}}
 |}
 ====艦船最大値/海防艦上位早見表/テーブル====
