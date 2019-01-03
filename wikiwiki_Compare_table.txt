@@ -147,7 +147,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| +1
-| ランキング
+| イベント、ランキング
 | -
 | Sam・全ての駆逐艦に装備ボーナス
 | 高射装置機能、射程：中
