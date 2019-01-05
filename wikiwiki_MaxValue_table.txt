@@ -542,7 +542,7 @@
 | 55
 | 86
 | 75
-|style="background-color:#FDE9D9;"| 89
+| 89
 | 55
 | 17
 | 70
@@ -880,12 +880,12 @@
 | 55+建10開80
 | 34
 | 52
-| 
+| 89
 | 55
 | 72
 | 90
-| 
-| 
+|style="background-color:#FDE9D9;"| 90
+|style="background-color:#FFFF99;"| 60
 | 40
 | 82
 | 20
