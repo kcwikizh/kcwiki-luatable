@@ -26784,7 +26784,9 @@
             "铝": 13
         },
         "装备适用": [],
-        "备注": ""
+        "备注": "",
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E7%86%9F%E7%B7%B4%29",
+        "英文Wiki": "https://kancolle.wikia.com/wiki/Type_2_Land-based_Reconnaissance_Aircraft_%28Skilled%29"
     },
     "313": {
         "ID": 313,
@@ -26845,7 +26847,9 @@
                 "回避": 1,
                 "装甲": 1
             }
-        }
+        },
+        "日文Wiki": "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%E6%94%B9",
+        "英文Wiki": "https://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30_Kai"
     },
     "314": {
         "ID": 314,

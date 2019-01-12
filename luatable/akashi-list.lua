@@ -421,7 +421,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -558,7 +558,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -722,7 +722,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -3899,6 +3899,7 @@ k.EquipUpdateTb = {
 			"風雲改(Lv30)",
 			"浜波改(Lv30)",
 			"藤波改(Lv30)",
+			"岸波改(Lv35)",
 			"時雨改二(Lv60)",
 			"木曽改二(Lv65)",
 			"榛名改二(Lv80)"
@@ -5304,6 +5305,8 @@ k.EquipUpdateTb = {
 			"萩風(Lv1)",
 			"浜波(Lv1)",
 			"藤波(Lv1)",
+			"岸波(Lv1)",
+			"早波(Lv1)",
 			"香取(Lv1)",
 			"あきつ丸(Lv1)",
 			"明石(Lv1)",
@@ -5628,9 +5631,12 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"日進(Lv1)",
 			"千歳甲(Lv12)",
 			"千代田甲(Lv12)",
-			"瑞穂改(Lv40)"
+			"瑞穂改(Lv40)",
+			"日進改(Lv40)",
+			"日進甲(Lv60)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E7%94%B2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Kouhyouteki"
@@ -5865,6 +5871,7 @@ k.EquipUpdateTb = {
 			"狭霧改(Lv30)",
 			"朝雲改(Lv35)",
 			"山雲改(Lv35)",
+			"早波改(Lv35)",
 			"香取改(Lv35)",
 			"鹿島改(Lv35)",
 			"占守改(Lv40)",
@@ -6086,7 +6093,7 @@ k.EquipUpdateTb = {
 			["海防艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"大鷹改",
 				"神鷹"
 			}
@@ -6286,6 +6293,8 @@ k.EquipUpdateTb = {
 			"谷風改(Lv30)",
 			"浦風改(Lv35)",
 			"野分改(Lv35)",
+			"岸波改(Lv35)",
+			"早波改(Lv35)",
 			"香取改(Lv35)",
 			"日振改(Lv37)",
 			"山風改(Lv45)",
@@ -6337,7 +6346,7 @@ k.EquipUpdateTb = {
 			["海防艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"大鷹改",
 				"神鷹"
 			}
@@ -6742,7 +6751,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -8224,7 +8233,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -8907,7 +8916,7 @@ k.EquipUpdateTb = {
 			["工作艦"] = 1,
 			["extra"] = {
 				"大鯨型",
-				"C.Teste級",
+				"C.Teste",
 				"龍田改二",
 				"天龍改二",
 				"多摩改二",
@@ -10993,7 +11002,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -12898,7 +12907,7 @@ k.EquipUpdateTb = {
 			["補給艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"由良改二",
 				"Zara due",
 				"多摩改二",
@@ -13868,7 +13877,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -13886,11 +13895,29 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
+						"日清"
+					},
+					["bonus"] = {
+						"火力+2",
+						"雷装+1"
+					}
+				},
+				{
+					["ships"] = {
 						"夕張型",
 						"練習巡洋艦"
 					},
 					["bonus"] = {
 						"火力+1"
+					}
+				},
+				{
+					["ships"] = {
+						"日清"
+					},
+					["bonus"] = {
+						"火力+2",
+						"雷装+1"
 					}
 				}
 			}
@@ -13982,11 +14009,13 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"日進(Lv1)",
 			"香取(Lv1)",
 			"鹿島(Lv1)",
 			"夕張改(Lv25)",
 			"香取改(Lv35)",
-			"鹿島改(Lv35)"
+			"鹿島改(Lv35)",
+			"日進改(Lv40)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Twin_Gun_Mount"
@@ -14638,7 +14667,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -16193,7 +16222,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -16335,7 +16364,7 @@ k.EquipUpdateTb = {
 			["水上機母艦"] = 0,
 			["航空戦艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"Zara due",
 				"天龍改二",
 				"Gotland改"
@@ -17023,7 +17052,7 @@ k.EquipUpdateTb = {
 			["海防艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"大鷹改",
 				"神鷹"
 			}
@@ -18247,7 +18276,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -23630,6 +23659,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"白露改(Lv20)",
 			"時雨改(Lv20)",
+			"岸波改(Lv35)",
+			"早波改(Lv35)",
 			"択捉改(Lv37)",
 			"松輪改(Lv37)",
 			"佐渡改(Lv37)",
@@ -24525,7 +24556,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -26314,7 +26345,7 @@ k.EquipUpdateTb = {
 			["補給艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"由良改二",
 				"Zara due",
 				"多摩改二",
@@ -26361,7 +26392,7 @@ k.EquipUpdateTb = {
 			["補給艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"由良改二",
 				"Zara due",
 				"多摩改二",
@@ -26411,7 +26442,7 @@ k.EquipUpdateTb = {
 			["海防艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"大鷹改",
 				"神鷹"
 			}
@@ -26459,7 +26490,7 @@ k.EquipUpdateTb = {
 			["海防艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"大鷹改",
 				"神鷹"
 			}
@@ -26507,7 +26538,7 @@ k.EquipUpdateTb = {
 			["海防艦"] = 1,
 			["extra"] = {
 				"秋津洲改",
-				"C.Teste級",
+				"C.Teste",
 				"大鷹改",
 				"神鷹"
 			}
@@ -26618,8 +26649,7 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"雪風改",
-						"時雨改二"
+						"＋火力+1  雷装+3  回避+1"
 					},
 					["bonus"] = {
 						"火力+1",
@@ -26653,8 +26683,7 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"雪風改",
-						"時雨改二"
+						"＋火力+1  雷装+3  回避+1"
 					},
 					["bonus"] = {
 						"火力+1",
@@ -28715,6 +28744,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Samuel",
 			"B.Roberts(Lv1)",
+			"Johnston(Lv1)",
 			"Samuel",
 			"B.Roberts改(Lv50)"
 		},
@@ -31251,7 +31281,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -31715,11 +31745,12 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_bonus"] = {
-			["-"] = "",
+			["-"] = "重複可",
 			["bonuses"] = {
 				{
 					["ships"] = {
-						"Samuel B.Roberts"
+						"Samuel B.Roberts",
+						"Johnston"
 					},
 					["bonus"] = {
 						"火力+2",
@@ -31729,7 +31760,8 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"Samuel B.Roberts"
+						"Samuel B.Roberts",
+						"Johnston"
 					},
 					["bonus"] = {
 						"火力+2",
@@ -31822,7 +31854,7 @@ k.EquipUpdateTb = {
 			["重雷装巡洋艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["extra"] = {
-				"C.Teste級",
+				"C.Teste",
 				"神威改母"
 			}
 		},
@@ -31850,6 +31882,17 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
+						"日清"
+					},
+					["bonus"] = {
+						"火力+3",
+						"雷装＋2",
+						"対空+1",
+						"回避+1"
+					}
+				},
+				{
+					["ships"] = {
 						"夕張型"
 					},
 					["bonus"] = {
@@ -31866,11 +31909,22 @@ k.EquipUpdateTb = {
 						"火力+2",
 						"回避+1"
 					}
+				},
+				{
+					["ships"] = {
+						"日清"
+					},
+					["bonus"] = {
+						"火力+3",
+						"雷装＋2",
+						"対空+1",
+						"回避+1"
+					}
 				}
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"日進甲(Lv60)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Twin_Gun_Mount_Kai"
@@ -31903,6 +31957,113 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Land-based_Reconnaissance_Aircraft"
+	},
+	["312"] = {
+		["id"] = 312,
+		["no"] = "No.312",
+		["item_name"] = {
+			["zh"] = "二式陆上侦察机（熟练）",
+			["ja"] = "二式陸上偵察機(熟練)"
+		},
+		["item_type"] = "陸上偵察機",
+		["item_intro"] = "十三試陸戦として開発された双発陸上戦闘機。双発遠距離戦闘機開発としては成功しなかった本機を、偵察機として正式採用した「二式陸偵」、同機を装備した熟練搭乗員ペアによる偵察隊です。ラバウルに展開した本機は現地改修され、20mm斜銃を装備し、後に本土防空戦で大型戦略爆撃機相手に奮戦した、あの夜間戦闘機「月光」隊が誕生します。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+3",
+			["対潜"] = "",
+			["索敵"] = "+9",
+			["命中"] = "+3",
+			["回避"] = "",
+			["戦闘行動半径"] = "9",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["基地航空隊"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E7%86%9F%E7%B7%B4%29",
+		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/Type_2_Land-based_Reconnaissance_Aircraft_%28Skilled%29"
+	},
+	["313"] = {
+		["id"] = 313,
+		["no"] = "No.313",
+		["item_name"] = {
+			["zh"] = "5inch单装炮 Mk.30改",
+			["ja"] = "5inch単装砲 Mk.30改"
+		},
+		["item_type"] = "小口径主砲",
+		["item_intro"] = "米国で開発・実戦配備された優れた両用砲。同駆逐艦クラスの搭載主砲として広く運用された単装砲、その改良型です。対艦戦闘及び対空戦闘両面で優れた実用性を発揮した本砲は、あのフレッチャー級駆逐艦などの主砲兵装としても採用され、優れた戦闘力を発揮することになります。",
+		["item_stat"] = {
+			["火力"] = "+3",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+7",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+2",
+			["回避"] = "+2",
+			["艦隊防空"] = "2.4",
+			["射程"] = "短",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 1,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 0,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 0,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["揚陸艦"] = 1,
+			["補給艦"] = 1,
+			["工作艦"] = 1,
+			["海防艦"] = 1,
+			["extra"] = {
+				"大鯨型",
+				"長門改二"
+			}
+		},
+		["item_bonus"] = {
+			["-"] = "重複可",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"Samuel B.Roberts",
+						"Johnston"
+					},
+					["bonus"] = {
+						"火力+2",
+						"対空+2",
+						"回避+1",
+						"装甲+1"
+					}
+				},
+				{
+					["ships"] = {
+						"Samuel B.Roberts",
+						"Johnston"
+					},
+					["bonus"] = {
+						"火力+2",
+						"対空+2",
+						"回避+1",
+						"装甲+1"
+					}
+				}
+			}
+		},
+		["equip_ships"] = {
+			"Johnston改(Lv55)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%E6%94%B9",
+		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30_Kai"
 	},
 	["314"] = {
 		["id"] = 314,
@@ -31944,7 +32105,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Johnston(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%E4%BA%94%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/533mm_Quintuple_Torpedo_Mount_%28Initial_Model%29"
@@ -31979,8 +32140,57 @@ k.EquipUpdateTb = {
 			["水上機母艦"] = 1,
 			["航空戦艦"] = 1
 		},
+		["item_bonus"] = {
+			["-"] = "",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"Samuel B.Roberts",
+						"Johnston"
+					},
+					["bonus"] = {
+						"火力+3",
+						"回避+3",
+						"索敵+4",
+						"射程:長"
+					}
+				},
+				{
+					["ships"] = {
+						"アメリカ艦"
+					},
+					["bonus"] = {
+						"火力+2",
+						"回避+3",
+						"索敵+4"
+					}
+				},
+				{
+					["ships"] = {
+						"Samuel B.Roberts",
+						"Johnston"
+					},
+					["bonus"] = {
+						"火力+3",
+						"回避+3",
+						"索敵+4",
+						"射程:長"
+					}
+				},
+				{
+					["ships"] = {
+						"アメリカ艦"
+					},
+					["bonus"] = {
+						"火力+2",
+						"回避+3",
+						"索敵+4"
+					}
+				}
+			}
+		},
 		["equip_ships"] = {
-			"-"
+			"Johnston改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SG%20%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/SG_Radar_%28Initial_Model%29"
