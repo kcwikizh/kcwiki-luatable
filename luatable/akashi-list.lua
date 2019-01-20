@@ -1448,7 +1448,7 @@ k.EquipUpdateTb = {
 						}
 					},
 					{
-						["support_ship"] = "武蔵",
+						["support_ship"] = "武蔵(改二不可)",
 						["support_weeks"] = {
 							1,
 							1,
@@ -1460,7 +1460,7 @@ k.EquipUpdateTb = {
 						}
 					},
 					{
-						["support_ship"] = "武蔵改",
+						["support_ship"] = "武蔵改・改二",
 						["support_weeks"] = {
 							0,
 							1,
@@ -7088,6 +7088,7 @@ k.EquipUpdateTb = {
 			["ja"] = "烈風改"
 		},
 		["item_type"] = "艦上戦闘機",
+		["item_intro"] = "名機「零戦」の後継機として開発された最新鋭艦上戦闘機「烈風」。その性能向上型が「烈風改」です。レシプロ艦上戦 闘機として、究極の領域まで高められた秘めた戦闘能力を、提督の艦隊の防空や制空でぜひ発揮させてくださいね。最近、数十年の時を越えて、設計図が発見されたニュースもありました！",
 		["item_stat"] = {
 			["火力"] = "",
 			["雷装"] = "",
@@ -13895,7 +13896,7 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"日清"
+						"日進"
 					},
 					["bonus"] = {
 						"火力+2",
@@ -13913,7 +13914,7 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"日清"
+						"日進"
 					},
 					["bonus"] = {
 						"火力+2",
@@ -27870,7 +27871,7 @@ k.EquipUpdateTb = {
 						}
 					},
 					{
-						["support_ship"] = "武蔵改",
+						["support_ship"] = "武蔵改・改二",
 						["support_weeks"] = {
 							1,
 							0,
@@ -31882,7 +31883,7 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"日清"
+						"日進"
 					},
 					["bonus"] = {
 						"火力+3",
@@ -31912,7 +31913,7 @@ k.EquipUpdateTb = {
 				},
 				{
 					["ships"] = {
-						"日清"
+						"日進"
 					},
 					["bonus"] = {
 						"火力+3",
@@ -32102,6 +32103,31 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei"
+			}
+		},
+		["item_bonus"] = {
+			["-"] = "重複可",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"Samuel B.Roberts",
+						"Johnston"
+					},
+					["bonus"] = {
+						"火力+1",
+						"雷装+3"
+					}
+				},
+				{
+					["ships"] = {
+						"Samuel B.Roberts",
+						"Johnston"
+					},
+					["bonus"] = {
+						"火力+1",
+						"雷装+3"
+					}
+				}
 			}
 		},
 		["equip_ships"] = {
