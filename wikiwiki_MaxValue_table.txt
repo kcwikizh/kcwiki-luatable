@@ -3118,12 +3118,12 @@
 | Aquila改
 | 45
 | 48
-| 57
+| 58
 | 72
-| 24
+| 28
 | 72
 | 71
-| 7/37
+| 7/48
 | 66
 | 4(15,26,15,10)
 | 高速
@@ -3723,7 +3723,7 @@
 | 0
 | 98
 | 58
-|style="background-color:#FFFF99;"| 70/109
+|style="background-color:#FFFF99;"| 70/111
 | 12
 | 低速
 |style="background-color:#FDE9D9;"| 90
@@ -4225,7 +4225,7 @@
 |style="background-color:#FFFF99;"| 88
 |style="background-color:#FFFF99;"| 65
 |style="background-color:#FFFF99;"| 96
-| 10/58
+| 10/60
 |style="background-color:#FDE9D9;"| 32
 |style="background-color:#FFFF99;"| 4(8,8,12,4)
 |style="background-color:#FFFF99;"| 高速

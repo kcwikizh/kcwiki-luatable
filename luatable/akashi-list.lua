@@ -4069,6 +4069,7 @@ k.EquipUpdateTb = {
 			"阿賀野改(Lv35)",
 			"能代改(Lv35)",
 			"熊野改(Lv35)",
+			"峯雲改(Lv38)",
 			"武蔵改(Lv40)",
 			"神風改(Lv50)",
 			"五十鈴改(Lv50)",
@@ -8922,7 +8923,8 @@ k.EquipUpdateTb = {
 				"天龍改二",
 				"多摩改二",
 				"Gotland",
-				"武蔵改二"
+				"武蔵改二",
+				"日進改"
 			}
 		},
 		["equip_ships"] = {
@@ -9693,7 +9695,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"春雨改(Lv30)"
+			"春雨改(Lv30)",
+			"峯雲改(Lv38)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%83%89%E3%83%A9%E3%83%A0%E7%BC%B6%28%E8%BC%B8%E9%80%81%E7%94%A8%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Drum_Canister_%28Transport_Use%29"
@@ -12912,7 +12915,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"Zara due",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
@@ -16181,7 +16185,8 @@ k.EquipUpdateTb = {
 			["基地航空隊"] = 1,
 			["extra"] = {
 				"秋津洲",
-				"神威改母"
+				"神威改母",
+				"日進改"
 			}
 		},
 		["equip_ships"] = {
@@ -16368,7 +16373,8 @@ k.EquipUpdateTb = {
 				"C.Teste",
 				"Zara due",
 				"天龍改二",
-				"Gotland改"
+				"Gotland改",
+				"日進甲"
 			}
 		},
 		["item_bonus"] = {
@@ -19647,7 +19653,8 @@ k.EquipUpdateTb = {
 			["基地航空隊"] = 1,
 			["extra"] = {
 				"秋津洲",
-				"神威改母"
+				"神威改母",
+				"日進改"
 			}
 		},
 		["equip_ships"] = {
@@ -26350,7 +26357,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"Zara due",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
@@ -26397,7 +26405,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"Zara due",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
@@ -28363,6 +28372,31 @@ k.EquipUpdateTb = {
 				"長門改二"
 			}
 		},
+		["item_bonus"] = {
+			["-"] = "重複可",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"Верный",
+						"Ташкент"
+					},
+					["bonus"] = {
+						"火力+2",
+						"装甲+1"
+					}
+				},
+				{
+					["ships"] = {
+						"Верный",
+						"Ташкент"
+					},
+					["bonus"] = {
+						"火力+2",
+						"装甲+1"
+					}
+				}
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+1.00",
@@ -28494,6 +28528,33 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei"
+			}
+		},
+		["item_bonus"] = {
+			["-"] = "重複可",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"Верный",
+						"Ташкент"
+					},
+					["bonus"] = {
+						"火力+1",
+						"雷装+3",
+						"装甲+1"
+					}
+				},
+				{
+					["ships"] = {
+						"Верный",
+						"Ташкент"
+					},
+					["bonus"] = {
+						"火力+1",
+						"雷装+3",
+						"装甲+1"
+					}
+				}
 			}
 		},
 		["item_remodel"] = {
@@ -32085,7 +32146,8 @@ k.EquipUpdateTb = {
 			["命中"] = "",
 			["回避"] = "+1",
 			["射程"] = "短",
-			["装甲"] = "+1"
+			["装甲"] = "+1",
+			["雷撃命中"] = ""
 		},
 		["item_equip"] = {
 			["駆逐艦"] = 1,
@@ -32126,6 +32188,105 @@ k.EquipUpdateTb = {
 					["bonus"] = {
 						"火力+1",
 						"雷装+3"
+					}
+				}
+			}
+		},
+		["item_remodel"] = {
+			["雷撃"] = {
+				"+1.20",
+				"+1.69",
+				"+2.07",
+				"+2.40",
+				"+2.68",
+				"+2.93",
+				"+3.17",
+				"+3.39",
+				"+3.60",
+				"+3.79"
+			},
+			["夜戦火力"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
+			},
+			["雷撃命中"] = {
+				"+2.00",
+				"+2.82",
+				"+3.46",
+				"+4.00",
+				"+4.47",
+				"+4.89",
+				"+5.29",
+				"+5.65",
+				"+6.00",
+				"+6.32"
+			}
+		},
+		["remodel_info"] = {
+			{
+				["support_ships"] = {
+					{
+						["support_ship"] = "Samuel B.Roberts",
+						["support_weeks"] = {
+							0,
+							0,
+							1,
+							1,
+							0,
+							0,
+							0
+						}
+					},
+					{
+						["support_ship"] = "Johnston",
+						["support_weeks"] = {
+							0,
+							0,
+							1,
+							1,
+							0,
+							0,
+							0
+						}
+					}
+				},
+				["resource_cost"] = {
+					["0 ～ 5"] = {
+						["buildkit_num"] = "4 / 5",
+						["remodelkit_num"] = "3 / 4",
+						["equipkit"] = {
+							"61cm四連装魚雷 × 2"
+						}
+					},
+					["6 ～ 9"] = {
+						["buildkit_num"] = "?",
+						["remodelkit_num"] = "?",
+						["equipkit"] = {
+							"?"
+						}
+					}
+				},
+				["base_cost"] = {
+					["fuel"] = 150,
+					["ammo"] = 150,
+					["steel"] = 100,
+					["bauxite"] = 100
+				},
+				["upgrade"] = {
+					["cost"] = {
+						["buildkit_num"] = "-",
+						["remodelkit_num"] = "-",
+						["equipkit"] = {
+							"-"
+						}
 					}
 				}
 			}
