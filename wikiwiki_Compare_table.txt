@@ -170,11 +170,11 @@
 | 2
 | 1
 | 
+|style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
 | 初期装備、イベント
 | -
 | Sam・Johnに装備ボーナス（火力+2、対空+2、回避+1、装甲+1）
