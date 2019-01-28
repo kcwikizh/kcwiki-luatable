@@ -2320,7 +2320,6 @@
       "JA_Wiki": "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
       "equip_ships": [
         "雪風(Lv1)",
-        "島風(Lv1)",
         "白露(Lv1)",
         "涼風(Lv1)",
         "朝潮(Lv1)",
@@ -2334,10 +2333,6 @@
         "大井(Lv1)",
         "北上(Lv1)",
         "長良(Lv1)",
-        "初春改(Lv20)",
-        "子日改(Lv20)",
-        "若葉改(Lv20)",
-        "初霜改(Lv20)",
         "古鷹改(Lv25)",
         "加古改(Lv25)",
         "青葉改(Lv25)",
@@ -20369,7 +20364,7 @@
         "zh": "一式陆攻 三四型"
       },
       "item_stat": {
-        "命中": "",
+        "命中": "+1",
         "回避": "",
         "対潜": "+2",
         "対空": "+4",
@@ -32253,11 +32248,11 @@
               "remodelkit_num": "3 / 4"
             },
             "6 ～ 9": {
-              "buildkit_num": "?",
+              "buildkit_num": "5 / 10",
               "equipkit": [
-                "?"
+                "61cm四連装(酸素)魚雷 × 2"
               ],
-              "remodelkit_num": "?"
+              "remodelkit_num": "4 / 5"
             }
           },
           "support_ships": [
@@ -32265,7 +32260,7 @@
               "support_ship": "Samuel B.Roberts",
               "support_weeks": [
                 0,
-                0,
+                1,
                 1,
                 1,
                 1,

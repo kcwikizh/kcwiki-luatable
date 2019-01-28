@@ -2452,7 +2452,6 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"雪風(Lv1)",
-			"島風(Lv1)",
 			"白露(Lv1)",
 			"涼風(Lv1)",
 			"朝潮(Lv1)",
@@ -2466,10 +2465,6 @@ k.EquipUpdateTb = {
 			"大井(Lv1)",
 			"北上(Lv1)",
 			"長良(Lv1)",
-			"初春改(Lv20)",
-			"子日改(Lv20)",
-			"若葉改(Lv20)",
-			"初霜改(Lv20)",
 			"古鷹改(Lv25)",
 			"加古改(Lv25)",
 			"青葉改(Lv25)",
@@ -20373,7 +20368,7 @@ k.EquipUpdateTb = {
 			["対空"] = "+4",
 			["対潜"] = "+2",
 			["索敵"] = "+4",
-			["命中"] = "",
+			["命中"] = "+1",
 			["回避"] = "",
 			["戦闘行動半径"] = "8"
 		},
@@ -32239,7 +32234,7 @@ k.EquipUpdateTb = {
 						["support_ship"] = "Samuel B.Roberts",
 						["support_weeks"] = {
 							0,
-							0,
+							1,
 							1,
 							1,
 							1,
@@ -32269,10 +32264,10 @@ k.EquipUpdateTb = {
 						}
 					},
 					["6 ～ 9"] = {
-						["buildkit_num"] = "?",
-						["remodelkit_num"] = "?",
+						["buildkit_num"] = "5 / 10",
+						["remodelkit_num"] = "4 / 5",
 						["equipkit"] = {
-							"?"
+							"61cm四連装(酸素)魚雷 × 2"
 						}
 					}
 				},
