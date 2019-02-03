@@ -31,12 +31,28 @@
       "zh": "夏季(Summer Season)到了DeSu！比睿，我的泳装(Swimming wear)在哪来着？ 哎？没有(Nothing)！？"
     }
   },
+  "2016年三周年纪念": {
+    "021-Sec13ndAnniv": {
+      "file": "/4/4e/021-Sec13ndAnniv.mp3",
+      "ja": "HEY、提督ぅー！　Third Anniversaryダヨー!!　Yeah! Congratulations! and Burning Looooove!!",
+      "vname": "秘书舰1",
+      "zh": "HEY，提督！三周年了哟！！耶！恭喜！还有Burning Looooove！！"
+    }
+  },
   "2016年圣诞节": {
     "021-Sec1Christmas2015": {
       "file": "/f/f0/021-Sec1Christmas2015.mp3",
       "ja": "へい！！！提督！！！メーーリーーークリスマスだよ！！！アホウ！！！さあ！私へのプレゼンツを、早く出すのデス！さあ、さあああ！あ、逃げたデス！待っっっっって！！！！！！！！",
       "vname": "秘书舰1",
       "zh": "嘿！提督！圣~~诞~~快乐！！！！啊嘿！快点！把给我的礼物掏出来吧！快点！快点！！！啊！跑了！！等等！！！！"
+    }
+  },
+  "2016年情人节": {
+    "021-Sec1Valentine2016": {
+      "file": "/0/04/021-Sec1Valentine2016.mp3",
+      "ja": "HEY、提督ぅー！　Burning Love！！　な、Chocolates！持ってきたヨ－！",
+      "vname": "秘书舰1",
+      "zh": "Hey!提督！Burning Love! 呐！巧克力！我给你了哦！"
     }
   },
   "2016年新年季节": {
@@ -51,6 +67,14 @@
       "ja": "わぁ、Happy New Year！！提督ぅ、New Yearも、金剛型高速戦艦を、よろしくお願いしマース！！",
       "vname": "秘书舰1",
       "zh": "哇，Happy New Year!提督，New Year也，请多多关照，金刚型高速战舰的说！"
+    }
+  },
+  "2016年梅雨季节": {
+    "021-Sec1Tsuyu2015": {
+      "file": "/e/ec/021-Sec1Tsuyu2015.mp3",
+      "ja": "Oh、Rainyな梅雨のSeason、私苦手デース！うぅ～！",
+      "vname": "秘书舰1",
+      "zh": "Oh，下雨(Rainy)的梅雨季节(Season)，我最不喜欢了！呜呜～！"
     }
   },
   "2016年白色情人节": {
@@ -137,12 +161,62 @@
       "zh": "HEY!提督！给我的白色情人节大惊喜是什么啊？！"
     }
   },
+  "2017年秋刀鱼祭典": {
+    "021-Sec1Sanma2016": {
+      "file": "/2/22/021-Sec1Sanma2016.mp3",
+      "ja": "サンマ・・・？Oh、秋刀魚デスネー！ 探照灯を満載して、ギョチョーに向かうデース！ こういうのも、楽しいネー！",
+      "vname": "秘书舰1",
+      "zh": "求导…鱼？哦！是说秋刀鱼是吧！装满探照灯，向渔场出发！干这种活也很开心呢！"
+    }
+  },
   "2017年节分季节": {
     "021-Sec1Setubunn2016": {
       "file": "/7/7f/021-Sec1Setubunn2016.mp3",
       "ja": "へい～～～提督！！！今年の節分は、この金剛型四姉妹がdirectionされていただきます！まず、鬼役ですが…あ、提督！なぜ逃げるです！！！",
       "vname": "秘书舰1",
       "zh": "嘿~~提督！！！今年的节分，由我们金刚四姐妹带你飞！！！首先来决定谁扮鬼…。啊！提督！为什么跑了嘛！！！"
+    }
+  },
+  "2018年五周年纪念": {
+    "021-Sec1FifthAnniversary": {
+      "file": "/2/20/021-Sec1FifthAnniversary.mp3",
+      "ja": "Hey提督ぅー！Fifth Anniversaryダヨー！ Congratulations and burning looove!",
+      "vname": "秘书舰1",
+      "zh": "嘿提督！五周年到了哦！恭喜！以及 Burning Looove！"
+    }
+  },
+  "2018年冬季活动决战前夜": {
+    "021-Atk1EveOfBattle2018": {
+      "file": "/b/bf/021-Atk1EveOfBattle2018.mp3",
+      "ja": "届いて、もう少しだから！",
+      "vname": "攻击1",
+      "zh": "命中吧，就差一点了！"
+    },
+    "021-Atk2EveOfBattle2018": {
+      "file": "/1/1a/021-Atk2EveOfBattle2018.mp3",
+      "ja": "食らいついたら離さないって、言ったデース！",
+      "vname": "攻击2",
+      "zh": "被我咬住了就不会放过，我说过了DESU！"
+    },
+    "021-Sec1EveOfBattle2018": {
+      "file": "/3/30/021-Sec1EveOfBattle2018.mp3",
+      "ja": "提督ぅ、私達三戦隊も、準備を始めるネ。",
+      "vname": "秘书舰1",
+      "zh": "提督，我们三战队也开始准备了呢。"
+    },
+    "021-Sec2EveOfBattle2018": {
+      "file": "/0/0e/021-Sec2EveOfBattle2018.mp3",
+      "ja": "この戦いのあとも、また提督と紅茶を飲みたいネ！",
+      "vname": "秘书舰2",
+      "zh": "这场战斗之后，还想再跟提督一起喝红茶呢！"
+    }
+  },
+  "2018年晚秋季节": {
+    "021-Sec1Autumn2018": {
+      "file": "/8/80/021-Sec1Autumn2018.mp3",
+      "ja": "イェーイ！ 鎮守府祭りィー！！ 提督ぅ、一緒に行くデース！ 今年は何やらぁ……変なお祭りデース？",
+      "vname": "秘书舰1",
+      "zh": "耶！镇守府祭典！提督，我们一起去desu！今年的祭典看上去有点……奇怪desu？"
     }
   },
   "2018年白色情人节": {

@@ -20289,6 +20289,31 @@
         "Aquila改(Lv45)"
       ],
       "id": 184,
+      "item_bonus": {
+        "-": "重複可",
+        "bonuses": [
+          {
+            "bonus": [
+              "火力+1",
+              "対空+2",
+              "回避+3"
+            ],
+            "ships": [
+              "Aquila"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+1",
+              "対空+2",
+              "回避+3"
+            ],
+            "ships": [
+              "Aquila"
+            ]
+          }
+        ]
+      },
       "item_equip": {
         "extra": [
           "伊勢改二"
@@ -20410,6 +20435,31 @@
         "Aquila改(Lv45)"
       ],
       "id": 188,
+      "item_bonus": {
+        "-": "",
+        "bonuses": [
+          {
+            "bonus": [
+              "火力+3",
+              "対空+1",
+              "回避+1"
+            ],
+            "ships": [
+              "Aquila"
+            ]
+          },
+          {
+            "bonus": [
+              "火力+3",
+              "対空+1",
+              "回避+1"
+            ],
+            "ships": [
+              "Aquila"
+            ]
+          }
+        ]
+      },
       "item_equip": {
         "extra": [
           "速吸改"
@@ -20450,6 +20500,31 @@
         "-"
       ],
       "id": 189,
+      "item_bonus": {
+        "-": "",
+        "bonuses": [
+          {
+            "bonus": [
+              "対空+1",
+              "回避+2"
+            ],
+            "ships": [
+              "Aquila",
+              "Graf Zeppelin"
+            ]
+          },
+          {
+            "bonus": [
+              "対空+1",
+              "回避+2"
+            ],
+            "ships": [
+              "Aquila",
+              "Graf Zeppelin"
+            ]
+          }
+        ]
+      },
       "item_equip": {
         "extra": [
           "伊勢改二"

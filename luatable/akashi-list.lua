@@ -20317,6 +20317,31 @@ k.EquipUpdateTb = {
 				"伊勢改二"
 			}
 		},
+		["item_bonus"] = {
+			["-"] = "重複可",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"Aquila"
+					},
+					["bonus"] = {
+						"火力+1",
+						"対空+2",
+						"回避+3"
+					}
+				},
+				{
+					["ships"] = {
+						"Aquila"
+					},
+					["bonus"] = {
+						"火力+1",
+						"対空+2",
+						"回避+3"
+					}
+				}
+			}
+		},
 		["equip_ships"] = {
 			"Aquila(Lv1)",
 			"Aquila改(Lv45)"
@@ -20438,6 +20463,31 @@ k.EquipUpdateTb = {
 				"速吸改"
 			}
 		},
+		["item_bonus"] = {
+			["-"] = "",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"Aquila"
+					},
+					["bonus"] = {
+						"火力+3",
+						"対空+1",
+						"回避+1"
+					}
+				},
+				{
+					["ships"] = {
+						"Aquila"
+					},
+					["bonus"] = {
+						"火力+3",
+						"対空+1",
+						"回避+1"
+					}
+				}
+			}
+		},
 		["equip_ships"] = {
 			"Aquila改(Lv45)"
 		},
@@ -20477,6 +20527,31 @@ k.EquipUpdateTb = {
 			["基地航空隊"] = 1,
 			["extra"] = {
 				"伊勢改二"
+			}
+		},
+		["item_bonus"] = {
+			["-"] = "",
+			["bonuses"] = {
+				{
+					["ships"] = {
+						"Aquila",
+						"Graf Zeppelin"
+					},
+					["bonus"] = {
+						"対空+1",
+						"回避+2"
+					}
+				},
+				{
+					["ships"] = {
+						"Aquila",
+						"Graf Zeppelin"
+					},
+					["bonus"] = {
+						"対空+1",
+						"回避+2"
+					}
+				}
 			}
 		},
 		["equip_ships"] = {
