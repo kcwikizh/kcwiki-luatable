@@ -4589,6 +4589,44 @@
         "ja": "42号対空電探",
         "zh": "42号对空电探"
       },
+      "item_remodel": {
+        "命中": [
+          "+1.70",
+          "+2.40",
+          "+2.94",
+          "+3.40",
+          "+3.80",
+          "+4.16",
+          "+4.49",
+          "+4.80",
+          "+5.10",
+          "+5.37"
+        ],
+        "索敵値": [
+          "+1.40",
+          "+1.97",
+          "+2.42",
+          "+2.80",
+          "+3.13",
+          "+3.42",
+          "+3.70",
+          "+3.95",
+          "+4.20",
+          "+4.42"
+        ],
+        "艦隊防空": [
+          "+1.50",
+          "+2.12",
+          "+2.59",
+          "+3.00",
+          "+3.35",
+          "+3.67",
+          "+3.96",
+          "+4.24",
+          "+4.50",
+          "+4.74"
+        ]
+      },
       "item_stat": {
         "命中": "+4",
         "回避": "",
@@ -4603,7 +4641,55 @@
         "雷装": ""
       },
       "item_type": "大型電探",
-      "no": "No.032"
+      "no": "No.032",
+      "remodel_info": [
+        {
+          "base_cost": {
+            "bauxite": 120,
+            "fuel": 10,
+            "steel": 140
+          },
+          "resource_cost": {
+            "0 ～ 5": {
+              "buildkit_num": "14 / 16",
+              "equipkit": [
+                "21号対空電探 × 1"
+              ],
+              "remodelkit_num": "3 / 4"
+            },
+            "6 ～ 9": {
+              "buildkit_num": "20 / 45",
+              "equipkit": [
+                "13号対空電探改 × 1"
+              ],
+              "remodelkit_num": "4 / 5"
+            }
+          },
+          "support_ships": [
+            {
+              "support_ship": "北上改・改二",
+              "support_weeks": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "upgrade": {
+            "cost": {
+              "buildkit_num": "-",
+              "equipkit": [
+                "-"
+              ],
+              "remodelkit_num": "-"
+            }
+          }
+        }
+      ]
     },
     "33": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Improved_Kanhon_Type_Turbine",
@@ -7823,6 +7909,20 @@
         "ja": "二式艦上偵察機",
         "zh": "二式舰上侦察机"
       },
+      "item_remodel": {
+        "索敵値": [
+          "+1.20",
+          "+1.69",
+          "+2.07",
+          "+2.40",
+          "+2.68",
+          "+2.93",
+          "+3.17",
+          "+3.39",
+          "+3.60",
+          "+3.79"
+        ]
+      },
       "item_stat": {
         "命中": "+3",
         "回避": "",
@@ -7835,7 +7935,56 @@
         "雷装": ""
       },
       "item_type": "艦上偵察機",
-      "no": "No.061"
+      "no": "No.061",
+      "remodel_info": [
+        {
+          "base_cost": {
+            "ammo": 40,
+            "bauxite": 300,
+            "fuel": 120,
+            "steel": 20
+          },
+          "resource_cost": {
+            "0 ～ 5": {
+              "buildkit_num": "8 / ?",
+              "equipkit": [
+                "彗星 × 2"
+              ],
+              "remodelkit_num": "3 / ?"
+            },
+            "6 ～ 9": {
+              "buildkit_num": "8 / ?",
+              "equipkit": [
+                "二式艦上偵察機 × 1"
+              ],
+              "remodelkit_num": "5 / ?"
+            }
+          },
+          "support_ships": [
+            {
+              "support_ship": "蒼龍・改・改二",
+              "support_weeks": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "upgrade": {
+            "cost": {
+              "buildkit_num": "-",
+              "equipkit": [
+                "-"
+              ],
+              "remodelkit_num": "-"
+            }
+          }
+        }
+      ]
     },
     "62": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Prototype_Seiran",
@@ -20334,6 +20483,20 @@
         "ja": "Re.2001 OR改",
         "zh": "Re.2001 OR改"
       },
+      "item_remodel": {
+        "対空": [
+          "+0.2",
+          "+0.4",
+          "+0.6",
+          "+0.8",
+          "+1.0",
+          "+1.2",
+          "+1.4",
+          "+1.6",
+          "+1.8",
+          "+2.0"
+        ]
+      },
       "item_stat": {
         "命中": "",
         "回避": "+2",
@@ -20346,7 +20509,56 @@
         "雷装": ""
       },
       "item_type": "艦上戦闘機",
-      "no": "No.184"
+      "no": "No.184",
+      "remodel_info": [
+        {
+          "base_cost": {
+            "ammo": 140,
+            "bauxite": 350,
+            "fuel": 100,
+            "steel": 10
+          },
+          "resource_cost": {
+            "0 ～ 5": {
+              "buildkit_num": "6 / 8",
+              "equipkit": [
+                "零式艦戦21型 × 2"
+              ],
+              "remodelkit_num": "3 / 4"
+            },
+            "6 ～ 9": {
+              "buildkit_num": "7 / 9",
+              "equipkit": [
+                "零式艦戦52型 × 2"
+              ],
+              "remodelkit_num": "4 / 6"
+            }
+          },
+          "support_ships": [
+            {
+              "support_ship": "Aquila",
+              "support_weeks": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1
+              ]
+            }
+          ],
+          "upgrade": {
+            "cost": {
+              "buildkit_num": "?",
+              "equipkit": [
+                "?"
+              ],
+              "remodelkit_num": "?"
+            }
+          }
+        }
+      ]
     },
     "185": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien_Model_1D",
