@@ -4636,14 +4636,26 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "北上改・改二",
+						["support_ship"] = "北上",
 						["support_weeks"] = {
-							0,
+							1,
 							0,
 							0,
 							0,
 							0,
 							1,
+							1
+						}
+					},
+					{
+						["support_ship"] = "酒匂",
+						["support_weeks"] = {
+							1,
+							0,
+							0,
+							0,
+							0,
+							0,
 							1
 						}
 					}
@@ -7927,9 +7939,9 @@ k.EquipUpdateTb = {
 			{
 				["support_ships"] = {
 					{
-						["support_ship"] = "蒼龍・改・改二",
+						["support_ship"] = "蒼龍",
 						["support_weeks"] = {
-							0,
+							1,
 							0,
 							0,
 							0,
@@ -7941,15 +7953,15 @@ k.EquipUpdateTb = {
 				},
 				["resource_cost"] = {
 					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / ?",
-						["remodelkit_num"] = "3 / ?",
+						["buildkit_num"] = "8 / 9",
+						["remodelkit_num"] = "3 / 4",
 						["equipkit"] = {
 							"彗星 × 2"
 						}
 					},
 					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / ?",
-						["remodelkit_num"] = "5 / ?",
+						["buildkit_num"] = "8 / 10",
+						["remodelkit_num"] = "5 / 7",
 						["equipkit"] = {
 							"二式艦上偵察機 × 1"
 						}
@@ -20511,7 +20523,7 @@ k.EquipUpdateTb = {
 					{
 						["support_ship"] = "Aquila",
 						["support_weeks"] = {
-							0,
+							1,
 							0,
 							0,
 							0,
@@ -20545,12 +20557,14 @@ k.EquipUpdateTb = {
 				},
 				["upgrade"] = {
 					["cost"] = {
-						["buildkit_num"] = "?",
-						["remodelkit_num"] = "?",
+						["buildkit_num"] = "10 / 15",
+						["remodelkit_num"] = "6 / 9",
 						["equipkit"] = {
-							"?"
+							"九九式艦爆 × 4",
+							"新型航空兵装資材 × 1"
 						}
-					}
+					},
+					["item_name"] = "Re.2001 CB改"
 				}
 			}
 		},

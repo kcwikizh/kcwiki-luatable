@@ -988,6 +988,25 @@
 | 126
 | 
 | {{舰娘备注|380}}
+|-
+| 364
+| 風雲改二
+| 75 +図報
+| 33
+| 53
+| 92
+| 66
+| 89
+| 67
+| 78
+| 45
+| 20
+| 78
+| 15
+| 20
+| 155
+| 特二内火艇・中型バルジ搭載可
+| {{舰娘备注|364}}
 |}
 ====艦船最大値/睦月型上位早見表/テーブル====
 {| class="wikitable sortable"
@@ -3239,11 +3258,11 @@
 | 75
 | 82
 | 94
-| 72
+| 73
 | 98
-| 84
+| 87
 | 49
-| 15/79
+| 15/89
 | 12
 |style="background-color:#FFFF99;"| 100
 |style="background-color:#FFFF99;"| 125
@@ -3257,10 +3276,10 @@
 | 83
 | 95
 | 72
-| 98
+| 99
 | 82
-| 49
-| 13/79
+| 52
+| 13/82
 | 12
 |style="background-color:#FFFF99;"| 100
 |style="background-color:#FFFF99;"| 125
@@ -3277,7 +3296,7 @@
 | 96
 | 92
 | 49
-|style="background-color:#FFFF99;"| 41/89
+|style="background-color:#FFFF99;"| 41/93
 | 12
 |style="background-color:#FFFF99;"| 100
 |style="background-color:#FFFF99;"| 125
@@ -3294,7 +3313,7 @@
 | 104
 | 82
 | 49
-| 14/79
+| 14/84
 | 12
 |style="background-color:#FFFF99;"| 100
 |style="background-color:#FFFF99;"| 125

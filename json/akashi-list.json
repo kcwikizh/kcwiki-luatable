@@ -4667,14 +4667,26 @@
           },
           "support_ships": [
             {
-              "support_ship": "北上改・改二",
+              "support_ship": "北上",
               "support_weeks": [
-                0,
+                1,
                 0,
                 0,
                 0,
                 0,
                 1,
+                1
+              ]
+            },
+            {
+              "support_ship": "酒匂",
+              "support_weeks": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
                 1
               ]
             }
@@ -7946,25 +7958,25 @@
           },
           "resource_cost": {
             "0 ～ 5": {
-              "buildkit_num": "8 / ?",
+              "buildkit_num": "8 / 9",
               "equipkit": [
                 "彗星 × 2"
               ],
-              "remodelkit_num": "3 / ?"
+              "remodelkit_num": "3 / 4"
             },
             "6 ～ 9": {
-              "buildkit_num": "8 / ?",
+              "buildkit_num": "8 / 10",
               "equipkit": [
                 "二式艦上偵察機 × 1"
               ],
-              "remodelkit_num": "5 / ?"
+              "remodelkit_num": "5 / 7"
             }
           },
           "support_ships": [
             {
-              "support_ship": "蒼龍・改・改二",
+              "support_ship": "蒼龍",
               "support_weeks": [
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -20538,7 +20550,7 @@
             {
               "support_ship": "Aquila",
               "support_weeks": [
-                0,
+                1,
                 0,
                 0,
                 0,
@@ -20550,12 +20562,14 @@
           ],
           "upgrade": {
             "cost": {
-              "buildkit_num": "?",
+              "buildkit_num": "10 / 15",
               "equipkit": [
-                "?"
+                "九九式艦爆 × 4",
+                "新型航空兵装資材 × 1"
               ],
-              "remodelkit_num": "?"
-            }
+              "remodelkit_num": "6 / 9"
+            },
+            "item_name": "Re.2001 CB改"
           }
         }
       ]
