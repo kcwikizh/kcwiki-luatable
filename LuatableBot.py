@@ -18,7 +18,6 @@ from config import (AIRPOWER_TABLE, AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH,
 from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler,
                       WikiwikiCrawler)
 from DBDownloader import DBDownloader
-from DiffTool import DiffTool
 from ShinkaiLuatable import ShinkaiLuatable
 from ShipLuatable import ShipLuatable
 from utils import nedb2json
@@ -51,7 +50,6 @@ class LuatableBotException(Exception):
 class LuatableBot:
 
     def __init__(self):
-        self.diff = False
         if not path.isdir(DB_PATH):
             os.mkdir(DB_PATH)
         if not path.isdir(OUPUT_PATH):
@@ -131,11 +129,6 @@ class LuatableBot:
     @Switch('KcwikiUpdate')
     @LuatableBotTask
     async def WikiBotUpdate(self):
-        await self.DiffFiles()
-        UPDATE_FORCE = environ.get('UPDATE_FORCE')
-        if not UPDATE_FORCE and not self.diff:
-            print('Skip the kcwiki pages update (no file changes).')
-            return
         KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
         KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
         wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
@@ -143,11 +136,6 @@ class LuatableBot:
 
     async def BonusJson(self):
         self.__exec_js(SCRIPTS_PATH + BONUS_JS)
-
-    @LuatableBotTask
-    async def DiffFiles(self):
-        diffTool = DiffTool()
-        self.diff = await diffTool.perform()
 
     def __exec_lua(self, filename):
         res = subprocess.Popen(['lua', filename], stderr=subprocess.PIPE)
