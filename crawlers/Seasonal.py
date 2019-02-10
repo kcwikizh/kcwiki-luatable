@@ -44,6 +44,8 @@ class SeasonalCrawler(HttpClient):
         self.files = []
         self.categories = []
         self.seasonals = {}
+        self.rofiles = []
+        self.lofiles = []
         with open(DOCS_PATH + 'seasonal.html', 'r') as fp:
             self.template = Template(fp.read())
 
@@ -55,10 +57,11 @@ class SeasonalCrawler(HttpClient):
         return node.get_text().strip()
 
     async def _fetch_from_remote(self, url):
-        ret = ''
-        async with self.session.get(url) as resp:
-            ret = await resp.text()
-        return ret
+        try:
+            resp = await self.session.get(url)
+            return await resp.text()
+        except Exception:
+            return ''
 
     def _get_from_local(self, fpath):
         with open(fpath, 'r', encoding='utf-8') as fp:
@@ -68,21 +71,27 @@ class SeasonalCrawler(HttpClient):
         content = await self._fetch_from_remote(GITHUB_PAGES_URL + 'seasonal/index.html')
         soup = BeautifulSoup(content, 'lxml')
         rfiles = []
-        fmap = {}
+        fstats = {}
         for rf in soup.select('#files > li > a'):
             rfname = self.__get_text(rf)
+            if not rfname:
+                continue
             rfiles.append(rfname)
-            fmap[rfname] = True
-        if len(self.files) != len(rfiles):
-            return True
+            fstats[rfname] = -1
         for lf in self.files:
             lfname = lf[0]
-            fmap[lfname] = True
-        return len(fmap.keys()) != len(self.files)
+            if lfname not in fstats:
+                fstats[lfname] = 1
+            else:
+                fstats[lfname] = 0
+        for fname, fstat in fstats.items():
+            if fstat == -1:
+                self.rofiles.append(fname)
+            elif fstat == 1:
+                self.lofiles.append(fname)
+        return len(self.rofiles) != 0 or len(self.lofiles) != 0
         
-    async def diff(self):
-        if await self.diff_files():
-            return True
+    async def diff_all(self):
         for lf in self.files:
             fname = lf[0]
             rtxt = await self._fetch_from_remote(GITHUB_PAGES_URL + '{}{}'.format(SEASONAL_PATH, fname))
@@ -102,15 +111,15 @@ class SeasonalCrawler(HttpClient):
             fp.write(self.template.render(update=now.strftime('%Y-%m-%d %H:%M:%S'), files=sorted(self.files)))
 
     async def __get_categories(self):
-        async with self.session.get(CATEGORY_URL) as resp:
-            content = await resp.text()
-            soup = BeautifulSoup(content, 'lxml')
-            categoryies_items = soup.select('#mw-content-text > div.mw-prefixindex-body > ul > li > a')
-            for item in categoryies_items:
-                category = self.__get_text(item)
-                if not category:
-                    continue
-                self.categories.append(category[4:])
+        resp = await self.session.get(CATEGORY_URL)
+        content = await resp.text()
+        soup = BeautifulSoup(content, 'lxml')
+        categoryies_items = soup.select('#mw-content-text > div.mw-prefixindex-body > ul > li > a')
+        for item in categoryies_items:
+            category = self.__get_text(item)
+            if not category:
+                continue
+            self.categories.append(category[4:])
 
     async def __process_wikicode(self, key, wiki_txt):
         lines = wiki_txt.split('\n')
@@ -210,15 +219,29 @@ class SeasonalCrawler(HttpClient):
         for category in self.categories:
             tasks.append(asyncio.ensure_future(self.__fetch_seasonal(category)))
         await asyncio.wait(tasks)
-        
+
         for wiki_id, subtitles in self.seasonals.items():
+            if not subtitles:
+                continue
             file_name = '{}.json'.format(wiki_id)
             with open(OUPUT_PATH + SEASONAL_PATH + file_name, 'w') as fp:
                 json.dump(subtitles, fp, ensure_ascii=False, sort_keys=True, indent=2)
             file_size = format_filesize(os.path.getsize(OUPUT_PATH + SEASONAL_PATH + file_name))
             self.files.append((file_name, file_size))
-        isdiff = await self.diff()
-        if isdiff:
+        is_filesdiff = await self.diff_files()
+        if is_filesdiff:
+            if len(self.rofiles):
+                print('Seasonal: 共删除{}个文件'.format(len(self.rofiles)))
+                for fname in self.rofiles:
+                    print('Seasonal: - {}'.format(fname))
+            if len(self.lofiles):
+                print('Seasonal: 共新增{}个文件'.format(len(self.lofiles)))
+                for fname in self.lofiles:
+                    print('Seasonal: + {}'.format(fname))
             await self.gen_new_index()
-        else:
-            await self.get_remote_index()  
+            return
+        is_alldiff = await self.diff_all()
+        if is_alldiff:
+            await self.gen_new_index()
+            return
+        await self.get_remote_index()  
