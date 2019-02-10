@@ -59,6 +59,7 @@ class SeasonalCrawler(HttpClient):
     async def _fetch_from_remote(self, url):
         try:
             resp = await self.session.get(url)
+            resp.raise_for_status()
             return await resp.text()
         except Exception:
             return ''
