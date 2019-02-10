@@ -12,7 +12,7 @@ update:
   variables:
     LUA: lua=5.3
   before_script:
-    - git clone https://github.com/TeamFleet/KCKit.git
+    - git clone --depth=1 https://github.com/TeamFleet/KCKit.git
     - pip install hererocks
     - hererocks lua_install -r^ --$LUA
     - export PATH=$PATH:$PWD/lua_install/bin
