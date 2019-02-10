@@ -5,13 +5,15 @@ import hashlib
 import json
 import os
 import re
+from os import path
 
 import lxml
 import pytz
 from bs4 import BeautifulSoup, element
 from jinja2 import Template
 
-from config import DOCS_PATH, OUPUT_PATH, SEASONAL_PATH, TIMEZONE
+from config import (DOCS_PATH, GITHUB_PAGES_URL, IGNORE_FILES, OUPUT_PATH,
+                    SEASONAL_PATH, TIMEZONE)
 from HttpClient import HttpClient
 from utils import format_filesize
 
@@ -35,11 +37,11 @@ ARCH_PATTERN = re.compile(r'^[0-9a-z]+-([0-9A-Za-z]+)')
 class KcwikiException(Exception):
     pass
 
-
 class SeasonalCrawler(HttpClient):
 
     def __init__(self):
         super().__init__()
+        self.files = []
         self.categories = []
         self.seasonals = {}
         with open(DOCS_PATH + 'seasonal.html', 'r') as fp:
@@ -52,12 +54,58 @@ class SeasonalCrawler(HttpClient):
             return node.string.strip()
         return node.get_text().strip()
 
+    async def _fetch_from_remote(self, url):
+        ret = ''
+        async with self.session.get(url) as resp:
+            ret = await resp.text()
+        return ret
+
+    def _get_from_local(self, fpath):
+        with open(fpath, 'r', encoding='utf-8') as fp:
+            return fp.read()
+
+    async def diff_files(self):
+        content = await self._fetch_from_remote(GITHUB_PAGES_URL + 'seasonal/index.html')
+        soup = BeautifulSoup(content, 'lxml')
+        rfiles = []
+        fmap = {}
+        for rf in soup.select('#files > li > a'):
+            rfname = self.__get_text(rf)
+            rfiles.append(rfname)
+            fmap[rfname] = True
+        if len(self.files) != len(rfiles):
+            return True
+        for lf in self.files:
+            lfname = lf[0]
+            fmap[lfname] = True
+        return len(fmap.keys()) != len(self.files)
+        
+    async def diff(self):
+        if await self.diff_files():
+            return True
+        for lf in self.files:
+            fname = lf[0]
+            rtxt = await self._fetch_from_remote(GITHUB_PAGES_URL + '{}{}'.format(SEASONAL_PATH, fname))
+            ltxt = self._get_from_local(OUPUT_PATH + SEASONAL_PATH + fname)
+            if rtxt != ltxt:
+                return True
+        return False
+    
+    async def get_remote_index(self):
+        txt = await self._fetch_from_remote(GITHUB_PAGES_URL + 'seasonal/index.html')
+        with open(OUPUT_PATH + SEASONAL_PATH + 'index.html', 'w') as fp:
+            fp.write(txt)
+
+    async def gen_new_index(self):
+        now = datetime.datetime.now(TIMEZONE)
+        with open(OUPUT_PATH + SEASONAL_PATH + 'index.html', 'w') as fp:
+            fp.write(self.template.render(update=now.strftime('%Y-%m-%d %H:%M:%S'), files=sorted(self.files)))
+
     async def __get_categories(self):
         async with self.session.get(CATEGORY_URL) as resp:
             content = await resp.text()
             soup = BeautifulSoup(content, 'lxml')
-            categoryies_items = soup.select(
-                '#mw-content-text > div.mw-prefixindex-body > ul > li > a')
+            categoryies_items = soup.select('#mw-content-text > div.mw-prefixindex-body > ul > li > a')
             for item in categoryies_items:
                 category = self.__get_text(item)
                 if not category:
@@ -139,7 +187,6 @@ class SeasonalCrawler(HttpClient):
                 'vname': vname,
                 'file': '/{}/{}/{}.mp3'.format(digest[0], digest[:2], arch)
             }
-
         print('Seasonal:「{}」共{}条语音'.format(key, cnt))
 
     async def __fetch_seasonal(self, category):
@@ -163,15 +210,15 @@ class SeasonalCrawler(HttpClient):
         for category in self.categories:
             tasks.append(asyncio.ensure_future(self.__fetch_seasonal(category)))
         await asyncio.wait(tasks)
-
-        files = []
+        
         for wiki_id, subtitles in self.seasonals.items():
             file_name = '{}.json'.format(wiki_id)
             with open(OUPUT_PATH + SEASONAL_PATH + file_name, 'w') as fp:
                 json.dump(subtitles, fp, ensure_ascii=False, sort_keys=True, indent=2)
             file_size = format_filesize(os.path.getsize(OUPUT_PATH + SEASONAL_PATH + file_name))
-            files.append([file_name, file_size])
-
-        now = datetime.datetime.now(TIMEZONE)
-        with open(OUPUT_PATH + SEASONAL_PATH + 'index.html', 'w') as fp:
-            fp.write(self.template.render(update=now.strftime('%Y-%m-%d %H:%M:%S'), files=sorted(files)))
+            self.files.append((file_name, file_size))
+        isdiff = await self.diff()
+        if isdiff:
+            await self.gen_new_index()
+        else:
+            await self.get_remote_index()  
