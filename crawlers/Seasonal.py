@@ -17,7 +17,7 @@ from utils import format_filesize
 
 CATEGORY_URL = 'https://zh.kcwiki.org/wiki/Special:前缀索引/季节性/'
 KCWIKI_URL = 'https://zh.kcwiki.org/wiki/{}?action=raw'
-KCAPI_URL = 'https://acc.kcwiki.org/seasonal/{}.json'
+KCAPI_URL = 'https://bot.kcwiki.moe/seasonal/{}.json'
 VoiceMap = {
     'Intro': '入手/登入时', 'Sec1': '秘书舰1', 'Sec2': '秘书舰2', 'Sec3': '秘书舰3', 'ConstComplete': '建造完成',
     'DockComplete': '修复完成', 'Return': '归来', 'Achievement': '战绩', 'Equip1': '装备/改修/改造1', 'Equip2': '装备/改修/改造2',
@@ -31,6 +31,9 @@ VoiceMap = {
     '2000': '二〇〇〇时报', '2100': '二一〇〇时报', '2200': '二二〇〇时报', '2300': '二三〇〇时报'
 }
 ARCH_PATTERN = re.compile(r'^[0-9a-z]+-([0-9A-Za-z]+)')
+
+class KcwikiException(Exception):
+    pass
 
 
 class SeasonalCrawler(HttpClient):
@@ -152,17 +155,25 @@ class SeasonalCrawler(HttpClient):
 
     async def __fetch_seasonal(self, category):
         seasonal_key = category[4:]
-        async with self.session.get(KCWIKI_URL.format(category)) as resp:
-            wiki_txt = await resp.text()
-            await self.__process_wikicode(seasonal_key, wiki_txt)
+        retry = 5
+        wiki_txt = ''
+        while retry:
+            try:
+                resp = await self.session.get(KCWIKI_URL.format(category))
+                resp.raise_for_status()
+                wiki_txt = await resp.text()
+                break
+            except Exception as e:
+                retry -= 1
+                print('Seasonal: 「{}」 重试第{}次 原因：{}'.format(category, 3 - retry, e))
+                continue
+        await self.__process_wikicode(seasonal_key, wiki_txt)
 
     async def start(self):
         await self.__get_categories()
-        await self.__fetch_seasonal('季节性/2013年圣诞节')
         tasks = []
         for category in self.categories:
-            tasks.append(asyncio.ensure_future(
-                self.__fetch_seasonal(category)))
+            tasks.append(asyncio.ensure_future(self.__fetch_seasonal(category)))
         await asyncio.wait(tasks)
 
         files = []
@@ -175,5 +186,4 @@ class SeasonalCrawler(HttpClient):
 
         now = datetime.datetime.now(TIMEZONE)
         with open(OUPUT_PATH + SEASONAL_PATH + 'index.html', 'w') as fp:
-            fp.write(self.template.render(update=now.strftime(
-                '%Y-%m-%d %H:%M:%S'), files=sorted(files)))
+            fp.write(self.template.render(update=now.strftime('%Y-%m-%d %H:%M:%S'), files=sorted(files)))
