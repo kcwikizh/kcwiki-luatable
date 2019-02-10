@@ -17,6 +17,7 @@ from utils import format_filesize
 
 CATEGORY_URL = 'https://zh.kcwiki.org/wiki/Special:前缀索引/季节性/'
 KCWIKI_URL = 'https://zh.kcwiki.org/wiki/{}?action=raw'
+KCAPI_URL = 'https://acc.kcwiki.org/seasonal/{}.json'
 VoiceMap = {
     'Intro': '入手/登入时', 'Sec1': '秘书舰1', 'Sec2': '秘书舰2', 'Sec3': '秘书舰3', 'ConstComplete': '建造完成',
     'DockComplete': '修复完成', 'Return': '归来', 'Achievement': '战绩', 'Equip1': '装备/改修/改造1', 'Equip2': '装备/改修/改造2',
@@ -59,6 +60,16 @@ class SeasonalCrawler(HttpClient):
                 if not category:
                     continue
                 self.categories.append(category)
+
+    async def __get_olddata(self, wid):
+        try:
+            resp = await self.session.get(KCAPI_URL.format(wid))
+            olddata = await resp.json()
+            if not olddata:
+                return {}
+            return olddata
+        except Exception:
+            return {}
 
     async def __process_wikicode(self, key, wiki_txt):
 
@@ -119,11 +130,9 @@ class SeasonalCrawler(HttpClient):
                 print(f'Seasonal: !!! 错误语音 =\n{{季节性前缀 = {key}, 编号 = {wid}, 档名 = {arch}}}')
                 continue
             if wid not in self.seasonals:
-                self.seasonals[wid] = {}
+                self.seasonals[wid] = await self.__get_olddata(wid)
             if key not in self.seasonals[wid]:
                 self.seasonals[wid][key] = {}
-            if arch in self.seasonals[wid][key]:
-                continue
             cnt += 1
             md5hash = hashlib.md5((arch + '.mp3').encode())
             digest = md5hash.hexdigest()
