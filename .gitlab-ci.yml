@@ -1,4 +1,4 @@
-image: python:3
+image: kozora/python3-nodejs:latest
 
 stages:
   - update
@@ -13,9 +13,6 @@ update:
     LUA: lua=5.3
   before_script:
     - git clone https://github.com/TeamFleet/KCKit.git
-    - apt-get update
-    - curl -sL https://deb.nodesource.com/setup_10.x | bash -
-    - apt-get install -y -qq unzip nodejs
     - pip install hererocks
     - hererocks lua_install -r^ --$LUA
     - export PATH=$PATH:$PWD/lua_install/bin
