@@ -10,5 +10,4 @@ class HttpClient:
 
     def __del__(self):
         loop = asyncio.get_event_loop()
-        self.session.connector.close()
         asyncio.run_coroutine_threadsafe(self.session.close(), loop)
