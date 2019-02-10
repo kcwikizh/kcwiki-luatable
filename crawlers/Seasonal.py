@@ -64,21 +64,7 @@ class SeasonalCrawler(HttpClient):
                     continue
                 self.categories.append(category[4:])
 
-    async def __get_olddata(self, wid):
-        try:
-            resp = await self.session.get(KCAPI_URL.format(wid))
-            olddata = await resp.json()
-            if not olddata:
-                return {}
-            for key in olddata.keys():
-                if key not in self.categories:
-                    olddata.pop(key)
-            return olddata
-        except Exception:
-            return {}
-
     async def __process_wikicode(self, key, wiki_txt):
-
         lines = wiki_txt.split('\n')
         items = []
         tmp = {}
@@ -136,7 +122,7 @@ class SeasonalCrawler(HttpClient):
                 print(f'Seasonal: !!! 错误语音 =\n{{季节性前缀 = {key}, 编号 = {wid}, 档名 = {arch}}}')
                 continue
             if wid not in self.seasonals:
-                self.seasonals[wid] = await self.__get_olddata(wid)
+                self.seasonals[wid] = {}
             if key not in self.seasonals[wid]:
                 self.seasonals[wid][key] = {}
             cnt += 1
