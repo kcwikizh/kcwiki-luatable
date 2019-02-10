@@ -16,7 +16,7 @@ from HttpClient import HttpClient
 from utils import format_filesize
 
 CATEGORY_URL = 'https://zh.kcwiki.org/wiki/Special:前缀索引/季节性/'
-KCWIKI_URL = 'https://zh.kcwiki.org/wiki/{}?action=raw'
+KCWIKI_URL = 'https://zh.kcwiki.org/wiki/季节性/{}?action=raw'
 KCAPI_URL = 'https://bot.kcwiki.moe/seasonal/{}.json'
 VoiceMap = {
     'Intro': '入手/登入时', 'Sec1': '秘书舰1', 'Sec2': '秘书舰2', 'Sec3': '秘书舰3', 'ConstComplete': '建造完成',
@@ -62,7 +62,7 @@ class SeasonalCrawler(HttpClient):
                 category = self.__get_text(item)
                 if not category:
                     continue
-                self.categories.append(category)
+                self.categories.append(category[4:])
 
     async def __get_olddata(self, wid):
         try:
@@ -70,6 +70,9 @@ class SeasonalCrawler(HttpClient):
             olddata = await resp.json()
             if not olddata:
                 return {}
+            for key in olddata.keys():
+                if key not in self.categories:
+                    olddata.pop(key)
             return olddata
         except Exception:
             return {}
@@ -151,10 +154,9 @@ class SeasonalCrawler(HttpClient):
                 'file': '/{}/{}/{}.mp3'.format(digest[0], digest[:2], arch)
             }
 
-        print('Seasonal:「{}」 - {} 条语音。'.format(key, cnt))
+        print('Seasonal:「{}」共{}条语音'.format(key, cnt))
 
     async def __fetch_seasonal(self, category):
-        seasonal_key = category[4:]
         retry = 5
         wiki_txt = ''
         while retry:
@@ -165,9 +167,9 @@ class SeasonalCrawler(HttpClient):
                 break
             except Exception as e:
                 retry -= 1
-                print('Seasonal:「{}」 重试第{}/5次 原因：{}'.format(category, 5 - retry, e))
+                print('Seasonal:「{}」重试第{}/5次 原因：{}'.format(category, 5 - retry, e))
                 continue
-        await self.__process_wikicode(seasonal_key, wiki_txt)
+        await self.__process_wikicode(category, wiki_txt)
 
     async def start(self):
         await self.__get_categories()
