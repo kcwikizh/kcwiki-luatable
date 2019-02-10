@@ -35,6 +35,13 @@ def LuatableBotTask(fn):
             fn.__name__, round(END - START, 3)))
     return wrapper
 
+def Switch(name):
+    def inner(fn):
+        async def wrapper(*args, **kw):
+            if environ.get(name):
+                await fn(*args, **kw)
+        return wrapper
+    return inner
 
 class LuatableBotException(Exception):
     def __init__(self, message):
@@ -94,42 +101,46 @@ class LuatableBot:
         wikiaCrawler = WikiaCrawler()
         await wikiaCrawler.start()
 
+    @Switch('Wikiwiki')
     @LuatableBotTask
     async def WikiwikiData(self):
         wikiwikiCrawler = WikiwikiCrawler()
         await wikiwikiCrawler.start()
 
+    @Switch('SeasonalSubtitles')
     @LuatableBotTask
     async def SeasonalSubtitles(self):
         seasonalCrawler = SeasonalCrawler()
         await seasonalCrawler.start()
 
+    @Switch('Ships')
     @LuatableBotTask
     async def ShipLuatable(self):
+        await self.BonusJson()
+        await self.AkashiList()
         shipLuatable = ShipLuatable()
         shipLuatable.start()
 
+    @Switch('Shinkai')
     @LuatableBotTask
     async def ShinkaiLuatable(self):
+        await self.WikiaData()
         shinkaiLuatable = ShinkaiLuatable()
         await shinkaiLuatable.start()
 
+    @Switch('KcwikiUpdate')
     @LuatableBotTask
     async def WikiBotUpdate(self):
+        await self.DiffFiles()
         UPDATE_FORCE = environ.get('UPDATE_FORCE')
         if not UPDATE_FORCE and not self.diff:
             print('Skip the kcwiki pages update (no file changes).')
             return
-        KCWIKI_UPDATE = environ.get('KCWIKI_UPDATE')
-        if KCWIKI_UPDATE:
-            KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
-            KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
-            wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
-            await wikiBot.start()
-        else:
-            print('Skip the kcwiki pages update (`KCWIKI_UPDATE` not set).')
+        KCWIKI_ACCOUNT = environ.get('KCWIKI_ACCOUNT')
+        KCWIKI_PASSWORD = environ.get('KCWIKI_PASSWORD')
+        wikiBot = WikiBot(KCWIKI_ACCOUNT, KCWIKI_PASSWORD)
+        await wikiBot.start()
 
-    @LuatableBotTask
     async def BonusJson(self):
         self.__exec_js(SCRIPTS_PATH + BONUS_JS)
 
@@ -154,6 +165,7 @@ class LuatableBot:
         if err:
             raise LuatableBotException(err)
 
+    @Switch('Check')
     @LuatableBotTask
     async def CheckLuatable(self):
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIPS_DATA + '.lua')
@@ -166,16 +178,12 @@ class LuatableBot:
 
     async def main(self):
         await self.FetchDBS()
-        await self.BonusJson()
         await self.Nedb2json()
         await self.SeasonalSubtitles()
-        await self.AkashiList()
-        await self.WikiaData()
         await self.WikiwikiData()
         await self.ShipLuatable()
         await self.ShinkaiLuatable()
         await self.CheckLuatable()
-        await self.DiffFiles()
         await self.WikiBotUpdate()
 
 
