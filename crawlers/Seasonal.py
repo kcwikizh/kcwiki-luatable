@@ -151,7 +151,7 @@ class SeasonalCrawler(HttpClient):
                 'file': '/{}/{}/{}.mp3'.format(digest[0], digest[:2], arch)
             }
 
-        print('Seasonal: {} - {} 条语音。'.format(key, cnt))
+        print('Seasonal:「{}」 - {} 条语音。'.format(key, cnt))
 
     async def __fetch_seasonal(self, category):
         seasonal_key = category[4:]
@@ -165,7 +165,7 @@ class SeasonalCrawler(HttpClient):
                 break
             except Exception as e:
                 retry -= 1
-                print('Seasonal: 「{}」 重试第{}次 原因：{}'.format(category, 3 - retry, e))
+                print('Seasonal:「{}」 重试第{}次 原因：{}'.format(category, 5 - retry, e))
                 continue
         await self.__process_wikicode(seasonal_key, wiki_txt)
 
