@@ -165,7 +165,7 @@ class SeasonalCrawler(HttpClient):
                 break
             except Exception as e:
                 retry -= 1
-                print('Seasonal:「{}」 重试第{}次 原因：{}'.format(category, 5 - retry, e))
+                print('Seasonal:「{}」 重试第{}/5次 原因：{}'.format(category, 5 - retry, e))
                 continue
         await self.__process_wikicode(seasonal_key, wiki_txt)
 
