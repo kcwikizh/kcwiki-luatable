@@ -253,6 +253,8 @@ class AkashiListCrawler(HttpClient):
                         is_extra_ok = True
                     elif status_title_name == '増設装備可能艦種':
                         lines_idx = 4
+                    elif status_title_name.startswith('装備ボーナス'):
+                        lines_idx = 5
                 continue
             if not lines_idx:
                 continue
