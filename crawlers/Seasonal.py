@@ -17,6 +17,7 @@ from config import (DOCS_PATH, GITHUB_PAGES_URL, IGNORE_FILES, OUPUT_PATH,
 from HttpClient import HttpClient
 from utils import format_filesize
 
+RETRY_TIMES = 5
 CATEGORY_URL = 'https://zh.kcwiki.org/wiki/Special:前缀索引/季节性/'
 KCWIKI_URL = 'https://zh.kcwiki.org/wiki/季节性/{}?action=raw'
 KCAPI_URL = 'https://bot.kcwiki.moe/seasonal/{}.json'
@@ -200,17 +201,19 @@ class SeasonalCrawler(HttpClient):
         print('Seasonal:「{}」共{}条语音'.format(key, cnt))
 
     async def __fetch_seasonal(self, category):
-        retry = 5
+        retry = RETRY_TIMES
         wiki_txt = ''
         while retry:
             try:
                 resp = await self.session.get(KCWIKI_URL.format(category))
                 resp.raise_for_status()
                 wiki_txt = await resp.text()
+                if retry != RETRY_TIMES:
+                    print('Seasonal:「{}」第{}/{}次重试成功'.format(category, RETRY_TIMES - retry, RETRY_TIMES))
                 break
             except Exception as e:
                 retry -= 1
-                print('Seasonal:「{}」重试第{}/5次 原因：{}'.format(category, 5 - retry, e))
+                print('Seasonal:「{}」开始重试第{}/{}次 原因：{}'.format(category, RETRY_TIMES - retry, RETRY_TIMES, e))
                 continue
         await self.__process_wikicode(category, wiki_txt)
 
