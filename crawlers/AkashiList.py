@@ -225,8 +225,6 @@ class AkashiListCrawler(HttpClient):
         equip_lines = list()
         extra_equip_lines = list()
         fitting_lines = list()
-        bonus_lines = list()
-        bonus_info = ''
         status_lines = status_selector.find_all('tr')
         for status_line in status_lines:
             status_title = status_line.th
@@ -255,9 +253,6 @@ class AkashiListCrawler(HttpClient):
                         is_extra_ok = True
                     elif status_title_name == '増設装備可能艦種':
                         lines_idx = 4
-                    elif status_title_name.startswith('装備ボーナス'):
-                        bonus_info = status_title_name[6:].strip('()')
-                        lines_idx = 5
                 continue
             if not lines_idx:
                 continue
@@ -269,8 +264,6 @@ class AkashiListCrawler(HttpClient):
                 equip_lines.append(status_line)
             elif lines_idx == 4:
                 extra_equip_lines.append(status_line)
-            elif lines_idx == 5:
-                bonus_lines.append(status_line)
         # 处理stat 属性
         stat = dict()
         for stat_line in stat_lines:
@@ -319,30 +312,6 @@ class AkashiListCrawler(HttpClient):
             equip['extra'] = extra
         if equip:
             detail['item_equip'] = equip
-
-        if bonus_lines:
-            bonus = {
-                '-': bonus_info,
-                'bonuses': []
-            }
-            for bonus_line in bonus_lines:
-                bonus_items = bonus_line.find_all('td')
-                for bonus_item in bonus_items:
-                    text = self.get_text(bonus_item)
-                    if not text:
-                        continue
-                    bonus_item_next = bonus_item.contents
-                    bonus_item_next = [ x for x in bonus_item_next if x!= '\n' ]
-                    ship_names = self.get_text(
-                        bonus_item_next[1]).split('・')
-                    ship_bonuses = []
-                    for item in bonus_item_next[0].contents:
-                        ship_bonuses += self.get_text(item).split()
-                    bonus['bonuses'].append({
-                        'ships': ship_names,
-                        'bonus': ship_bonuses
-                    })
-            detail['item_bonus'] = bonus
 
         # 处理extra_equip 增设
         extra_equip = dict()
