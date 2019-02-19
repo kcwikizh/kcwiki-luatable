@@ -114,7 +114,7 @@ class LuatableBot:
 
     @Switch("ShipClassesMapping")
     @LuatableBotTask
-    async def ShipClassesMappingLuatable(selfs):
+    async def ShipClassesMappingLuatable(self):
         shipClassesMappingLuatable = ShipClassMappingLuatable()
         shipClassesMappingLuatable.start()
         
