@@ -14,7 +14,7 @@ from config import (AIRPOWER_TABLE, AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH,
                     SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA, SHIP_CLASSES_DB,
                     SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
                     SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DATA,
-                    SHIPS_DB)
+                    SHIPS_DB, SHIPCLASSES_MAPPING_DATA)
 from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler,
                       WikiwikiCrawler)
 from DBDownloader import DBDownloader
@@ -167,6 +167,7 @@ class LuatableBot:
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIPCLASSES_MAPPING_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA)
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AIRPOWER_TABLE)
         print('CheckLuatable: All the lua files is valid!')
@@ -177,6 +178,7 @@ class LuatableBot:
         await self.SeasonalSubtitles()
         await self.WikiwikiData()
         await self.ShipLuatable()
+        await self.ShipClassesMappingLuatable()
         await self.ShinkaiLuatable()
         await self.CheckLuatable()
         await self.WikiBotUpdate()
