@@ -20,6 +20,7 @@ from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler,
 from DBDownloader import DBDownloader
 from ShinkaiLuatable import ShinkaiLuatable
 from ShipLuatable import ShipLuatable
+from ShipClassMappingLuatable import ShipClassMappingLuatable
 from utils import nedb2json
 from WikiBot import WikiBot
 
@@ -111,6 +112,12 @@ class LuatableBot:
         seasonalCrawler = SeasonalCrawler()
         await seasonalCrawler.start()
 
+    @Switch("ShipClassesMapping")
+    @LuatableBotTask
+    async def ShipClassesMappingLuatable(selfs):
+        shipClassesMappingLuatable = ShipClassMappingLuatable()
+        shipClassesMappingLuatable.start()
+        
     @Switch('Ships')
     @LuatableBotTask
     async def ShipLuatable(self):
