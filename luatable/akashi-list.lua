@@ -4872,6 +4872,69 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1,
 			["航空巡洋艦"] = 1
 		},
+		["remodel_info"] = {
+			{
+				["support_ships"] = {
+					{
+						["support_ship"] = "金剛改二",
+						["support_weeks"] = {
+							0,
+							0,
+							0,
+							1,
+							1,
+							0,
+							0
+						}
+					},
+					{
+						["support_ship"] = "比叡改二",
+						["support_weeks"] = {
+							0,
+							0,
+							0,
+							1,
+							1,
+							0,
+							0
+						}
+					}
+				},
+				["resource_cost"] = {
+					["0 ～ 5"] = {
+						["buildkit_num"] = "7 / 8",
+						["remodelkit_num"] = "4 / 4",
+						["equipkit"] = {
+							"-"
+						}
+					},
+					["6 ～ 9"] = {
+						["buildkit_num"] = "8 / ?",
+						["remodelkit_num"] = "5 / ?",
+						["equipkit"] = {
+							"三式弾 × 1"
+						}
+					}
+				},
+				["base_cost"] = {
+					["fuel"] = 50,
+					["ammo"] = 120,
+					["steel"] = 210,
+					["bauxite"] = 170
+				},
+				["upgrade"] = {
+					["cost"] = {
+						["buildkit_num"] = "10 / ?",
+						["remodelkit_num"] = "8 / ?",
+						["equipkit"] = {
+							"一式徹甲弾 × 1",
+							"新型砲熕兵装資材 × 1"
+						}
+					},
+					["item_name"] = "三式弾改"
+				}
+			}
+		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
@@ -30431,6 +30494,67 @@ k.EquipUpdateTb = {
 			["水上機母艦"] = 0,
 			["航空戦艦"] = 1,
 			["航空巡洋艦"] = 1
+		},
+		["remodel_info"] = {
+			{
+				["support_ships"] = {
+					{
+						["support_ship"] = "陸奥改二",
+						["support_weeks"] = {
+							0,
+							0,
+							0,
+							1,
+							1,
+							0,
+							0
+						}
+					},
+					{
+						["support_ship"] = "金剛改二",
+						["support_weeks"] = {
+							0,
+							0,
+							0,
+							1,
+							0,
+							0,
+							0
+						}
+					}
+				},
+				["resource_cost"] = {
+					["0 ～ 5"] = {
+						["buildkit_num"] = "8 / 9",
+						["remodelkit_num"] = "6 / 6",
+						["equipkit"] = {
+							"三式弾 × 1"
+						}
+					},
+					["6 ～ 9"] = {
+						["buildkit_num"] = "10 / 14",
+						["remodelkit_num"] = "7 / 8",
+						["equipkit"] = {
+							"三式弾 × 2"
+						}
+					}
+				},
+				["base_cost"] = {
+					["fuel"] = 80,
+					["ammo"] = 200,
+					["steel"] = 220,
+					["bauxite"] = 240
+				},
+				["upgrade"] = {
+					["cost"] = {
+						["buildkit_num"] = "-",
+						["remodelkit_num"] = "-",
+						["equipkit"] = {
+							"-"
+						}
+					}
+				}
+			}
 		},
 		["equip_ships"] = {
 			"-"

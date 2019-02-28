@@ -4883,7 +4883,70 @@
         "雷装": ""
       },
       "item_type": "対空強化弾",
-      "no": "No.035"
+      "no": "No.035",
+      "remodel_info": [
+        {
+          "base_cost": {
+            "ammo": 120,
+            "bauxite": 170,
+            "fuel": 50,
+            "steel": 210
+          },
+          "resource_cost": {
+            "0 ～ 5": {
+              "buildkit_num": "7 / 8",
+              "equipkit": [
+                "-"
+              ],
+              "remodelkit_num": "4 / 4"
+            },
+            "6 ～ 9": {
+              "buildkit_num": "8 / ?",
+              "equipkit": [
+                "三式弾 × 1"
+              ],
+              "remodelkit_num": "5 / ?"
+            }
+          },
+          "support_ships": [
+            {
+              "support_ship": "金剛改二",
+              "support_weeks": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "support_ship": "比叡改二",
+              "support_weeks": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0
+              ]
+            }
+          ],
+          "upgrade": {
+            "cost": {
+              "buildkit_num": "10 / ?",
+              "equipkit": [
+                "一式徹甲弾 × 1",
+                "新型砲熕兵装資材 × 1"
+              ],
+              "remodelkit_num": "8 / ?"
+            },
+            "item_name": "三式弾改"
+          }
+        }
+      ]
     },
     "36": {
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Type_91_Armor_Piercing_Shell",
@@ -30435,7 +30498,68 @@
         "雷装": ""
       },
       "item_type": "対空強化弾",
-      "no": "No.317"
+      "no": "No.317",
+      "remodel_info": [
+        {
+          "base_cost": {
+            "ammo": 200,
+            "bauxite": 240,
+            "fuel": 80,
+            "steel": 220
+          },
+          "resource_cost": {
+            "0 ～ 5": {
+              "buildkit_num": "8 / 9",
+              "equipkit": [
+                "三式弾 × 1"
+              ],
+              "remodelkit_num": "6 / 6"
+            },
+            "6 ～ 9": {
+              "buildkit_num": "10 / 14",
+              "equipkit": [
+                "三式弾 × 2"
+              ],
+              "remodelkit_num": "7 / 8"
+            }
+          },
+          "support_ships": [
+            {
+              "support_ship": "陸奥改二",
+              "support_weeks": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "support_ship": "金剛改二",
+              "support_weeks": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "upgrade": {
+            "cost": {
+              "buildkit_num": "-",
+              "equipkit": [
+                "-"
+              ],
+              "remodelkit_num": "-"
+            }
+          }
+        }
+      ]
     },
     "318": {
       "EN_Wiki": "https://kancolle.fandom.com/wiki/41cm_Twin_Gun_Mount_Kai_Ni",
