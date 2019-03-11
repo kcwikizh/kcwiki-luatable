@@ -79,67 +79,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "睦月改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "如月改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"12cm単装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"12cm単装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 20,
-					["steel"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "2 / 4",
-						["remodelkit_num"] = "2 / 6",
-						["equipkit"] = {
-							"22号対水上電探 × 1"
-						}
-					},
-					["item_name"] = "12cm単装砲改二"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -258,55 +197,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "-",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"12.7cm連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 30,
-					["steel"] = 60
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "3 / 6",
-						["equipkit"] = {
-							"12.7cm連装砲 × 2"
-						}
-					},
-					["item_name"] = "12.7cm連装砲B型改二"
-				}
 			}
 		},
 		["item_build"] = {
@@ -463,55 +353,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "-",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"14cm単装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 50,
-					["steel"] = 100
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "3 / 6",
-						["equipkit"] = {
-							"14cm単装砲 × 2"
-						}
-					},
-					["item_name"] = "14cm連装砲"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -611,68 +452,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "最上",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "大淀",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"15.5cm三連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 90,
-					["steel"] = 120
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "8 / 12",
-						["remodelkit_num"] = "4 / 8",
-						["equipkit"] = {
-							"15.5cm三連装砲 × 2",
-							"新型砲熕兵装資材 × 1"
-						}
-					},
-					["item_name"] = "15.5cm三連装砲改"
-				}
 			}
 		},
 		["item_build"] = {
@@ -775,67 +554,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "青葉",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "衣笠",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"20.3cm連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 90,
-					["steel"] = 120
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "2 / 5",
-						["remodelkit_num"] = "4 / 10",
-						["equipkit"] = {
-							"20.3cm連装砲 × 2"
-						}
-					},
-					["item_name"] = "20.3cm(2号)連装砲"
-				}
 			}
 		},
 		["item_build"] = {
@@ -985,55 +703,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "扶桑",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"35.6cm連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 20,
-					["ammo"] = 240,
-					["steel"] = 300
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "6 / 12",
-						["remodelkit_num"] = "5 / 12",
-						["equipkit"] = {
-							"35.6cm連装砲 × 3"
-						}
-					},
-					["item_name"] = "試製35.6cm三連装砲"
-				}
 			}
 		},
 		["item_build"] = {
@@ -1196,68 +865,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "長門",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "陸奥",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"41cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 7",
-						["remodelkit_num"] = "3 / 6",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 30,
-					["ammo"] = 350,
-					["steel"] = 480
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "12 / 20",
-						["remodelkit_num"] = "10 / 15",
-						["equipkit"] = {
-							"46cm三連装砲 × 2",
-							"新型砲熕兵装資材 × 2"
-						}
-					},
-					["item_name"] = "試製41cm三連装砲"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
@@ -1279,7 +886,8 @@ k.EquipUpdateTb = {
 			"霧島改二(Lv75)",
 			"扶桑改二(Lv80)",
 			"山城改二(Lv80)",
-			"長門改二(Lv88)"
+			"長門改二(Lv88)",
+			"陸奥改二(Lv89)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/41cm_Twin_Gun_Mount"
@@ -1420,93 +1028,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大和",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "大和改",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵(改二不可)",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵改・改二",
-						["support_weeks"] = {
-							0,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"46cm三連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "5 / 8",
-						["equipkit"] = {
-							"46cm三連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 50,
-					["ammo"] = 480,
-					["steel"] = 800,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "18 / 36",
-						["remodelkit_num"] = "12 / 16",
-						["equipkit"] = {
-							"46cm三連装砲 × 4",
-							"新型砲熕兵装資材 × 2"
-						}
-					},
-					["item_name"] = "46cm三連装砲改"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
@@ -1622,80 +1143,6 @@ k.EquipUpdateTb = {
 				"+5.65",
 				"+6.00",
 				"+6.32"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "鈴谷",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "熊野",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					},
-					{
-						["support_ship"] = "摩耶改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"12.7cm連装高角砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"12.7cm連装高角砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 40,
-					["steel"] = 70,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "6 / 10",
-						["equipkit"] = {
-							"10cm連装高角砲 × 1"
-						}
-					},
-					["item_name"] = "8cm高角砲"
-				}
 			}
 		},
 		["item_build"] = {
@@ -1814,79 +1261,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "阿賀野",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "金剛",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					},
-					{
-						["support_ship"] = "山城",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"15.2cm単装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 60,
-					["steel"] = 90
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"15.2cm単装砲 × 2"
-						}
-					},
-					["item_name"] = "15.2cm連装砲"
-				}
 			}
 		},
 		["item_build"] = {
@@ -2043,80 +1417,6 @@ k.EquipUpdateTb = {
 				"+12.64"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大和",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "武蔵",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"15.5cm三連装副砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 90,
-					["steel"] = 120
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "8 / 12",
-						["remodelkit_num"] = "4 / 8",
-						["equipkit"] = {
-							"15.5cm三連装副砲 × 2",
-							"新型砲熕兵装資材 × 1"
-						}
-					},
-					["item_name"] = "15.5cm三連装副砲改"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -2210,68 +1510,6 @@ k.EquipUpdateTb = {
 				"+5.65",
 				"+6.00",
 				"+6.32"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "吹雪",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "叢雲",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"61cm三連装魚雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 50,
-					["ammo"] = 70,
-					["steel"] = 60,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"61cm三連装魚雷 × 2"
-						}
-					},
-					["item_name"] = "61cm三連装(酸素)魚雷"
-				}
 			}
 		},
 		["item_build"] = {
@@ -2393,56 +1631,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "-",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"61cm四連装魚雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 70,
-					["ammo"] = 100,
-					["steel"] = 70,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "3 / 6",
-						["equipkit"] = {
-							"61cm四連装魚雷 × 2"
-						}
-					},
-					["item_name"] = "61cm四連装(酸素)魚雷 ★3"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -2548,68 +1736,6 @@ k.EquipUpdateTb = {
 				"+5.65",
 				"+6.00",
 				"+6.32"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "北上",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "大井",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"61cm四連装(酸素)魚雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 80,
-					["ammo"] = 120,
-					["steel"] = 80,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 10",
-						["remodelkit_num"] = "5 / 11",
-						["equipkit"] = {
-							"61cm四連装(酸素)魚雷 × 3"
-						}
-					},
-					["item_name"] = "61cm五連装(酸素)魚雷"
-				}
 			}
 		},
 		["item_build"] = {
@@ -2847,55 +1973,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "鳳翔",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"九六式艦戦 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 4",
-						["remodelkit_num"] = "1 / 3",
-						["equipkit"] = {
-							"7.7mm機銃 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 70,
-					["ammo"] = 50,
-					["bauxite"] = 170
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "3 / 6",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"九六式艦戦 × 2"
-						}
-					},
-					["item_name"] = "零式艦戦21型 ★3"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
@@ -2960,67 +2037,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "赤城",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "加賀",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"零式艦戦21型 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"零式艦戦21型 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 80,
-					["bauxite"] = 250
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 7",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"7.7mm機銃 × 2"
-						}
-					},
-					["item_name"] = "零式艦戦32型 ★3"
-				}
 			}
 		},
 		["item_build"] = {
@@ -3095,66 +2111,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "翔鶴",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "瑞鶴",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"零式艦戦52型 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 120,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
@@ -3191,11 +2147,11 @@ k.EquipUpdateTb = {
 		["id"] = 22,
 		["no"] = "No.022",
 		["item_name"] = {
-			["zh"] = "烈风",
-			["ja"] = "烈風"
+			["zh"] = "试制烈风 后期型",
+			["ja"] = "試製烈風 後期型"
 		},
 		["item_type"] = "艦上戦闘機",
-		["item_intro"] = "名機「零戦」の後継機と開発された最新鋭艦上戦闘機「烈風」。用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を超えて、ついに完成した新型艦戦です。ぜひ、「流星」艦爆と共に、次世代の機動部隊艦載機部隊を編成して、空を制してくださいね！",
+		["item_intro"] = "名機「零戦」の後継機として開発された、最新鋭艦上戦闘機「烈風」。用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越えて、ついに完成した新型艦戦の試作機「試製烈風」。「零戦」を継ぐ次世代の我が主力艦上戦闘機、その先駆けたる試作量産機です。",
 		["item_stat"] = {
 			["火力"] = "",
 			["雷装"] = "",
@@ -3235,8 +2191,8 @@ k.EquipUpdateTb = {
 			"大鳳改(Lv40)",
 			"隼鷹改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Reppuu"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E7%83%88%E9%A2%A8%20%E5%BE%8C%E6%9C%9F%E5%9E%8B",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Reppuu_Late_Model"
 	},
 	["23"] = {
 		["id"] = 23,
@@ -3408,91 +2364,6 @@ k.EquipUpdateTb = {
 				"+3.79"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "千歳甲",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "千代田甲",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "秋津洲改",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "瑞穂",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"零式水上偵察機 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式水上偵察機 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 20,
-					["bauxite"] = 300
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "9 / 15",
-						["remodelkit_num"] = "5 / 10",
-						["equipkit"] = {
-							"零式艦戦21型 × 3"
-						}
-					},
-					["item_name"] = "二式水戦改"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
@@ -3574,80 +2445,6 @@ k.EquipUpdateTb = {
 				"+3.25",
 				"+3.45",
 				"+3.63"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊勢改(改二不可)",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "最上改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"瑞雲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"瑞雲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 160,
-					["ammo"] = 160,
-					["bauxite"] = 360
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "16 / 24",
-						["remodelkit_num"] = "7 / 10",
-						["equipkit"] = {
-							"瑞雲 × 2",
-							"熟練搭乗員 × 1"
-						}
-					},
-					["item_name"] = "瑞雲(六三四空)"
-				}
 			}
 		},
 		["item_build"] = {
@@ -3744,91 +2541,6 @@ k.EquipUpdateTb = {
 				"+4.74"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "時雨改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "五十鈴改二",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "秋月",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "照月",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"13号対空電探 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 20,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "5 / 12",
-						["equipkit"] = {
-							"21号対空電探 × 1"
-						}
-					},
-					["item_name"] = "13号対空電探改"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
@@ -3914,91 +2626,6 @@ k.EquipUpdateTb = {
 				"+3.53",
 				"+3.75",
 				"+3.95"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "日向",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							0,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "夕雲",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "島風",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"22号対水上電探 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "7 / 10",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"22号対水上電探 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 30,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 20",
-						["remodelkit_num"] = "8 / 14",
-						["equipkit"] = {
-							"22号対水上電探 × 3"
-						}
-					},
-					["item_name"] = "22号対水上電探改四"
-				}
 			}
 		},
 		["item_build"] = {
@@ -4092,66 +2719,6 @@ k.EquipUpdateTb = {
 				"+3.95"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "夕張改",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "黒潮改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "7 / 8",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"22号対水上電探 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 12",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"33号対水上電探 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 40,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
@@ -4238,91 +2805,6 @@ k.EquipUpdateTb = {
 				"+4.24",
 				"+4.50",
 				"+4.74"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊勢・伊勢改二",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "伊勢改",
-						["support_weeks"] = {
-							0,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "日向",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 6",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"21号対空電探 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 40,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "12 / 16",
-						["remodelkit_num"] = "5 / 13",
-						["equipkit"] = {
-							"21号対空電探 × 2"
-						}
-					},
-					["item_name"] = "21号対空電探改"
-				}
 			}
 		},
 		["item_build"] = {
@@ -4416,91 +2898,6 @@ k.EquipUpdateTb = {
 				"+4.42"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊勢・伊勢改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "伊勢改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "日向",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 10",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"22号対水上電探 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "12 / 15",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"22号対水上電探 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 60,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "15 / 22",
-						["remodelkit_num"] = "10 / 15",
-						["equipkit"] = {
-							"32号対水上電探 × 1"
-						}
-					},
-					["item_name"] = "32号対水上電探改"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
@@ -4588,66 +2985,6 @@ k.EquipUpdateTb = {
 				"+4.24",
 				"+4.50",
 				"+4.74"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "北上",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "酒匂",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "14 / 16",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"21号対空電探 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "20 / 45",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"13号対空電探改 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 140,
-					["bauxite"] = 120
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["item_build"] = {
@@ -4761,67 +3098,6 @@ k.EquipUpdateTb = {
 				"+4.74"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "島風",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "天津風",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "10 / 20",
-						["remodelkit_num"] = "5 / 8",
-						["equipkit"] = {
-							"改良型艦本式タービン × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "14 / 28",
-						["remodelkit_num"] = "7 / 9",
-						["equipkit"] = {
-							"強化型艦本式缶 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 240,
-					["steel"] = 600,
-					["bauxite"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "20 / 40",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"強化型艦本式缶 × 2"
-						}
-					},
-					["item_name"] = "新型高温高圧缶"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)・水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -4872,91 +3148,30 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1,
 			["航空巡洋艦"] = 1
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "金剛改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "比叡改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							0
-						}
-					},
-					{
-						["support_ship"] = "榛名改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "霧島改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "7 / 8",
-						["remodelkit_num"] = "4 / 4",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / ?",
-						["remodelkit_num"] = "5 / ?",
-						["equipkit"] = {
-							"三式弾 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 50,
-					["ammo"] = 120,
-					["steel"] = 210,
-					["bauxite"] = 170
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 16",
-						["remodelkit_num"] = "8 / 10",
-						["equipkit"] = {
-							"一式徹甲弾 × 1",
-							"新型砲熕兵装資材 × 1"
-						}
-					},
-					["item_name"] = "三式弾改"
-				}
+		["item_remodel"] = {
+			["火力"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
+			},
+			["夜戦火力"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
 			}
 		},
 		["item_build"] = {
@@ -4971,7 +3186,7 @@ k.EquipUpdateTb = {
 			"榛名改二(Lv80)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Shell"
+		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/Type_3_Shell"
 	},
 	["36"] = {
 		["id"] = 36,
@@ -5040,68 +3255,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "比叡",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "霧島",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"九一式徹甲弾 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 30,
-					["ammo"] = 150,
-					["steel"] = 310,
-					["bauxite"] = 10
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "4 / 9",
-						["equipkit"] = {
-							"九一式徹甲弾 × 3"
-						}
-					},
-					["item_name"] = "一式徹甲弾"
-				}
 			}
 		},
 		["item_build"] = {
@@ -5326,91 +3479,6 @@ k.EquipUpdateTb = {
 				"+?"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "皐月",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "文月",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "五十鈴改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					},
-					{
-						["support_ship"] = "鬼怒",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "0 / 1",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"25mm連装機銃 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["ammo"] = 20,
-					["steel"] = 10,
-					["bauxite"] = 10
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"25mm連装機銃 × 1"
-						}
-					},
-					["item_name"] = "25mm三連装機銃 ★3"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)・水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -5568,115 +3636,6 @@ k.EquipUpdateTb = {
 				"+?",
 				"+?",
 				"+?"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "皐月改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "村雨改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "五十鈴改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "摩耶",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "摩耶改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "鬼怒改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"25mm三連装機銃 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["ammo"] = 30,
-					["steel"] = 20,
-					["bauxite"] = 10
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "3 / 7",
-						["equipkit"] = {
-							"25mm三連装機銃 × 5"
-						}
-					},
-					["item_name"] = "25mm三連装機銃 集中配備"
-				}
 			}
 		},
 		["item_build"] = {
@@ -5935,56 +3894,6 @@ k.EquipUpdateTb = {
 				"+2.10"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "-",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 3",
-						["equipkit"] = {
-							"九四式爆雷投射機 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 60,
-					["steel"] = 20,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "3 / 6",
-						["remodelkit_num"] = "3 / 8",
-						["equipkit"] = {
-							"九四式爆雷投射機 × 2"
-						}
-					},
-					["item_name"] = "三式爆雷投射機 ★3"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -6087,91 +3996,6 @@ k.EquipUpdateTb = {
 				"+1.88",
 				"+2.00",
 				"+2.10"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "五十鈴改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "黒潮改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "日振",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "大東",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"三式爆雷投射機 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 80,
-					["steel"] = 20,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["item_build"] = {
@@ -6286,138 +4110,6 @@ k.EquipUpdateTb = {
 				"+4.24",
 				"+4.50",
 				"+4.74"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "夕張",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "五十鈴改二",
-						["support_weeks"] = {
-							0,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"九三式水中聴音機 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 30,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"九三式水中聴音機 × 2"
-						}
-					},
-					["item_name"] = "三式水中探信儀 ★3"
-				}
-			},
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "五十鈴改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							0
-						}
-					},
-					{
-						["support_ship"] = "時雨改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "香取改",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"九三式水中聴音機 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 30,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 20",
-						["remodelkit_num"] = "6 / 12",
-						["equipkit"] = {
-							"三式水中探信儀 × 2"
-						}
-					},
-					["item_name"] = "四式水中聴音機"
-				}
 			}
 		},
 		["item_build"] = {
@@ -6539,66 +4231,6 @@ k.EquipUpdateTb = {
 				"+4.24",
 				"+4.50",
 				"+4.74"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "夕張",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "五十鈴改二",
-						["support_weeks"] = {
-							1,
-							0,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"三式水中探信儀 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 30,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["item_build"] = {
@@ -6765,80 +4397,6 @@ k.EquipUpdateTb = {
 				"+?"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "皐月",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "文月",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "鬼怒",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "0 / 1",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"25mm単装機銃 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 10,
-					["steel"] = 10,
-					["bauxite"] = 10
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"25mm単装機銃 × 1"
-						}
-					},
-					["item_name"] = "25mm連装機銃 ★5"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)・水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -6939,54 +4497,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "三隈",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"20.3cm(3号)連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 110,
-					["steel"] = 140
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -7090,69 +4600,6 @@ k.EquipUpdateTb = {
 				"+?"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊勢改(改二不可)",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 6",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"12cm30連装噴進砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"12cm30連装噴進砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 270,
-					["steel"] = 50,
-					["bauxite"] = 180
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 30",
-						["remodelkit_num"] = "7 / 10",
-						["equipkit"] = {
-							"25mm三連装機銃 × 3",
-							"戦闘詳報 × 1"
-						}
-					},
-					["item_name"] = "12cm30連装噴進砲改二"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"雲龍(Lv1)",
 			"瑞鶴改(Lv25)",
@@ -7224,11 +4671,11 @@ k.EquipUpdateTb = {
 		["id"] = 53,
 		["no"] = "No.053",
 		["item_name"] = {
-			["zh"] = "烈风改",
-			["ja"] = "烈風改"
+			["zh"] = "烈风 一一型",
+			["ja"] = "烈風 一一型"
 		},
 		["item_type"] = "艦上戦闘機",
-		["item_intro"] = "名機「零戦」の後継機として開発された最新鋭艦上戦闘機「烈風」。その性能向上型が「烈風改」です。レシプロ艦上戦 闘機として、究極の領域まで高められた秘めた戦闘能力を、提督の艦隊の防空や制空でぜひ発揮させてくださいね。最近、数十年の時を越えて、設計図が発見されたニュースもありました！",
+		["item_intro"] = "名機「零戦」の後継機として開発された、最新鋭艦上戦闘機「烈風」。その制式採用された量産機を装備した、新鋭の艦上戦闘機部隊です。試製烈風からエンジンを換装強化、機体も熟成し、武装も20mm機銃四門と充実。次世代の制空戦闘隊で、機動部隊の直掩や海域の制空権を！",
 		["item_stat"] = {
 			["火力"] = "",
 			["雷装"] = "",
@@ -7258,8 +4705,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Reppuu_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%20%E4%B8%80%E4%B8%80%E5%9E%8B",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Model_11"
 	},
 	["54"] = {
 		["id"] = 54,
@@ -7524,55 +4971,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "島風",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "3 / 7",
-						["equipkit"] = {
-							"61cm五連装(酸素)魚雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 150,
-					["steel"] = 90,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"大井改二(Lv50)",
 			"北上改二(Lv50)",
@@ -7631,78 +5029,6 @@ k.EquipUpdateTb = {
 				"+3.39",
 				"+3.60",
 				"+3.79"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "瑞穂",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "武蔵改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"瑞雲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"零式水上観測機 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 40,
-					["bauxite"] = 270
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["item_build"] = {
@@ -7769,79 +5095,6 @@ k.EquipUpdateTb = {
 				"+2.00",
 				"+2.25",
 				"+2.50"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "隼鷹",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "翔鶴",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "鈴谷航改二",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"彗星 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 120,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "16 / 22",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"烈風 × 1"
-						}
-					},
-					["item_name"] = "零式艦戦63型(爆戦)"
-				}
 			}
 		},
 		["item_build"] = {
@@ -7954,55 +5207,6 @@ k.EquipUpdateTb = {
 				"火力+4",
 				"火力+5",
 				"火力+6"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "蒼龍",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"彗星 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"二式艦上偵察機 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 40,
-					["steel"] = 20,
-					["bauxite"] = 300
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["item_build"] = {
@@ -8148,79 +5352,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "夕立改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "綾波改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "江風改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"12.7cm連装砲B型改二 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 40,
-					["steel"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"12.7cm連装砲 × 3"
-						}
-					},
-					["item_name"] = "12.7cm連装砲C型改二"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"綾波改(Lv20)",
 			"春雨改(Lv30)",
@@ -8353,79 +5484,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "阿賀野",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "能代",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "矢矧",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"15.2cm連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 70,
-					["steel"] = 100
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "4 / 10",
-						["equipkit"] = {
-							"22号対水上電探 × 1"
-						}
-					},
-					["item_name"] = "15.2cm連装砲改"
-				}
 			}
 		},
 		["item_build"] = {
@@ -8563,104 +5621,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "阿賀野",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "能代",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "矢矧",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "鈴谷改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "熊野改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "3 / 3",
-						["equipkit"] = {
-							"10cm連装高角砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 40,
-					["steel"] = 80,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "8 / 16",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"25mm単装機銃 × 2"
-						}
-					},
-					["item_name"] = "8cm高角砲改＋増設機銃"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
@@ -8793,140 +5753,6 @@ k.EquipUpdateTb = {
 				"+0.40"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "あきつ丸",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "皐月改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "阿武隈改二",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"ドラム缶(輸送用) × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"7.7mm機銃 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 50,
-					["ammo"] = 30,
-					["steel"] = 30,
-					["bauxite"] = 10
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "3 / 7",
-						["equipkit"] = {
-							"12.7mm単装機銃 × 3"
-						}
-					},
-					["item_name"] = "大発動艇(八九式中戦車&陸戦隊)"
-				}
-			},
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "龍田改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "鬼怒改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"ドラム缶(輸送用) × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"7.7mm機銃 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 50,
-					["ammo"] = 30,
-					["steel"] = 30,
-					["bauxite"] = 10
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "8 / 16",
-						["remodelkit_num"] = "6 / 12",
-						["equipkit"] = {
-							"大発動艇 × 4"
-						}
-					},
-					["item_name"] = "特大発動艇"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"あきつ丸(Lv1)",
 			"霰改二(Lv63)",
@@ -8979,6 +5805,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"武蔵改二",
+				"陸奥改二",
 				"日進改"
 			}
 		},
@@ -9070,7 +5897,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"大淀(Lv1)",
 			"大鳳改(Lv40)",
-			"長門改二(Lv88)"
+			"長門改二(Lv88)",
+			"陸奥改二(Lv89)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E7%A0%B2%E6%9E%B6%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_%28Carriage%29"
@@ -9166,78 +5994,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Верный",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "酒匂",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Zara due",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "7 / 9",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"増設バルジ(中型艦) × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "18 / 24",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"増設バルジ(中型艦) × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 70,
-					["steel"] = 770
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "28 / 35",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"増設バルジ(中型艦) × 3"
-						}
-					},
-					["item_name"] = "艦本新設計 増設バルジ(中型艦)"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
@@ -9306,102 +6062,6 @@ k.EquipUpdateTb = {
 				"+3.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "長門",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "陸奥",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							0
-						}
-					},
-					{
-						["support_ship"] = "大和",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "武蔵改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"増設バルジ(中型艦) × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "20 / 30",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"増設バルジ(大型艦) × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 80,
-					["steel"] = 880
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "32 / 48",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"増設バルジ(大型艦) × 2"
-						}
-					},
-					["item_name"] = "艦本新設計 増設バルジ(大型艦)"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
@@ -9409,7 +6069,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"長門改二(Lv88)"
+			"長門改二(Lv88)",
+			"陸奥改二(Lv89)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Anti-torpedo_Bulge_%28Large%29"
@@ -9497,115 +6158,6 @@ k.EquipUpdateTb = {
 				"-?%",
 				"-?%",
 				"-?%"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "暁",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "神通",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "鳥海",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "青葉",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "綾波",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "秋雲",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							0,
-							0,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"探照灯 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 30,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 10",
-						["remodelkit_num"] = "3 / 7",
-						["equipkit"] = {
-							"熟練見張員 × 1"
-						}
-					},
-					["item_name"] = "96式150cm探照灯"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -9811,56 +6363,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Bismarck",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"35.6cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"35.6cm連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 20,
-					["ammo"] = 380,
-					["steel"] = 450,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 20",
-						["remodelkit_num"] = "6 / 13",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					},
-					["item_name"] = "38cm連装砲改 ★3"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Bismarck(Lv1)",
 			"Bismarck改(Lv30)",
@@ -10034,66 +6536,6 @@ k.EquipUpdateTb = {
 				"+3.25",
 				"+3.45",
 				"+3.63"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊勢改(改二不可)",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "5 / 6",
-						["equipkit"] = {
-							"瑞雲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "7 / 10",
-						["remodelkit_num"] = "6 / 8",
-						["equipkit"] = {
-							"瑞雲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 180,
-					["ammo"] = 180,
-					["bauxite"] = 480
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -10461,66 +6903,6 @@ k.EquipUpdateTb = {
 				"+4.74"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "島風",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							1,
-							0
-						}
-					},
-					{
-						["support_ship"] = "天津風改",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "15 / 30",
-						["remodelkit_num"] = "8 / 10",
-						["equipkit"] = {
-							"改良型艦本式タービン × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "16 / 32",
-						["remodelkit_num"] = "9 / 12",
-						["equipkit"] = {
-							"強化型艦本式缶 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 300,
-					["steel"] = 750,
-					["bauxite"] = 100
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"天津風改(Lv20)",
 			"武蔵改二(Lv89)"
@@ -10582,78 +6964,6 @@ k.EquipUpdateTb = {
 				"+3.53",
 				"+3.75",
 				"+3.95"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "妙高改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "羽黒改二",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "金剛改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							1,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"22号対水上電探 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "4 / 8",
-						["equipkit"] = {
-							"22号対水上電探改四 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 40,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -10738,78 +7048,6 @@ k.EquipUpdateTb = {
 				"+4.24",
 				"+4.50",
 				"+4.74"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大和",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"21号対空電探 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 12",
-						["remodelkit_num"] = "4 / 8",
-						["equipkit"] = {
-							"21号対空電探 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 60,
-					["bauxite"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -10899,67 +7137,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "妙高",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "衣笠改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 4",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"20.3cm(2号)連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 100,
-					["steel"] = 130
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "4 / 11",
-						["equipkit"] = {
-							"20.3cm(2号)連装砲 × 1"
-						}
-					},
-					["item_name"] = "20.3cm(3号)連装砲"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -11076,67 +7253,6 @@ k.EquipUpdateTb = {
 				"+5.65",
 				"+6.00",
 				"+6.32"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "那珂改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "天龍改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"12.7cm連装高角砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"12.7cm連装高角砲(後期型) × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 50,
-					["steel"] = 80,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -11368,67 +7484,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "赤城",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "加賀",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"零式艦戦21型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 5",
-						["equipkit"] = {
-							"零式艦戦21型 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 80,
-					["bauxite"] = 250
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 7",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"7.7mm機銃 × 3"
-						}
-					},
-					["item_name"] = "零式艦戦32型(熟練) ★3"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -11694,54 +7749,6 @@ k.EquipUpdateTb = {
 				"+3.79"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "川内改二",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 7",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"零式水上偵察機 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "4 / 8",
-						["equipkit"] = {
-							"零式水上偵察機 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 30,
-					["bauxite"] = 480
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"川内改二(Lv60)"
 		},
@@ -11882,91 +7889,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "金剛改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "榛名改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							0
-						}
-					},
-					{
-						["support_ship"] = "扶桑改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "山城改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"35.6cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"35.6cm連装砲 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 30,
-					["ammo"] = 330,
-					["steel"] = 390,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -12111,55 +8033,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "榛名改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							0,
-							0,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"35.6cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"35.6cm連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 30,
-					["ammo"] = 250,
-					["steel"] = 300,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"榛名改二(Lv80)"
 		},
@@ -12302,74 +8175,12 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "長門改",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "陸奥改",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "5 / 8",
-						["equipkit"] = {
-							"41cm連装砲 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 40,
-					["ammo"] = 440,
-					["steel"] = 620,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "15 / 30",
-						["remodelkit_num"] = "12 / 16",
-						["equipkit"] = {
-							"46cm三連装砲 × 2",
-							"新型砲熕兵装資材 × 2"
-						}
-					},
-					["item_name"] = "41cm三連装砲改"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"扶桑改二(Lv80)",
 			"山城改二(Lv80)",
+			"伊勢改二(Lv88)",
 			"長門改二(Lv88)",
-			"伊勢改二(Lv88)"
+			"陸奥改二(Lv89)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_41cm_Triple_Gun_Mount"
@@ -12441,78 +8252,6 @@ k.EquipUpdateTb = {
 				"+4.24",
 				"+4.50",
 				"+4.74"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "磯風改(乙改不可)",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "初霜改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "雪風",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"13号対空電探 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "7 / 9",
-						["remodelkit_num"] = "4 / 8",
-						["equipkit"] = {
-							"13号対空電探 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 30,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -12679,66 +8418,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大鳳",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "雲龍",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"天山 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 120,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -13048,55 +8727,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Bismarck",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"41cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 30,
-					["ammo"] = 390,
-					["steel"] = 470,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Bismarck",
 			"drei(Lv75)"
@@ -13218,67 +8848,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "金剛",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "榛名",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"九一式徹甲弾 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"一式徹甲弾 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 30,
-					["ammo"] = 170,
-					["steel"] = 330,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -13423,68 +8992,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大和",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"41cm連装砲 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 40,
-					["ammo"] = 420,
-					["steel"] = 650,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "12 / 18",
-						["remodelkit_num"] = "8 / 14",
-						["equipkit"] = {
-							"41cm連装砲 × 4"
-						}
-					},
-					["item_name"] = "46cm三連装砲 ★5"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -13610,54 +9117,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "夕張",
-						["support_weeks"] = {
-							0,
-							1,
-							0,
-							0,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"14cm連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 60,
-					["steel"] = 100
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"日進(Lv1)",
 			"香取(Lv1)",
@@ -13763,78 +9222,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "秋月",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "照月",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "摩耶",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"12.7cm連装高角砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["steel"] = 60,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 9",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					},
-					["item_name"] = "94式高射装置"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"初霜改二(Lv70)"
 		},
@@ -13932,148 +9319,6 @@ k.EquipUpdateTb = {
 				"+5.65",
 				"+6.00",
 				"+6.32"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "秋月",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "照月",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "涼月",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "初月",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "吹雪改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"10cm連装高角砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["steel"] = 80,
-					["bauxite"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "5 / 10",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					},
-					["item_name"] = "10cm高角砲＋高射装置"
-				}
-			},
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "摩耶改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"12.7cm連装高角砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["steel"] = 80,
-					["bauxite"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "7 / 9",
-						["remodelkit_num"] = "5 / 9",
-						["equipkit"] = {
-							"12.7cm連装高角砲 × 2"
-						}
-					},
-					["item_name"] = "12.7cm高角砲＋高射装置"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -14184,91 +9429,6 @@ k.EquipUpdateTb = {
 				"+8.48",
 				"+9.00",
 				"+9.48"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "秋月",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "照月",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "涼月",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "初月",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 7",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 60,
-					["steel"] = 150,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -14454,56 +9614,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "吹雪改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "1 / 3",
-						["equipkit"] = {
-							"61cm三連装魚雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 60,
-					["ammo"] = 90,
-					["steel"] = 60,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "3 / 6",
-						["equipkit"] = {
-							"61cm四連装魚雷 × 2"
-						}
-					},
-					["item_name"] = "61cm四連装(酸素)魚雷 ★5"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"初春改(Lv20)",
 			"子日改(Lv20)",
@@ -14557,7 +9667,8 @@ k.EquipUpdateTb = {
 			["海防艦"] = 1,
 			["extra"] = {
 				"大鯨型",
-				"神威改母"
+				"神威改母",
+				"陸奥改二"
 			}
 		},
 		["equip_ships"] = {
@@ -14671,67 +9782,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大和改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵改(改二不可)",
-						["support_weeks"] = {
-							0,
-							1,
-							0,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "7 / 9",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"46cm三連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "7 / 10",
-						["equipkit"] = {
-							"46cm三連装砲 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 50,
-					["ammo"] = 550,
-					["steel"] = 950,
-					["bauxite"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -14924,66 +9974,6 @@ k.EquipUpdateTb = {
 				"+?"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "摩耶改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "鬼怒改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"25mm三連装機銃 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"25mm三連装機銃 × 5"
-						}
-					}
-				},
-				["base_cost"] = {
-					["ammo"] = 90,
-					["steel"] = 90,
-					["bauxite"] = 150
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"皐月改二(Lv75)",
 			"摩耶改二(Lv75)",
@@ -15170,68 +10160,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Littorio",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							1,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Roma",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"35.6cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"35.6cm連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 30,
-					["ammo"] = 400,
-					["steel"] = 480,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "12 / 22",
-						["remodelkit_num"] = "7 / 14",
-						["equipkit"] = {
-							"25mm連装機銃 × 2"
-						}
-					},
-					["item_name"] = "381mm/50 三連装砲改 ★3"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Littorio(Lv1)",
 			"Roma(Lv1)"
@@ -15314,66 +10242,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Littorio",
-						["support_weeks"] = {
-							1,
-							0,
-							1,
-							1,
-							0,
-							0,
-							1
-						}
-					},
-					{
-						["support_ship"] = "Roma",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							1,
-							1,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"15.5cm三連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 90,
-					["steel"] = 120
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -15484,67 +10352,6 @@ k.EquipUpdateTb = {
 				"+8.48",
 				"+9.00",
 				"+9.48"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Littorio",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Roma",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"10cm連装高角砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 20,
-					["steel"] = 70,
-					["bauxite"] = 10
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -15738,67 +10545,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Littorio",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					},
-					{
-						["support_ship"] = "Roma",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							1,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"41cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "7 / 10",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 40,
-					["ammo"] = 440,
-					["steel"] = 500,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Italia(Lv35)",
 			"Roma改(Lv35)"
@@ -15915,67 +10661,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "矢矧",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "酒匂",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"15.2cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 6",
-						["equipkit"] = {
-							"15.2cm連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 20,
-					["ammo"] = 80,
-					["steel"] = 100,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -16072,66 +10757,6 @@ k.EquipUpdateTb = {
 				"-?%"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "比叡",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "霧島",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							1,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"探照灯 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 10",
-						["remodelkit_num"] = "3 / 7",
-						["equipkit"] = {
-							"探照灯 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 20,
-					["steel"] = 70,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -16199,90 +10824,6 @@ k.EquipUpdateTb = {
 				"+3.95",
 				"+4.20",
 				"+4.42"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊勢・伊勢改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "伊勢改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "日向",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "5 / 6",
-						["equipkit"] = {
-							"22号対水上電探 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "14 / 18",
-						["remodelkit_num"] = "7 / 10",
-						["equipkit"] = {
-							"32号対水上電探 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 100,
-					["bauxite"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -16449,66 +10990,6 @@ k.EquipUpdateTb = {
 			["正規空母"] = 1,
 			["水上機母艦"] = 1,
 			["航空戦艦"] = 1
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "長波",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "阿賀野",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "0 / 0",
-						["equipkit"] = {
-							"戦闘糧食 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["bauxite"] = 5
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "1 / 3",
-						["remodelkit_num"] = "0 / 1",
-						["equipkit"] = {
-							"戦闘糧食 × 1"
-						}
-					},
-					["item_name"] = "戦闘糧食(特別なおにぎり)"
-				}
-			}
 		},
 		["equip_ships"] = {
 			"-"
@@ -16734,90 +11215,6 @@ k.EquipUpdateTb = {
 				"+4.74"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "五十鈴改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "香取改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "秋月",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "照月",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"九三式水中聴音機 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 10",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"四式水中聴音機 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["steel"] = 50,
-					["bauxite"] = 60
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -16910,68 +11307,6 @@ k.EquipUpdateTb = {
 				"+3.79"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "翔鶴改二甲",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "瑞鶴改二甲",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "6 / 8",
-						["equipkit"] = {
-							"流星 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "7 / 10",
-						["equipkit"] = {
-							"烈風 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 250,
-					["ammo"] = 100,
-					["steel"] = 700,
-					["bauxite"] = 650
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "20 / 30",
-						["remodelkit_num"] = "10 / 13",
-						["equipkit"] = {
-							"ネ式エンジン × 1"
-						}
-					},
-					["item_name"] = "噴式景雲改"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -17025,66 +11360,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "翔鶴",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "瑞鶴",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦52型 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 120,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -17142,54 +11417,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "瑞鶴",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							0,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦52型 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 120,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -17242,54 +11469,6 @@ k.EquipUpdateTb = {
 				"+2.00",
 				"+2.25",
 				"+2.50"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "瑞鶴",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							0,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"彗星 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 120,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -17388,54 +11567,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "瑞鶴",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦52型 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 120,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -17489,54 +11620,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "瑞鶴",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦52型 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 120,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -17813,56 +11896,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Iowa",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "6 / 8",
-						["equipkit"] = {
-							"41cm連装砲 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "16 / 24",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"46cm三連装砲 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 45,
-					["ammo"] = 450,
-					["steel"] = 750,
-					["bauxite"] = 100
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "20 / 28",
-						["remodelkit_num"] = "12 / 20",
-						["equipkit"] = {
-							"32号対水上電探 × 2"
-						}
-					},
-					["item_name"] = "16inch三連装砲Mk.7+GFCS"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Iowa(Lv1)",
 			"Iowa改(Lv50)"
@@ -17945,54 +11978,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Zara due",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"20.3cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"20.3cm(2号)連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 180,
-					["steel"] = 190
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Zara(Lv1)",
 			"Pola(Lv1)",
@@ -18054,91 +12039,6 @@ k.EquipUpdateTb = {
 				"+3.39",
 				"+3.60",
 				"+3.79"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Zara改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							1,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Italia",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					},
-					{
-						["support_ship"] = "Roma改",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Zara due",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"零式水上偵察機 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"瑞雲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 60,
-					["ammo"] = 30,
-					["bauxite"] = 180
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 10",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式水上偵察機 × 2"
-						}
-					},
-					["item_name"] = "Ro.44水上戦闘機"
-				}
 			}
 		},
 		["item_build"] = {
@@ -18213,55 +12113,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Zara due",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"瑞雲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "9 / 14",
-						["remodelkit_num"] = "5 / 6",
-						["equipkit"] = {
-							"瑞雲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 70,
-					["ammo"] = 50,
-					["bauxite"] = 220
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "24 / 40",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"Ro.44水上戦闘機 × 1"
-						}
-					},
-					["item_name"] = "Ro.44水上戦闘機bis"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Pola改(Lv40)",
 			"Zara",
@@ -18325,55 +12176,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "瑞穂",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "5 / 6",
-						["equipkit"] = {
-							"零式艦戦21型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "7 / 8",
-						["equipkit"] = {
-							"零式水上偵察機 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 110,
-					["ammo"] = 80,
-					["bauxite"] = 360
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "8 / 12",
-						["remodelkit_num"] = "9 / 16",
-						["equipkit"] = {
-							"瑞雲 × 2"
-						}
-					},
-					["item_name"] = "強風改"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -18455,80 +12257,6 @@ k.EquipUpdateTb = {
 				"+0.44"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "あきつ丸",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "皐月改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "阿武隈改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"25mm単装機銃 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"12cm30連装噴進砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 70,
-					["ammo"] = 80,
-					["steel"] = 120,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 18",
-						["remodelkit_num"] = "5 / 9",
-						["equipkit"] = {
-							"7.7mm機銃 × 3"
-						}
-					},
-					["item_name"] = "特二式内火艇"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -18606,79 +12334,6 @@ k.EquipUpdateTb = {
 				"+0.64",
 				"+0.72",
 				"+0.80"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊58",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "伊8",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "伊401",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"7.7mm機銃 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 12",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"12.7mm単装機銃 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 80,
-					["ammo"] = 90,
-					["steel"] = 100,
-					["bauxite"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -18991,67 +12646,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "龍田改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "神風改",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"61cm三連装魚雷 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "2 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"61cm四連装(酸素)魚雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 40,
-					["ammo"] = 60,
-					["steel"] = 40,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"神風(Lv1)",
 			"朝風(Lv1)",
@@ -19131,68 +12725,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "あきつ丸",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "春日丸",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 7",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"零式艦戦21型 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦32型 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 150,
-					["bauxite"] = 330
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "12 / 20",
-						["remodelkit_num"] = "6 / 10",
-						["equipkit"] = {
-							"零式艦戦52型 × 3",
-							"新型航空兵装資材 × 1"
-						}
-					},
-					["item_name"] = "三式戦 飛燕一型丁"
-				}
 			}
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95",
@@ -19337,67 +12869,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "島風",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					},
-					{
-						["support_ship"] = "初月",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "5 / 6",
-						["equipkit"] = {
-							"61cm四連装(酸素)魚雷 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "9 / 12",
-						["remodelkit_num"] = "6 / 12",
-						["equipkit"] = {
-							"61cm五連装(酸素)魚雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 180,
-					["steel"] = 120,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -19479,67 +12950,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "赤城",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "加賀",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"零式艦戦21型 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"零式艦戦21型 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 100,
-					["bauxite"] = 260
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦32型 × 1"
-						}
-					},
-					["item_name"] = "零式艦戦52型 ★3"
-				}
-			}
-		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
@@ -19602,67 +13012,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "赤城",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "加賀",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"零式艦戦21型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦21型 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 100,
-					["bauxite"] = 260
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 8",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦32型 × 2"
-						}
-					},
-					["item_name"] = "零式艦戦52型(熟練) ★3"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -19808,55 +13157,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Iowa",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "16 / 24",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"22号対水上電探 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "16 / 24",
-						["remodelkit_num"] = "8 / 16",
-						["equipkit"] = {
-							"32号対水上電探 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 45,
-					["ammo"] = 500,
-					["steel"] = 770,
-					["bauxite"] = 500
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -19910,57 +13210,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Aquila",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"零式艦戦21型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "7 / 9",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 140,
-					["steel"] = 10,
-					["bauxite"] = 350
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"九九式艦爆 × 4",
-							"新型航空兵装資材 × 1"
-						}
-					},
-					["item_name"] = "Re.2001 CB改"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -20267,55 +13516,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Warspite",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"35.6cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 24,
-					["ammo"] = 280,
-					["steel"] = 380
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "8 / 15",
-						["remodelkit_num"] = "6 / 12",
-						["equipkit"] = {
-							"25mm単装機銃 × 2"
-						}
-					},
-					["item_name"] = "38.1cm Mk.I/N連装砲改"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Warspite(Lv1)",
 			"Warspite改(Lv75)"
@@ -20508,55 +13708,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Warspite",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							1,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"41cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "4 / 7",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 28,
-					["ammo"] = 320,
-					["steel"] = 420,
-					["bauxite"] = 40
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -20621,67 +13772,6 @@ k.EquipUpdateTb = {
 				"+0.40%",
 				"+0.45%",
 				"+0.50%"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "あきつ丸",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "鬼怒改二",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"ドラム缶(輸送用) × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"大発動艇 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 70,
-					["ammo"] = 80,
-					["steel"] = 120,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -20870,79 +13960,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Saratoga",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "Saratoga改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "Saratoga Mk.II",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 6",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"九六式艦戦 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 90,
-					["bauxite"] = 270
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"12.7mm単装機銃 × 2"
-						}
-					},
-					["item_name"] = "F4F-4"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Saratoga(Lv1)"
 		},
@@ -20996,79 +14013,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Saratoga",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Saratoga改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Saratoga Mk.II",
-						["support_weeks"] = {
-							0,
-							1,
-							0,
-							0,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 6",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"零式艦戦21型 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 8",
-						["remodelkit_num"] = "3 / 6",
-						["equipkit"] = {
-							"零式艦戦32型 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 120,
-					["bauxite"] = 300
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "8 / 16",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["item_name"] = "F6F-3"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -21185,67 +14129,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "赤城改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "加賀改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 12",
-						["remodelkit_num"] = "6 / 8",
-						["equipkit"] = {
-							"瑞雲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 160,
-					["ammo"] = 180,
-					["bauxite"] = 360
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "12 / 18",
-						["remodelkit_num"] = "7 / 12",
-						["equipkit"] = {
-							"紫電改二 × 2"
-						}
-					},
-					["item_name"] = "紫電二一型 紫電改"
-				}
 			}
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%B8%80%E4%B8%80%E5%9E%8B",
@@ -21371,54 +14254,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Zara due",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "16 / 24",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"増設バルジ(中型艦) × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "28 / 35",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"増設バルジ(中型艦) × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 170,
-					["steel"] = 870,
-					["bauxite"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -21480,78 +14315,6 @@ k.EquipUpdateTb = {
 				"+3.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大和",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							0,
-							1
-						}
-					},
-					{
-						["support_ship"] = "武蔵",
-						["support_weeks"] = {
-							1,
-							0,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "20 / 30",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"増設バルジ(大型艦) × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "32 / 48",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"増設バルジ(大型艦) × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 180,
-					["steel"] = 980,
-					["bauxite"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -21607,79 +14370,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Saratoga改",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Saratoga Mk.II",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Saratoga Mk.II Mod.2",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 7",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦52型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "6 / 8",
-						["equipkit"] = {
-							"紫電改二 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 160,
-					["ammo"] = 180,
-					["bauxite"] = 380
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "12 / 18",
-						["remodelkit_num"] = "8 / 16",
-						["equipkit"] = {
-							"紫電改二 × 2"
-						}
-					},
-					["item_name"] = "F6F-5"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Intrepid(Lv1)"
 		},
@@ -21733,66 +14423,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Saratoga Mk.II",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Saratoga Mk.II Mod.2",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "6 / 7",
-						["equipkit"] = {
-							"紫電改二 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "12 / 16",
-						["remodelkit_num"] = "8 / 12",
-						["equipkit"] = {
-							"烈風 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 200,
-					["ammo"] = 250,
-					["bauxite"] = 450
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -21974,55 +14604,6 @@ k.EquipUpdateTb = {
 				"+?%",
 				"+?%",
 				"+?%"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊401改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "20 / 24",
-						["remodelkit_num"] = "7 / 9",
-						["equipkit"] = {
-							"22号対水上電探 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "30 / 40",
-						["remodelkit_num"] = "8 / 10",
-						["equipkit"] = {
-							"熟練見張員 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 80,
-					["ammo"] = 90,
-					["steel"] = 100,
-					["bauxite"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -22218,54 +14799,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Zara due",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 14",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"瑞雲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "14 / 18",
-						["remodelkit_num"] = "6 / 7",
-						["equipkit"] = {
-							"Ro.44水上戦闘機 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 80,
-					["ammo"] = 60,
-					["bauxite"] = 280
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -22329,54 +14862,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "瑞穂",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 6",
-						["remodelkit_num"] = "7 / 8",
-						["equipkit"] = {
-							"零式艦戦32型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "8 / 10",
-						["equipkit"] = {
-							"瑞雲 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 110,
-					["ammo"] = 100,
-					["bauxite"] = 390
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -22438,66 +14923,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "瑞穂",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "鈴谷改二(航不可)",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "10 / 12",
-						["remodelkit_num"] = "6 / 8",
-						["equipkit"] = {
-							"紫電改二 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "12 / 17",
-						["remodelkit_num"] = "7 / 11",
-						["equipkit"] = {
-							"紫電改二 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 130,
-					["ammo"] = 80,
-					["bauxite"] = 300
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -22580,66 +15005,6 @@ k.EquipUpdateTb = {
 				"+2.00",
 				"+2.25",
 				"+2.50"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "鈴谷航改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "熊野航改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							1,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 6",
-						["remodelkit_num"] = "4 / 6",
-						["equipkit"] = {
-							"零式艦戦52型 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"烈風 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 130,
-					["ammo"] = 140,
-					["bauxite"] = 290
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -22763,91 +15128,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "矢矧",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "酒匂",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "鈴谷改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "熊野改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 15",
-						["remodelkit_num"] = "6 / 8",
-						["equipkit"] = {
-							"25mm単装機銃 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 70,
-					["steel"] = 100,
-					["bauxite"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -22893,81 +15173,6 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "あきつ丸",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "春日丸",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "神威",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"九六式艦戦 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"零式艦戦21型 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 120,
-					["steel"] = 10,
-					["bauxite"] = 270
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"12.7mm単装機銃 × 3",
-							"新型航空兵装資材 × 1"
-						}
-					},
-					["item_name"] = "一式戦 隼III型甲"
-				}
-			}
-		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_II"
 	},
@@ -23008,79 +15213,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "あきつ丸",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "春日丸",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "神威",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 6",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"零式艦戦52型 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "6 / 7",
-						["equipkit"] = {
-							"烈風 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 130,
-					["ammo"] = 200,
-					["steel"] = 20,
-					["bauxite"] = 330
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2",
@@ -23217,92 +15349,6 @@ k.EquipUpdateTb = {
 				"+1.88",
 				"+2.00",
 				"+2.10"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "那珂改二",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "神風",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "占守",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "択捉",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "1 / 1",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"九五式爆雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 90,
-					["steel"] = 10,
-					["bauxite"] = 60
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "5 / 9",
-						["remodelkit_num"] = "3 / 6",
-						["equipkit"] = {
-							"九五式爆雷 × 2"
-						}
-					},
-					["item_name"] = "二式爆雷"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -23511,79 +15557,6 @@ k.EquipUpdateTb = {
 				"+5.65",
 				"+6.00",
 				"+6.32"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "由良改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "択捉改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "日振改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 2",
-						["equipkit"] = {
-							"12.7cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 5",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"12.7cm単装高角砲(後期型) × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 50,
-					["steel"] = 40,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -24026,68 +15999,6 @@ k.EquipUpdateTb = {
 				"+12.64"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大和改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "武蔵改(改二不可)",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 7",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"15.5cm三連装副砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"15.5cm三連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 15,
-					["ammo"] = 120,
-					["steel"] = 150,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "9 / 10",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"15.5cm三連装砲 × 1"
-						}
-					},
-					["item_name"] = "15.5cm三連装砲改 ★7"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -24181,56 +16092,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大淀改",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 7",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"15.5cm三連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"15.5cm三連装副砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 15,
-					["ammo"] = 120,
-					["steel"] = 150,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "9 / 10",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"15.5cm三連装副砲 × 1"
-						}
-					},
-					["item_name"] = "15.5cm三連装副砲改 ★7"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -24376,70 +16237,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "長門改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "陸奥改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "6 / 7",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 12",
-						["remodelkit_num"] = "7 / 10",
-						["equipkit"] = {
-							"46cm三連装砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 45,
-					["ammo"] = 450,
-					["steel"] = 700,
-					["bauxite"] = 45
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "30 / 48",
-						["remodelkit_num"] = "14 / 20",
-						["equipkit"] = {
-							"試製41cm三連装砲 × 1",
-							"× 3",
-							"× 1"
-						}
-					},
-					["item_name"] = "41cm三連装砲改二"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -24512,54 +16309,6 @@ k.EquipUpdateTb = {
 				"+3.25",
 				"+3.45",
 				"+3.63"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "6 / 7",
-						["equipkit"] = {
-							"瑞雲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 16",
-						["remodelkit_num"] = "7 / 9",
-						["equipkit"] = {
-							"瑞雲 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 190,
-					["ammo"] = 190,
-					["bauxite"] = 490
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -24997,57 +16746,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Richelieu",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "12 / 14",
-						["remodelkit_num"] = "6 / 7",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "16 / 18",
-						["remodelkit_num"] = "8 / 9",
-						["equipkit"] = {
-							"41cm連装砲 × 4"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 420,
-					["steel"] = 660,
-					["bauxite"] = 100
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "20 / 40",
-						["remodelkit_num"] = "13 / 17",
-						["equipkit"] = {
-							"46cm三連装砲 × 2",
-							"新型砲熕兵装資材 × 2"
-						}
-					},
-					["item_name"] = "38cm四連装砲改"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Richelieu(Lv1)"
 		},
@@ -25191,55 +16889,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Richelieu改",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "16 / 18",
-						["remodelkit_num"] = "7 / 8",
-						["equipkit"] = {
-							"41cm連装砲 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "20 / 24",
-						["remodelkit_num"] = "8 / 10",
-						["equipkit"] = {
-							"試製35.6cm三連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 180,
-					["ammo"] = 480,
-					["steel"] = 800,
-					["bauxite"] = 180
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Richelieu改(Lv45)"
 		},
@@ -25320,55 +16969,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Richelieu",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "6 / 6",
-						["equipkit"] = {
-							"15.5cm三連装副砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 15",
-						["remodelkit_num"] = "7 / 8",
-						["equipkit"] = {
-							"22号対水上電探 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 15,
-					["ammo"] = 150,
-					["steel"] = 150,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -25498,80 +17098,6 @@ k.EquipUpdateTb = {
 				"+1.6",
 				"+1.8",
 				"+2.0"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Warspite",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "Ark Royal",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "Jervis",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 6",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"九六式艦戦 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "2 / 4",
-						["equipkit"] = {
-							"零式艦戦21型 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 130,
-					["bauxite"] = 360
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "9 / 16",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"零式艦戦32型 × 2",
-							"新型航空兵装資材 × 1"
-						}
-					},
-					["item_name"] = "Spitfire Mk.V"
-				}
 			}
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.I",
@@ -26186,93 +17712,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "満潮改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "荒潮改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "村雨改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "雪風改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"12.7cm連装砲 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"12.7cm連装砲B型改二 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 50,
-					["steel"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "6 / 10",
-						["remodelkit_num"] = "4 / 8",
-						["equipkit"] = {
-							"22号対水上電探 × 2",
-							"× 1",
-							"× 1"
-						}
-					},
-					["item_name"] = "12.7cm連装砲D型改二"
-				}
-			}
-		},
 		["equip_ships"] = {
 			"霰改二(Lv63)",
 			"村雨改二(Lv70)",
@@ -26362,67 +17801,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "長波改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "夕雲改",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 7",
-						["remodelkit_num"] = "5 / 6",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "7 / 10",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"12.7cm連装砲C型改二 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 20,
-					["ammo"] = 70,
-					["steel"] = 90,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -26813,79 +18191,6 @@ k.EquipUpdateTb = {
 				"+?"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊勢改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "日向改",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "伊勢改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							0,
-							0,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 7",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"25mm三連装機銃 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "7 / 15",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"12cm30連装噴進砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 90,
-					["ammo"] = 300,
-					["steel"] = 90,
-					["bauxite"] = 190
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -26999,67 +18304,6 @@ k.EquipUpdateTb = {
 				"+8.48",
 				"+9.00",
 				"+9.48"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大淀改",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "武蔵改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "7 / 8",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 16",
-						["remodelkit_num"] = "6 / 8",
-						["equipkit"] = {
-							"25mm三連装機銃 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 90,
-					["steel"] = 170,
-					["bauxite"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -27203,67 +18447,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "大和改",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "武蔵改・改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "5 / 6",
-						["equipkit"] = {
-							"25mm三連装機銃 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "9 / 16",
-						["remodelkit_num"] = "8 / 9",
-						["equipkit"] = {
-							"46cm三連装砲 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 50,
-					["ammo"] = 490,
-					["steel"] = 860,
-					["bauxite"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -27483,55 +18666,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Jervis",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "6 / 7",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"12.7cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "7 / 8",
-						["remodelkit_num"] = "6 / 7",
-						["equipkit"] = {
-							"12.7cm連装砲B型改二 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 20,
-					["ammo"] = 60,
-					["steel"] = 80,
-					["bauxite"] = 20
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Jervis(Lv1)",
 			"Jervis改(Lv45)"
@@ -27615,55 +18749,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "武蔵改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "20 / 25",
-						["remodelkit_num"] = "7 / 8",
-						["equipkit"] = {
-							"41cm連装砲 × 4"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "25 / 50",
-						["remodelkit_num"] = "10 / 13",
-						["equipkit"] = {
-							"46cm三連装砲 × 4"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 100,
-					["ammo"] = 700,
-					["steel"] = 950,
-					["bauxite"] = 200
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -27751,55 +18836,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Ташкент",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "5 / 6",
-						["equipkit"] = {
-							"12.7cm連装砲 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "9 / 13",
-						["remodelkit_num"] = "7 / 9",
-						["equipkit"] = {
-							"14cm単装砲 × 4"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 40,
-					["ammo"] = 90,
-					["steel"] = 190,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Ташкент(Lv1)",
 			"Ташкент改(Lv50)"
@@ -27882,55 +18918,6 @@ k.EquipUpdateTb = {
 				"+5.65",
 				"+6.00",
 				"+6.32"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Ташкент",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "2 / 3",
-						["equipkit"] = {
-							"61cm三連装魚雷 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 8",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"61cm四連装(酸素)魚雷 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 60,
-					["ammo"] = 90,
-					["steel"] = 70,
-					["bauxite"] = 30
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -28043,55 +19030,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Samuel B.Roberts",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "10 / 12",
-						["remodelkit_num"] = "6 / 7",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "12 / 18",
-						["remodelkit_num"] = "8 / 10",
-						["equipkit"] = {
-							"12.7cm連装高角砲(後期型) × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 30,
-					["ammo"] = 80,
-					["steel"] = 180,
-					["bauxite"] = 160
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Samuel",
 			"B.Roberts(Lv1)",
@@ -28180,67 +19118,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "綾波改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "初霜改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "5 / 6",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"61cm三連装魚雷 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "6 / 9",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"61cm三連装(酸素)魚雷 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 120,
-					["ammo"] = 180,
-					["steel"] = 90,
-					["bauxite"] = 60
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -28323,79 +19200,6 @@ k.EquipUpdateTb = {
 				"+5.65",
 				"+6.00",
 				"+6.32"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "時雨改二",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "長波改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							0,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "陽炎改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "7 / 8",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"61cm四連装魚雷 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "8 / 12",
-						["remodelkit_num"] = "5 / 7",
-						["equipkit"] = {
-							"61cm四連装(酸素)魚雷 × 3"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 160,
-					["ammo"] = 240,
-					["steel"] = 120,
-					["bauxite"] = 80
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -28730,55 +19534,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "伊勢改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 10",
-						["remodelkit_num"] = "7 / 7",
-						["equipkit"] = {
-							"41cm連装砲 × 3"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "14 / 41",
-						["remodelkit_num"] = "10 / 13",
-						["equipkit"] = {
-							"試製41cm三連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 45,
-					["ammo"] = 460,
-					["steel"] = 720,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -28993,54 +19748,6 @@ k.EquipUpdateTb = {
 				"+3.16"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "吹雪改二",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "2 / 3",
-						["remodelkit_num"] = "2 / 2",
-						["equipkit"] = {
-							"12.7cm連装砲A型 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "3 / 4",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 40,
-					["steel"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -29149,55 +19856,6 @@ k.EquipUpdateTb = {
 				"+8.48",
 				"+9.00",
 				"+9.48"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "浦波改",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"10cm連装高角砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "9 / 10",
-						["remodelkit_num"] = "6 / 9",
-						["equipkit"] = {
-							"12.7cm連装砲A型改二 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 70,
-					["steel"] = 160,
-					["bauxite"] = 70
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -29330,91 +19988,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "吹雪",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							0,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "白雪",
-						["support_weeks"] = {
-							1,
-							1,
-							1,
-							1,
-							1,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "磯波改",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					},
-					{
-						["support_ship"] = "浦波改",
-						["support_weeks"] = {
-							1,
-							1,
-							0,
-							0,
-							0,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"-"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "1 / 2",
-						["remodelkit_num"] = "1 / 2",
-						["equipkit"] = {
-							"12.7cm連装砲A型 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 10,
-					["ammo"] = 30,
-					["steel"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "4 / 6",
-						["remodelkit_num"] = "3 / 5",
-						["equipkit"] = {
-							"12.7cm連装砲 × 2"
-						}
-					},
-					["item_name"] = "12.7cm連装砲A型改二"
-				}
 			}
 		},
 		["equip_ships"] = {
@@ -30354,67 +20927,6 @@ k.EquipUpdateTb = {
 				"+6.32"
 			}
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "Samuel B.Roberts",
-						["support_weeks"] = {
-							0,
-							1,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "Johnston",
-						["support_weeks"] = {
-							0,
-							0,
-							1,
-							1,
-							1,
-							0,
-							0
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "4 / 5",
-						["remodelkit_num"] = "3 / 4",
-						["equipkit"] = {
-							"61cm四連装魚雷 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "5 / 10",
-						["remodelkit_num"] = "4 / 5",
-						["equipkit"] = {
-							"61cm四連装(酸素)魚雷 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 150,
-					["ammo"] = 150,
-					["steel"] = 100,
-					["bauxite"] = 100
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
-			}
-		},
 		["equip_ships"] = {
 			"Johnston(Lv1)"
 		},
@@ -30531,65 +21043,30 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1,
 			["航空巡洋艦"] = 1
 		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "陸奥改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							1,
-							0,
-							0
-						}
-					},
-					{
-						["support_ship"] = "金剛改二",
-						["support_weeks"] = {
-							0,
-							0,
-							0,
-							1,
-							0,
-							0,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / 9",
-						["remodelkit_num"] = "6 / 6",
-						["equipkit"] = {
-							"三式弾 × 1"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "10 / 14",
-						["remodelkit_num"] = "7 / 8",
-						["equipkit"] = {
-							"三式弾 × 2"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 80,
-					["ammo"] = 200,
-					["steel"] = 220,
-					["bauxite"] = 240
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
+		["item_remodel"] = {
+			["火力"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
+			},
+			["夜戦火力"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
 			}
 		},
 		["equip_ships"] = {
@@ -30665,55 +21142,6 @@ k.EquipUpdateTb = {
 				"+2.82",
 				"+3.00",
 				"+3.16"
-			}
-		},
-		["remodel_info"] = {
-			{
-				["support_ships"] = {
-					{
-						["support_ship"] = "陸奥改二",
-						["support_weeks"] = {
-							1,
-							0,
-							0,
-							1,
-							1,
-							1,
-							1
-						}
-					}
-				},
-				["resource_cost"] = {
-					["0 ～ 5"] = {
-						["buildkit_num"] = "8 / ?",
-						["remodelkit_num"] = "7 / ?",
-						["equipkit"] = {
-							"41cm連装砲 × 2"
-						}
-					},
-					["6 ～ 9"] = {
-						["buildkit_num"] = "13 / 41",
-						["remodelkit_num"] = "10 / 12",
-						["equipkit"] = {
-							"試製41cm三連装砲 × 1"
-						}
-					}
-				},
-				["base_cost"] = {
-					["fuel"] = 40,
-					["ammo"] = 410,
-					["steel"] = 650,
-					["bauxite"] = 50
-				},
-				["upgrade"] = {
-					["cost"] = {
-						["buildkit_num"] = "-",
-						["remodelkit_num"] = "-",
-						["equipkit"] = {
-							"-"
-						}
-					}
-				}
 			}
 		},
 		["equip_ships"] = {
