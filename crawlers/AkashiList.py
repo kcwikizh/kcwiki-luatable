@@ -406,28 +406,28 @@ class AkashiListCrawler(HttpClient):
                 detail['item_remodel'] = remodel
 
         # 处理remodel-info 改修信息
-        resource_tables = content_soup.find_all('div', class_='resource-table')
-        support_tables = content_soup.find_all(
-            'div', class_='support-ship-table')
-        resource_list = list()
-        support_list = list()
-        for resource_table in resource_tables:
-            thead = self.get_text(resource_table.table.tr.th)
-            if thead == '改修必要資材':
-                resource_list.append(resource_table)
-        for support_table in support_tables:
-            thead = self.get_text(support_table.table.tr.th)
-            if thead == '二番艦':
-                support_list.append(support_table)
+        # resource_tables = content_soup.find_all('div', class_='resource-table')
+        # support_tables = content_soup.find_all(
+        #     'div', class_='support-ship-table')
+        # resource_list = list()
+        # support_list = list()
+        # for resource_table in resource_tables:
+        #     thead = self.get_text(resource_table.table.tr.th)
+        #     if thead == '改修必要資材':
+        #         resource_list.append(resource_table)
+        # for support_table in support_tables:
+        #     thead = self.get_text(support_table.table.tr.th)
+        #     if thead == '二番艦':
+        #         support_list.append(support_table)
 
-        remodel_size = len(support_list)
-        remodel_info = list()
-        for i in range(remodel_size):
-            remodel_info.append(self.get_remodel(
-                resource_list[i], support_list[i]))
+        # remodel_size = len(support_list)
+        # remodel_info = list()
+        # for i in range(remodel_size):
+        #     remodel_info.append(self.get_remodel(
+        #         resource_list[i], support_list[i]))
 
-        if remodel_info:
-            detail['remodel_info'] = remodel_info
+        # if remodel_info:
+        #     detail['remodel_info'] = remodel_info
 
         # 处理build 开发
         build_selector = content_soup.select_one('div.build-table > table')
