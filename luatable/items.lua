@@ -4969,6 +4969,7 @@ d.equipDataTb = {
 			"神鹰",
 			"神鹰改二",
 			"武藏改二",
+			"日向改二",
 			"日进甲"
 		},
 		["备注"] = "",
@@ -5175,6 +5176,7 @@ d.equipDataTb = {
 			"神鹰",
 			"神鹰改二",
 			"武藏改二",
+			"日向改二",
 			"日进甲"
 		},
 		["备注"] = "",
@@ -14330,6 +14332,7 @@ d.equipDataTb = {
 			"神鹰",
 			"神鹰改二",
 			"武藏改二",
+			"日向改二",
 			"日进甲"
 		},
 		["备注"] = "",
@@ -23038,6 +23041,7 @@ d.equipDataTb = {
 			"神鹰",
 			"神鹰改二",
 			"武藏改二",
+			"日向改二",
 			"日进甲"
 		},
 		["备注"] = "",
@@ -23095,6 +23099,7 @@ d.equipDataTb = {
 			"神鹰",
 			"神鹰改二",
 			"武藏改二",
+			"日向改二",
 			"日进甲"
 		},
 		["备注"] = "",
@@ -23153,6 +23158,7 @@ d.equipDataTb = {
 			"神鹰",
 			"神鹰改二",
 			"武藏改二",
+			"日向改二",
 			"日进甲"
 		},
 		["备注"] = "",
@@ -28495,7 +28501,9 @@ d.equipDataTb = {
 				["对空"] = 3,
 				["回避"] = 2
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E4%B8%89%E5%8F%B7%E7%88%86%E5%BC%BE%E6%90%AD%E8%BC%89%E6%A9%9F%29",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Suisei_Model_12_%28634_Air_Group_w/_Type_3_Cluster_Bombs%29"
 	},
 	["322"] = {
 		["ID"] = 322,
@@ -28553,6 +28561,19 @@ d.equipDataTb = {
 			"哥特兰改"
 		},
 		["备注"] = "",
+		["额外收益"] = {
+			["适用舰娘"] = {
+				"伊势改二",
+				"日向改二"
+			},
+			["收益类型"] = "通用",
+			["收益属性"] = {
+				["火力"] = 5,
+				["对空"] = 2,
+				["对潜"] = 1,
+				["回避"] = 2
+			}
+		},
 		["装备改修"] = {
 			["资源消费"] = {
 				["燃料"] = 240,
@@ -28592,7 +28613,7 @@ d.equipDataTb = {
 					"×"
 				},
 				["二"] = {
-					"×"
+					"日向改二"
 				},
 				["三"] = {
 					"日向改二"
@@ -28610,7 +28631,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Zuiun_Kai_Ni_%28634_Air_Group%29"
 	},
 	["323"] = {
 		["ID"] = 323,
@@ -28682,7 +28703,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Zuiun_Kai_Ni_%28634_Air_Group/Skilled%29"
 	},
 	["324"] = {
 		["ID"] = 324,
@@ -28734,6 +28755,26 @@ d.equipDataTb = {
 			"日进甲"
 		},
 		["备注"] = "",
+		["额外收益"] = {
+			["适用舰娘"] = {
+				"伊势改二"
+			},
+			["收益类型"] = "通用",
+			["收益属性"] = {
+				["对潜"] = 1,
+				["回避"] = 1
+			}
+		},
+		["额外收益2"] = {
+			["适用舰娘"] = {
+				"日向改二"
+			},
+			["收益类型"] = "通用",
+			["收益属性"] = {
+				["对潜"] = 2,
+				["回避"] = 1
+			}
+		},
 		["装备改修"] = {
 			["资源消费"] = {
 				["燃料"] = 60,
@@ -28805,7 +28846,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/O_Type_Observation_Autogyro_Kai"
 	},
 	["325"] = {
 		["ID"] = 325,
@@ -28929,7 +28970,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x3，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/O_Type_Observation_Autogyro_Kai_Ni"
 	},
 	["326"] = {
 		["ID"] = 326,
@@ -28981,6 +29022,28 @@ d.equipDataTb = {
 			"日进甲"
 		},
 		["备注"] = "",
+		["额外收益"] = {
+			["适用舰娘"] = {
+				"伊势改二"
+			},
+			["收益类型"] = "通用",
+			["收益属性"] = {
+				["火力"] = 2,
+				["对潜"] = 1,
+				["回避"] = 2
+			}
+		},
+		["额外收益2"] = {
+			["适用舰娘"] = {
+				"日向改二"
+			},
+			["收益类型"] = "通用",
+			["收益属性"] = {
+				["火力"] = 3,
+				["对潜"] = 2,
+				["回避"] = 3
+			}
+		},
 		["装备改修"] = {
 			["资源消费"] = {
 				["燃料"] = 200,
@@ -29054,7 +29117,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/S-51J",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/S-51J"
 	},
 	["327"] = {
 		["ID"] = 327,
@@ -29184,7 +29247,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/S-51J%E6%94%B9",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/S-51J_Kai"
 	},
 	["328"] = {
 		["ID"] = 328,
@@ -29264,7 +29327,9 @@ d.equipDataTb = {
 				["火力"] = 2,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/35.6cm_Twin_Gun_Mount_Kai"
 	},
 	["329"] = {
 		["ID"] = 329,
@@ -29354,7 +29419,9 @@ d.equipDataTb = {
 				["对空"] = 1,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/35.6cm_Twin_Gun_Mount_Kai_Ni"
 	}
 }
 

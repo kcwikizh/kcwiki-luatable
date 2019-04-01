@@ -4618,7 +4618,8 @@ k.EquipUpdateTb = {
 			"隼鷹改二(Lv80)",
 			"扶桑改二(Lv80)",
 			"神鷹改二(Lv85)",
-			"伊勢改二(Lv88)"
+			"伊勢改二(Lv88)",
+			"日向改二(Lv90)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12cm_30-tube_Rocket_Launcher"
@@ -6546,7 +6547,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"利根改二(Lv70)",
-			"筑摩改二(Lv70)"
+			"筑摩改二(Lv70)",
+			"日向改二(Lv90)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_%28634_Air_Group%29"
@@ -8186,7 +8188,8 @@ k.EquipUpdateTb = {
 			"山城改二(Lv80)",
 			"伊勢改二(Lv88)",
 			"長門改二(Lv88)",
-			"陸奥改二(Lv89)"
+			"陸奥改二(Lv89)",
+			"日向改二(Lv90)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_41cm_Triple_Gun_Mount"
@@ -21160,6 +21163,46 @@ k.EquipUpdateTb = {
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/41cm_Twin_Gun_Mount_Kai_Ni"
 	},
+	["319"] = {
+		["id"] = 319,
+		["no"] = "No.319",
+		["item_name"] = {
+			["zh"] = "彗星一二型（六三四空/三号爆弹搭载机）",
+			["ja"] = "彗星一二型(六三四空／三号爆弾搭載機)"
+		},
+		["item_type"] = "艦上爆撃機",
+		["item_intro"] = "「九九艦爆」の後継として開発された高速性能を誇る水冷エンジンの艦上爆撃機「彗星」。if改装航空戦艦「伊勢改二」「日向改二」に艦載、さらに運用の難しい対地・対空三号爆弾を装備、訓練を重ね同運用にも長けた艦爆隊です。対地攻撃にも参加、威力を発揮します。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "",
+			["爆装"] = "+12",
+			["対空"] = "+3",
+			["対潜"] = "+2",
+			["索敵"] = "",
+			["命中"] = "+1",
+			["回避"] = "+1",
+			["射程"] = "5"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 0,
+			["軽空母"] = 1,
+			["正規空母"] = 1,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 0,
+			["基地航空隊"] = 1,
+			["extra"] = {
+				"伊勢改二"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E4%B8%89%E5%8F%B7%E7%88%86%E5%BC%BE%E6%90%AD%E8%BC%89%E6%A9%9F%29",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Suisei_Model_12_%28634_Air_Group_w/_Type_3_Cluster_Bombs%29"
+	},
 	["322"] = {
 		["id"] = 322,
 		["no"] = "No.322",
@@ -21232,7 +21275,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Zuiun_Kai_Ni_%28634_Air_Group%29"
 	},
 	["323"] = {
 		["id"] = 323,
@@ -21280,7 +21323,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Zuiun_Kai_Ni_%28634_Air_Group/Skilled%29"
 	},
 	["324"] = {
 		["id"] = 324,
@@ -21307,28 +21350,31 @@ k.EquipUpdateTb = {
 			["軽巡洋艦"] = 0,
 			["重巡洋艦"] = 0,
 			["戦艦"] = 0,
-			["軽空母"] = 0,
+			["軽空母"] = 1,
 			["正規空母"] = 0,
-			["水上機母艦"] = 1,
+			["水上機母艦"] = 0,
 			["航空戦艦"] = 1,
 			["航空巡洋艦"] = 1,
+			["揚陸艦"] = 1,
 			["補給艦"] = 1,
-			["潜水空母"] = 1,
-			["基地航空隊"] = 1,
+			["工作艦"] = 1,
 			["extra"] = {
-				"Zara改級",
-				"V.Veneto級改",
-				"阿賀野改型",
-				"由良改二",
+				"大鯨型",
+				"C.Teste",
+				"龍田改二",
+				"天龍改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"武蔵改二",
+				"陸奥改二",
+				"日進改"
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"日向改二(Lv90)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/O_Type_Observation_Autogyro_Kai"
 	},
 	["325"] = {
 		["id"] = 325,
@@ -21355,28 +21401,31 @@ k.EquipUpdateTb = {
 			["軽巡洋艦"] = 0,
 			["重巡洋艦"] = 0,
 			["戦艦"] = 0,
-			["軽空母"] = 0,
+			["軽空母"] = 1,
 			["正規空母"] = 0,
-			["水上機母艦"] = 1,
+			["水上機母艦"] = 0,
 			["航空戦艦"] = 1,
 			["航空巡洋艦"] = 1,
+			["揚陸艦"] = 1,
 			["補給艦"] = 1,
-			["潜水空母"] = 1,
-			["基地航空隊"] = 1,
+			["工作艦"] = 1,
 			["extra"] = {
-				"Zara改級",
-				"V.Veneto級改",
-				"阿賀野改型",
-				"由良改二",
+				"大鯨型",
+				"C.Teste",
+				"龍田改二",
+				"天龍改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"武蔵改二",
+				"陸奥改二",
+				"日進改"
 			}
 		},
 		["equip_ships"] = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/O_Type_Observation_Autogyro_Kai_Ni"
 	},
 	["326"] = {
 		["id"] = 326,
@@ -21403,28 +21452,31 @@ k.EquipUpdateTb = {
 			["軽巡洋艦"] = 0,
 			["重巡洋艦"] = 0,
 			["戦艦"] = 0,
-			["軽空母"] = 0,
+			["軽空母"] = 1,
 			["正規空母"] = 0,
-			["水上機母艦"] = 1,
+			["水上機母艦"] = 0,
 			["航空戦艦"] = 1,
 			["航空巡洋艦"] = 1,
+			["揚陸艦"] = 1,
 			["補給艦"] = 1,
-			["潜水空母"] = 1,
-			["基地航空隊"] = 1,
+			["工作艦"] = 1,
 			["extra"] = {
-				"Zara改級",
-				"V.Veneto級改",
-				"阿賀野改型",
-				"由良改二",
+				"大鯨型",
+				"C.Teste",
+				"龍田改二",
+				"天龍改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"武蔵改二",
+				"陸奥改二",
+				"日進改"
 			}
 		},
 		["equip_ships"] = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S-51J",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/S-51J"
 	},
 	["327"] = {
 		["id"] = 327,
@@ -21451,28 +21503,105 @@ k.EquipUpdateTb = {
 			["軽巡洋艦"] = 0,
 			["重巡洋艦"] = 0,
 			["戦艦"] = 0,
-			["軽空母"] = 0,
+			["軽空母"] = 1,
 			["正規空母"] = 0,
-			["水上機母艦"] = 1,
+			["水上機母艦"] = 0,
 			["航空戦艦"] = 1,
 			["航空巡洋艦"] = 1,
+			["揚陸艦"] = 1,
 			["補給艦"] = 1,
-			["潜水空母"] = 1,
-			["基地航空隊"] = 1,
+			["工作艦"] = 1,
 			["extra"] = {
-				"Zara改級",
-				"V.Veneto級改",
-				"阿賀野改型",
-				"由良改二",
+				"大鯨型",
+				"C.Teste",
+				"龍田改二",
+				"天龍改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"武蔵改二",
+				"陸奥改二",
+				"日進改"
 			}
 		},
 		["equip_ships"] = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S-51J%E6%94%B9",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/S-51J_Kai"
+	},
+	["328"] = {
+		["id"] = 328,
+		["no"] = "No.328",
+		["item_name"] = {
+			["zh"] = "35.6cm连装炮改",
+			["ja"] = "35.6cm連装砲改"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "「金剛」型建造時期に英国に発注され、後に国産化、「伊勢」型までの標準的な戦艦主砲兵装として運用された大口径主砲、そのif改良型です。射撃速度と精度の向上を図りつつ、砲自体の軽量化及び被弾時の抗耐性の向上を図っています。改「金剛」型高速戦艦による運用で、その威力を発揮します！",
+		["item_stat"] = {
+			["火力"] = "+16",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+4",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+3",
+			["回避"] = "+2",
+			["射程"] = "長",
+			["装甲"] = "+2"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/35.6cm_Twin_Gun_Mount_Kai"
+	},
+	["329"] = {
+		["id"] = 329,
+		["no"] = "No.329",
+		["item_name"] = {
+			["zh"] = "35.6cm连装炮改二",
+			["ja"] = "35.6cm連装砲改二"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "「金剛」型建造時期に英国に発注され、後に国産化、「伊勢」型までの標準的な戦艦主砲兵装として運用された大口径主砲、そのさらなる改良砲if後期型です。射撃速度向上に高精度の測距儀、さらに対空防備も充実。各種戦訓を採り入れ、運用性は大きく向上、改「金剛」型高速戦艦による運用で、その威力を発揮します！",
+		["item_stat"] = {
+			["火力"] = "+17",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+5",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+5",
+			["回避"] = "+2",
+			["射程"] = "長",
+			["装甲"] = "+2"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/35.6cm_Twin_Gun_Mount_Kai_Ni"
 	}
 }
 
