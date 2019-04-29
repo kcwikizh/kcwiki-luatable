@@ -708,7 +708,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
-				["ammo"] = 151,
+				["ammo"] = 100,
 				["steel"] = 150
 			}
 		},
@@ -868,7 +868,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
-				["ammo"] = 201,
+				["ammo"] = 120,
 				["steel"] = 200
 			}
 		},
@@ -1031,7 +1031,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
-				["ammo"] = 251,
+				["ammo"] = 240,
 				["steel"] = 250
 			}
 		},
@@ -1148,7 +1148,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
-				["ammo"] = 21,
+				["ammo"] = 20,
 				["steel"] = 20
 			}
 		},
@@ -1420,8 +1420,8 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
-				["ammo"] = 20,
-				["steel"] = 50
+				["ammo"] = 10,
+				["steel"] = 20
 			}
 		},
 		["equip_ships"] = {
@@ -1471,7 +1471,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -1515,8 +1516,10 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
+				["fuel"] = 10,
 				["ammo"] = 10,
-				["steel"] = 10
+				["steel"] = 10,
+				["bauxite"] = 10
 			}
 		},
 		["equip_ships"] = {
@@ -1590,7 +1593,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -1634,8 +1638,10 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
+				["fuel"] = 10,
 				["ammo"] = 20,
-				["steel"] = 20
+				["steel"] = 20,
+				["bauxite"] = 10
 			}
 		},
 		["equip_ships"] = {
@@ -1697,7 +1703,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -1741,8 +1748,10 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
+				["fuel"] = 20,
 				["ammo"] = 20,
-				["steel"] = 20
+				["steel"] = 20,
+				["bauxite"] = 20
 			}
 		},
 		["equip_ships"] = {
@@ -1978,7 +1987,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 10,
 				["ammo"] = 10,
-				["steel"] = 10,
 				["bauxite"] = 10
 			}
 		},
@@ -2044,7 +2052,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 10,
 				["ammo"] = 10,
-				["steel"] = 20,
 				["bauxite"] = 10
 			}
 		},
@@ -2116,7 +2123,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 10,
 				["ammo"] = 20,
-				["steel"] = 10,
 				["bauxite"] = 10
 			}
 		},
@@ -2183,7 +2189,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 20,
 				["ammo"] = 20,
-				["steel"] = 10,
 				["bauxite"] = 20
 			}
 		},
@@ -2291,7 +2296,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 20,
 				["ammo"] = 30,
-				["steel"] = 10,
 				["bauxite"] = 20
 			}
 		},
@@ -2369,7 +2373,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 10,
 				["ammo"] = 10,
-				["steel"] = 10,
 				["bauxite"] = 10
 			}
 		},
@@ -2418,7 +2421,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -2452,7 +2456,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 20,
 				["ammo"] = 30,
-				["steel"] = 10,
 				["bauxite"] = 20
 			}
 		},
@@ -2901,7 +2904,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
-				["steel"] = 251
+				["steel"] = 200
 			}
 		},
 		["equip_ships"] = {
@@ -2990,7 +2993,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
-				["steel"] = 251
+				["steel"] = 250
 			}
 		},
 		["equip_ships"] = {
@@ -3683,7 +3686,8 @@ k.EquipUpdateTb = {
 			"不知火改二(Lv72)",
 			"黒潮改二(Lv73)",
 			"文月改二(Lv77)",
-			"伊勢改二(Lv88)"
+			"伊勢改二(Lv88)",
+			"金剛改二丙(Lv92)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Triple_Autocannon_Mount"
@@ -3728,7 +3732,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)・水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
-				["ammo"] = 71,
+				["ammo"] = 70,
 				["steel"] = 70
 			}
 		},
@@ -4005,10 +4009,8 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
-				["fuel"] = 10,
 				["ammo"] = 30,
-				["steel"] = 10,
-				["bauxite"] = 10
+				["steel"] = 10
 			}
 		},
 		["equip_ships"] = {
@@ -4063,7 +4065,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste",
 				"大鷹改",
-				"神鷹"
+				"神鷹",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -4184,7 +4187,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste",
 				"大鷹改",
-				"神鷹"
+				"神鷹",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -4240,10 +4244,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
-				["fuel"] = 10,
-				["ammo"] = 30,
-				["steel"] = 10,
-				["bauxite"] = 10
+				["steel"] = 10
 			}
 		},
 		["equip_ships"] = {
@@ -4404,10 +4405,8 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)・水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
-				["fuel"] = 10,
 				["ammo"] = 10,
-				["steel"] = 10,
-				["bauxite"] = 10
+				["steel"] = 10
 			}
 		},
 		["equip_ships"] = {
@@ -4889,7 +4888,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 20,
 				["ammo"] = 30,
-				["steel"] = 10,
 				["bauxite"] = 20
 			}
 		},
@@ -4935,7 +4933,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -5041,7 +5040,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 10,
 				["ammo"] = 10,
-				["steel"] = 20,
 				["bauxite"] = 10
 			}
 		},
@@ -5105,10 +5103,9 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
-				["fuel"] = 20,
+				["fuel"] = 10,
 				["ammo"] = 30,
-				["steel"] = 10,
-				["bauxite"] = 20
+				["bauxite"] = 10
 			}
 		},
 		["equip_ships"] = {
@@ -5268,7 +5265,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -5677,7 +5675,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -6224,7 +6223,7 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)",
 			["cost"] = {
-				["steel"] = 11
+				["steel"] = 10
 			}
 		},
 		["equip_ships"] = {
@@ -6516,7 +6515,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -6592,7 +6592,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -6641,7 +6642,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -9582,7 +9584,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -9677,7 +9680,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"大鯨型",
 				"神威改母",
-				"陸奥改二"
+				"陸奥改二",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -11171,7 +11175,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste",
 				"大鷹改",
-				"神鷹"
+				"神鷹",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -12055,7 +12060,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 10,
 				["ammo"] = 10,
-				["steel"] = 10,
 				["bauxite"] = 10
 			}
 		},
@@ -12377,10 +12381,9 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系",
 			["cost"] = {
-				["fuel"] = 240,
-				["ammo"] = 260,
-				["steel"] = 10,
-				["bauxite"] = 240
+				["fuel"] = 70,
+				["ammo"] = 40,
+				["bauxite"] = 70
 			}
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E9%99%B8%E6%94%BB",
@@ -12614,7 +12617,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -12664,7 +12668,8 @@ k.EquipUpdateTb = {
 			"神風改(Lv50)",
 			"朝風改(Lv50)",
 			"春風改(Lv50)",
-			"龍田改二(Lv80)"
+			"龍田改二(Lv80)",
+			"金剛改二丙(Lv92)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/53cm%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/53cm_Twin_Torpedo_Mount"
@@ -12837,7 +12842,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -12964,7 +12970,6 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = 10,
 				["ammo"] = 20,
-				["steel"] = 10,
 				["bauxite"] = 10
 			}
 		},
@@ -13828,7 +13833,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -14481,7 +14487,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -14529,7 +14536,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -16293,7 +16301,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -17510,7 +17519,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste",
 				"大鷹改",
-				"神鷹"
+				"神鷹",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -17558,7 +17568,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste",
 				"大鷹改",
-				"神鷹"
+				"神鷹",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -17606,7 +17617,8 @@ k.EquipUpdateTb = {
 				"秋津洲改",
 				"C.Teste",
 				"大鷹改",
-				"神鷹"
+				"神鷹",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
@@ -18892,7 +18904,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -19090,7 +19103,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -19174,7 +19188,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -20899,7 +20914,8 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1,
 			["extra"] = {
-				"Bismarck drei"
+				"Bismarck drei",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -21242,7 +21258,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["item_remodel"] = {
@@ -21316,7 +21333,8 @@ k.EquipUpdateTb = {
 				"阿賀野改型",
 				"由良改二",
 				"多摩改二",
-				"Gotland"
+				"Gotland",
+				"金剛改二丙"
 			}
 		},
 		["equip_ships"] = {
