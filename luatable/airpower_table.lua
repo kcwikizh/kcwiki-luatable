@@ -198,7 +198,6 @@ p.enemyFighterPowerDataTb = {
     ["1872"] = 9999,
     ["1874"] = 9999,
     ["1875"] = 9999,
-    ["1876"] = 9999,
 }
 
 p.enemyFighterPowerDataTb2 = {
