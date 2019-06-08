@@ -7845,8 +7845,8 @@
         },
         {
           "ship_class": "Nelson級改",
-          "ship_correct": "",
-          "ship_fitting": "unk"
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -9741,8 +9741,8 @@
         },
         {
           "ship_class": "長門型改",
-          "ship_correct": "±0",
-          "ship_fitting": "nopena"
+          "ship_correct": "-8(-4.8)?",
+          "ship_fitting": "overover"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -13115,8 +13115,8 @@
         },
         {
           "ship_class": "Nelson級改",
-          "ship_correct": "",
-          "ship_fitting": "unk"
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -16662,8 +16662,8 @@
         },
         {
           "ship_class": "大和型改",
-          "ship_correct": "",
-          "ship_fitting": "unk"
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
         },
         {
           "ship_class": "長門型改",
@@ -16804,8 +16804,8 @@
         },
         {
           "ship_class": "大和型改",
-          "ship_correct": "",
-          "ship_fitting": "unk"
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
         },
         {
           "ship_class": "長門型改",
@@ -18380,7 +18380,7 @@
         {
           "ship_class": "金剛型改二",
           "ship_correct": "-10(-6)?",
-          "ship_fitting": "over"
+          "ship_fitting": "overover"
         },
         {
           "ship_class": "Bismarck drei級",
@@ -18722,8 +18722,8 @@
         },
         {
           "ship_class": "長門型改",
-          "ship_correct": "±0",
-          "ship_fitting": "nopena"
+          "ship_correct": "-8(-4.8)?",
+          "ship_fitting": "overover"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -21127,6 +21127,74 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Nelson級改",
+          "ship_correct": "±0?",
+          "ship_fitting": "nopena"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
       "item_intro": "呉海軍工廠砲熕部で開発された純国産の戦艦用連装主砲、その改修改良型です。if兵装ではありますが、防御面及び射撃速度を向上、さらに射撃装置を改良、長門型主力戦艦及び改装伊勢型に最適化改修した熟成戦艦主砲兵装です。特に大規模改装後の長門型戦艦改二では、その潜在能力を遺憾なく発揮します。",
       "item_name": {
         "ja": "41cm連装砲改二",
