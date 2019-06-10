@@ -21146,8 +21146,8 @@ k.EquipUpdateTb = {
 		["item_fitting"] = {
 			{
 				["ship_class"] = "伊勢型改",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "fit",
+				["ship_correct"] = "+6?"
 			},
 			{
 				["ship_class"] = "扶桑型改二",
