@@ -21692,6 +21692,74 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
       "item_intro": "「金剛」型建造時期に英国に発注され、後に国産化、「伊勢」型までの標準的な戦艦主砲兵装として運用された大口径主砲、そのif改良型です。射撃速度と精度の向上を図りつつ、砲自体の軽量化及び被弾時の抗耐性の向上を図っています。改「金剛」型高速戦艦による運用で、その威力を発揮します！",
       "item_name": {
         "ja": "35.6cm連装砲改",
@@ -21767,6 +21835,74 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
       "item_intro": "「金剛」型建造時期に英国に発注され、後に国産化、「伊勢」型までの標準的な戦艦主砲兵装として運用された大口径主砲、そのさらなる改良砲if後期型です。射撃速度向上に高精度の測距儀、さらに対空防備も充実。各種戦訓を採り入れ、運用性は大きく向上、改「金剛」型高速戦艦による運用で、その威力を発揮します！",
       "item_name": {
         "ja": "35.6cm連装砲改二",
@@ -21804,6 +21940,74 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
       "item_intro": "米国で建造されたビッグセブン、「Colorado」級。その初期の主砲兵装として採用された標準的な16inch連装砲です。日本の「長門」「陸奥」、そして紅茶の国の「Nelson」級と共にビッグセブンの一角を構成した同級戦艦の三隻。ネームシップ「Colorado」、そして一度は真珠湾で撃破された妹達も浮揚修理され、太平洋の戦いを*1身を投じていきます。",
       "item_name": {
         "ja": "16inch Mk.I連装砲",
@@ -21841,6 +22045,74 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
       "item_intro": "米国で建造されたビッグセブン、「Colorado」級。その初期の主砲兵装として採用された標準的な16inch連装砲、その改良強化型です。あの戦いの開戦時オーバーホール中だった「Colorado」級戦艦ネームシップ、そして真珠湾で撃破された妹達も改装を受け、主砲兵装を本砲に順次更新していきます。",
       "item_name": {
         "ja": "16inch Mk.V連装砲",
