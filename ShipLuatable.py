@@ -308,7 +308,7 @@ class ShipLuatable:
             ret[STAT[key]] = val
         return ret
 
-    def __get_item_equipable(self, item_type):
+    def __get_item_equipable(self, item_type, equipable_extra_ship):
         _type = self.ITEM_TYPES_DB[item_type]
         ret = []
         if 'equipable_on_type' in _type:
