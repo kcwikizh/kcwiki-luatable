@@ -321,6 +321,13 @@ class ShipLuatable:
                 wctf_ship = self.SHIPS_DB[ship_id]
                 ship_name = wctf_ship['name']['zh_cn'] + self.__get_ship_namesuffix(wctf_ship['name']['suffix'], 'zh_cn')
                 ret.append(ship_name)
+        if equipable_extra_ship:
+            for ship_id in equipable_extra_ship:
+                wctf_ship = self.SHIPS_DB[ship_id]
+                ship_name = wctf_ship['name']['zh_cn'] + \
+                    self.__get_ship_namesuffix(
+                        wctf_ship['name']['suffix'], 'zh_cn')
+                ret.append(ship_name)
         return ret
 
     def __append_item_improvement(self, __item_id, improvements):
@@ -545,7 +552,7 @@ class ShipLuatable:
                 '燃料': wctf_item['dismantle'][0], '弹药': wctf_item['dismantle'][1],
                 '钢材': wctf_item['dismantle'][2], '铝': wctf_item['dismantle'][3]
             },
-            '装备适用': self.__get_item_equipable(item_type),
+            '装备适用': self.__get_item_equipable(item_type, wctf_item['equipable_extra_ship'] if 'equipable_extra_ship' in wctf_item else None),
             '备注': self.ITEM_REMARKS_EXTRA[__item_id] if __item_id in self.ITEM_REMARKS_EXTRA else ''
         }
         if _item_id in self.BONUS:
