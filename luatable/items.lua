@@ -18848,7 +18848,8 @@ d.equipDataTb = {
 			"扎拉due",
 			"多摩改二",
 			"哥特兰改",
-			"金刚改二丙"
+			"金刚改二丙",
+			"黎塞留改"
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Late%20298B",

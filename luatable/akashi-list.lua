@@ -13846,7 +13846,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"Richelieu改"
 			}
 		},
 		["equip_ships"] = {
