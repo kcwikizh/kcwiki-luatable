@@ -670,6 +670,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -833,6 +838,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "+3",
           "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -983,6 +993,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -6352,6 +6367,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -7907,6 +7927,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "±0?",
           "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -8047,6 +8072,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -8196,6 +8226,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "+3",
           "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -8746,6 +8781,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -9008,6 +9048,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -9805,6 +9850,11 @@
           "ship_class": "長門型改",
           "ship_correct": "-8(-4.8)?",
           "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -10180,6 +10230,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -10565,6 +10620,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -11919,6 +11979,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -13179,6 +13244,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "±0?",
           "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -13540,6 +13610,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -13729,6 +13804,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -15769,6 +15849,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -15875,6 +15960,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -16268,6 +16358,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "+3",
           "ship_fitting": "fit"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -16779,6 +16874,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -16919,6 +17019,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -18487,6 +18592,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -18790,6 +18900,11 @@
           "ship_class": "長門型改",
           "ship_correct": "-8(-4.8)?",
           "ship_fitting": "overover"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -19474,6 +19589,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -19576,6 +19696,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -20189,6 +20314,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "±0",
           "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -20294,6 +20424,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -20397,6 +20532,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }
@@ -21263,6 +21403,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "±0?",
           "ship_fitting": "nopena"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -21815,6 +21960,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -21958,6 +22108,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -22063,6 +22218,11 @@
           "ship_class": "Nelson級改",
           "ship_correct": "",
           "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -22166,6 +22326,11 @@
         },
         {
           "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
           "ship_correct": "",
           "ship_fitting": "unk"
         }

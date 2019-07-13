@@ -667,6 +667,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -827,6 +832,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+3"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -988,6 +998,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -6364,6 +6379,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -7922,6 +7942,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "nopena",
 				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -8062,6 +8087,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -8206,6 +8236,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+3"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -8760,6 +8795,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -9023,6 +9063,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -9820,6 +9865,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "長門型改",
 				["ship_fitting"] = "overover",
 				["ship_correct"] = "-8(-4.8)?"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -10194,6 +10244,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -10579,6 +10634,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -11934,6 +11994,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -13195,6 +13260,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "nopena",
 				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -13554,6 +13624,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -13744,6 +13819,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -15785,6 +15865,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -15888,6 +15973,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -16284,6 +16374,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "fit",
 				["ship_correct"] = "+3"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -16794,6 +16889,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -16935,6 +17035,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -18503,6 +18608,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -18806,6 +18916,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "長門型改",
 				["ship_fitting"] = "overover",
 				["ship_correct"] = "-8(-4.8)?"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -19489,6 +19604,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -19591,6 +19711,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -20205,6 +20330,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "nopena",
 				["ship_correct"] = "±0"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -20310,6 +20440,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -20413,6 +20548,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -21279,6 +21419,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "nopena",
 				["ship_correct"] = "±0?"
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -21831,6 +21976,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -21974,6 +22124,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -22079,6 +22234,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Nelson級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -22182,6 +22342,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
