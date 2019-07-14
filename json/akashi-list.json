@@ -9850,11 +9850,6 @@
           "ship_class": "長門型改",
           "ship_correct": "-8(-4.8)?",
           "ship_fitting": "overover"
-        },
-        {
-          "ship_class": "Colorado級改",
-          "ship_correct": "",
-          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
@@ -18900,11 +18895,6 @@
           "ship_class": "長門型改",
           "ship_correct": "-8(-4.8)?",
           "ship_fitting": "overover"
-        },
-        {
-          "ship_class": "Colorado級改",
-          "ship_correct": "",
-          "ship_fitting": "unk"
         }
       ],
       "item_fitting_type": "フィット命中補正値",

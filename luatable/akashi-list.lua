@@ -9865,11 +9865,6 @@ k.EquipUpdateTb = {
 				["ship_class"] = "長門型改",
 				["ship_fitting"] = "overover",
 				["ship_correct"] = "-8(-4.8)?"
-			},
-			{
-				["ship_class"] = "Colorado級改",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -18916,11 +18911,6 @@ k.EquipUpdateTb = {
 				["ship_class"] = "長門型改",
 				["ship_fitting"] = "overover",
 				["ship_correct"] = "-8(-4.8)?"
-			},
-			{
-				["ship_class"] = "Colorado級改",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
