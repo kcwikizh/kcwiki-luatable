@@ -720,8 +720,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"伊勢(Lv1)",
-			"日向(Lv1)",
+			"伊勢(Lv1)日向(Lv1)",
 			"金剛(Lv1)",
 			"比叡(Lv1)",
 			"榛名(Lv1)",

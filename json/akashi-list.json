@@ -574,8 +574,7 @@
       "EN_Wiki": "http://kancolle.wikia.com/wiki/35.6cm_Twin_Gun_Mount",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
-        "伊勢(Lv1)",
-        "日向(Lv1)",
+        "伊勢(Lv1)日向(Lv1)",
         "金剛(Lv1)",
         "比叡(Lv1)",
         "榛名(Lv1)",
