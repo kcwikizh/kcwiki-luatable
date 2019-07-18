@@ -22814,11 +22814,37 @@ k.EquipUpdateTb = {
 				"速吸改"
 			}
 		},
+		["item_remodel"] = {
+			["雷装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%E6%94%B9%20%E8%A9%A6%E8%A3%BD%E4%B8%89%E5%8F%B7%E6%88%8A%E5%9E%8B%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Type_97_Torpedo_Bomber_Kai_No._3_Model_E_%28w/_Type_6_Airborne_Radar_Kai%29"
 	},
 	["345"] = {
 		["id"] = 345,
@@ -22858,7 +22884,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%E6%94%B9%28%E7%86%9F%E7%B7%B4%29%20%E8%A9%A6%E8%A3%BD%E4%B8%89%E5%8F%B7%E6%88%8A%E5%9E%8B%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Type_97_Torpedo_Bomber_Kai_%28Skilled%29_No._3_Model_E_%28w/_Type_6_Airborne_Radar_Kai%29"
 	}
 }
 
