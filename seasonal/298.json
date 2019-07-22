@@ -52,5 +52,31 @@
       "vname": "秘书舰3",
       "zh": "什么什么，正巧，到底想对村雨说什么呢？嗯？"
     }
+  },
+  "2019年盛夏季节": {
+    "298-LightDmg2Seika2019": {
+      "file": "/2/2c/298-LightDmg2Seika2019.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "298-MedDmgSeika2019": {
+      "file": "/3/37/298-MedDmgSeika2019.mp3",
+      "ja": "",
+      "vname": "中破",
+      "zh": ""
+    },
+    "298-Sec1Seika2019": {
+      "file": "/a/a3/298-Sec1Seika2019.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "298-Sec2Seika2019": {
+      "file": "/7/73/298-Sec2Seika2019.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
   }
 }
