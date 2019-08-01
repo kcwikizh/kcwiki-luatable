@@ -31587,7 +31587,9 @@
             "神鹰",
             "神鹰改二"
         ],
-        "备注": ""
+        "备注": "",
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9",
+        "英文Wiki": "https://kancolle.fandom.com/wiki/Type_2_12cm_Mortar_Kai"
     },
     "347": {
         "ID": 347,
@@ -31643,7 +31645,9 @@
             "神鹰",
             "神鹰改二"
         ],
-        "备注": ""
+        "备注": "",
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
+        "英文Wiki": "https://kancolle.fandom.com/wiki/Type_2_12cm_Mortar_Kai_%28Concentrated_Deployment%29"
     },
     "348": {
         "ID": 348,
@@ -31690,6 +31694,8 @@
             "陆奥改二",
             "金刚改二丙"
         ],
-        "备注": ""
+        "备注": "",
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%BC%89%E5%9E%8B%20%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2",
+        "英文Wiki": "https://kancolle.fandom.com/wiki/Shipborne_Model_Type_4_20cm_Anti-ground_Rocket_Launcher"
     }
 }
