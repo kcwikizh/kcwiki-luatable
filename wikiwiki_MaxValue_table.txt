@@ -4290,7 +4290,7 @@
 |style="background-color:#FDE9D9;"| 35
 |style="background-color:#FDE9D9;"| 45
 | 80
-| 甲標的装備可
+| 甲標的・爆雷装備可
 | {{舰娘备注|099}}・{{舰娘备注|100}}
 |-
 | 250
@@ -4310,7 +4310,7 @@
 | 60
 |style="background-color:#FFFF99;"| 15
 |style="background-color:#FDE9D9;"| 75
-| ソナー・大型飛行艇・航空要員装備可
+| ソナー・大型飛行艇・航空要員・爆雷装備可
 | {{舰娘备注|250}}
 |-
 | 251
@@ -4330,7 +4330,7 @@
 | 40
 |style="background-color:#FDE9D9;"| 45
 | 85
-| 甲標的装備可
+| 甲標的・爆雷装備可
 | {{舰娘备注|251}}
 |-
 | 291a
@@ -4370,7 +4370,7 @@
 |style="background-color:#FFFF99;"| 30
 |style="background-color:#FFFF99;"| 15
 |style="background-color:#FFFF99;"| 45
-| 甲標的装備可 射程:中
+| 甲標的・爆雷装備可 射程:中
 | {{舰娘备注|299}}
 |-
 | 386
