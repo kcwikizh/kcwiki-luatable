@@ -1282,7 +1282,7 @@
 | 25
 | 40
 | 142
-| 
+| スロット：4(0,0,0,0)
 | {{舰娘备注|111a}}
 |-
 | 139a
@@ -1291,7 +1291,7 @@
 | 47
 |style="background-color:#FDE9D9;"| 69
 |style="background-color:#FFFF99;"| 84
-|style="background-color:#FDE9D9;"| 70
+| 70
 | 79
 | 74
 | 82
@@ -1371,7 +1371,7 @@
 |style="background-color:#FDE9D9;"| 51
 |style="background-color:#FDE9D9;"| 69
 | 80
-|style="background-color:#FFFF99;"| 72
+|style="background-color:#FDE9D9;"| 72
 |style="background-color:#FFFF99;"| 98
 | 68
 | 80
@@ -1411,7 +1411,7 @@
 | 47
 | 68
 | 78
-|style="background-color:#FDE9D9;"| 70
+| 70
 | 49
 | 74
 | 39
@@ -1565,13 +1565,33 @@
 | 防空巡洋艦　航空要員・水爆・中型バルジ・大型探照灯装備可
 | {{舰娘备注|379}}
 |-
+| 389a
+| L.d.S.D.d.Abruzzi改
+| 45
+|style="background-color:#FFFF99;"| 52
+|style="background-color:#FFFF99;"| 75
+| 77
+|style="background-color:#FFFF99;"| 73
+| 70
+| 70
+| 59
+| 49
+|style="background-color:#FFFF99;"| 30/98
+|style="background-color:#FDE9D9;"| 8
+| 中
+| 40
+| 55
+| 143
+| スロット：4(2,2,2,2)
+| {{舰娘备注|389a}}
+|-
 | 390a
 | G.Garibaldi改
 | 45
 |style="background-color:#FFFF99;"| 52
 |style="background-color:#FFFF99;"| 75
 | 78
-|style="background-color:#FFFF99;"| 72
+|style="background-color:#FDE9D9;"| 72
 | 70
 | 70
 | 60
