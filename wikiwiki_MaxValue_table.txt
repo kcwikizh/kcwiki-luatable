@@ -4576,6 +4576,22 @@
 | 
 | {{舰娘备注|365a}}
 |-
+| 416
+| 御蔵改
+| 45
+| 17
+| 33
+| 89
+| 37
+| 60
+|style="background-color:#FDE9D9;"| 84
+|style="background-color:#FDE9D9;"| 29
+| 15/64
+| 10
+| 10
+| 
+| {{舰娘备注|416}}
+|-
 | 351a
 | 日振改
 |style="background-color:#FFFF99;"| 37
@@ -4584,7 +4600,7 @@
 | 87
 |style="background-color:#FDE9D9;"| 38
 |style="background-color:#FFFF99;"| 62
-|style="background-color:#FDE9D9;"| 83
+| 83
 |style="background-color:#FDE9D9;"| 29
 | 9/59
 | 10

@@ -6,6 +6,8 @@ local d = {}
 d.shipclassDataTb = {
 	["J"] = {
 		519,
+		520,
+		893,
 		394
 	},
 	["U型潜艇IT"] = {
