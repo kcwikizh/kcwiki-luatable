@@ -694,15 +694,34 @@
 | 52
 | 90
 | 70
-|style="background-color:#FFFF99;"| 92
+|style="background-color:#FDE9D9;"| 92
 | 52
 |style="background-color:#FDE9D9;"| 55
-| 110
+|style="background-color:#FDE9D9;"| 110
 | 15
 | 25
 | 142
 | 自动先制反潜
 | {{舰娘备注|319a}}
+|-
+| 320a
+| Janus改
+| 55 +建10開90
+| 31
+| 50
+| 86
+| 53
+| 90
+| 72
+|style="background-color:#FFFF99;"| 93
+| 52
+| 22
+| 87
+| 15
+| 25
+| 143
+| 自动先制反潜
+| {{舰娘备注|320a}}
 |-
 | 337
 | 涼月改
@@ -1036,7 +1055,7 @@
 | 54
 | 72
 | 91
-|style="background-color:#FDE9D9;"| 91
+| 91
 |style="background-color:#FFFF99;"| 62
 | 40
 | 100
@@ -1045,6 +1064,25 @@
 | 126
 | 防空駆逐艦、自動先制対潜
 | {{舰娘备注|396a}}
+|-
+| 419
+| Grecale改
+| 35
+| 29
+| 50
+| 94
+| 55
+| 68
+| 80
+| 79
+| 46
+| 40
+|style="background-color:#FFFF99;"| 120
+| 15
+| 20
+| 123
+| 
+| {{舰娘备注|419}}
 |}
 ====艦船最大値/睦月型上位早見表/テーブル====
 {| class="wikitable sortable"
