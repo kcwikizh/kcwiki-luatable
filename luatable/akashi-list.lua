@@ -5598,7 +5598,6 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_extra_equip"] = {
-			["水上機母艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["工作艦"] = 1,
 			["extra"] = {
@@ -5959,6 +5958,13 @@ k.EquipUpdateTb = {
 			["工作艦"] = 1,
 			["extra"] = {
 				"大鯨型"
+			}
+		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"大鳳型",
+				"大淀型",
+				"大和型改"
 			}
 		},
 		["equip_ships"] = {
@@ -15224,7 +15230,6 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_extra_equip"] = {
-			["水上機母艦"] = 1,
 			["練習巡洋艦"] = 1,
 			["工作艦"] = 1,
 			["extra"] = {
