@@ -32012,7 +32012,9 @@ d.equipDataTb = {
 			"登陆突击舰",
 			"改装航空战列舰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20A-5%E6%94%B9%28%E7%86%9F%E7%B7%B4%29",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Fw_190_A-5_Kai_%28Skilled%29"
 	},
 	["354"] = {
 		["ID"] = 354,
@@ -32048,7 +32050,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20D-9",
+		["英文Wiki"] = ""
 	},
 	["355"] = {
 		["ID"] = 355,
@@ -32108,7 +32112,9 @@ d.equipDataTb = {
 			"卷云改二",
 			"海风改二"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/M4A1%20DD",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/M4A1_DD"
 	}
 }
 
