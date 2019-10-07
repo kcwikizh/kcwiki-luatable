@@ -55,6 +55,12 @@ class LuatableBotException(Exception):
     def __init__(self, message):
         super().__init__(message)
 
+def exec(args):
+    print('exec: ' + ' '.join(args))
+    try:
+        subprocess.run(args)
+    except Exception as e:
+        raise LuatableBotException(e)
 
 class LuatableBot:
 
@@ -86,9 +92,9 @@ class LuatableBot:
         self.__git_clone(KCKIT_REPO_URL, KCKIT_NAME, KCKIT_REPO_BRANCH)
         self.__git_clone(WCTF_DB_REPO_URL, WCTF_DB_NAME, WCTF_DB_REPO_BRANCH)
 
-
     def __git_clone(self, url, dest, branch = 'master'):
-        subprocess.run(['git', 'clone', '--depth=1', url, '-b', branch, dest])
+        args = ['git', 'clone', '--depth=1', url, '-b', branch, dest]
+        exec(args)
 
     @LuatableBotTask()
     async def FetchDBS(self):
@@ -174,10 +180,12 @@ class LuatableBot:
         self.__exec_js(SCRIPTS_PATH + BONUS_JS)
 
     def __exec_lua(self, filename):
-        subprocess.run(['lua', filename])
+        args = ['lua', filename]
+        exec(args)
 
     def __exec_js(self, filename):
-        subprocess.run(['node', filename])
+        args = ['node', filename]
+        exec(args)
 
     @Switch('Check')
     @LuatableBotTask(True)

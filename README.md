@@ -15,3 +15,15 @@ kcwiki lua模块数据机器人🤖️
 |深海装备数据|[shinkai-items.lua](https://kcwikizh.github.io/kcwiki-luatable/luatable/shinkai-items.lua)|[shinkai-items.json](https://kcwikizh.github.io/kcwiki-luatable/json/shinkai-items.json)|
 |明石工厂数据|[akashi-list.lua](https://kcwikizh.github.io/kcwiki-luatable/luatable/akashi-list.lua)|[akashi-list.json](https://kcwikizh.github.io/kcwiki-luatable/json/akashi-list.json)|
 |季节性语音数据|-|[seasonal](https://kcwikizh.github.io/kcwiki-luatable/seasonal)|
+
+## 使用docker
+
+1. 创建/修改 `.env` 文件，参照 [example.env](https://github.com/kcwikizh/kcwiki-luatable/blob/master/example.env)
+2. 构建镜像:
+```
+docker build -t kcwiki-luatable .
+```
+3. 使用镜像运行:
+```
+docker run --env-file .env -t kcwiki-luatable
+```
