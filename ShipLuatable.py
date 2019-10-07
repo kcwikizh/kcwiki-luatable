@@ -37,7 +37,8 @@ CONSUMABLE = {
     'consumable_71': 'ネ式エンジン',
     'consumable_75': '新型炮熕兵装资材',
     'consumable_77': '新型航空兵装資材',
-    'consumable_78': '戦闘詳報'
+    'consumable_78': '戦闘詳報',
+    'consumable_92': '新型噴進装備開発資材'
 }
 RANK_UPGARDABLE = [
     15, 16, 17, 51, 21, 50, 45, 18,
