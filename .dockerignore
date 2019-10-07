@@ -1,0 +1,15 @@
+.vscode
+.idea
+.DS_Store
+__pycache__
+
+db/*
+!db/item_remarks.json
+!db/ship_remodel.json
+!db/shinkai_extra.json
+!db/wikiwiki_translation.json
+output
+cache
+
+KCKit
+WCTF_DB
