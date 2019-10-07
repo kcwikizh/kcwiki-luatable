@@ -1,4 +1,5 @@
 import datetime
+import os
 
 from config import (AKASHI_LIST_OUTPUT_LUA, ITEMS_DATA, LUATABLE_PATH,
                     OUPUT_PATH, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
@@ -78,7 +79,7 @@ class WikiBot(HttpClient):
 
     async def updatePage(self, page_title, filename):
         now = datetime.datetime.now(TIMEZONE)
-        comment = 'KcWiki Robot: Update {}'.format(now.strftime('%Y-%m-%d %H:%M:%S'))
+        comment = 'KcWiki CI Robot: Update {}'.format(now.strftime('%Y-%m-%d %H:%M:%S'))
         rdata = {
             'action': 'edit',
             'title': page_title,
@@ -86,6 +87,9 @@ class WikiBot(HttpClient):
             'summary': comment,
             'format': 'json'
         }
+        if not os.path.exists(filename):
+            print('Wiki-Bot: Page {{{{{}}}}} file {} not found, skip'.format(page_title, filename))
+            return
         with open(filename, 'r', encoding='utf-8') as fp:
             text = fp.read()
             rdata.update({

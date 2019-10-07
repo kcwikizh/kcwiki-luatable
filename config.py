@@ -8,6 +8,9 @@ LUATABLE_PATH = 'luatable/'
 JSON_PATH = 'json/'
 DOCS_PATH = 'docs/'
 
+KCKIT_NAME = 'KCKit'
+WCTF_DB_NAME = 'WCTF_DB'
+
 # timezone
 TIMEZONE = pytz.timezone('Asia/Shanghai')
 
