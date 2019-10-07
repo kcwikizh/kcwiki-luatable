@@ -98,6 +98,7 @@ k.EquipUpdateTb = {
 			"福江(Lv1)",
 			"八丈(Lv1)",
 			"石垣(Lv1)",
+			"御蔵(Lv1)",
 			"睦月(Lv1)",
 			"如月(Lv1)",
 			"皐月(Lv1)",
@@ -3543,6 +3544,7 @@ k.EquipUpdateTb = {
 			"福江(Lv1)",
 			"八丈(Lv1)",
 			"石垣(Lv1)",
+			"御蔵(Lv1)",
 			"初風(Lv1)",
 			"舞風(Lv1)",
 			"秋雲(Lv1)",
@@ -11223,8 +11225,10 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Libeccio(Lv1)",
 			"Maestrale(Lv1)",
+			"Grecale(Lv1)",
 			"Libeccio改(Lv30)",
-			"Maestrale(Lv35)"
+			"Maestrale(Lv35)",
+			"Grecale改(Lv35)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/120mm%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/120mm_Twin_Gun_Mount"
@@ -15550,6 +15554,7 @@ k.EquipUpdateTb = {
 			"日振改(Lv37)",
 			"大東改(Lv37)",
 			"占守改(Lv40)",
+			"御蔵改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
 			"浦風丁改(Lv69)",
@@ -15756,6 +15761,7 @@ k.EquipUpdateTb = {
 			"国後改(Lv40)",
 			"八丈改(Lv40)",
 			"石垣改(Lv40)",
+			"御蔵改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
 			"由良改二(Lv77)",
@@ -17770,7 +17776,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Janus改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Type144%EF%BC%8F147%20ASDIC",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type144/147_ASDIC"
@@ -18130,7 +18136,7 @@ k.EquipUpdateTb = {
 			["火力"] = "",
 			["雷装"] = "",
 			["爆装"] = "+2",
-			["対空"] = "+3",
+			["対空"] = "",
 			["対潜"] = "+10",
 			["索敵"] = "+5",
 			["命中"] = "",
@@ -18141,7 +18147,7 @@ k.EquipUpdateTb = {
 			["基地航空隊"] = 1
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%9D%B1%E6%B5%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_Toukai"
+		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/Prototype_Toukai"
 	},
 	["270"] = {
 		["id"] = 270,
@@ -18897,7 +18903,9 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Jervis(Lv1)",
-			"Jervis改(Lv45)"
+			"Janus(Lv1)",
+			"Jervis改(Lv45)",
+			"Janus改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/QF%204.7inch%E7%A0%B2%20Mk.XII%E6%94%B9",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/QF_4.7inch_Gun_Mk.XII_Kai"
@@ -22220,7 +22228,7 @@ k.EquipUpdateTb = {
 			["ja"] = "16inch Mk.I連装砲"
 		},
 		["item_type"] = "大口径主砲",
-		["item_intro"] = "米国で建造されたビッグセブン、「Colorado」級。その初期の主砲兵装として採用された標準的な16inch連装砲です。日本の「長門」「陸奥」、そして紅茶の国の「Nelson」級と共にビッグセブンの一角を構成した同級戦艦の三隻。ネームシップ「Colorado」、そして一度は真珠湾で撃破された妹達も浮揚修理され、太平洋の戦いを*1身を投じていきます。",
+		["item_intro"] = "米国で建造されたビッグセブン、「Colorado」級。その初期の主砲兵装として採用された標準的な16inch連装砲です。日本の「長門」「陸奥」、そして紅茶の国の「Nelson」級と共にビッグセブンの一角を構成した同級戦艦の三隻。ネームシップ「Colorado」、そして一度は真珠湾で撃破された妹達も浮揚修理され、太平洋の戦いを身を投じていきます。",
 		["item_stat"] = {
 			["火力"] = "+20",
 			["雷装"] = "",
@@ -22314,6 +22322,44 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			}
+		},
+		["item_remodel"] = {
+			["火力"] = {
+				"+1.50",
+				"+2.12",
+				"+2.59",
+				"+3.00",
+				"+3.35",
+				"+3.67",
+				"+3.96",
+				"+4.24",
+				"+4.50",
+				"+4.74"
+			},
+			["夜戦火力"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
+			},
+			["命中"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
 			}
 		},
 		["equip_ships"] = {
@@ -22424,6 +22470,44 @@ k.EquipUpdateTb = {
 				["ship_class"] = "Colorado級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			}
+		},
+		["item_remodel"] = {
+			["火力"] = {
+				"+1.50",
+				"+2.12",
+				"+2.59",
+				"+3.00",
+				"+3.35",
+				"+3.67",
+				"+3.96",
+				"+4.24",
+				"+4.50",
+				"+4.74"
+			},
+			["夜戦火力"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
+			},
+			["命中"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
 			}
 		},
 		["equip_ships"] = {
@@ -22737,7 +22821,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"G.Garibaldi(Lv1)"
+			"G.Garibaldi(Lv1)",
+			"L.d.S.D.d.Abruzzi(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/152mm/55_Triple_Rapid_Fire_Gun_Mount"
@@ -22781,7 +22866,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"G.Garibaldi改(Lv45)"
+			"G.Garibaldi改(Lv45)",
+			"L.d.S.D.d.Abruzzi改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%E6%94%B9",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/152mm/55_Triple_Rapid_Fire_Gun_Mount_Kai"
@@ -23036,7 +23122,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"御蔵改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_2_12cm_Mortar_Kai"
@@ -23132,6 +23218,54 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%BC%89%E5%9E%8B%20%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Shipborne_Model_Type_4_20cm_Anti-ground_Rocket_Launcher"
+	},
+	["349"] = {
+		["id"] = 349,
+		["no"] = "No.349",
+		["item_name"] = {
+			["zh"] = "四式20cm对地喷进炮 集中配备",
+			["ja"] = "四式20cm対地噴進砲 集中配備"
+		},
+		["item_type"] = "対地装備",
+		["item_intro"] = "地対地ロケット兵装として、日本陸軍によって開発された試製四式噴進砲。圧倒的な火力を集中的に投射して、敵の地上戦力や陣地を破壊制圧する目的で整備され、防御戦にも実際に投入されました。本兵装は、同地対地噴進砲を大量に艦載、集中運用して敵地上兵力を叩く強力な艦艇用対地if装備です。対地火力大ですが、被弾に弱く誘爆の危険もあります。",
+		["item_stat"] = {
+			["火力"] = "+1",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "",
+			["回避"] = "",
+			["射程"] = "",
+			["装甲"] = "-4"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 1,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 0,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["揚陸艦"] = 1,
+			["潜水艦"] = 1,
+			["潜水空母"] = 1,
+			["海防艦"] = 1,
+			["extra"] = {
+				"大鯨型",
+				"神威改母",
+				"陸奥改二",
+				"金剛改二丙"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_20cm_Anti-ground_Rocket_Launcher_%28Concentrated_Deployment%29"
 	},
 	["350"] = {
 		["id"] = 350,
@@ -23325,6 +23459,49 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/M4A1%20DD",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/M4A1_DD"
+	},
+	["356"] = {
+		["id"] = 356,
+		["no"] = "No.356",
+		["item_name"] = {
+			["zh"] = "8inch三连装炮 Mk.9",
+			["ja"] = "8inch三連装砲 Mk.9"
+		},
+		["item_type"] = "中口径主砲",
+		["item_intro"] = "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡洋艦群に装備された三連装主砲兵装です。20cm級の砲を一基三門に集約したベーシックでありながら、大火力を備えた主砲兵装です。米海軍の条約型重巡Pensacola級やNorthampton級の主兵装として運用されました。",
+		["item_stat"] = {
+			["火力"] = "+11",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+1",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "中",
+			["回避"] = "-1",
+			["射程"] = ""
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["extra"] = {
+				"C.Teste",
+				"神威改母"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/8inch_Triple_Gun_Mount_Mk.9"
 	}
 }
 
