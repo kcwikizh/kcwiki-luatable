@@ -9,12 +9,10 @@ update:
     - local
   only:
     - master
-  variables:
-    LUA: lua=5.3
   before_script:
-    - git clone --depth=1 https://github.com/TeamFleet/KCKit.git
+    - pip install -U pip setuptools
     - pip install hererocks
-    - hererocks lua_install -r^ --$LUA
+    - hererocks lua_install -r^ --lua=5.3
     - export PATH=$PATH:$PWD/lua_install/bin
     - node -v
     - python -V
