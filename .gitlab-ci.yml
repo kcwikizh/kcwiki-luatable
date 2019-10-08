@@ -7,7 +7,6 @@ kcwiki-luatable:
   tags:
     - shell
   script:
-    - chown -R gitlab-runner:gitlab-runner /home/gitlab-runner/kcwiki-luatable
     - rsync -avzP ./ /home/gitlab-runner/kcwiki-luatable
     - cd /home/gitlab-runner/kcwiki-luatable
     - docker build -t kcwiki-luatable .
