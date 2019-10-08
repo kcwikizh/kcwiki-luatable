@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 import asyncio
-import shutil
 import functools
 import os
+import shutil
 import subprocess
 import time
 from os import environ, path
@@ -11,17 +11,18 @@ from os import environ, path
 from config import (AIRPOWER_TABLE, AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH,
                     ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB,
                     JSON_PATH, KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
-                    LUATABLE_PATH, OUPUT_PATH, SCRIPTS_PATH, SEASONAL_PATH,
-                    SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA, SHIP_CLASSES_DB,
-                    SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
-                    SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB, SHIPS_DATA,
-                    SHIPS_DB, SHIPCLASSES_MAPPING_DATA, KCKIT_NAME, WCTF_DB_NAME)
+                    KCKIT_NAME, LUATABLE_PATH, OUPUT_PATH, SCRIPTS_PATH,
+                    SEASONAL_PATH, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
+                    SHIP_CLASSES_DB, SHIP_NAMESUFFIX_DB, SHIP_SERIES_DB,
+                    SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB,
+                    SHIPCLASSES_MAPPING_DATA, SHIPS_DATA, SHIPS_DB,
+                    WCTF_DB_NAME)
 from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler,
                       WikiwikiCrawler)
 from DBDownloader import DBDownloader
 from ShinkaiLuatable import ShinkaiLuatable
-from ShipLuatable import ShipLuatable
 from ShipClassMappingLuatable import ShipClassMappingLuatable
+from ShipLuatable import ShipLuatable
 from utils import nedb2json
 from WikiBot import WikiBot
 
@@ -93,8 +94,7 @@ class LuatableBot:
         self.__git_clone(WCTF_DB_REPO_URL, WCTF_DB_NAME, WCTF_DB_REPO_BRANCH)
 
     def __git_clone(self, url, dest, branch = 'master'):
-        args = ['git', 'clone', '--depth=1', url, '-b', branch, dest]
-        exec(args)
+        exec(['git', 'clone', '--depth=1', url, '-b', branch, dest])
 
     @LuatableBotTask()
     async def FetchDBS(self):
@@ -180,12 +180,10 @@ class LuatableBot:
         self.__exec_js(SCRIPTS_PATH + BONUS_JS)
 
     def __exec_lua(self, filename):
-        args = ['lua', filename]
-        exec(args)
+        exec(['lua', filename])
 
     def __exec_js(self, filename):
-        args = ['node', filename]
-        exec(args)
+        exec(['node', filename])
 
     @Switch('Check')
     @LuatableBotTask(True)
