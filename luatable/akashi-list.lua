@@ -22890,8 +22890,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"G.Garibaldi改(Lv45)",
-			"L.d.S.D.d.Abruzzi改(Lv45)"
+			"L.d.S.D.d.Abruzzi改(Lv45)",
+			"G.Garibaldi改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%E6%94%B9",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/152mm/55_Triple_Rapid_Fire_Gun_Mount_Kai"
