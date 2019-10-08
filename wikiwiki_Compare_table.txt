@@ -539,6 +539,21 @@
 | 
 | 軽巡にフィット補正（命中のみ）、夕張・香取型・日進に装備ボーナス。
 |-
+|style="background-color:#fee;"| 8inch三連装砲 Mk.9
+| 11
+| 1
+| 
+| -1
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+| 中
+| ランキング
+| △
+| 現状は改修不可
+|-
 |style="background-color:#fee;"| SKC34 20.3cm連装砲
 | 10
 | 2
@@ -569,20 +584,50 @@
 | ◯
 | 伊重巡にフィット補正
 |-
+|style="background-color:#fee;"| 152mm／55 三連装速射砲改
+| 9
+| 3
+| 2
+| 1
+| 1
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
+| 中
+| 初期装備、イベント
+| 
+| L.d.S.D.d.Abruzzi級・Gotlandに装備ボーナス
+|-
+|style="background-color:#fee;"| 152mm／55 三連装速射砲
+| 8
+| 2
+| 1
+| 
+| 1
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
+| 中
+| 初期装備
+| 
+| L.d.S.D.d.Abruzzi級に装備ボーナス
+|-
 |style="background-color:#fee;"| Bofors15.2cm連装砲 Model1930
 | 5
 | 4
 | 3
 | 1
 | 
+|style="background-color:#dff;"| +1
 |style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +1
 | 中
-| ランキング、初期装備
+| ランキング、初期装備、イベント
 | △
-| 現状は改修不可
+| 球磨型・長良型・川内型・阿賀野型・Gotlandに装備ボーナス。現状は改修不可
 |}
 ====副砲の比較====
 {| class="wikitable sortable"
@@ -977,15 +1022,15 @@
 |style="background-color:#efc;"| 4
 | 2
 | 2
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +1
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 長
 | 米
 | ランキング
 | -
-| -
+| 長門型、Colorado、Nelsonに装備ボーナス
 |-
 |style="background-color:#fee;"| 16inch Mk.V連装砲
 |style="background-color:#efc;"| 21
@@ -993,15 +1038,15 @@
 |style="background-color:#efc;"| 2
 | 1
 | 2
+|style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
 |style="background-color:#dff;"| 
 | 長
 | 米
-| ランキング
+| 初期装備、ランキング
 | -
-| -
+| 長門型、Colorado、Nelsonに装備ボーナス
 |-
 |style="background-color:#fee;"| 16inch Mk.I連装砲
 |style="background-color:#efc;"| 20
@@ -1009,15 +1054,15 @@
 |style="background-color:#efc;"| 1
 | 1
 | 1
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 長
 | 米
-| ランキング
+| 初期装備、ランキング
 | -
-| -
+| 長門型、Colorado、Nelsonに装備ボーナス
 |-
 |style="background-color:#fee;"| 38cm四連装砲改
 |style="background-color:#efc;"| 22
@@ -1429,7 +1474,7 @@
 |style="background-color:#efc;"| 2
 | 8
 | 
-| イベント
+| イベント、ランキング
 | ◯
 | 潜
 | 潜水
@@ -1444,7 +1489,7 @@
 |style="background-color:#efc;"| 3
 | 11
 | 
-| 初期装備
+| 初期装備、ランキング
 | -
 | 潜
 | 潜水
@@ -1479,6 +1524,45 @@
 | -
 | 
 |-
+|style="background-color:#cfc;"| 烈風改二
+| 13
+| 
+| 
+| 2
+| 1
+| 1
+| 
+| 5
+| イベント
+| -
+| 一航戦に装備ボーナス
+|-
+|style="background-color:#ddf;"| 烈風改二戊型(一航戦／熟練)
+| 12
+| 
+| 1
+| 
+| 3
+| 2
+| 
+| 6
+| イベント
+| -
+| 夜戦、一航戦に装備ボーナス
+|-
+|style="background-color:#ddf;"| 烈風改二戊型
+| 11
+| 
+| 1
+| 
+| 2
+| 2
+| 
+| 5
+| イベント
+| -
+| 夜戦、一航戦に装備ボーナス
+|-
 |style="background-color:#cfc;"| 烈風 一一型
 | 12
 | 
@@ -1504,6 +1588,19 @@
 | 任務、イベント、ランキング
 | △
 | 
+|-
+|style="background-color:#cfc;"| 烈風改(試製艦載型)
+| 10
+| 
+| 
+| 2
+| 3
+| 1
+| 1
+| 4
+| イベント
+| -
+| 一航戦に装備ボーナス
 |-
 |style="background-color:#cfc;"| 試製烈風 後期型
 | 10
@@ -1609,6 +1706,19 @@
 | ◯
 | 
 |-
+|style="background-color:#cfc;"| 零戦21型(付岩本小隊)
+| 9
+| 
+| 1
+| 1
+| 3
+| 
+| 
+| 7
+| 任務
+| △
+| 
+|-
 |style="background-color:#cfc;"| 零式艦戦21型(熟練)
 | 8
 | 
@@ -1620,6 +1730,19 @@
 | 7
 | 初期装備、任務
 | ◯
+| 
+|-
+|style="background-color:#bfa;"| Fw190 A-5改(熟練)
+| 11
+| 
+| 
+| 1
+| 3
+| 2
+| 
+| 4
+| イベント
+| -
 | 
 |-
 |style="background-color:#bfa;"| Fw190T改
@@ -1659,7 +1782,7 @@
 | 3
 | イベント
 | -
-| Aquila、Graf Zeppelinに数値ボーナス
+| Aquila、Graf Zeppelinに装備ボーナス
 |-
 |style="background-color:#bfa;"| Re.2001 OR改
 | 6
@@ -1672,7 +1795,7 @@
 | 4
 | 初期装備、ランキング
 | -
-| Aquilaに数値ボーナス
+| Aquilaに装備ボーナス
 |-
 |style="background-color:#ddf;"| F6F-5N
 | 10
@@ -1763,8 +1886,8 @@
 | 1
 | 1
 | 2
-| 5
-| 1
+|style="background-color:#efc;"| 5
+|style="background-color:#efc;"| 1
 | 
 | 7
 | 12%
@@ -1778,8 +1901,8 @@
 | 1
 | 2
 | 4
-| 6
-| 2
+|style="background-color:#efc;"| 6
+|style="background-color:#efc;"| 2
 | 
 | 3
 | 17%
@@ -1793,8 +1916,8 @@
 | 
 | 
 | 1
-| 3
-| 1
+|style="background-color:#efc;"| 3
+|style="background-color:#efc;"| 1
 | 
 | 6
 | 12%
@@ -1808,8 +1931,8 @@
 | 1
 | 
 | 2
-| 8
-| 1
+|style="background-color:#efc;"| 8
+|style="background-color:#efc;"| 1
 | 
 | 4
 | 12%
@@ -1823,8 +1946,8 @@
 | 
 | 1
 | 7
-| 6
-| 2
+|style="background-color:#efc;"| 6
+|style="background-color:#efc;"| 2
 | 
 | 7
 | 17%
@@ -1838,8 +1961,8 @@
 | 
 | 1
 | 8
-| 8
-| 3
+|style="background-color:#efc;"| 8
+|style="background-color:#efc;"| 3
 | 
 | 7
 | 20%
@@ -1853,8 +1976,8 @@
 | 1
 | 1
 | 5
-| 5
-| 2
+|style="background-color:#efc;"| 5
+|style="background-color:#efc;"| 2
 | 
 | 3
 | 17%
@@ -1868,8 +1991,8 @@
 | 
 | 1
 | 2
-| 4
-| 2
+|style="background-color:#efc;"| 4
+|style="background-color:#efc;"| 2
 | 1
 | 3
 | 17%
@@ -1883,8 +2006,8 @@
 | 1
 | 1
 | 1
-| 6
-| 2
+|style="background-color:#efc;"| 6
+|style="background-color:#efc;"| 2
 | 1
 | 3
 | 17%
@@ -1898,8 +2021,8 @@
 | 
 | 1
 | 2
-| 4
-| 2
+|style="background-color:#efc;"| 4
+|style="background-color:#efc;"| 2
 | 
 | 3
 | 17%
@@ -1923,6 +2046,7 @@
 ! 空ボ
 ! 潜ボ
 ! 回ボ
+! 索ボ
 ! 半径
 ! 射撃回避
 ! 入手方法
@@ -1938,6 +2062,7 @@
 | 6
 | 2
 | 
+|style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
@@ -1961,6 +2086,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 4
 | 
 | 初期装備、イベント、ランキング
@@ -1980,6 +2106,7 @@
 |style="background-color:#dff;"| +3
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| +3
+|style="background-color:#dff;"| 
 | 5
 | ◯
 | 任務
@@ -1999,6 +2126,7 @@
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
 | 5
 | ◯
 | 任務
@@ -2018,6 +2146,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 5
 | ◯
 | ランキング
@@ -2033,6 +2162,7 @@
 | 6
 | 1
 | 
+|style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
@@ -2056,6 +2186,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
 | 5
 | ◯
 | 任務、ランキング
@@ -2075,6 +2206,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 5
 | ◯
 | 初期装備、改修、任務、ランキング
@@ -2090,6 +2222,7 @@
 | 4
 | 2
 | 
+|style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
@@ -2113,6 +2246,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
 | 5
 | 
 | 開発、初期装備
@@ -2128,15 +2262,16 @@
 | 4
 | 
 | 1
+|style="background-color:#dff;"| +3
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +2
 | 4
 | 
 | 初期装備、イベント
 | -
-| 
+| 瑞穂、神威、Commandant Teste、Richelieu改に装備ボーナス
 |}
 ====水上戦闘機の比較====
 {| class="wikitable sortable"
@@ -2212,12 +2347,42 @@
 ! 索敵
 ! 命中
 ! 回避
-! 触接*9
+! 触接*10
 ! 砲撃戦威力
 ! 半径
 ! 射撃回避
 ! 入手方法
 ! 备注
+|-
+|style="background-color:#cff;"| 流星改(一航戦／熟練)
+| 
+|style="background-color:#efc;"| 15
+| 3
+|style="background-color:#efc;"| 7
+| 6
+| 2
+| 
+| 17%
+|style="background-color:#efc;"| 22.5
+| 6
+| 
+| ランキング、任務
+| 先制対潜トリガー装備、一航戦/五航戦に装備ボーナス有
+|-
+|style="background-color:#cef;"| 流星改(一航戦)
+| 
+|style="background-color:#efc;"| 14
+| 2
+|style="background-color:#efc;"| 6
+| 4
+| 1
+| 
+| 
+|style="background-color:#efc;"| 21
+| 6
+| 
+| ランキング、任務
+| 一航戦/五航戦に装備ボーナス有
 |-
 |style="background-color:#cef;"| 流星改
 | 
@@ -2277,7 +2442,7 @@
 | 5
 | ◯
 | 任務
-| 
+| 二航戦に装備ボーナス有
 |-
 |style="background-color:#cef;"| 天山(村田隊)
 | 
@@ -2292,7 +2457,7 @@
 | 5
 | ◯
 | 任務、イベント
-| 
+| 一航戦/五航戦/龍驤改二に装備ボーナス有
 |-
 |style="background-color:#cef;"| 天山(六〇一空)
 | 
@@ -2324,6 +2489,36 @@
 | 初期装備、ランキング
 | 先制対潜トリガー装備
 |-
+|style="background-color:#ddf;"| 九七式艦攻改(熟練)試製三号戊型(空六号電探改装備機)
+| 
+|style="background-color:#efc;"| 9
+| 
+|style="background-color:#efc;"| 7
+| 5
+| 2
+| 
+| 17%
+|style="background-color:#efc;"| 13.5
+| 4
+| 
+| ランキング
+| 夜攻,先制対潜トリガー装備、龍鳳改/瑞鳳改二（乙）/祥鳳改/赤城改二戊に装備ボーナス有
+|-
+|style="background-color:#ddf;"| 九七式艦攻改試製三号戊型(空六号電探改装備機)
+| 
+|style="background-color:#efc;"| 7
+| 
+|style="background-color:#efc;"| 6
+| 4
+| 1
+| 
+| 
+|style="background-color:#efc;"| 10.5
+| 4
+| 
+| ランキング、改修
+| 夜攻、龍鳳改/瑞鳳改二（乙）/祥鳳改/赤城改二戊に装備ボーナス有
+|-
 |style="background-color:#cef;"| 九七式艦攻(村田隊)
 | 
 |style="background-color:#efc;"| 12
@@ -2337,7 +2532,7 @@
 | 4
 | ◯
 | 任務、イベント
-| 
+| 一航戦/五航戦/龍驤改二に装備ボーナス有
 |-
 |style="background-color:#cef;"| 九七式艦攻(友永隊)
 | 
@@ -2352,7 +2547,7 @@
 | 4
 | ◯
 | 初期装備
-| 
+| 二航戦に装備ボーナス有
 |-
 |style="background-color:#cff;"| 九七式艦攻(九三一空／熟練)
 | 
@@ -2367,7 +2562,7 @@
 | 4
 | 
 | イベント
-| 先制対潜トリガー装備
+| 先制対潜トリガー装備，大鷹/神鷹に装備ボーナス有
 |-
 |style="background-color:#cef;"| 九七式艦攻(熟練)
 | 
@@ -2396,8 +2591,8 @@
 |style="background-color:#efc;"| 9
 | 4
 | 
-| 初期装備、ランキング
-| 先制対潜トリガー装備
+| 初期装備、ランキング、改修
+| 先制対潜トリガー装備，大鷹/神鷹に装備ボーナス有
 |-
 |style="background-color:#cef;"| Re.2001 G改
 | 3
@@ -2412,7 +2607,7 @@
 | 3
 | 
 | 初期装備
-| Aquilaに数値ボーナス
+| Aquilaに装備ボーナス有
 |-
 |style="background-color:#ddf;"| TBM-3D
 | 2
@@ -2532,7 +2727,7 @@
 | 開発、初期装備、改修、任務、イベント、ランキング
 | ◯
 | ソ
-| 特定の艦娘*10に装備ボーナス
+| 特定の艦娘*11に装備ボーナス
 |-
 |style="background-color:#CFF;"| 九三式水中聴音機
 | 6
@@ -2566,12 +2761,12 @@
 | 13
 | 
 | 3
-| 2
+| 1
 | 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| ランキング
+| 初期装備、ランキング
 | -
 | ソ
 | 
@@ -2659,6 +2854,34 @@
 | ◯
 | 投
 | 
+|-
+|style="background-color:#DDDDFF;"| 二式12cm迫撃砲改 集中配備
+| 7
+| 
+| 
+| 1
+| -1
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+| ランキング、改修
+| -
+| 投
+| 爆雷とのシナジー無し対地
+|-
+|style="background-color:#DDDDFF;"| 二式12cm迫撃砲改
+| 3
+| 
+| 
+| 1
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+| 初期装備、イベント、ランキング、任務
+| ◯
+| 投
+| 爆雷とのシナジー無し対地
 |-
 |style="background-color:#CCCCFF;"| 二式爆雷
 | 7
