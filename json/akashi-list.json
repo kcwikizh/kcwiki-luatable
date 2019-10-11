@@ -22809,8 +22809,8 @@
       "EN_Wiki": "https://kancolle.fandom.com/wiki/152mm/55_Triple_Rapid_Fire_Gun_Mount",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2",
       "equip_ships": [
-        "G.Garibaldi(Lv1)",
-        "L.d.S.D.d.Abruzzi(Lv1)"
+        "L.d.S.D.d.Abruzzi(Lv1)",
+        "G.Garibaldi(Lv1)"
       ],
       "id": 340,
       "item_equip": {
