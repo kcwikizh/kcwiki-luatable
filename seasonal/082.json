@@ -180,5 +180,55 @@
       "vname": "秘书舰2",
       "zh": "POI！提督，终于夕立我们也到六周年了poi！第七年了poi，不可思议poi，POI！"
     }
+  },
+  "2019年秋刀鱼祭典": {
+    "082-Atk1Sanma2019": {
+      "file": "/6/68/082-Atk1Sanma2019.mp3",
+      "ja": "まずどれから襲うかな～？選り取り見取りっガルルー！",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "082-Atk2Sanma2019": {
+      "file": "/e/ea/082-Atk2Sanma2019.mp3",
+      "ja": "ガルル？",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "082-BattleSanma2019": {
+      "file": "/a/af/082-BattleSanma2019.mp3",
+      "ja": "ガァルルー！さあ、素敵なパーティーするっぽい！",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "082-Equip3Sanma2019": {
+      "file": "/8/83/082-Equip3Sanma2019.mp3",
+      "ja": "ガル？",
+      "vname": "装备",
+      "zh": ""
+    },
+    "082-FleetOrgSanma2019": {
+      "file": "/9/97/082-FleetOrgSanma2019.mp3",
+      "ja": "夕立、出撃っぽい！ガルルー！",
+      "vname": "编成",
+      "zh": ""
+    },
+    "082-Sec1Sanma2019": {
+      "file": "/c/c2/082-Sec1Sanma2019.mp3",
+      "ja": "ガルル？",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "082-Sec3Sanma2019": {
+      "file": "/9/9a/082-Sec3Sanma2019.mp3",
+      "ja": "ガルルっぽい？",
+      "vname": "秘书舰3",
+      "zh": ""
+    },
+    "082-SortieSanma2019": {
+      "file": "/b/b7/082-SortieSanma2019.mp3",
+      "ja": "お待たせっガルル―！",
+      "vname": "出征",
+      "zh": ""
+    }
   }
 }
