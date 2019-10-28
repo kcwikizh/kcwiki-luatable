@@ -186,49 +186,49 @@
       "file": "/6/68/082-Atk1Sanma2019.mp3",
       "ja": "まずどれから襲うかな～？選り取り見取りっガルルー！",
       "vname": "攻击1",
-      "zh": ""
+      "zh": "从哪个开始打？随便挑随便选嗷呜——"
     },
     "082-Atk2Sanma2019": {
       "file": "/e/ea/082-Atk2Sanma2019.mp3",
       "ja": "ガルル？",
       "vname": "攻击2",
-      "zh": ""
+      "zh": "嗷呜？"
     },
     "082-BattleSanma2019": {
       "file": "/a/af/082-BattleSanma2019.mp3",
       "ja": "ガァルルー！さあ、素敵なパーティーするっぽい！",
       "vname": "战斗开始",
-      "zh": ""
+      "zh": "嗷呜！开始美妙的派对吧！"
     },
     "082-Equip3Sanma2019": {
       "file": "/8/83/082-Equip3Sanma2019.mp3",
       "ja": "ガル？",
       "vname": "装备",
-      "zh": ""
+      "zh": "嗷呜？"
     },
     "082-FleetOrgSanma2019": {
       "file": "/9/97/082-FleetOrgSanma2019.mp3",
       "ja": "夕立、出撃っぽい！ガルルー！",
       "vname": "编成",
-      "zh": ""
+      "zh": "夕立出击poi！嗷呜！"
     },
     "082-Sec1Sanma2019": {
       "file": "/c/c2/082-Sec1Sanma2019.mp3",
       "ja": "ガルル？",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "嗷呜？"
     },
     "082-Sec3Sanma2019": {
       "file": "/9/9a/082-Sec3Sanma2019.mp3",
       "ja": "ガルルっぽい？",
       "vname": "秘书舰3",
-      "zh": ""
+      "zh": "嗷呜poi？"
     },
     "082-SortieSanma2019": {
       "file": "/b/b7/082-SortieSanma2019.mp3",
       "ja": "お待たせっガルル―！",
       "vname": "出征",
-      "zh": ""
+      "zh": "久等了嗷呜！"
     }
   }
 }
