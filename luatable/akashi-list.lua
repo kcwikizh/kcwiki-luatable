@@ -8414,6 +8414,7 @@ k.EquipUpdateTb = {
 			"阿武隈改二(Lv75)",
 			"文月改二(Lv77)",
 			"夕雲改二(Lv77)",
+			"朝霜改二(Lv77)",
 			"隼鷹改二(Lv80)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9",
@@ -10133,9 +10134,10 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"皐月改二(Lv75)",
-			"摩耶改二(Lv75)",
 			"鬼怒改二(Lv75)",
-			"文月改二(Lv77)"
+			"摩耶改二(Lv75)",
+			"文月改二(Lv77)",
+			"朝霜改二(Lv77)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Triple_Autocannon_Mount_%28Concentrated_Deployment%29"
@@ -18057,7 +18059,8 @@ k.EquipUpdateTb = {
 			"夕雲改二(Lv75)",
 			"巻雲改二(Lv75)",
 			"長波改二(Lv75)",
-			"風雲改二(Lv75)"
+			"風雲改二(Lv75)",
+			"朝霜改二(Lv77)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%BA%8C",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2"
@@ -23607,6 +23610,52 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9%20mod.2",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/8inch_Triple_Gun_Mount_Mk.9_mod.2"
+	},
+	["358"] = {
+		["id"] = 358,
+		["no"] = "No.358",
+		["item_name"] = {
+			["zh"] = "5inch单装高角炮群",
+			["ja"] = "5inch 単装高角砲群"
+		},
+		["item_type"] = "副砲",
+		["item_intro"] = "米国で開発・運用された標準的な対空兵装です。本装備は、重巡や戦艦などの中型艦以上の標準的な艦隊防空用対空火力として運用されました。戦いの後期になると、より新型の両用砲に更新されていきます。",
+		["item_stat"] = {
+			["火力"] = "+2",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+5",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+1",
+			["回避"] = "+1",
+			["艦隊防空"] = "1.75",
+			["射程"] = "",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 1,
+			["正規空母"] = 1,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["揚陸艦"] = 1,
+			["工作艦"] = 1,
+			["extra"] = {
+				"大鯨型"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%20%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E7%BE%A4",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/5inch_Single_High-angle_Gun_Mount_Battery"
 	}
 }
 
