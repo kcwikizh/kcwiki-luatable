@@ -12021,8 +12021,8 @@
         },
         {
           "ship_class": "Colorado級改",
-          "ship_correct": "",
-          "ship_fitting": "unk"
+          "ship_correct": "±0",
+          "ship_fitting": "nopena"
         }
       ],
       "item_fitting_type": "フィット命中補正値",
