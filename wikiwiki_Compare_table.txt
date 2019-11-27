@@ -539,6 +539,21 @@
 | 
 | 軽巡にフィット補正（命中のみ）、夕張・香取型・日進に装備ボーナス。
 |-
+|style="background-color:#fee;"| 8inch三連装砲 Mk.9 mod.2
+| 12
+| 2
+| 1
+| -1
+| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| 
+| 中
+| ランキング
+| △
+| 現状は改修不可
+|-
 |style="background-color:#fee;"| 8inch三連装砲 Mk.9
 | 11
 | 1
@@ -901,7 +916,7 @@
 | 長
 | 日
 | ランキング
-| -
+| △
 | 金剛型改二に装備ボーナス。金剛改二、榛名改二のみ水上電探混載で火力ボーナス(+2)
 |-
 |style="background-color:#fdd;"| 試製35.6cm三連装砲
@@ -1045,7 +1060,7 @@
 | 長
 | 米
 | 初期装備、ランキング
-| -
+| ◯
 | 長門型、Colorado、Nelsonに装備ボーナス
 |-
 |style="background-color:#fee;"| 16inch Mk.I連装砲
@@ -1061,7 +1076,7 @@
 | 長
 | 米
 | 初期装備、ランキング
-| -
+| ◯
 | 長門型、Colorado、Nelsonに装備ボーナス
 |-
 |style="background-color:#fee;"| 38cm四連装砲改
@@ -1624,8 +1639,8 @@
 | 
 | 1
 | 4
-| イベント
-| -
+| イベント、ランキング
+| △
 | 
 |-
 |style="background-color:#cfc;"| 紫電改二
@@ -2027,7 +2042,7 @@
 | 3
 | 17%
 | 初期装備、イベント、ランキング
-| -
+| △
 | 
 |}
 ====水上爆撃機の比較====
@@ -2150,7 +2165,7 @@
 | 5
 | ◯
 | ランキング
-| -
+| △
 | 扶桑型、伊勢型に装備ボーナス
 |-
 |style="background-color:#cfc;"| 瑞雲12型
@@ -2230,7 +2245,7 @@
 | 5
 | 
 | イベント、ランキング、任務
-| -
+| △
 | 
 |-
 |style="background-color:#cfc;"| 瑞雲
@@ -2381,7 +2396,7 @@
 |style="background-color:#efc;"| 21
 | 6
 | 
-| ランキング、任務
+| ランキング、任務、イベント
 | 一航戦/五航戦に装備ボーナス有
 |-
 |style="background-color:#cef;"| 流星改
@@ -2766,7 +2781,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| 初期装備、ランキング
+| 初期装備、ランキング、イベント
 | -
 | ソ
 | 
