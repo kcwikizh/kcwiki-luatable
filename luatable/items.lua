@@ -18871,7 +18871,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Toku_Daihatsu_Landing_Craft"
+		["英文Wiki"] = "https://kancolle.wikia.com/wiki/Toku_Daihatsu_Landing_Craft"
 	},
 	["194"] = {
 		["ID"] = 194,
@@ -32681,7 +32681,9 @@ d.equipDataTb = {
 			"日进甲",
 			"日进改"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.XXI",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Twin_Rapid_Fire_Gun_Mount_Mk.XXI"
 	},
 	["360"] = {
 		["ID"] = 360,
