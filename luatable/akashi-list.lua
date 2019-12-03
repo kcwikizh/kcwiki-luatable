@@ -12011,8 +12011,8 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "Nelson級改",
-				["ship_fitting"] = "unk",
-				["ship_correct"] = ""
+				["ship_fitting"] = "nopena",
+				["ship_correct"] = "±0"
 			},
 			{
 				["ship_class"] = "Colorado級改",
