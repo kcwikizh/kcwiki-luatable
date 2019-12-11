@@ -415,6 +415,7 @@
 ! 空ボ
 ! 回ボ
 ! 射程
+! 国籍
 ! 入手方法
 ! 改修
 ! 補正効果等
@@ -430,6 +431,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
+| 日
 | 初期装備、改修、ランキング
 | ◯
 | 重巡に夜戦命中率補正
@@ -445,6 +447,7 @@
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| +1
 | 中
+| 日
 | 初期装備、改修
 | ◯
 | 重巡に夜戦命中率補正、古鷹型・青葉型に装備ボーナス。水上/対空電探混載でシナジーボーナス。
@@ -460,6 +463,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
+| 日
 | 開発、初期装備
 | ◯
 | 重巡に夜戦命中率補正
@@ -475,6 +479,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
+| 日
 | 改修
 | ◯
 | 一部の大型軽巡・重巡
@@ -490,6 +495,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
+| 日
 | 開発、初期装備
 | ◯
 | 一部の大型軽巡・重巡
@@ -505,6 +511,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
+| 日
 | 改修、ランキング
 | ◯
 | 軽巡にフィット補正（火力・命中）
@@ -520,6 +527,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
+| 日
 | 開発、初期装備
 | ◯
 | 軽巡にフィット補正（火力・命中）
@@ -535,6 +543,7 @@
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| +1
 | 中
+| 日
 | ランキング、初期装備
 | 
 | 軽巡にフィット補正（命中のみ）、夕張・香取型・日進に装備ボーナス。
@@ -545,12 +554,13 @@
 | 1
 | -1
 | 
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
-| ランキング
+| 米
+| ランキング、イベント
 | △
 | 現状は改修不可
 |-
@@ -560,14 +570,31 @@
 | 
 | -1
 | 
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
-| ランキング
+| 米
+| ランキング、初期装備、イベント
 | △
 | 現状は改修不可
+|-
+|style="background-color:#dfd;"| 5inch連装両用砲(集中配備)
+| 5
+| 11
+| 2
+| 2
+| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +3
+|style="background-color:#dff;"| +2
+| 中
+| 米
+| イベント、初期装備
+| △
+| 特殊高角砲、現状は改修不可
 |-
 |style="background-color:#fee;"| SKC34 20.3cm連装砲
 | 10
@@ -580,6 +607,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 中
+| 独
 | 初期装備
 | 
 | 
@@ -595,6 +623,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 | 長
+| 伊
 | 初期装備、任務*4
 | ◯
 | 伊重巡にフィット補正
@@ -610,6 +639,7 @@
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| +1
 | 中
+| 伊
 | 初期装備、イベント
 | 
 | L.d.S.D.d.Abruzzi級・Gotlandに装備ボーナス
@@ -625,9 +655,26 @@
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| +1
 | 中
+| 伊
 | 初期装備
 | 
 | L.d.S.D.d.Abruzzi級に装備ボーナス
+|-
+|style="background-color:#fee;"| Bofors 15cm連装速射砲 Mk.9改＋単装速射砲 Mk.10改 Model 1938
+| 7
+| 6
+| 3
+| 3
+| -1
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +1
+| 中
+| 蘭
+| イベント、初期装備
+| △
+| 現状は改修不可
 |-
 |style="background-color:#fee;"| Bofors15.2cm連装砲 Model1930
 | 5
@@ -640,9 +687,26 @@
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| +1
 | 中
+| 瑞
 | ランキング、初期装備、イベント
 | △
 | 球磨型・長良型・川内型・阿賀野型・Gotlandに装備ボーナス。現状は改修不可
+|-
+|style="background-color:#fee;"| 6inch連装速射砲 Mk.XXI
+| 5
+| 3
+| 2
+| 1
+| 1
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +1
+| 中
+| 英
+| ランキング、初期装備、イベント
+| △
+| 現状は改修不可
 |}
 ====副砲の比較====
 {| class="wikitable sortable"
@@ -2767,7 +2831,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| ランキング
+| ランキング、イベント
 | -
 | ソ
 | 
