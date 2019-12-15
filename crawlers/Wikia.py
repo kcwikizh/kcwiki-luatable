@@ -41,7 +41,6 @@ class WikiaCrawler(HttpClient):
                 htmlArr = res_json['expandtemplates']['*'].split("{|")[1:]
                 for val in htmlArr:
                     txt = val.split("'''")
-                    shipid = txt[3].split('No.')[1].split(' ')[0].strip(),
                     dayBattle = 0
                     re_res = self.NUM_PATTERN.search(txt[47].strip())
                     if re_res:
