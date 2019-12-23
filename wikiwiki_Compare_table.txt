@@ -410,6 +410,7 @@
 ! 命中
 ! 回避
 ! 装甲
+! 索敵
 ! 火ボ
 ! 雷ボ
 ! 空ボ
@@ -424,6 +425,7 @@
 | 10
 | 4
 | 1
+| 
 | 
 | 
 |style="background-color:#dff;"| 
@@ -442,6 +444,7 @@
 | 1
 | 
 | 
+| 
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| +1
@@ -455,6 +458,7 @@
 |style="background-color:#fdd;"| 20.3cm連装砲
 | 8
 | 3
+| 
 | 
 | 
 | 
@@ -474,6 +478,7 @@
 | 3
 | 1
 | 1
+| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
@@ -488,6 +493,7 @@
 | 7
 | 4
 | 1
+| 
 | 
 | 
 |style="background-color:#dff;"| 
@@ -506,6 +512,7 @@
 | 4
 | 
 | 
+| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
@@ -520,6 +527,7 @@
 | 5
 | 3
 | 3
+| 
 | 
 | 
 |style="background-color:#dff;"| 
@@ -538,6 +546,7 @@
 | 3
 | 
 | 1
+| 
 |style="background-color:#dff;"| +3
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| +1
@@ -554,6 +563,7 @@
 | 1
 | -1
 | 
+| 
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
@@ -562,11 +572,12 @@
 | 米
 | ランキング、イベント
 | △
-| 現状は改修不可
+| Houston、最上型に装備ボーナス。現状は改修不可
 |-
 |style="background-color:#fee;"| 8inch三連装砲 Mk.9
 | 11
 | 1
+| 
 | 
 | -1
 | 
@@ -578,13 +589,31 @@
 | 米
 | ランキング、初期装備、イベント
 | △
-| 現状は改修不可
+| Houston、最上型に装備ボーナス。現状は改修不可
+|-
+|style="background-color:#dfd;"| GFCS Mk.37＋5inch連装両用砲(集中配備)
+| 6
+| 14
+| 6
+| 3
+| 
+| 3
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +3
+|style="background-color:#dff;"| +2
+| 中
+| 米
+| イベント
+| △
+| 特殊高角砲。Atlanta、Houston、Coloradoに装備ボーナス、一部の軽巡、練巡にはマイナス。現状は改修不可。
 |-
 |style="background-color:#dfd;"| 5inch連装両用砲(集中配備)
 | 5
 | 11
 | 2
 | 2
+| 
 | 
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| 
@@ -594,12 +623,13 @@
 | 米
 | イベント、初期装備
 | △
-| 特殊高角砲、現状は改修不可
+| 特殊高角砲。Atlanta、Houston、Coloradoに装備ボーナス、一部の軽巡、練巡にはマイナス。現状は改修不可。
 |-
 |style="background-color:#fee;"| SKC34 20.3cm連装砲
 | 10
 | 2
 | 3
+| 
 | 
 | 
 |style="background-color:#dff;"| 
@@ -618,6 +648,7 @@
 | -2
 | 
 | 
+| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
@@ -634,6 +665,7 @@
 | 2
 | 1
 | 1
+| 
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| +1
@@ -650,6 +682,7 @@
 | 1
 | 
 | 1
+| 
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| +1
@@ -666,6 +699,7 @@
 | 3
 | 3
 | -1
+| 
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| +2
@@ -673,14 +707,32 @@
 | 中
 | 蘭
 | イベント、初期装備
-| △
-| 現状は改修不可
+| 
+| De Ruyter、Gotland、阿賀野型に装備ボーナス
+|-
+|style="background-color:#fee;"| Bofors 15cm連装速射砲 Mk.9 Model 1938
+| 6
+| 5
+| 3
+| 2
+| 
+| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +2
+|style="background-color:#dff;"| +1
+| 中
+| 
+| 初期装備
+| 
+| De Ruyter、Gotland、阿賀野型に装備ボーナス
 |-
 |style="background-color:#fee;"| Bofors15.2cm連装砲 Model1930
 | 5
 | 4
 | 3
 | 1
+| 
 | 
 |style="background-color:#dff;"| +1
 |style="background-color:#dff;"| 
@@ -690,7 +742,7 @@
 | 瑞
 | ランキング、初期装備、イベント
 | △
-| 球磨型・長良型・川内型・阿賀野型・Gotlandに装備ボーナス。現状は改修不可
+| 球磨型・長良型・川内型・阿賀野型・Gotlandに装備ボーナス。現状は改修不可。
 |-
 |style="background-color:#fee;"| 6inch連装速射砲 Mk.XXI
 | 5
@@ -698,6 +750,7 @@
 | 2
 | 1
 | 1
+| 
 |style="background-color:#dff;"| +2
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| +2
@@ -706,7 +759,7 @@
 | 英
 | ランキング、初期装備、イベント
 | △
-| 現状は改修不可
+| Perth、夕張に装備ボーナス。現状は改修不可。
 |}
 ====副砲の比較====
 {| class="wikitable sortable"
@@ -2845,7 +2898,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| 初期装備、ランキング、イベント
+| 初期装備、任務、ランキング、イベント
 | -
 | ソ
 | 
@@ -2859,7 +2912,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| 初期装備、任務、ランキング
+| 初期装備、任務、ランキング、イベント
 | -
 | ソ
 | 
