@@ -33227,7 +33227,9 @@ d.equipDataTb = {
 				["对空"] = 2,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%20Model%201938",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Bofors_15cm_Twin_Rapid_Fire_Gun_Mount_Mk.9_Model_1938"
 	},
 	["361"] = {
 		["ID"] = 361,
@@ -33311,7 +33313,9 @@ d.equipDataTb = {
 				["对空"] = 2,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%E6%94%B9%EF%BC%8B%E5%8D%98%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.10%E6%94%B9%20Model%201938",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Bofors_15cm_Twin_Rapid_Fire_Gun_Mount_Mk.9_Kai_%2B_Single_Rapid_Fire_Gun_Mount_Mk.10_Kai_Model_1938"
 	},
 	["362"] = {
 		["ID"] = 362,
@@ -33433,7 +33437,9 @@ d.equipDataTb = {
 				["对空"] = -3,
 				["回避"] = -8
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
 	},
 	["363"] = {
 		["ID"] = 363,
@@ -33556,7 +33562,9 @@ d.equipDataTb = {
 				["对空"] = -3,
 				["回避"] = -8
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37%EF%BC%8B5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/GFCS_Mk.37_%2B_5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
 	}
 }
 

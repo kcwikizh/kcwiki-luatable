@@ -96,6 +96,7 @@ k.EquipUpdateTb = {
 			"日振(Lv1)",
 			"大東(Lv1)",
 			"福江(Lv1)",
+			"平戸(Lv1)",
 			"八丈(Lv1)",
 			"石垣(Lv1)",
 			"御蔵(Lv1)",
@@ -315,7 +316,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_remodel"] = {
@@ -403,7 +405,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_fitting_type"] = "命中補正値",
@@ -505,7 +508,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_fitting_type"] = "夜戦命中補正値",
@@ -2610,6 +2614,7 @@ k.EquipUpdateTb = {
 			"風雲改(Lv30)",
 			"浜波改(Lv30)",
 			"藤波改(Lv30)",
+			"秋霜改(Lv30)",
 			"岸波改(Lv35)",
 			"時雨改二(Lv60)",
 			"木曽改二(Lv65)",
@@ -2692,6 +2697,7 @@ k.EquipUpdateTb = {
 			"風雲改(Lv30)",
 			"浜波改(Lv30)",
 			"藤波改(Lv30)",
+			"秋霜改(Lv30)",
 			"阿賀野改(Lv35)",
 			"能代改(Lv35)",
 			"熊野改(Lv35)",
@@ -3554,6 +3560,7 @@ k.EquipUpdateTb = {
 			"日振(Lv1)",
 			"大東(Lv1)",
 			"福江(Lv1)",
+			"平戸(Lv1)",
 			"八丈(Lv1)",
 			"石垣(Lv1)",
 			"御蔵(Lv1)",
@@ -3575,6 +3582,7 @@ k.EquipUpdateTb = {
 			"藤波(Lv1)",
 			"岸波(Lv1)",
 			"早波(Lv1)",
+			"秋霜(Lv1)",
 			"香取(Lv1)",
 			"あきつ丸(Lv1)",
 			"明石(Lv1)",
@@ -3983,6 +3991,7 @@ k.EquipUpdateTb = {
 			"早霜改(Lv30)",
 			"海風改(Lv30)",
 			"狭霧改(Lv30)",
+			"秋霜改(Lv30)",
 			"朝雲改(Lv35)",
 			"山雲改(Lv35)",
 			"早波改(Lv35)",
@@ -4202,6 +4211,7 @@ k.EquipUpdateTb = {
 			"山風改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
+			"平戸改(Lv48)",
 			"松風改(Lv50)",
 			"旗風改(Lv50)",
 			"浦風丁改(Lv69)",
@@ -4519,7 +4529,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_fitting_type"] = "夜戦命中補正値",
@@ -5515,7 +5526,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_remodel"] = {
@@ -5805,6 +5817,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"あきつ丸(Lv1)",
+			"神州丸(Lv1)",
+			"神州丸改(Lv48)",
 			"霰改二(Lv63)",
 			"大潮改二(Lv65)",
 			"荒潮改二(Lv67)",
@@ -7200,7 +7214,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_fitting_type"] = "夜戦命中補正値",
@@ -9214,7 +9229,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_remodel"] = {
@@ -9616,7 +9632,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
@@ -10771,7 +10788,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_remodel"] = {
@@ -12099,7 +12117,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_remodel"] = {
@@ -15525,6 +15544,7 @@ k.EquipUpdateTb = {
 			"御蔵改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
+			"平戸改(Lv48)",
 			"浦風丁改(Lv69)",
 			"谷風丁改(Lv70)",
 			"白露改二(Lv77)"
@@ -15732,6 +15752,7 @@ k.EquipUpdateTb = {
 			"御蔵改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
+			"平戸改(Lv48)",
 			"由良改二(Lv77)",
 			"天龍改二(Lv84)"
 		},
@@ -16207,7 +16228,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["item_fitting_type"] = "命中補正値",
@@ -20669,7 +20691,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
@@ -20971,7 +20994,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
@@ -22798,7 +22822,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
@@ -22843,7 +22868,8 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
@@ -23103,7 +23129,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"御蔵改(Lv45)"
+			"御蔵改(Lv45)",
+			"神州丸改(Lv48)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_2_12cm_Mortar_Kai"
@@ -23494,11 +23521,12 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Houston(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/8inch_Triple_Gun_Mount_Mk.9"
@@ -23537,11 +23565,12 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Houston改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9%20mod.2",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/8inch_Triple_Gun_Mount_Mk.9_mod.2"
@@ -23587,7 +23616,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Houston改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%20%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E7%BE%A4",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/5inch_Single_High-angle_Gun_Mount_Battery"
@@ -23610,7 +23639,7 @@ k.EquipUpdateTb = {
 			["索敵"] = "",
 			["命中"] = "+2",
 			["回避"] = "+1",
-			["射程"] = "",
+			["射程"] = "中",
 			["装甲"] = "+1"
 		},
 		["item_equip"] = {
@@ -23627,14 +23656,198 @@ k.EquipUpdateTb = {
 			["練習巡洋艦"] = 1,
 			["extra"] = {
 				"C.Teste",
-				"神威改母"
+				"神威改母",
+				"日進"
+			}
+		},
+		["equip_ships"] = {
+			"Perth(Lv1)",
+			"Perth改(Lv45)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.XXI",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Twin_Rapid_Fire_Gun_Mount_Mk.XXI"
+	},
+	["360"] = {
+		["id"] = 360,
+		["no"] = "No.360",
+		["item_name"] = {
+			["zh"] = "博福斯（Bofors）15cm连装速射炮 Mk.9 Model 1938",
+			["ja"] = "Bofors 15cm連装速射砲 Mk.9Model 1938"
+		},
+		["item_type"] = "中口径主砲",
+		["item_intro"] = "北欧スウェーデンの名門が開発した新型の軽巡用中口径連装主砲兵装です。新型の砲は対空戦用に大きな仰角が可能で、砲の角度に関らず次弾装填ができる機構を搭載、限定的ながら対空戦闘にも対応可能です。オランダの軽巡にも搭載されました。",
+		["item_stat"] = {
+			["火力"] = "+6",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+5",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+3",
+			["回避"] = "+2",
+			["射程"] = "中"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["extra"] = {
+				"C.Teste",
+				"神威改母",
+				"日進"
+			}
+		},
+		["equip_ships"] = {
+			"De",
+			"Ruyter(Lv1)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%20Model%201938",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Bofors_15cm_Twin_Rapid_Fire_Gun_Mount_Mk.9_Model_1938"
+	},
+	["361"] = {
+		["id"] = 361,
+		["no"] = "No.361",
+		["item_name"] = {
+			["zh"] = "博福斯（Bofors）15cm连装速射炮 Mk.9改 + 单装速射炮 Mk.10改 Model 1938",
+			["ja"] = "Bofors 15cm連装速射砲 Mk.9改＋単装速射砲 Mk.10改 Model 1938"
+		},
+		["item_type"] = "中口径主砲",
+		["item_intro"] = "北欧スウェーデンの名門が開発した新型の軽巡用中口径連装主砲と同単装砲をさらに熟成した軽巡用if改良兵装です。同兵装のオリジナルは対空戦用に大きな仰角も可能、砲の自由な角度で次発装填ができる機構を搭載、限定的ながら対空戦闘にも対応可能です。オランダの軽巡などで運用されました。",
+		["item_stat"] = {
+			["火力"] = "+7",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+6",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+3",
+			["回避"] = "+3",
+			["射程"] = "中",
+			["装甲"] = "-1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["extra"] = {
+				"C.Teste",
+				"神威改母",
+				"日進"
+			}
+		},
+		["equip_ships"] = {
+			"De",
+			"Ruyter改(Lv50)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%E6%94%B9%EF%BC%8B%E5%8D%98%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.10%E6%94%B9%20Model%201938",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Bofors_15cm_Twin_Rapid_Fire_Gun_Mount_Mk.9_Kai_%2B_Single_Rapid_Fire_Gun_Mount_Mk.10_Kai_Model_1938"
+	},
+	["362"] = {
+		["id"] = 362,
+		["no"] = "No.362",
+		["item_name"] = {
+			["zh"] = "5inch连装两用炮（集中配备）",
+			["ja"] = "5inch連装両用砲(集中配備)"
+		},
+		["item_type"] = "中口径主砲",
+		["item_intro"] = "米国で開発・運用された対艦及び対空戦闘に対応できる両用砲兵装です。本装備は、同砲を連装砲化、さらに薬莢形式を採用して連射性を向上、これを集中配備することで艦隊防空を担当する防空艦の強力な対空兵装として運用されました。Atlanta級防空巡などに装備され、一部は夜戦の近距離砲撃戦でも使用されました。",
+		["item_stat"] = {
+			["火力"] = "+5",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+11",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+2",
+			["回避"] = "+2",
+			["艦隊防空"] = "3.85",
+			["射程"] = "中"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["extra"] = {
+				"C.Teste",
+				"神威改母",
+				"日進"
+			}
+		},
+		["equip_ships"] = {
+			"Atlanta(Lv1)",
+			"Atlanta改(Lv50)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
+	},
+	["363"] = {
+		["id"] = 363,
+		["no"] = "No.363",
+		["item_name"] = {
+			["zh"] = "GFCS Mk.37 + 5inch连装两用炮（集中配备）",
+			["ja"] = "GFCS Mk.37＋5inch連装両用砲(集中配備)"
+		},
+		["item_type"] = "中口径主砲",
+		["item_intro"] = "米国で開発・運用された対艦及び対空戦闘に対応できる両用砲兵装に射撃レーダーを組み合わせた強力な対空兵装です。本装備は、薬莢形式を採用して連射性を向上した5inch連装両用砲を集中運用、さらに射撃レーダーと連動することで高い艦隊防空能力を実現しました。Atlanta級などに装備され、第三次ソロモン海戦では夜戦の殴り合いも経験しています。",
+		["item_stat"] = {
+			["火力"] = "+6",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+14",
+			["対潜"] = "",
+			["索敵"] = "+3",
+			["命中"] = "+6",
+			["回避"] = "+3",
+			["艦隊防空"] = "4.9",
+			["射程"] = "中"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["extra"] = {
+				"C.Teste",
+				"神威改母",
+				"日進"
 			}
 		},
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.XXI",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Twin_Rapid_Fire_Gun_Mount_Mk.XXI"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37%EF%BC%8B5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/GFCS_Mk.37_%2B_5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
 	}
 }
 
