@@ -6,6 +6,7 @@ import os
 import shutil
 import subprocess
 import time
+import traceback
 from os import environ, path
 
 from config import (AIRPOWER_TABLE, AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH,
@@ -38,7 +39,8 @@ def LuatableBotTask(skip_fails = False):
                 if not skip_fails:
                     raise e
                 else:
-                    print('[{}]: Task skip, error: {}'.format(fn.__name__, e))
+                    print('[{}]: Task skip'.format(fn.__name__))
+                    traceback.print_exc()
             END = time.time()
             print('[{}]: Task total used {}s'.format(fn.__name__, round(END - START, 3)))
         return wrapper
