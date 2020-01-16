@@ -7831,7 +7831,8 @@
       "id": 102,
       "item_equip": {
         "extra": [
-          "大鯨型"
+          "大鯨型",
+          "命中率+10%攻撃力+5"
         ],
         "基地航空隊": 1,
         "戦艦": 1,
@@ -23928,7 +23929,7 @@
       "no": "No.363"
     },
     "364": {
-      "EN_Wiki": "",
+      "EN_Wiki": "https://kancolle.fandom.com/wiki/Type_D_Kouhyouteki_Kai_%28Kouryuu_Kai%29",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%81%E5%9E%8B%E6%94%B9%28%E8%9B%9F%E9%BE%8D%E6%94%B9%29",
       "equip_ships": [
         "-"

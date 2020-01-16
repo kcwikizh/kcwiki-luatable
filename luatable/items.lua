@@ -33949,7 +33949,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%81%E5%9E%8B%E6%94%B9%28%E8%9B%9F%E9%BE%8D%E6%94%B9%29",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_D_Kouhyouteki_Kai_%28Kouryuu_Kai%29"
 	}
 }
 

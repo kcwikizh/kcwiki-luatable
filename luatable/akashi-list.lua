@@ -7858,7 +7858,8 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["基地航空隊"] = 1,
 			["extra"] = {
-				"大鯨型"
+				"大鯨型",
+				"命中率+10%攻撃力+5"
 			}
 		},
 		["item_remodel"] = {
@@ -23970,7 +23971,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%81%E5%9E%8B%E6%94%B9%28%E8%9B%9F%E9%BE%8D%E6%94%B9%29",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_D_Kouhyouteki_Kai_%28Kouryuu_Kai%29"
 	}
 }
 
