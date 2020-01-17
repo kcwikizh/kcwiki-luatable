@@ -2845,7 +2845,7 @@
 | 改修、任務、イベント、ランキング
 | ◯
 | ソ
-| 
+| 特定の艦娘*11に装備ボーナス
 |-
 |style="background-color:#CFF;"| 三式水中探信儀
 | 10
@@ -2859,7 +2859,7 @@
 | 開発、初期装備、改修、任務、イベント、ランキング
 | ◯
 | ソ
-| 特定の艦娘*11に装備ボーナス
+| 特定の艦娘*12に装備ボーナス
 |-
 |style="background-color:#CFF;"| 九三式水中聴音機
 | 6
@@ -3049,160 +3049,4 @@
 ! 分類
 !colspan="13"| 装備可能艦
 ! 备注
-|-
-|style="background-color:#cef; text-align:left; width:250px;"| ソナー 四式水中聴音機 など
-| 水雷系
-| 天龍型
-| 多摩他
-| 由良他
-| 
-| 
-| 仏水母
-| 秋津洲
-| 神威母
-| 速吸改
-| 
-| 大鷹型
-| 
-|rowspan="2"| ソ投爆シナジー
-|-
-|style="background-color:#7df; text-align:left; width:250px;"| 爆雷投射機 三式爆雷投射機 など
-| 水雷系
-| 天龍型
-| 多摩他
-| 由良他
-| 
-| 水母系
-| 
-| 秋津洲
-| 神威母
-| 
-| 
-| 大鷹型
-| 
-|-
-|style="background-color:#7df; text-align:left; width:250px;"| 爆雷投射機試製15cm9連装対潜噴進砲 など
-| 水雷系
-| 天龍型
-| 多摩他
-| 由良他
-| 
-| 水母系
-| 
-| 秋津洲
-| 神威母
-| 
-| 
-| 大鷹型
-| 
-| ソ投シナジーのみ有り爆雷とのシナジー無し
-|-
-|style="background-color:#dcf; text-align:left; width:250px;"| 爆雷 二式爆雷 など
-| 水雷系
-| 天龍型
-| 多摩他
-| 由良他
-| 
-| 水母系
-| 
-| 秋津洲
-| 神威母
-| 
-| 
-| 大鷹型
-| 
-|rowspan="2"| ソ投爆シナジー
-|-
-|style="background-color:#cef; text-align:left; width:250px;"| 大型ソナー 零式水中聴音機
-| 
-| 
-| 
-| 
-| 航巡系
-| 水母系
-| 仏水母
-| 秋津洲
-| 
-| 
-| 
-| 大鷹型
-| 軽空母
-|-
-|style="background-color:#9f9; text-align:left; width:250px;"| 回転翼機 カ号観測機 など
-| 
-| 天龍型
-| 多摩他
-| 
-| 航巡系
-| 
-| 仏水母
-| 
-| 神威母
-| 速吸改
-| あきつ
-| 大鷹型
-| 軽空母
-| 
-|-
-|style="background-color:#9f9; text-align:left; width:250px;"| 対潜哨戒機 三式指揮連絡機(対潜)
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| あきつ
-| 大鷹型
-| 軽空母
-| 
-|-
-|style="background-color:#9f9; text-align:left; width:250px;"| 水上爆撃機 瑞雲 など
-| 
-| 
-| 多摩他
-| 由良他
-| 航巡系
-| 水母系
-| 仏水母
-| 秋津洲
-| 神威母
-| 速吸改
-| 
-| 
-| 
-|rowspan="3"| 艦載機熟練度効果有り
-|-
-|style="background-color:#8bf; text-align:left; width:250px;"| 艦上攻撃機 流星 など
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 速吸改
-| 
-| 大鷹型
-| 軽空母
-|-
-|style="background-color:#fcc; text-align:left; width:250px;"| 艦上爆撃機 彗星 など
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 
-| 大鷹型
-| 軽空母
 |}
