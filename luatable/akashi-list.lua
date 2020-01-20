@@ -6037,7 +6037,8 @@ k.EquipUpdateTb = {
 				"長波改二",
 				"風雲改二",
 				"朝霜改二",
-				"Gotland改"
+				"Gotland改",
+				"夕張改二(特/丁)"
 			}
 		},
 		["item_extra_equip"] = {
@@ -6067,7 +6068,8 @@ k.EquipUpdateTb = {
 				"長波改二",
 				"風雲改二",
 				"朝霜改二",
-				"Gotland改"
+				"Gotland改",
+				"夕張改二(特/丁)"
 			}
 		},
 		["item_remodel"] = {
@@ -14388,7 +14390,8 @@ k.EquipUpdateTb = {
 				"長波改二",
 				"風雲改二",
 				"朝霜改二",
-				"Gotland改"
+				"Gotland改",
+				"夕張改二(特/丁)"
 			}
 		},
 		["item_extra_equip"] = {
@@ -14418,7 +14421,8 @@ k.EquipUpdateTb = {
 				"長波改二",
 				"風雲改二",
 				"朝霜改二",
-				"Gotland改"
+				"Gotland改",
+				"夕張改二(特/丁)"
 			}
 		},
 		["item_remodel"] = {
@@ -18078,7 +18082,8 @@ k.EquipUpdateTb = {
 				"長波改二",
 				"風雲改二",
 				"朝霜改二",
-				"Gotland改"
+				"Gotland改",
+				"夕張改二(特/丁)"
 			}
 		},
 		["item_extra_equip"] = {
@@ -18108,7 +18113,8 @@ k.EquipUpdateTb = {
 				"長波改二",
 				"風雲改二",
 				"朝霜改二",
-				"Gotland改"
+				"Gotland改",
+				"夕張改二(特/丁)"
 			}
 		},
 		["equip_ships"] = {
