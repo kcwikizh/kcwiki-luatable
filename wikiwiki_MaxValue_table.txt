@@ -910,7 +910,7 @@
 | 15
 | 20
 | 154
-| 大発・中型バルジ搭載可
+| 可装备大发和中型增设装甲
 | {{舰娘备注|363}}
 |-
 | 364
@@ -929,7 +929,7 @@
 | 15
 | 20
 | 155
-| 特二内火艇・中型バルジ搭載可
+| 可装备内火和中型增设装甲
 | {{舰娘备注|364}}
 |-
 | 366
@@ -986,7 +986,7 @@
 | 15
 | 20
 | 157
-| 特二内火艇・中型バルジ搭載可
+| 可装备内火和中型增设装甲
 | {{舰娘备注|368}}
 |-
 | 378
@@ -1005,7 +1005,7 @@
 | 15
 | 20
 | 156
-| 特二内火艇・中型バルジ搭載可
+| 可装备内火和中型增设装甲
 | {{舰娘备注|378}}
 |-
 | 380
@@ -1308,7 +1308,7 @@
 | 35
 | 47
 |style="background-color:#FDE9D9;"| 69
-|style="background-color:#FFFF99;"| 84
+|style="background-color:#FDE9D9;"| 84
 | 70
 | 79
 | 74
@@ -1368,7 +1368,7 @@
 | 60
 | 49
 |style="background-color:#FDE9D9;"| 69
-|style="background-color:#FFFF99;"| 84
+|style="background-color:#FDE9D9;"| 84
 | 68
 | 89
 | 70
@@ -1448,7 +1448,7 @@
 | 75 +図
 | 45
 | 68
-|style="background-color:#FDE9D9;"| 83
+| 83
 | 56
 |style="background-color:#FDE9D9;"| 94
 | 78
@@ -1488,7 +1488,7 @@
 | 80 +建5開15
 | 42
 | 63
-|style="background-color:#FFFF99;"| 84
+|style="background-color:#FDE9D9;"| 84
 | 50
 | 80
 | 80
@@ -1528,7 +1528,7 @@
 | 77 +図
 | 45
 | 67
-|style="background-color:#FDE9D9;"| 83
+| 83
 | 56
 | 80
 | 88
@@ -1688,7 +1688,7 @@
 | 84 +図報+建30開30
 | 41
 | 65
-|style="background-color:#FDE9D9;"| 83
+| 83
 | 56
 | 80
 | 88
@@ -1728,7 +1728,7 @@
 | 88 +建30開30
 | 41
 | 64
-| 85
+|style="background-color:#FFFF99;"| 85
 | 56
 | 80
 | 78
@@ -3659,7 +3659,7 @@
 |style="background-color:#FFFF99;"| 100
 |style="background-color:#FDE9D9;"| 130
 |style="background-color:#FDE9D9;"| 230
-| Laté 298Bのみ搭載可
+| 只能装备Laté 298B
 | {{舰娘备注|292a}}
 |}
 ====艦船最大値/諸種戦艦上位早見表/テーブル====
