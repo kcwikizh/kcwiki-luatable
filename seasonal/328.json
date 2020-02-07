@@ -31,6 +31,38 @@
       "zh": "大家都要穿泳装啊。嗯~姐姐，啊，好像不会穿。"
     }
   },
+  "2020年情人节": {
+    "328-LightDmg2Valentine2020": {
+      "file": "/1/1c/328-LightDmg2Valentine2020.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "328-MedDmgValentine2020": {
+      "file": "/8/80/328-MedDmgValentine2020.mp3",
+      "ja": "",
+      "vname": "中破",
+      "zh": ""
+    },
+    "328-Sec1Valentine2020": {
+      "file": "/3/3b/328-Sec1Valentine2020.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "328-Sec2Valentine2020": {
+      "file": "/7/7e/328-Sec2Valentine2020.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "328-Sec3Valentine2020": {
+      "file": "/4/43/328-Sec3Valentine2020.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
+  },
   "2020年新年季节": {
     "328-Sec1Shinnen2020": {
       "file": "/6/6f/328-Sec1Shinnen2020.mp3",

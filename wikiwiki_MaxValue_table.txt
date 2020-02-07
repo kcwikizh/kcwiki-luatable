@@ -252,18 +252,18 @@
 | 潮改二
 | 60
 | 33
-| 56
+| 58
 | 95
-| 57
+| 58
 | 80
-| 78
+| 79
 | 75
 | 48
 | 32
-| 83
+| 89
 | 15
 | 20
-| 137
+| 138
 | 
 | {{舰娘备注|207}}
 |-
@@ -767,7 +767,7 @@
 | 27
 | 46
 | 93
-| 44
+| 45
 | 77
 | 82
 | 81
@@ -776,7 +776,7 @@
 | 77
 | 15
 |style="background-color:#FFFF99;"| 15
-| 121
+| 122
 | 可装备大发/内火，有专属对空CI
 | {{舰娘备注|348}}
 |-
@@ -1549,17 +1549,17 @@
 | 46
 |style="background-color:#FDE9D9;"| 69
 | 82
-| 59
+| 60
 | 91
 | 83
-| 83
+| 84
 | 61
 | 13/69
 | 3
 | 短
 | 25
 |style="background-color:#FDE9D9;"| 30
-| 150
+| 151
 | 大発・内火艇・航空要員・回転翼機・水爆/水戦・中型バルジ装備可北方迷彩(＋北方装備)装備時にボーナス
 | {{舰娘备注|347}}
 |-
@@ -1808,9 +1808,9 @@
 | 65
 |style="background-color:#FFFF99;"| 44
 |style="background-color:#FFFF99;"| 65
-|style="background-color:#FFFF99;"| 84
-|style="background-color:#FFFF99;"| 64
-| 110
+|style="background-color:#FFFF99;"| 85
+|style="background-color:#FFFF99;"| 65
+| 111
 |style="background-color:#FFFF99;"| 72
 |style="background-color:#FFFF99;"| 82
 |style="background-color:#FFFF99;"| 49
@@ -1818,7 +1818,7 @@
 | 0
 | 25
 |style="background-color:#FFFF99;"| 50
-| 174
+| 176
 | 可装备中型增设装甲
 | {{舰娘备注|146}}
 |}
@@ -3194,7 +3194,7 @@
 | 77
 | 67
 | 76
-| 83
+| 85
 | 65
 | 82
 | 89
@@ -3215,7 +3215,7 @@
 | 67
 | 75
 | 74
-| 58
+| 62
 | 84
 | 90
 | 15/60
@@ -3891,10 +3891,10 @@
 | 78
 | 94
 |style="background-color:#FFFF99;"| 83
-| 85
+| 86
 | 0
 | 84
-|style="background-color:#FFFF99;"| 81
+|style="background-color:#FFFF99;"| 85
 |style="background-color:#FFFF99;"| 75
 | 40/93
 |style="background-color:#FDE9D9;"| 50(2,4,22,11,11)
@@ -4457,9 +4457,9 @@
 | 42
 | 39
 | 49
-| 29
-|style="background-color:#FDE9D9;"| 72
-| 39
+| 31
+|style="background-color:#FDE9D9;"| 73
+| 42
 | 69
 | 10/59
 | 24
@@ -4498,7 +4498,7 @@
 |style="background-color:#FDE9D9;"| 48
 | 42
 | 45
-|style="background-color:#FDE9D9;"| 72
+| 72
 | 44
 |style="background-color:#FDE9D9;"| 94
 | 10/54
