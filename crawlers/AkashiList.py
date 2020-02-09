@@ -449,16 +449,16 @@ class AkashiListCrawler(HttpClient):
             buid['cost'] = dict()
             if fuel_selector:
                 fuel = self.get_text(fuel_selector)
-                buid['cost']['fuel'] = int(fuel)
+                buid['cost']['fuel'] = fuel
             if ammo_selector:
                 ammo = self.get_text(ammo_selector)
-                buid['cost']['ammo'] = int(ammo)
+                buid['cost']['ammo'] = ammo
             if steel_selector:
                 steel = self.get_text(steel_selector)
-                buid['cost']['steel'] = int(steel)
+                buid['cost']['steel'] = steel
             if bauxite_selector:
                 bauxite = self.get_text(bauxite_selector)
-                buid['cost']['bauxite'] = int(bauxite)
+                buid['cost']['bauxite'] = bauxite
             if buid['cost']:
                 detail['item_build'] = buid
 
