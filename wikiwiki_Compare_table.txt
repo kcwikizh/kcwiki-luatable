@@ -451,7 +451,7 @@
 |style="background-color:#dff;"| +1
 | 中
 | 日
-| 初期装備、改修
+| 初期装備、改修、開発
 | ◯
 | 重巡に夜戦命中率補正、古鷹型・青葉型に装備ボーナス。水上/対空電探混載でシナジーボーナス。
 |-
@@ -2361,7 +2361,7 @@
 |style="background-color:#dff;"| 
 | 5
 | 
-| イベント、ランキング、任務
+| 開発、イベント、ランキング、任務
 | △
 | 
 |-
@@ -2898,7 +2898,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| 初期装備、任務、ランキング、イベント
+| 初期装備、任務、イベント、ランキング
 | -
 | ソ
 | 
@@ -2912,7 +2912,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| 初期装備、任務、ランキング、イベント
+| 初期装備、任務、イベント、ランキング
 | -
 | ソ
 | 
@@ -2926,7 +2926,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| ランキング、任務
+| 任務、ランキング
 | -
 | 大
 | 大型艦専用
@@ -2943,7 +2943,7 @@
 | イベント
 | -
 | 投
-| 爆雷とのシナジー無し
+| 爆雷とのシナジー無し特定の艦娘*13に装備ボーナス
 |-
 |style="background-color:#DDDDFF;"| 三式爆雷投射機 集中配備
 | 12
@@ -2952,12 +2952,12 @@
 | 
 | 
 |style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
-|style="background-color:#dff;"| 
+|style="background-color:#dff;"| +1
+|style="background-color:#dff;"| +1
 | イベント
 | -
 | 投
-| 爆雷とのシナジー無し
+| 爆雷とのシナジー無し特定の艦娘*14に装備ボーナス
 |-
 |style="background-color:#DDDDFF;"| 三式爆雷投射機
 | 8
@@ -2996,7 +2996,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| ランキング、改修
+| 改修、ランキング
 | -
 | 投
 | 爆雷とのシナジー無し対地
@@ -3010,7 +3010,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| 初期装備、イベント、ランキング、任務
+| 初期装備、任務、イベント、ランキング
 | ◯
 | 投
 | 爆雷とのシナジー無し対地
@@ -3024,7 +3024,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| イベント、改修、任務
+| 改修、任務、イベント
 | -
 | 爆
 | 
@@ -3038,7 +3038,7 @@
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
 |style="background-color:#dff;"| 
-| 初期装備、イベント、任務
+| 開発、初期装備、任務、イベント
 | ◯
 | 爆
 | 
