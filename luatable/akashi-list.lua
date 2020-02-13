@@ -4009,6 +4009,7 @@ k.EquipUpdateTb = {
 			"旗風改(Lv50)",
 			"潮改二(Lv60)",
 			"浦風丁改(Lv69)",
+			"敷波改二(Lv80)",
 			"海風改二(Lv82)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%9B%9B%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
@@ -4216,6 +4217,7 @@ k.EquipUpdateTb = {
 			"松風改(Lv50)",
 			"旗風改(Lv50)",
 			"浦風丁改(Lv69)",
+			"敷波改二(Lv80)",
 			"海風改二(Lv82)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
@@ -5455,7 +5457,8 @@ k.EquipUpdateTb = {
 			"初春改二(Lv65)",
 			"大潮改二(Lv65)",
 			"綾波改二(Lv70)",
-			"江風改二(Lv75)"
+			"江風改二(Lv75)",
+			"敷波改二(Lv80)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E4%BA%8C",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_B_Kai_2"
