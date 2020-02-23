@@ -17994,7 +17994,7 @@ k.EquipUpdateTb = {
 			["火力"] = "+3",
 			["雷装"] = "",
 			["爆装"] = "",
-			["対空"] = "+3",
+			["対空"] = "+4",
 			["対潜"] = "",
 			["索敵"] = "",
 			["命中"] = "+2",
@@ -18068,7 +18068,7 @@ k.EquipUpdateTb = {
 			"朝霜改二(Lv77)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2"
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2"
 	},
 	["268"] = {
 		["id"] = 268,

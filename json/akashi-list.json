@@ -17981,7 +17981,7 @@
       "no": "No.266"
     },
     "267": {
-      "EN_Wiki": "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2",
+      "EN_Wiki": "https://kancolle.fandom.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%BA%8C",
       "equip_ships": [
         "夕雲改二(Lv75)",
@@ -18058,7 +18058,7 @@
         "命中": "+2",
         "回避": "+1",
         "対潜": "",
-        "対空": "+3",
+        "対空": "+4",
         "射程": "短",
         "火力": "+3",
         "爆装": "",
