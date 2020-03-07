@@ -1,13 +1,26 @@
-stages:
-  - kcwiki-luatable
-    
-kcwiki-luatable:
-  stage: kcwiki-luatable
+image: kozora/python3-nodejs:latest
 
+variables:
+    PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+    
+cache:
+  paths:
+    - .cache/pip
+    
+stages:
+  - update
+
+update:
+  stage: update
   tags:
-    - shell
+    - docker
+  only:
+    - master
+  before_script:
+    - pip install -U pip setuptools
+    - pip install hererocks
+    - hererocks lua_install -r^ --lua=5.3
+    - export PATH=$PATH:$PWD/lua_install/bin
+    - pip install -r requirements.txt
   script:
-    - rsync -avzP ./ /home/gitlab-runner/kcwiki-luatable
-    - cd /home/gitlab-runner/kcwiki-luatable
-    - docker build -t kcwiki-luatable .
-    - docker run --env-file .env -t kcwiki-luatable
+    - python LuatableBot.py
