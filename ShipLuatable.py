@@ -145,14 +145,11 @@ class ShipLuatable:
             rel_key
         )
 
-    def __get_shipremodel(self, ship_id, next_type, remodel_cost, ship_remodel, base_lvl):
+    def __get_shipremodel(self, ship_id, next_type, wctf_ship, wiki_ship):
+        remodel_cost = wctf_ship['remodel_cost']
         ret = {'等级': 0}
-        if not isinstance(base_lvl, str):
-            base_lvl = 0
-        if ship_remodel and 'next_lvl' in ship_remodel:
-            ret['等级'] = ship_remodel['next_lvl']
-        if ship_remodel and 'prev_loop' in ship_remodel:
-            ret['等级'] = base_lvl
+        if 'after_lv' in wiki_ship and wiki_ship['after_lv']:
+            ret['等级'] = wiki_ship['after_lv']
         if isinstance(remodel_cost, dict):
             for cost_type, cost in remodel_cost.items():
                 ret[COST[cost_type]] = cost
@@ -160,10 +157,10 @@ class ShipLuatable:
             '改造前': -1,
             '改造后': -1
         })
-        if ship_remodel and 'next' in ship_remodel:
-            ret['改造后'] = self.SHIPS_KCDATA[ship_remodel['next']]['wiki_id']
-        if ship_remodel and 'prev' in ship_remodel:
-            ret['改造前'] = self.SHIPS_KCDATA[ship_remodel['prev']]['wiki_id']
+        if 'remodel' in wctf_ship and 'prev' in wctf_ship['remodel']:
+            ret['改造前'] = self.SHIPS_KCDATA[wctf_ship['remodel']['prev']]['wiki_id']
+        if 'after_ship_id' in wiki_ship and wiki_ship['after_ship_id']:
+            ret['改造后'] = self.SHIPS_KCDATA[wiki_ship['after_ship_id']]['wiki_id']
 
         remodel_extra = ''
         if ship_id in self.SHIP_REMODEL_EXTRA:
@@ -171,9 +168,7 @@ class ShipLuatable:
         else:
             remodel_extra = REMODEL_TYPES[next_type]
         if remodel_extra:
-            ret.update({
-                '图纸': remodel_extra
-            })
+            ret.update({ '图纸': remodel_extra })
         return ret
 
     def __append_ship(self, ship_id):
@@ -232,8 +227,7 @@ class ShipLuatable:
                 '钢材': wctf_ship['scrap'][2], '铝': wctf_ship['scrap'][3]
             },
             '改造': self.__get_shipremodel(
-                _ship_id, next_type, wctf_ship['remodel_cost'],
-                wctf_ship['remodel'], wctf_ship['base_lvl']
+                _ship_id, next_type, wctf_ship, wiki_ship
             ),
             '画师': self.__get_entityname(
                 wctf_ship['rels']['illustrator'], wctf_ship['remodel']['prev']
