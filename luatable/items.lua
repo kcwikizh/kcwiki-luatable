@@ -34494,7 +34494,9 @@ d.equipDataTb = {
 			"兵装实验轻巡洋舰",
 			"长门改二"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%B8%89",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_3"
 	}
 }
 
