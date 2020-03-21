@@ -4232,7 +4232,8 @@
         "清霜改(Lv30)",
         "鹿島改(Lv35)",
         "朝霜改(Lv45)",
-        "不知火改二(Lv72)"
+        "不知火改二(Lv72)",
+        "沖波改二(Lv79)"
       ],
       "id": 47,
       "item_build": {
@@ -6029,6 +6030,7 @@
           "巻雲改二",
           "長波改二",
           "風雲改二",
+          "沖波改二",
           "朝霜改二",
           "Gotland改",
           "夕張改二(特/丁)"
@@ -6060,6 +6062,7 @@
           "巻雲改二",
           "長波改二",
           "風雲改二",
+          "沖波改二",
           "朝霜改二",
           "Gotland改",
           "夕張改二(特/丁)"
@@ -14382,6 +14385,7 @@
           "巻雲改二",
           "長波改二",
           "風雲改二",
+          "沖波改二",
           "朝霜改二",
           "Gotland改",
           "夕張改二(特/丁)"
@@ -14413,6 +14417,7 @@
           "巻雲改二",
           "長波改二",
           "風雲改二",
+          "沖波改二",
           "朝霜改二",
           "Gotland改",
           "夕張改二(特/丁)"
@@ -17988,7 +17993,8 @@
         "巻雲改二(Lv75)",
         "長波改二(Lv75)",
         "風雲改二(Lv75)",
-        "朝霜改二(Lv77)"
+        "朝霜改二(Lv77)",
+        "沖波改二(Lv79)"
       ],
       "id": 267,
       "item_equip": {
@@ -18091,6 +18097,7 @@
           "巻雲改二",
           "長波改二",
           "風雲改二",
+          "沖波改二",
           "朝霜改二",
           "Gotland改",
           "夕張改二(特/丁)"
@@ -18122,6 +18129,7 @@
           "巻雲改二",
           "長波改二",
           "風雲改二",
+          "沖波改二",
           "朝霜改二",
           "Gotland改",
           "夕張改二(特/丁)"
@@ -22583,6 +22591,79 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
       "item_intro": "米国で建造されたビッグセブン、「Colorado」級。その初期の主砲兵装として採用された標準的な16inch連装砲、その改良型のさらなる強化版兵装です。16inch連装主砲に改良を加え、さらに近接対空兵装も充実させました。改装後の「Colorado」級戦艦で装備運用することで、特に高い砲戦能力を発揮します。",
       "item_name": {
         "ja": "16inch Mk.VIII連装砲改",

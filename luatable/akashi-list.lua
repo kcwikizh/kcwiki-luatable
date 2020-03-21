@@ -4333,7 +4333,8 @@ k.EquipUpdateTb = {
 			"清霜改(Lv30)",
 			"鹿島改(Lv35)",
 			"朝霜改(Lv45)",
-			"不知火改二(Lv72)"
+			"不知火改二(Lv72)",
+			"沖波改二(Lv79)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E6%8E%A2%E4%BF%A1%E5%84%80",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Active_Sonar"
@@ -6048,6 +6049,7 @@ k.EquipUpdateTb = {
 				"巻雲改二",
 				"長波改二",
 				"風雲改二",
+				"沖波改二",
 				"朝霜改二",
 				"Gotland改",
 				"夕張改二(特/丁)"
@@ -6079,6 +6081,7 @@ k.EquipUpdateTb = {
 				"巻雲改二",
 				"長波改二",
 				"風雲改二",
+				"沖波改二",
 				"朝霜改二",
 				"Gotland改",
 				"夕張改二(特/丁)"
@@ -14408,6 +14411,7 @@ k.EquipUpdateTb = {
 				"巻雲改二",
 				"長波改二",
 				"風雲改二",
+				"沖波改二",
 				"朝霜改二",
 				"Gotland改",
 				"夕張改二(特/丁)"
@@ -14439,6 +14443,7 @@ k.EquipUpdateTb = {
 				"巻雲改二",
 				"長波改二",
 				"風雲改二",
+				"沖波改二",
 				"朝霜改二",
 				"Gotland改",
 				"夕張改二(特/丁)"
@@ -18065,7 +18070,8 @@ k.EquipUpdateTb = {
 			"巻雲改二(Lv75)",
 			"長波改二(Lv75)",
 			"風雲改二(Lv75)",
-			"朝霜改二(Lv77)"
+			"朝霜改二(Lv77)",
+			"沖波改二(Lv79)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%BA%8C",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2"
@@ -18117,6 +18123,7 @@ k.EquipUpdateTb = {
 				"巻雲改二",
 				"長波改二",
 				"風雲改二",
+				"沖波改二",
 				"朝霜改二",
 				"Gotland改",
 				"夕張改二(特/丁)"
@@ -18148,6 +18155,7 @@ k.EquipUpdateTb = {
 				"巻雲改二",
 				"長波改二",
 				"風雲改二",
+				"沖波改二",
 				"朝霜改二",
 				"Gotland改",
 				"夕張改二(特/丁)"
@@ -22597,6 +22605,79 @@ k.EquipUpdateTb = {
 			["正規空母"] = 0,
 			["水上機母艦"] = 0,
 			["航空戦艦"] = 1
+		},
+		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
 		},
 		["equip_ships"] = {
 			"-"
