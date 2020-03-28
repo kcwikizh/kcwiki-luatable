@@ -363,10 +363,9 @@ class AkashiListCrawler(HttpClient):
             detail['item_fitting'] = fitting
 
         # 处理remodel 改修值变化
-        remodel_selector = content_soup.select_one(
-            'div.remodel-table > table')
-        if remodel_selector:
-            remodel = dict()
+        remodel_selector_iterator = content_soup.select('div.remodel-table table')
+        remodel = dict()
+        for remodel_selector in remodel_selector_iterator:
             for remodel_line in remodel_selector:
                 remodel_line_name = remodel_line.name
                 if not remodel_line_name:
@@ -378,9 +377,7 @@ class AkashiListCrawler(HttpClient):
                         child_count += 1
                 if child_count is 1 and 'class' not in remodel_line.attrs:
                     continue
-                if 'class' in remodel_line.attrs \
-                    and ('equip-count' in remodel_line.attrs['class'] \
-                    or 'equip-per-star' in remodel_line.attrs['class']):
+                if 'class' in remodel_line.attrs and ('equip-count' in remodel_line.attrs['class'] or 'equip-per-star' in remodel_line.attrs['class']):
                     continue
                 remodel_title = ''
                 for remodel_row in remodel_line.children:
@@ -402,8 +399,9 @@ class AkashiListCrawler(HttpClient):
                         remodel[remodel_title].append(value)
             if '夜戦火力' in remodel and not remodel['夜戦火力']:
                 remodel['夜戦火力'] = remodel['火力']
-            if remodel:
-                detail['item_remodel'] = remodel
+            
+        if remodel:
+            detail['item_remodel'] = remodel
 
         # 处理remodel-info 改修信息
         # resource_tables = content_soup.find_all('div', class_='resource-table')

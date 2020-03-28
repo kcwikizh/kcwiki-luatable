@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import asyncio
-import functools
 import os
 import shutil
 import subprocess
@@ -26,7 +25,6 @@ from ShipClassMappingLuatable import ShipClassMappingLuatable
 from ShipLuatable import ShipLuatable
 from utils import nedb2json
 from WikiBot import WikiBot
-
 
 def LuatableBotTask(skip_fails = False):
     def inner(fn):
