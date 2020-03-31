@@ -17722,7 +17722,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%28%E9%87%8E%E4%B8%AD%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft_%28Nonaka_Squadron%29"
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_1_Land-based_Attack_Aircraft_%28Nonaka_Squadron%29"
 	},
 	["171"] = {
 		["ID"] = 171,
@@ -18976,7 +18976,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%B8%89%E5%9B%9B%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft_Model_34"
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_1_Land-based_Attack_Aircraft_Model_34"
 	},
 	["187"] = {
 		["ID"] = 187,
@@ -19016,7 +19016,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ginga"
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Ginga"
 	},
 	["188"] = {
 		["ID"] = 188,
@@ -19662,7 +19662,8 @@ d.equipDataTb = {
 					"塔斯特司令官改"
 				},
 				["三"] = {
-					"×"
+					"塔斯特司令官",
+					"塔斯特司令官改"
 				},
 				["四"] = {
 					"×"
@@ -23709,7 +23710,8 @@ d.equipDataTb = {
 					"皇家方舟改"
 				},
 				["三"] = {
-					"×"
+					"皇家方舟",
+					"皇家方舟改"
 				},
 				["四"] = {
 					"×"
@@ -35154,7 +35156,9 @@ d.equipDataTb = {
 					"哥特兰改"
 				},
 				["三"] = {
-					"×"
+					"神威",
+					"神威改",
+					"神威改母"
 				},
 				["四"] = {
 					"×"
