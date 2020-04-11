@@ -7625,12 +7625,12 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_build"] = {
-			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)?",
+			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
-				["fuel"] = "10?",
-				["ammo"] = "40?",
-				["steel"] = "20?",
-				["bauxite"] = "10?"
+				["fuel"] = "10",
+				["ammo"] = "40",
+				["steel"] = "20",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -11227,10 +11227,12 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_build"] = {
-			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)?",
+			["secretary"] = "秘書艦: 砲戦系(戦艦・重巡・工)",
 			["cost"] = {
-				["ammo"] = "30?",
-				["steel"] = "40?"
+				["fuel"] = "10",
+				["ammo"] = "30",
+				["steel"] = "40",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -14404,6 +14406,15 @@ k.EquipUpdateTb = {
 				"+24.64",
 				"+24.97",
 				"+25.29"
+			}
+		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: 水雷系or空母系",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "10",
+				["steel"] = "10",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -22241,12 +22252,12 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_build"] = {
-			["secretary"] = "秘書艦: ?",
+			["secretary"] = "秘書艦: 伊勢改以上、日向改以上",
 			["cost"] = {
-				["fuel"] = "?",
-				["ammo"] = "?",
-				["steel"] = "?",
-				["bauxite"] = "?"
+				["fuel"] = "20",
+				["ammo"] = "30",
+				["steel"] = "10",
+				["bauxite"] = "20"
 			}
 		},
 		["equip_ships"] = {

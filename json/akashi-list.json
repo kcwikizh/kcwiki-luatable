@@ -7434,12 +7434,12 @@
       "id": 51,
       "item_build": {
         "cost": {
-          "ammo": "40?",
-          "bauxite": "10?",
-          "fuel": "10?",
-          "steel": "20?"
+          "ammo": "40",
+          "bauxite": "10",
+          "fuel": "10",
+          "steel": "20"
         },
-        "secretary": "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)?"
+        "secretary": "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)"
       },
       "item_equip": {
         "戦艦": 1,
@@ -11067,10 +11067,12 @@
       "id": 90,
       "item_build": {
         "cost": {
-          "ammo": "30?",
-          "steel": "40?"
+          "ammo": "30",
+          "bauxite": "10",
+          "fuel": "10",
+          "steel": "40"
         },
-        "secretary": "秘書艦: 砲戦系(戦艦・重巡・工) 水雷系(駆逐・軽巡・雷巡・練巡・潜・補給)?"
+        "secretary": "秘書艦: 砲戦系(戦艦・重巡・工)"
       },
       "item_equip": {
         "extra": [
@@ -14159,6 +14161,15 @@
         "初霜改二(Lv70)"
       ],
       "id": 120,
+      "item_build": {
+        "cost": {
+          "ammo": "10",
+          "bauxite": "10",
+          "fuel": "10",
+          "steel": "10"
+        },
+        "secretary": "秘書艦: 水雷系or空母系"
+      },
       "item_equip": {
         "戦艦": 1,
         "正規空母": 1,
@@ -22179,12 +22190,12 @@
       "id": 207,
       "item_build": {
         "cost": {
-          "ammo": "?",
-          "bauxite": "?",
-          "fuel": "?",
-          "steel": "?"
+          "ammo": "30",
+          "bauxite": "20",
+          "fuel": "20",
+          "steel": "10"
         },
-        "secretary": "秘書艦: ?"
+        "secretary": "秘書艦: 伊勢改以上、日向改以上"
       },
       "item_equip": {
         "extra": [
