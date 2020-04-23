@@ -167,6 +167,26 @@
       "zh": "吴？超开心的，妥妥的！还有，很好吃！有点吃多了。应该，减减肥？"
     }
   },
+  "2020年七周年纪念": {
+    "285-Atk2SeventhAnniversary": {
+      "file": "/8/80/285-Atk2SeventhAnniversary.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "285-Sec1SeventhAnniversary": {
+      "file": "/d/de/285-Sec1SeventhAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "285-Sec2SeventhAnniversary": {
+      "file": "/e/eb/285-Sec2SeventhAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
+  },
   "2020年初春季节": {
     "285-Sec2Haru2020": {
       "file": "/a/ab/285-Sec2Haru2020.mp3",
