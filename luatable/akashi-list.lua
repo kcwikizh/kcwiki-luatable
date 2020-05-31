@@ -37212,6 +37212,212 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%AF%BE%E6%BD%9C%E7%9F%AD%E9%AD%9A%E9%9B%B7%28%E8%A9%A6%E4%BD%9C%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Lightweight_ASW_Torpedo_%28Initial_Test_Model%29"
+	},
+	["379"] = {
+		["id"] = 379,
+		["no"] = "No.379",
+		["item_name"] = {
+			["zh"] = "12.7cm单装高角炮改二",
+			["ja"] = "12.7cm単装高角砲改二"
+		},
+		["item_type"] = "小口径主砲",
+		["item_intro"] = "日本海軍最後の量産型駆逐艦である丁型駆逐艦用に開発された単装両用砲です。運用実績の豊富な八九式12.7cm連装高角砲を単装化、防盾付き艦載両用砲として再整備されました。本砲は、さらに発射速度などの向上を図ったその改良型です。松型駆逐艦を始め、一部の艦艇でより効果的な運用が可能です。",
+		["item_stat"] = {
+			["火力"] = "+1",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+5",
+			["対潜"] = "+2",
+			["索敵"] = "",
+			["命中"] = "+1",
+			["回避"] = "+3",
+			["艦隊防空"] = "+1.7",
+			["射程"] = "短",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 1,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 0,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 0,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["揚陸艦"] = 1,
+			["補給艦"] = 1,
+			["工作艦"] = 1,
+			["海防艦"] = 1,
+			["extra"] = {
+				"大鯨型",
+				"長門改二"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Single_High-angle_Gun_Mount_Kai_2"
+	},
+	["380"] = {
+		["id"] = 380,
+		["no"] = "No.380",
+		["item_name"] = {
+			["zh"] = "12.7cm连装高角炮改二",
+			["ja"] = "12.7cm連装高角砲改二"
+		},
+		["item_type"] = "小口径主砲",
+		["item_intro"] = "日本海軍最後の量産型駆逐艦である丁型駆逐艦などに搭載された運用実績の豊富な八九式12.7cm連装高角砲、その強化改良型です。戦訓により発射速度等の向上を図った本改良型は、松型駆逐艦を始め一部の艦艇で運用することで、より効果的な戦闘力を発揮することが可能です。",
+		["item_stat"] = {
+			["火力"] = "+2",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+6",
+			["対潜"] = "+2",
+			["索敵"] = "",
+			["命中"] = "+1",
+			["回避"] = "+2",
+			["艦隊防空"] = "+2.1",
+			["射程"] = "短",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 1,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 0,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 0,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["揚陸艦"] = 1,
+			["補給艦"] = 1,
+			["工作艦"] = 1,
+			["海防艦"] = 1,
+			["extra"] = {
+				"大鯨型",
+				"長門改二"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_High-angle_Gun_Mount_Kai_2"
+	},
+	["381"] = {
+		["id"] = 381,
+		["no"] = "No.381",
+		["item_name"] = {
+			["zh"] = "16inch三连装炮Mk.6",
+			["ja"] = "16inch三連装砲 Mk.6"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦用大口径主砲です。南太平洋海戦に機動部隊とともに参加、さらに南方ソロモン海域で日本の高速戦艦や水雷戦隊と激しい夜戦を演じた米高速戦艦「South Dakota」にも、その主兵装として装備されました。",
+		["item_stat"] = {
+			["火力"] = "+22",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+2",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+2",
+			["回避"] = "",
+			["射程"] = "長",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6"
 	}
 }
 

@@ -37211,6 +37211,212 @@
       },
       "item_type": "爆雷",
       "no": "No.378"
+    },
+    "379": {
+      "EN_Wiki": "https://kancolle.fandom.com/wiki/12.7cm_Single_High-angle_Gun_Mount_Kai_2",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 379,
+      "item_equip": {
+        "extra": [
+          "大鯨型",
+          "長門改二"
+        ],
+        "工作艦": 1,
+        "戦艦": 0,
+        "揚陸艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 1,
+        "海防艦": 1,
+        "練習巡洋艦": 1,
+        "航空戦艦": 0,
+        "補給艦": 1,
+        "軽巡洋艦": 1,
+        "軽空母": 0,
+        "重巡洋艦": 0,
+        "重雷装巡洋艦": 1,
+        "駆逐艦": 1
+      },
+      "item_intro": "日本海軍最後の量産型駆逐艦である丁型駆逐艦用に開発された単装両用砲です。運用実績の豊富な八九式12.7cm連装高角砲を単装化、防盾付き艦載両用砲として再整備されました。本砲は、さらに発射速度などの向上を図ったその改良型です。松型駆逐艦を始め、一部の艦艇でより効果的な運用が可能です。",
+      "item_name": {
+        "ja": "12.7cm単装高角砲改二",
+        "zh": "12.7cm单装高角炮改二"
+      },
+      "item_stat": {
+        "命中": "+1",
+        "回避": "+3",
+        "対潜": "+2",
+        "対空": "+5",
+        "射程": "短",
+        "火力": "+1",
+        "爆装": "",
+        "索敵": "",
+        "艦隊防空": "+1.7",
+        "装甲": "+1",
+        "雷装": ""
+      },
+      "item_type": "小口径主砲",
+      "no": "No.379"
+    },
+    "380": {
+      "EN_Wiki": "https://kancolle.fandom.com/wiki/12.7cm_Twin_High-angle_Gun_Mount_Kai_2",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 380,
+      "item_equip": {
+        "extra": [
+          "大鯨型",
+          "長門改二"
+        ],
+        "工作艦": 1,
+        "戦艦": 0,
+        "揚陸艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 1,
+        "海防艦": 1,
+        "練習巡洋艦": 1,
+        "航空戦艦": 0,
+        "補給艦": 1,
+        "軽巡洋艦": 1,
+        "軽空母": 0,
+        "重巡洋艦": 0,
+        "重雷装巡洋艦": 1,
+        "駆逐艦": 1
+      },
+      "item_intro": "日本海軍最後の量産型駆逐艦である丁型駆逐艦などに搭載された運用実績の豊富な八九式12.7cm連装高角砲、その強化改良型です。戦訓により発射速度等の向上を図った本改良型は、松型駆逐艦を始め一部の艦艇で運用することで、より効果的な戦闘力を発揮することが可能です。",
+      "item_name": {
+        "ja": "12.7cm連装高角砲改二",
+        "zh": "12.7cm连装高角炮改二"
+      },
+      "item_stat": {
+        "命中": "+1",
+        "回避": "+2",
+        "対潜": "+2",
+        "対空": "+6",
+        "射程": "短",
+        "火力": "+2",
+        "爆装": "",
+        "索敵": "",
+        "艦隊防空": "+2.1",
+        "装甲": "+1",
+        "雷装": ""
+      },
+      "item_type": "小口径主砲",
+      "no": "No.380"
+    },
+    "381": {
+      "EN_Wiki": "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 381,
+      "item_equip": {
+        "戦艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 0,
+        "航空戦艦": 1,
+        "軽巡洋艦": 0,
+        "軽空母": 0,
+        "重巡洋艦": 0,
+        "駆逐艦": 0
+      },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
+      "item_intro": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦用大口径主砲です。南太平洋海戦に機動部隊とともに参加、さらに南方ソロモン海域で日本の高速戦艦や水雷戦隊と激しい夜戦を演じた米高速戦艦「South Dakota」にも、その主兵装として装備されました。",
+      "item_name": {
+        "ja": "16inch三連装砲 Mk.6",
+        "zh": "16inch三连装炮Mk.6"
+      },
+      "item_stat": {
+        "命中": "+2",
+        "回避": "",
+        "対潜": "",
+        "対空": "+2",
+        "射程": "長",
+        "火力": "+22",
+        "爆装": "",
+        "索敵": "",
+        "装甲": "+1",
+        "雷装": ""
+      },
+      "item_type": "大口径主砲",
+      "no": "No.381"
     }
   },
   "pre_star": [
