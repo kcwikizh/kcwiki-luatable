@@ -70,7 +70,7 @@ class ShinkaiLuatable(HttpClient):
         self.SHIPS_KCDATA = jsonFile2dic(DB_PATH + KCDATA_SHIP_ALL_JSON, masterKey='id')
 
     async def __get_allitems(self):
-        SHINKAI_ITEMS_URL = 'http://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_equipment&cmlimit=500&format=json'
+        SHINKAI_ITEMS_URL = 'http://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_equipment_modules&cmlimit=500&format=json'
         async with self.session.get(SHINKAI_ITEMS_URL) as resp:
             res = await resp.json()
             return res['query']['categorymembers']
