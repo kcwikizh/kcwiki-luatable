@@ -76,7 +76,7 @@ class ShinkaiLuatable(HttpClient):
             return res['query']['categorymembers']
 
     async def __append_shinkai_item(self, title):
-        resp = await self.session.get(self.WIKIA_RAW_URL.format('Module:' + title))
+        resp = await self.session.get(self.WIKIA_RAW_URL.format(title))
         item_info_text = await resp.text()
         while item_info_text.find('REDIRECT') != -1:
             title = REDIRECT_PATTERN.search(item_info_text).group(1).strip()
