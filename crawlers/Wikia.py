@@ -34,7 +34,7 @@ class WikiaCrawler(HttpClient):
             all_types = self.SHIPTYPE_PATTERN.findall(content)
             text = ''
             for _type in all_types:
-                text += '{{EnemyShipInfoKai|{}/{}}}'.format('_'.join(MODULE_NAME.split()), _type.strip('{}'))
+                text += '{{{{EnemyShipInfoKai|{}/{}}}}}'.format('_'.join(MODULE_NAME.split()), _type.strip('{}'))
             url = self.DETAIL_URL.format(text)
             async with self.session.get(url) as resp:
                 res_json = await resp.json()
