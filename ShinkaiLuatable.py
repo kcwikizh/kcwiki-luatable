@@ -70,7 +70,7 @@ class ShinkaiLuatable(HttpClient):
         self.SHIPS_KCDATA = jsonFile2dic(DB_PATH + KCDATA_SHIP_ALL_JSON, masterKey='id')
 
     async def __get_allitems(self):
-        SHINKAI_ITEMS_URL = 'http://kancolle.wikia.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_equipment&cmlimit=500&format=json'
+        SHINKAI_ITEMS_URL = 'http://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_equipment&cmlimit=500&format=json'
         async with self.session.get(SHINKAI_ITEMS_URL) as resp:
             res = await resp.json()
             return res['query']['categorymembers']
@@ -136,14 +136,14 @@ class ShinkaiLuatable(HttpClient):
 
     async def __get_allships(self):
         ret = []
-        async with self.session.get('http://kancolle.wikia.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_ship_modules&cmlimit=500&format=json') as resp:
+        async with self.session.get('http://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_ship_modules&cmlimit=500&format=json') as resp:
             res = await resp.json()
             CATEGORY_MEMBERS = res['query']['categorymembers']
             for category in CATEGORY_MEMBERS:
                 title = category['title']
                 if title.startswith('Module') and title not in ret:
                     ret.append(title)
-        async with self.session.get('http://kancolle.wikia.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_boss_ship_modules&cmlimit=500&format=json') as resp:
+        async with self.session.get('http://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_boss_ship_modules&cmlimit=500&format=json') as resp:
             res = await resp.json()
             CATEGORY_MEMBERS = res['query']['categorymembers']
             for category in CATEGORY_MEMBERS:
