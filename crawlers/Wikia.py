@@ -12,10 +12,10 @@ from HttpClient import HttpClient
 
 class WikiaCrawler(HttpClient):
 
-    CATE_MEMBER_URL = 'https://kancolle.wikia.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_ship_modules&cmlimit=500&format=json'
-    SHIP_CATE_URL = 'https://kancolle.wikia.com/api.php?action=query&list=categorymembers&cmtitle={}&cmlimit=500&format=json'
-    SHIP_URL = 'https://kancolle.wikia.com/wiki/{}?action=raw'
-    DETAIL_URL = 'https://kancolle.wikia.com/api.php?action=expandtemplates&text={}&format=json'
+    CATE_MEMBER_URL = 'https://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_ship_modules&cmlimit=500&format=json'
+    SHIP_CATE_URL = 'https://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle={}&cmlimit=500&format=json'
+    SHIP_URL = 'https://kancolle.fandom.com/wiki/{}?action=raw'
+    DETAIL_URL = 'https://kancolle.fandom.com/api.php?action=expandtemplates&text={}&format=json'
     MODULE_PATTERN = re.compile(r'Module:')
     SHIPTYPE_PATTERN = re.compile(r'\["(.*)"\]')
     NUM_PATTERN = re.compile(r'\d+')
@@ -24,7 +24,7 @@ class WikiaCrawler(HttpClient):
         super().__init__()
 
     async def getDetail(self, moduleName):
-        MODULE_NAME = '_'.join(moduleName.strip()[7:].split())
+        MODULE_NAME = '_'.join(moduleName.strip()[18:].split())
         if MODULE_NAME.find('(fog)') != -1:
             return []
         ret = []
