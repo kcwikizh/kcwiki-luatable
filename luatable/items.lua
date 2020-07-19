@@ -25530,7 +25530,7 @@ d.equipDataTb = {
 			"神州丸改"
 		},
 		["备注"] = "",
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/HF%EF%BC%8FDF%EF%BC%8BType144%EF%BC%8F147%20ASDIC",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/HF%EF%BC%8FDF%20%EF%BC%8B%20Type144%EF%BC%8F147%20ASDIC",
 		["英文Wiki"] = "http://kancolle.wikia.com/wiki/HF/DF_%2B_Type144/147_ASDIC"
 	},
 	["263"] = {

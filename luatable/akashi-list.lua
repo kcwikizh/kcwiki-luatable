@@ -26535,7 +26535,7 @@ k.EquipUpdateTb = {
 		["no"] = "No.262",
 		["item_name"] = {
 			["zh"] = "HF/DF + Type144/147 ASDIC",
-			["ja"] = "HF/DF＋Type144/147 ASDIC"
+			["ja"] = "HF/DF ＋ Type144/147 ASDIC"
 		},
 		["item_type"] = "ソナー",
 		["item_intro"] = "紅茶の国で開発された対潜探知システム「ASDIC」。その改良発展型です。対潜探知技術の蓄積と144型と147型の複合装備により、敵潜探知精度をさらに向上させています。敵潜の発する無線波を捉える「短波方向探知機」と組み合わせて運用することで、総合的な対潜作戦能力は大きく向上しました。",
@@ -26578,7 +26578,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/HF%EF%BC%8FDF%EF%BC%8BType144%EF%BC%8F147%20ASDIC",
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/HF%EF%BC%8FDF%20%EF%BC%8B%20Type144%EF%BC%8F147%20ASDIC",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/HF/DF_%2B_Type144/147_ASDIC"
 	},
 	["263"] = {
