@@ -13,7 +13,7 @@ stages:
 update:
   stage: update
   tags:
-    - docker
+    - gitlab-nvme
   only:
     - master
   before_script:
