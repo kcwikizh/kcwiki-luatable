@@ -37812,6 +37812,35 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%20mod.2",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6_mod.2"
+	},
+	["388"] = {
+		["id"] = 388,
+		["no"] = "No.388",
+		["item_name"] = {
+			["zh"] = "银河（江草队）",
+			["ja"] = "銀河(江草隊)"
+		},
+		["item_type"] = "陸上攻撃機",
+		["item_intro"] = "海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された陸上発進の攻撃機です。優れた機体設計により、高い性能を秘めていました。戦力化された時期が遅かったことや複雑な構造に問題もあった新鋭機「銀河」。本部隊は、同機で編成され、鵬部隊とも呼ばれた精鋭江草隊長率いる飛行隊です。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+15",
+			["爆装"] = "+15",
+			["対空"] = "+3",
+			["対潜"] = "+4",
+			["索敵"] = "+4",
+			["命中"] = "+3",
+			["回避"] = "",
+			["戦闘行動半径"] = "7"
+		},
+		["item_equip"] = {
+			["基地航空隊"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Ginga_%28Egusa_Squadron%29"
 	}
 }
 
