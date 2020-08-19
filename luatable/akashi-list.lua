@@ -32556,6 +32556,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Colorado改(Lv45)",
+			"South",
+			"Dakota改(Lv48)",
 			"Johnston改(Lv55)",
 			"Fletcher改(Lv55)"
 		},
@@ -37425,7 +37427,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"South",
+			"Dakota(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6"
@@ -37703,6 +37706,67 @@ k.EquipUpdateTb = {
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2E%E5%9E%8B",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12cm_Single_High-angle_Gun_Mount_Model_E"
 	},
+	["383"] = {
+		["id"] = 383,
+		["no"] = "No.383",
+		["item_name"] = {
+			["zh"] = "后期型53cm舰首鱼雷（8门）",
+			["ja"] = "後期型53cm艦首魚雷(8門)"
+		},
+		["item_type"] = "潜水艦魚雷",
+		["item_intro"] = "後期生産型の伊号潜水艦艦首に装備する潜水艦専用兵装の改良後期型です。水上艦艇に搭載するものよりやや直径の小さい長射程高威力を誇る必殺の潜水艦搭載酸素魚雷。その無気泡発射管改良後期型を潜水艦の艦首に8門集中した本兵装は、圧倒的な雷撃攻撃力を潜水艦に付与します。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+19",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+3",
+			["回避"] = "+1",
+			["射程"] = "短"
+		},
+		["item_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B53cm%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%288%E9%96%80%29",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Late_Model_53cm_Bow_Torpedo_Mount_%288_tubes%29"
+	},
+	["384"] = {
+		["id"] = 384,
+		["no"] = "No.384",
+		["item_name"] = {
+			["zh"] = "后期型潜艇搭载电探&逆探",
+			["ja"] = "後期型潜水艦搭載電探＆逆探"
+		},
+		["item_type"] = "潜水艦装備",
+		["item_intro"] = "後期型潜水艦に搭載する、索敵及び水上偵察用装備です。艦橋上部に集中装備する多数の優れた水防式望遠鏡と運用実績によって改修された水上電探及び対空電探群、さらに実用性の高い逆探によって脅威や目標の早期発見に努め、潜水艦の生残性と攻撃力の向上を図ります。",
+		["item_stat"] = {
+			["火力"] = "+2",
+			["雷装"] = "+4",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "+7",
+			["命中"] = "+4",
+			["回避"] = "+13",
+			["射程"] = "",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Late_Model_Submarine_Radar_%26_Passive_Radiolocator"
+	},
 	["385"] = {
 		["id"] = 385,
 		["no"] = "No.385",
@@ -37808,10 +37872,101 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"South",
+			"Dakota改(Lv48)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%20mod.2",
 		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6_mod.2"
+	},
+	["386"] = {
+		["id"] = 386,
+		["no"] = "No.386",
+		["item_name"] = {
+			["zh"] = "6inch三连装速射炮 Mk.16",
+			["ja"] = "6inch三連装速射砲 Mk.16"
+		},
+		["item_type"] = "中口径主砲",
+		["item_intro"] = "軽巡等の主武装として米国で開発運用された6inch速射砲、これを三連装砲塔にまとめた軽巡主砲兵装です。米国の大型軽巡に搭載され、Brooklyn級や、次級のSt. Louis級、その後のCleveland級でも装備運用されました。",
+		["item_stat"] = {
+			["火力"] = "+7",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+2",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+2",
+			["回避"] = "",
+			["射程"] = "中",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["extra"] = {
+				"C.Teste",
+				"神威改母",
+				"日進"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Triple_Rapid_Fire_Gun_Mount_Mk.16"
+	},
+	["387"] = {
+		["id"] = 387,
+		["no"] = "No.387",
+		["item_name"] = {
+			["zh"] = "6inch三连装速射炮 Mk.16 mod.2",
+			["ja"] = "6inch三連装速射砲 Mk.16 mod.2"
+		},
+		["item_type"] = "中口径主砲",
+		["item_intro"] = "軽巡等の主武装として米国で開発運用された6inch速射砲、これを三連装砲塔にまとめた軽巡主砲兵装です。米国の大型軽巡に搭載され、Brooklyn級や、次級のSt. Louis級、その後のCleveland級でも装備運用されました。本兵装はその改修強化型です。",
+		["item_stat"] = {
+			["火力"] = "+8",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+3",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+4",
+			["回避"] = "+1",
+			["射程"] = "中",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["extra"] = {
+				"C.Teste",
+				"神威改母",
+				"日進"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16%20mod.2",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Triple_Rapid_Fire_Gun_Mount_Mk.16_mod.2"
 	},
 	["388"] = {
 		["id"] = 388,
