@@ -13,7 +13,7 @@ stages:
 update:
   stage: update
   tags:
-    - gitlab-nvme
+    - iad
   only:
     - master
   before_script:
