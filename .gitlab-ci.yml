@@ -5,7 +5,8 @@ variables:
     
 cache:
   paths:
-    - .cache/pip
+    - pip-cache
+  key: $CI_PROJECT_ID
     
 stages:
   - update
@@ -17,6 +18,8 @@ update:
   only:
     - master
   before_script:
+    - export PIP_CACHE_DIR="pip-cache"
+    - mkdir -p pip-cache
     - pip install -U pip setuptools
     - pip install hererocks
     - hererocks lua_install -r^ --lua=5.3
