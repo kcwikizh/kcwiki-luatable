@@ -446,10 +446,8 @@ k.EquipUpdateTb = {
 			"大潮改(Lv20)",
 			"満潮改(Lv20)",
 			"荒潮改(Lv20)",
-			"霰改(Lv20)",
 			"霞改(Lv20)",
 			"陽炎改(Lv20)",
-			"不知火改(Lv20)",
 			"黒潮改(Lv20)",
 			"初風改(Lv20)",
 			"舞風改(Lv20)",
@@ -22249,8 +22247,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Saratoga(Lv1)",
-			"Hornet(Lv1)",
-			"Hornet改(Lv40)"
+			"Hornet(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4F-3",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F4F-3"
@@ -22305,7 +22302,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Saratoga改(Lv40)"
+			"Saratoga改(Lv40)",
+			"Hornet改(Lv40)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4F-4",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F4F-4"
