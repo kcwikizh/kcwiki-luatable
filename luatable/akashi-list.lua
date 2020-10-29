@@ -3637,6 +3637,32 @@ k.EquipUpdateTb = {
 				"伊勢型改二"
 			}
 		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系(空母・軽母・水母・潜母・装母・航戦・航巡・揚陸・潜母艦)",
 			["cost"] = {
@@ -6349,7 +6375,7 @@ k.EquipUpdateTb = {
 			"潮改二(Lv60)",
 			"浦風丁改(Lv69)",
 			"敷波改二(Lv80)",
-			"海風改二(Lv82)"
+			"★+5海風改二(Lv82)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%9B%9B%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_94_Depth_Charge_Projector"
@@ -6491,8 +6517,8 @@ k.EquipUpdateTb = {
 			"嵐改(Lv35)",
 			"五十鈴改二(Lv50)",
 			"谷風丁改(Lv70)",
-			"黒潮改二(Lv73)",
-			"風雲改二(Lv75)",
+			"★+5黒潮改二(Lv73)",
+			"★+5風雲改二(Lv75)",
 			"龍田改二(Lv80)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
@@ -6740,7 +6766,7 @@ k.EquipUpdateTb = {
 			"旗風改(Lv50)",
 			"浦風丁改(Lv69)",
 			"敷波改二(Lv80)",
-			"海風改二(Lv82)"
+			"★+5海風改二(Lv82)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_93_Passive_Sonar"
@@ -6975,8 +7001,8 @@ k.EquipUpdateTb = {
 			"清霜改(Lv30)",
 			"鹿島改(Lv35)",
 			"朝霜改(Lv45)",
-			"不知火改二(Lv72)",
-			"沖波改二(Lv79)"
+			"★+5不知火改二(Lv72)",
+			"★+8沖波改二(Lv79)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E6%8E%A2%E4%BF%A1%E5%84%80",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Active_Sonar"
@@ -12131,6 +12157,32 @@ k.EquipUpdateTb = {
 				"伊勢型改二"
 			}
 		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["equip_ships"] = {
 			"蒼龍改二(Lv78)"
 		},
@@ -12169,6 +12221,32 @@ k.EquipUpdateTb = {
 			["基地航空隊"] = 1,
 			["extra"] = {
 				"伊勢型改二"
+			}
+		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
 			}
 		},
 		["equip_ships"] = {
@@ -22078,6 +22156,14 @@ k.EquipUpdateTb = {
 				"+3.63"
 			}
 		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: Commandant Teste",
+			["cost"] = {
+				["fuel"] = "20",
+				["ammo"] = "40",
+				["bauxite"] = "20"
+			}
+		},
 		["equip_ships"] = {
 			"Commandant",
 			"Teste(Lv1)",
@@ -22119,6 +22205,32 @@ k.EquipUpdateTb = {
 			["基地航空隊"] = 1,
 			["extra"] = {
 				"伊勢型改二"
+			}
+		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
 			}
 		},
 		["equip_ships"] = {
@@ -23932,7 +24044,7 @@ k.EquipUpdateTb = {
 			"平戸改(Lv48)",
 			"浦風丁改(Lv69)",
 			"谷風丁改(Lv70)",
-			"白露改二(Lv77)"
+			"★+4白露改二(Lv77)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%BA%94%E5%BC%8F%E7%88%86%E9%9B%B7",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_95_Depth_Charge"
@@ -23976,8 +24088,22 @@ k.EquipUpdateTb = {
 				"神鷹"
 			}
 		},
+		["item_remodel"] = {
+			["対潜"] = {
+				"+0.66",
+				"+0.94",
+				"+1.15",
+				"+1.33",
+				"+1.49",
+				"+1.63",
+				"+1.76",
+				"+1.88",
+				"+2.00",
+				"+2.10"
+			}
+		},
 		["equip_ships"] = {
-			"-"
+			"★+7秋雲改二(Lv74)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Depth_Charge"
@@ -25561,6 +25687,14 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: Ark Royal",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "10",
+				["bauxite"] = "10"
+			}
+		},
 		["equip_ships"] = {
 			"Ark",
 			"Royal(Lv1)",
@@ -26343,17 +26477,29 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_remodel"] = {
-			["対空"] = {
-				"+0.25",
-				"+0.50",
-				"+0.75",
-				"+1.00",
-				"+1.25",
-				"+1.50",
-				"+1.75",
-				"+2.00",
-				"+2.25",
-				"+2.50"
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
 			}
 		},
 		["equip_ships"] = {
@@ -26396,6 +26542,14 @@ k.EquipUpdateTb = {
 			["基地航空隊"] = 1,
 			["extra"] = {
 				"伊勢型改二"
+			}
+		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: Ark Royal",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "20",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -26445,11 +26599,11 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_build"] = {
+			["secretary"] = "秘書艦: Warspite・Nelson",
 			["cost"] = {
-				["fuel"] = "?",
-				["ammo"] = "?",
-				["steel"] = "?",
-				["bauxite"] = "?"
+				["fuel"] = "10",
+				["ammo"] = "20",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -27185,8 +27339,9 @@ k.EquipUpdateTb = {
 			"霰改二(Lv63)",
 			"村雨改二(Lv70)",
 			"陽炎改二(Lv70)",
-			"不知火改二(Lv72)",
-			"黒潮改二(Lv73)",
+			"★+5不知火改二(Lv72)",
+			"★+5黒潮改二(Lv73)",
+			"★+7秋雲改二(Lv74)",
 			"満潮改二(Lv77)",
 			"白露改二(Lv77)"
 		},
@@ -33525,6 +33680,32 @@ k.EquipUpdateTb = {
 				"伊勢型改二"
 			}
 		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -35033,7 +35214,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai"
 	},
 	["334"] = {
 		["id"] = 334,
@@ -35107,7 +35288,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%28%E8%A9%A6%E8%A3%BD%E8%89%A6%E8%BC%89%E5%9E%8B%29",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_%28352_Air_Group/Skilled%29"
 	},
 	["336"] = {
 		["id"] = 336,
@@ -36033,7 +36214,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20D-9",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Fw_190_D-9"
 	},
 	["355"] = {
 		["id"] = 355,
@@ -38756,7 +38937,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%EF%BC%8BGFCS",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6_%2B_GFCS"
 	},
 	["391"] = {
 		["id"] = 391,
@@ -38792,11 +38973,37 @@ k.EquipUpdateTb = {
 				"伊勢型改二"
 			}
 		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%E4%BA%8C%E4%BA%8C%E5%9E%8B",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_99_Dive_Bomber_Model_22"
 	},
 	["392"] = {
 		["id"] = 392,
@@ -38832,11 +39039,37 @@ k.EquipUpdateTb = {
 				"伊勢型改二"
 			}
 		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = ""
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_99_Dive_Bomber_Model_22_%28Skilled%29"
 	}
 }
 
