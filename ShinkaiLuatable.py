@@ -143,9 +143,9 @@ class ShinkaiLuatable(HttpClient):
                 title = category['title']
                 if title.startswith('Module') and title not in ret:
                     ret.append(title)
-        async with self.session.get('http://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_boss_ship_modules&cmlimit=500&format=json') as resp:
+        async with self.session.get('https://kancolle.fandom.com/api.php?action=query&list=allpages&apprefix=Data%2FEnemy%2F&apnamespace=828&aplimit=max&format=json') as resp:
             res = await resp.json()
-            CATEGORY_MEMBERS = res['query']['categorymembers']
+            CATEGORY_MEMBERS = res['query']['allpages']
             for category in CATEGORY_MEMBERS:
                 title = category['title']
                 if title.startswith('Module') and title not in ret:
