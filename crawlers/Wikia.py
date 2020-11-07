@@ -16,6 +16,7 @@ class WikiaCrawler(HttpClient):
     SHIP_CATE_URL = 'https://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle={}&cmlimit=500&format=json'
     SHIP_URL = 'https://kancolle.fandom.com/wiki/{}?action=raw'
     DETAIL_URL = 'https://kancolle.fandom.com/api.php?action=expandtemplates&text={}&format=json'
+    BOSS_CATE_URL = 'https://kancolle.fandom.com/api.php?action=query&list=allpages&apprefix=Data%2FEnemy%2F&apnamespace=828&aplimit=max&format=json'
     MODULE_PATTERN = re.compile(r'Module:')
     SHIPTYPE_PATTERN = re.compile(r'\["(.*)"\]')
     NUM_PATTERN = re.compile(r'\d+')
@@ -31,6 +32,10 @@ class WikiaCrawler(HttpClient):
         url = self.SHIP_URL.format('_'.join(moduleName.split()))
         async with self.session.get(url) as resp:
             content = await resp.text()
+            if content.startswith('#REDIRECT'):
+                redirect_module_name = content.strip()[12:-2]
+                ret = await self.getDetail(redirect_module_name)
+                return ret
             all_types = self.SHIPTYPE_PATTERN.findall(content)
             text = ''
             for _type in all_types:
@@ -86,11 +91,18 @@ class WikiaCrawler(HttpClient):
                 filter(lambda x: not self.MODULE_PATTERN.match(x), categorymembers))
 
         for catName in cates:
-            async with self.session.get(self.SHIP_CATE_URL.format(catName)) as resp:
-                res_json = await resp.json()
-                categorymembers = list(
-                    map(lambda x: x['title'], res_json['query']['categorymembers']))
-                ships += categorymembers
+            if catName == 'Category:Enemy boss ship modules':
+                async with self.session.get(self.BOSS_CATE_URL) as resp:
+                    res_json = await resp.json()
+                    categorymembers = list(
+                        map(lambda x: x['title'], res_json['query']['allpages']))
+                    ships += categorymembers
+            else:
+                async with self.session.get(self.SHIP_CATE_URL.format(catName)) as resp:
+                    res_json = await resp.json()
+                    categorymembers = list(
+                        map(lambda x: x['title'], res_json['query']['categorymembers']))
+                    ships += categorymembers
 
         tasks = []
 
