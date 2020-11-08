@@ -16373,7 +16373,7 @@ d.equipDataTb = {
 				["回避"] = 1
 			}
 		},
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/120mm%E9%80%A3%E8%A3%85%E7%A0%B2",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["英文Wiki"] = "http://kancolle.wikia.com/wiki/120mm_Twin_Gun_Mount"
 	},
 	["148"] = {
@@ -40453,7 +40453,9 @@ d.equipDataTb = {
 				["对空"] = 1,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%20mod.1936",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/120mm/50_Twin_Gun_Mount_mod.1936"
 	},
 	["394"] = {
 		["ID"] = 394,
@@ -40528,7 +40530,9 @@ d.equipDataTb = {
 				["对空"] = 1,
 				["回避"] = 3
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%20A.mod.1937",
+		["英文Wiki"] = ""
 	},
 	["395"] = {
 		["ID"] = 395,
@@ -40563,7 +40567,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B7%B1%E5%B1%B1",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Shinzan"
 	},
 	["396"] = {
 		["ID"] = 396,
@@ -40598,7 +40604,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B7%B1%E5%B1%B1%E6%94%B9",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Shinzan_Kai"
 	}
 }
 
