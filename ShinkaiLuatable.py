@@ -148,6 +148,8 @@ class ShinkaiLuatable(HttpClient):
             CATEGORY_MEMBERS = res['query']['allpages']
             for category in CATEGORY_MEMBERS:
                 title = category['title']
+                if title.startswith('Module:Data/Enemy/Vita:'):
+                    continue
                 if title.startswith('Module') and title not in ret:
                     ret.append(title)
         return ret
