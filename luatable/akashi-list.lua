@@ -9724,7 +9724,8 @@ k.EquipUpdateTb = {
 				"風雲改二",
 				"沖波改二",
 				"朝霜改二",
-				"Fletcher Mk.II"
+				"Fletcher Mk.II",
+				"雪風改二"
 			}
 		},
 		["item_extra_equip"] = {
@@ -9758,7 +9759,8 @@ k.EquipUpdateTb = {
 				"風雲改二",
 				"沖波改二",
 				"朝霜改二",
-				"Fletcher Mk.II"
+				"Fletcher Mk.II",
+				"雪風改二"
 			}
 		},
 		["item_remodel"] = {
@@ -22915,7 +22917,8 @@ k.EquipUpdateTb = {
 				"風雲改二",
 				"沖波改二",
 				"朝霜改二",
-				"Fletcher Mk.II"
+				"Fletcher Mk.II",
+				"雪風改二"
 			}
 		},
 		["item_extra_equip"] = {
@@ -22949,7 +22952,8 @@ k.EquipUpdateTb = {
 				"風雲改二",
 				"沖波改二",
 				"朝霜改二",
-				"Fletcher Mk.II"
+				"Fletcher Mk.II",
+				"雪風改二"
 			}
 		},
 		["item_remodel"] = {
@@ -28137,7 +28141,8 @@ k.EquipUpdateTb = {
 				"風雲改二",
 				"沖波改二",
 				"朝霜改二",
-				"Fletcher Mk.II"
+				"Fletcher Mk.II",
+				"雪風改二"
 			}
 		},
 		["item_extra_equip"] = {
@@ -28171,7 +28176,8 @@ k.EquipUpdateTb = {
 				"風雲改二",
 				"沖波改二",
 				"朝霜改二",
-				"Fletcher Mk.II"
+				"Fletcher Mk.II",
+				"雪風改二"
 			}
 		},
 		["equip_ships"] = {
