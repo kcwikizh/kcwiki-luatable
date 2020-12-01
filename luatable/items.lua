@@ -41866,7 +41866,9 @@ d.equipDataTb = {
 			"日进甲",
 			"日进改"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%AF%92%E5%86%B7%E5%9C%B0%E8%A3%85%E5%82%99%EF%BC%86%E7%94%B2%E6%9D%BF%E8%A6%81%E5%93%A1",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Arctic_Gear_%26_Deck_Personnel"
 	}
 }
 
