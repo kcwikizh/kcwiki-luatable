@@ -148,5 +148,313 @@
       "vname": "秘书舰1",
       "zh": "提督，今天可是特别重要的一天啊！和提督共度这样的一天，衣笠小姐有点开心哦！真棒呢！"
     }
+  },
+  "2020年圣诞节": {
+    "120-0000Christmas2020": {
+      "file": "/9/97/120-0000Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇〇〇〇时报",
+      "zh": ""
+    },
+    "120-0100Christmas2020": {
+      "file": "/2/2a/120-0100Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇一〇〇时报",
+      "zh": ""
+    },
+    "120-0200Christmas2020": {
+      "file": "/7/70/120-0200Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇二〇〇时报",
+      "zh": ""
+    },
+    "120-0300Christmas2020": {
+      "file": "/8/81/120-0300Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇三〇〇时报",
+      "zh": ""
+    },
+    "120-0400Christmas2020": {
+      "file": "/4/48/120-0400Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇四〇〇时报",
+      "zh": ""
+    },
+    "120-0500Christmas2020": {
+      "file": "/9/9e/120-0500Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇五〇〇时报",
+      "zh": ""
+    },
+    "120-0600Christmas2020": {
+      "file": "/f/ff/120-0600Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇六〇〇时报",
+      "zh": ""
+    },
+    "120-0700Christmas2020": {
+      "file": "/1/16/120-0700Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇七〇〇时报",
+      "zh": ""
+    },
+    "120-0800Christmas2020": {
+      "file": "/a/a9/120-0800Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇八〇〇时报",
+      "zh": ""
+    },
+    "120-0900Christmas2020": {
+      "file": "/7/75/120-0900Christmas2020.mp3",
+      "ja": "",
+      "vname": "〇九〇〇时报",
+      "zh": ""
+    },
+    "120-1000Christmas2020": {
+      "file": "/1/14/120-1000Christmas2020.mp3",
+      "ja": "",
+      "vname": "一〇〇〇时报",
+      "zh": ""
+    },
+    "120-1100Christmas2020": {
+      "file": "/1/16/120-1100Christmas2020.mp3",
+      "ja": "",
+      "vname": "一一〇〇时报",
+      "zh": ""
+    },
+    "120-1200Christmas2020": {
+      "file": "/e/e6/120-1200Christmas2020.mp3",
+      "ja": "",
+      "vname": "一二〇〇时报",
+      "zh": ""
+    },
+    "120-1300Christmas2020": {
+      "file": "/4/45/120-1300Christmas2020.mp3",
+      "ja": "",
+      "vname": "一三〇〇时报",
+      "zh": ""
+    },
+    "120-1400Christmas2020": {
+      "file": "/a/ad/120-1400Christmas2020.mp3",
+      "ja": "",
+      "vname": "一四〇〇时报",
+      "zh": ""
+    },
+    "120-1500Christmas2020": {
+      "file": "/6/6d/120-1500Christmas2020.mp3",
+      "ja": "",
+      "vname": "一五〇〇时报",
+      "zh": ""
+    },
+    "120-1600Christmas2020": {
+      "file": "/c/ce/120-1600Christmas2020.mp3",
+      "ja": "",
+      "vname": "一六〇〇时报",
+      "zh": ""
+    },
+    "120-1700Christmas2020": {
+      "file": "/6/6e/120-1700Christmas2020.mp3",
+      "ja": "",
+      "vname": "一七〇〇时报",
+      "zh": ""
+    },
+    "120-1800Christmas2020": {
+      "file": "/6/6d/120-1800Christmas2020.mp3",
+      "ja": "",
+      "vname": "一八〇〇时报",
+      "zh": ""
+    },
+    "120-1900Christmas2020": {
+      "file": "/1/19/120-1900Christmas2020.mp3",
+      "ja": "",
+      "vname": "一九〇〇时报",
+      "zh": ""
+    },
+    "120-2000Christmas2020": {
+      "file": "/8/8f/120-2000Christmas2020.mp3",
+      "ja": "",
+      "vname": "二〇〇〇时报",
+      "zh": ""
+    },
+    "120-2100Christmas2020": {
+      "file": "/0/0e/120-2100Christmas2020.mp3",
+      "ja": "",
+      "vname": "二一〇〇时报",
+      "zh": ""
+    },
+    "120-2200Christmas2020": {
+      "file": "/2/2f/120-2200Christmas2020.mp3",
+      "ja": "",
+      "vname": "二二〇〇时报",
+      "zh": ""
+    },
+    "120-2300Christmas2020": {
+      "file": "/9/9e/120-2300Christmas2020.mp3",
+      "ja": "",
+      "vname": "二三〇〇时报",
+      "zh": ""
+    },
+    "120-AchievementChristmas2020": {
+      "file": "/9/99/120-AchievementChristmas2020.mp3",
+      "ja": "",
+      "vname": "战绩",
+      "zh": ""
+    },
+    "120-Atk1Christmas2020": {
+      "file": "/9/99/120-Atk1Christmas2020.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "120-Atk2Christmas2020": {
+      "file": "/6/6e/120-Atk2Christmas2020.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "120-BattleChristmas2020": {
+      "file": "/e/ed/120-BattleChristmas2020.mp3",
+      "ja": "",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "120-ConstCompleteChristmas2020": {
+      "file": "/b/bb/120-ConstCompleteChristmas2020.mp3",
+      "ja": "",
+      "vname": "建造完成",
+      "zh": ""
+    },
+    "120-DockCompleteChristmas2020": {
+      "file": "/d/d7/120-DockCompleteChristmas2020.mp3",
+      "ja": "",
+      "vname": "修复完成",
+      "zh": ""
+    },
+    "120-DockLightDmgChristmas2020": {
+      "file": "/8/87/120-DockLightDmgChristmas2020.mp3",
+      "ja": "",
+      "vname": "小破入渠",
+      "zh": ""
+    },
+    "120-DockMedDmgChristmas2020": {
+      "file": "/9/92/120-DockMedDmgChristmas2020.mp3",
+      "ja": "",
+      "vname": "中破入渠",
+      "zh": ""
+    },
+    "120-Equip1Christmas2020": {
+      "file": "/4/40/120-Equip1Christmas2020.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造1",
+      "zh": ""
+    },
+    "120-Equip2Christmas2020": {
+      "file": "/e/ec/120-Equip2Christmas2020.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造2",
+      "zh": ""
+    },
+    "120-Equip3Christmas2020": {
+      "file": "/5/52/120-Equip3Christmas2020.mp3",
+      "ja": "",
+      "vname": "装备",
+      "zh": ""
+    },
+    "120-FleetOrgChristmas2020": {
+      "file": "/2/2b/120-FleetOrgChristmas2020.mp3",
+      "ja": "",
+      "vname": "编成",
+      "zh": ""
+    },
+    "120-IdleChristmas2020": {
+      "file": "/d/d2/120-IdleChristmas2020.mp3",
+      "ja": "",
+      "vname": "放置",
+      "zh": ""
+    },
+    "120-IntroChristmas2020": {
+      "file": "/f/fe/120-IntroChristmas2020.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "120-LibIntroChristmas2020": {
+      "file": "/c/cd/120-LibIntroChristmas2020.mp3",
+      "ja": "",
+      "vname": "图鉴介绍",
+      "zh": ""
+    },
+    "120-LightDmg1Christmas2020": {
+      "file": "/5/5f/120-LightDmg1Christmas2020.mp3",
+      "ja": "",
+      "vname": "小破1",
+      "zh": ""
+    },
+    "120-LightDmg2Christmas2020": {
+      "file": "/f/f5/120-LightDmg2Christmas2020.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "120-MVPChristmas2020": {
+      "file": "/3/30/120-MVPChristmas2020.mp3",
+      "ja": "",
+      "vname": "MVP",
+      "zh": ""
+    },
+    "120-MedDmgChristmas2020": {
+      "file": "/6/6c/120-MedDmgChristmas2020.mp3",
+      "ja": "",
+      "vname": "中破",
+      "zh": ""
+    },
+    "120-NightBattleChristmas2020": {
+      "file": "/b/be/120-NightBattleChristmas2020.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    },
+    "120-ProposalChristmas2020": {
+      "file": "/7/70/120-ProposalChristmas2020.mp3",
+      "ja": "",
+      "vname": "结婚",
+      "zh": ""
+    },
+    "120-ResupplyChristmas2020": {
+      "file": "/1/1f/120-ResupplyChristmas2020.mp3",
+      "ja": "",
+      "vname": "补给",
+      "zh": ""
+    },
+    "120-ReturnChristmas2020": {
+      "file": "/e/eb/120-ReturnChristmas2020.mp3",
+      "ja": "",
+      "vname": "归来",
+      "zh": ""
+    },
+    "120-Sec3Christmas2020": {
+      "file": "/7/76/120-Sec3Christmas2020.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    },
+    "120-SecWedChristmas2020": {
+      "file": "/7/71/120-SecWedChristmas2020.mp3",
+      "ja": "",
+      "vname": "秘书舰（婚后）",
+      "zh": ""
+    },
+    "120-SortieChristmas2020": {
+      "file": "/5/5c/120-SortieChristmas2020.mp3",
+      "ja": "",
+      "vname": "出征",
+      "zh": ""
+    },
+    "120-SunkChristmas2020": {
+      "file": "/4/48/120-SunkChristmas2020.mp3",
+      "ja": "",
+      "vname": "击沉",
+      "zh": ""
+    }
   }
 }

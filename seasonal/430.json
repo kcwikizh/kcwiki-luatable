@@ -1,0 +1,34 @@
+{
+  "2020年圣诞节": {
+    "430-Equip1Christmas2020": {
+      "file": "/1/1b/430-Equip1Christmas2020.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造1",
+      "zh": ""
+    },
+    "430-Equip2Christmas2020": {
+      "file": "/9/9e/430-Equip2Christmas2020.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造2",
+      "zh": ""
+    },
+    "430-FleetOrgChristmas2020": {
+      "file": "/8/8f/430-FleetOrgChristmas2020.mp3",
+      "ja": "",
+      "vname": "编成",
+      "zh": ""
+    },
+    "430-IntroChristmas2020": {
+      "file": "/3/32/430-IntroChristmas2020.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "430-SortieChristmas2020": {
+      "file": "/1/1e/430-SortieChristmas2020.mp3",
+      "ja": "",
+      "vname": "出征",
+      "zh": ""
+    }
+  }
+}
