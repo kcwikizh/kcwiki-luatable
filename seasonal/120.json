@@ -298,29 +298,29 @@
       "file": "/9/99/120-AchievementChristmas2020.mp3",
       "ja": "",
       "vname": "战绩",
-      "zh": ""
+      "zh": "achievemnt"
     },
     "120-Atk1Christmas2020": {
       "file": "/9/99/120-Atk1Christmas2020.mp3",
-      "ja": "",
+      "ja": "atk1",
       "vname": "攻击1",
       "zh": ""
     },
     "120-Atk2Christmas2020": {
       "file": "/6/6e/120-Atk2Christmas2020.mp3",
-      "ja": "",
+      "ja": "atk2",
       "vname": "攻击2",
       "zh": ""
     },
     "120-BattleChristmas2020": {
       "file": "/e/ed/120-BattleChristmas2020.mp3",
-      "ja": "",
+      "ja": "battle",
       "vname": "战斗开始",
       "zh": ""
     },
     "120-ConstCompleteChristmas2020": {
       "file": "/b/bb/120-ConstCompleteChristmas2020.mp3",
-      "ja": "",
+      "ja": "ConstComplete",
       "vname": "建造完成",
       "zh": ""
     },
@@ -328,133 +328,133 @@
       "file": "/d/d7/120-DockCompleteChristmas2020.mp3",
       "ja": "",
       "vname": "修复完成",
-      "zh": ""
+      "zh": "DockComplete"
     },
     "120-DockLightDmgChristmas2020": {
       "file": "/8/87/120-DockLightDmgChristmas2020.mp3",
       "ja": "",
       "vname": "小破入渠",
-      "zh": ""
+      "zh": "DockLightDmg"
     },
     "120-DockMedDmgChristmas2020": {
       "file": "/9/92/120-DockMedDmgChristmas2020.mp3",
       "ja": "",
       "vname": "中破入渠",
-      "zh": ""
+      "zh": "DockMedDmg"
     },
     "120-Equip1Christmas2020": {
       "file": "/4/40/120-Equip1Christmas2020.mp3",
       "ja": "",
       "vname": "装备/改修/改造1",
-      "zh": ""
+      "zh": "Equip1"
     },
     "120-Equip2Christmas2020": {
       "file": "/e/ec/120-Equip2Christmas2020.mp3",
       "ja": "",
       "vname": "装备/改修/改造2",
-      "zh": ""
+      "zh": "Equip2"
     },
     "120-Equip3Christmas2020": {
       "file": "/5/52/120-Equip3Christmas2020.mp3",
       "ja": "",
       "vname": "装备",
-      "zh": ""
+      "zh": "Equip3"
     },
     "120-FleetOrgChristmas2020": {
       "file": "/2/2b/120-FleetOrgChristmas2020.mp3",
       "ja": "",
       "vname": "编成",
-      "zh": ""
+      "zh": "FleetOrg"
     },
     "120-IdleChristmas2020": {
       "file": "/d/d2/120-IdleChristmas2020.mp3",
       "ja": "",
       "vname": "放置",
-      "zh": ""
+      "zh": "Idle"
     },
     "120-IntroChristmas2020": {
       "file": "/f/fe/120-IntroChristmas2020.mp3",
       "ja": "",
       "vname": "入手/登入时",
-      "zh": ""
+      "zh": "Intro"
     },
     "120-LibIntroChristmas2020": {
       "file": "/c/cd/120-LibIntroChristmas2020.mp3",
       "ja": "",
       "vname": "图鉴介绍",
-      "zh": ""
+      "zh": "LibIntro"
     },
     "120-LightDmg1Christmas2020": {
       "file": "/5/5f/120-LightDmg1Christmas2020.mp3",
       "ja": "",
       "vname": "小破1",
-      "zh": ""
+      "zh": "LightDmg1"
     },
     "120-LightDmg2Christmas2020": {
       "file": "/f/f5/120-LightDmg2Christmas2020.mp3",
       "ja": "",
       "vname": "小破2",
-      "zh": ""
+      "zh": "LightDmg2"
     },
     "120-MVPChristmas2020": {
       "file": "/3/30/120-MVPChristmas2020.mp3",
       "ja": "",
       "vname": "MVP",
-      "zh": ""
+      "zh": "MVP"
     },
     "120-MedDmgChristmas2020": {
       "file": "/6/6c/120-MedDmgChristmas2020.mp3",
       "ja": "",
       "vname": "中破",
-      "zh": ""
+      "zh": "MedDmg"
     },
     "120-NightBattleChristmas2020": {
       "file": "/b/be/120-NightBattleChristmas2020.mp3",
       "ja": "",
       "vname": "夜战",
-      "zh": ""
+      "zh": "NightBattle"
     },
     "120-ProposalChristmas2020": {
       "file": "/7/70/120-ProposalChristmas2020.mp3",
       "ja": "",
       "vname": "结婚",
-      "zh": ""
+      "zh": "Proposal"
     },
     "120-ResupplyChristmas2020": {
       "file": "/1/1f/120-ResupplyChristmas2020.mp3",
       "ja": "",
       "vname": "补给",
-      "zh": ""
+      "zh": "Resupply"
     },
     "120-ReturnChristmas2020": {
       "file": "/e/eb/120-ReturnChristmas2020.mp3",
       "ja": "",
       "vname": "归来",
-      "zh": ""
+      "zh": "Return"
     },
     "120-Sec3Christmas2020": {
       "file": "/7/76/120-Sec3Christmas2020.mp3",
       "ja": "",
       "vname": "秘书舰3",
-      "zh": ""
+      "zh": "Sec3"
     },
     "120-SecWedChristmas2020": {
       "file": "/7/71/120-SecWedChristmas2020.mp3",
       "ja": "",
       "vname": "秘书舰（婚后）",
-      "zh": ""
+      "zh": "SecWed"
     },
     "120-SortieChristmas2020": {
       "file": "/5/5c/120-SortieChristmas2020.mp3",
       "ja": "",
       "vname": "出征",
-      "zh": ""
+      "zh": "Sortie"
     },
     "120-SunkChristmas2020": {
       "file": "/4/48/120-SunkChristmas2020.mp3",
       "ja": "",
       "vname": "击沉",
-      "zh": ""
+      "zh": "Sunk"
     }
   }
 }

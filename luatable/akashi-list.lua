@@ -39167,6 +39167,10 @@ k.EquipUpdateTb = {
 			["潜水艦"] = 1,
 			["潜水空母"] = 1
 		},
+		["item_extra_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -39985,7 +39989,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%2853-39%E5%9E%8B%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%2853-39%E5%9E%8B%29",
+		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/533mm_Triple_Torpedo_Mount_%28Model_53-39%29"
 	},
 	["402"] = {
 		["id"] = 402,
