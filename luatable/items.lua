@@ -41931,7 +41931,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Do%2017%20Z-2",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Do_17_Z-2"
 	},
 	["402"] = {
 		["ID"] = 402,
@@ -42020,7 +42022,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_Heavy_Bomber_Hiryuu"
 	},
 	["404"] = {
 		["ID"] = 404,
@@ -42058,7 +42062,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D%28%E7%86%9F%E7%B7%B4%29",
+		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_Heavy_Bomber_Hiryuu_%28Skilled%29"
 	}
 }
 
