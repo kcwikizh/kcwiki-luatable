@@ -14,5 +14,31 @@
       "vname": "秘书舰1",
       "zh": "提督，我也烤了圣诞节蛋糕。虽说有照葫芦画瓢的成分，不过您觉得怎么样？……好吃？太好了，明年我也会继续做的。"
     }
+  },
+  "2021年节分季节": {
+    "434-0100Setubunn2021": {
+      "file": "/a/a5/434-0100Setubunn2021.mp3",
+      "ja": "",
+      "vname": "〇一〇〇时报",
+      "zh": ""
+    },
+    "434-Atk2Setubunn2021": {
+      "file": "/a/a1/434-Atk2Setubunn2021.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "434-Sec1Setubunn2021": {
+      "file": "/e/eb/434-Sec1Setubunn2021.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "434-Sec2Setubunn2021": {
+      "file": "/5/5a/434-Sec2Setubunn2021.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
   }
 }

@@ -20120,6 +20120,32 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
+		["item_remodel"] = {
+			["雷撃"] = {
+				"+0.70",
+				"+0.98",
+				"+1.21",
+				"+1.40",
+				"+1.56",
+				"+1.71",
+				"+1.85",
+				"+1.97",
+				"+2.10",
+				"+2.21"
+			},
+			["対空"] = {
+				"+0.25",
+				"+0.50",
+				"+0.75",
+				"+1.00",
+				"+1.25",
+				"+1.50",
+				"+1.75",
+				"+2.00",
+				"+2.25",
+				"+2.50"
+			}
+		},
 		["item_build"] = {
 			["secretary"] = "秘書艦: 空母系",
 			["cost"] = {
@@ -20127,6 +20153,9 @@ k.EquipUpdateTb = {
 				["ammo"] = "40",
 				["bauxite"] = "70"
 			}
+		},
+		["equip_ships"] = {
+			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E9%99%B8%E6%94%BB",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_Land-based_Attack_Aircraft"
@@ -20153,6 +20182,9 @@ k.EquipUpdateTb = {
 		},
 		["item_equip"] = {
 			["基地航空隊"] = 1
+		},
+		["equip_ships"] = {
+			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft"
@@ -24212,6 +24244,35 @@ k.EquipUpdateTb = {
 		},
 		["item_equip"] = {
 			["基地航空隊"] = 1
+		},
+		["item_remodel"] = {
+			["雷撃"] = {
+				"+0.70",
+				"+0.98",
+				"+1.21",
+				"+1.40",
+				"+1.56",
+				"+1.71",
+				"+1.85",
+				"+1.97",
+				"+2.10",
+				"+2.21"
+			},
+			["対空"] = {
+				"+0.25",
+				"+0.50",
+				"+0.75",
+				"+1.00",
+				"+1.25",
+				"+1.50",
+				"+1.75",
+				"+2.00",
+				"+2.25",
+				"+2.50"
+			}
+		},
+		["equip_ships"] = {
+			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%88%86%E8%A3%85%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E6%94%B9%2865%E6%88%A6%E9%9A%8A%29",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bomb-carrying_Type_1_Fighter_Hayabusa_Model_III_Kai_%2865th_Squadron%29"
@@ -40069,6 +40130,32 @@ k.EquipUpdateTb = {
 		},
 		["item_equip"] = {
 			["基地航空隊"] = 1
+		},
+		["item_remodel"] = {
+			["雷撃"] = {
+				"+0.70",
+				"+0.98",
+				"+1.21",
+				"+1.40",
+				"+1.56",
+				"+1.71",
+				"+1.85",
+				"+1.97",
+				"+2.10",
+				"+2.21"
+			},
+			["対空"] = {
+				"+0.25",
+				"+0.50",
+				"+0.75",
+				"+1.00",
+				"+1.25",
+				"+1.50",
+				"+1.75",
+				"+2.00",
+				"+2.25",
+				"+2.50"
+			}
 		},
 		["equip_ships"] = {
 			"-"
