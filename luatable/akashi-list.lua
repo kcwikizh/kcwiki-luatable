@@ -39459,6 +39459,122 @@ k.EquipUpdateTb = {
 			["水上機母艦"] = 0,
 			["航空戦艦"] = 1
 		},
+		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
+		["item_remodel"] = {
+			["火力"] = {
+				"+1.50",
+				"+2.12",
+				"+2.59",
+				"+3.00",
+				"+3.35",
+				"+3.67",
+				"+3.96",
+				"+4.24",
+				"+4.50",
+				"+4.74"
+			},
+			["夜戦火力"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
+			},
+			["命中"] = {
+				"+1.00",
+				"+1.41",
+				"+1.73",
+				"+2.00",
+				"+2.23",
+				"+2.44",
+				"+2.64",
+				"+2.82",
+				"+3.00",
+				"+3.16"
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},

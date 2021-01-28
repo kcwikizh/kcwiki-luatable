@@ -39444,10 +39444,126 @@
         "重巡洋艦": 0,
         "駆逐艦": 0
       },
+      "item_fitting": [
+        {
+          "ship_class": "伊勢型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "扶桑型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "大和型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門型改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "金剛型改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Bismarck drei級",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "V.Veneto級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Iowa級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Queen Elizabeth級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Гангут級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Richelieu級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "長門改二",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Nelson級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "Colorado級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        },
+        {
+          "ship_class": "South Dakota級改",
+          "ship_correct": "",
+          "ship_fitting": "unk"
+        }
+      ],
+      "item_fitting_type": "フィット命中補正値",
       "item_intro": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦用大口径主砲です。本兵装は同砲の後期改修型に、さらに射撃レーダーと砲射撃指揮装置との連携を付与した主砲火力システムです。最新Mk.7には一歩劣るものの高いバランスと運用性を持つ本兵装は、高火力と優れた射撃精度も期待できます。",
       "item_name": {
         "ja": "16inch三連装砲 Mk.6＋GFCS",
         "zh": "16inch三连装炮 Mk.6+GFCS"
+      },
+      "item_remodel": {
+        "命中": [
+          "+1.00",
+          "+1.41",
+          "+1.73",
+          "+2.00",
+          "+2.23",
+          "+2.44",
+          "+2.64",
+          "+2.82",
+          "+3.00",
+          "+3.16"
+        ],
+        "夜戦火力": [
+          "+1.00",
+          "+1.41",
+          "+1.73",
+          "+2.00",
+          "+2.23",
+          "+2.44",
+          "+2.64",
+          "+2.82",
+          "+3.00",
+          "+3.16"
+        ],
+        "火力": [
+          "+1.50",
+          "+2.12",
+          "+2.59",
+          "+3.00",
+          "+3.35",
+          "+3.67",
+          "+3.96",
+          "+4.24",
+          "+4.50",
+          "+4.74"
+        ]
       },
       "item_stat": {
         "命中": "+6",
