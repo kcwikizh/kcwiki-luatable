@@ -7028,7 +7028,7 @@ k.EquipUpdateTb = {
 			"清霜改(Lv30)",
 			"鹿島改(Lv35)",
 			"朝霜改(Lv45)",
-			"★+5不知火改二(Lv72)",
+			"不知火改二(Lv72)",
 			"★+8沖波改二(Lv79)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E6%8E%A2%E4%BF%A1%E5%84%80",
