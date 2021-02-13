@@ -13474,9 +13474,10 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste",
-				"由良改二",
 				"Zara due",
+				"由良改二",
 				"多摩改二",
+				"能代改二",
 				"Gotland",
 				"日進"
 			}
@@ -27501,9 +27502,10 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste",
-				"由良改二",
 				"Zara due",
+				"由良改二",
 				"多摩改二",
+				"能代改二",
 				"Gotland",
 				"日進"
 			}
@@ -27549,9 +27551,10 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste",
-				"由良改二",
 				"Zara due",
+				"由良改二",
 				"多摩改二",
+				"能代改二",
 				"Gotland",
 				"日進"
 			}
@@ -40162,9 +40165,10 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"秋津洲改",
 				"C.Teste",
-				"由良改二",
 				"Zara due",
+				"由良改二",
 				"多摩改二",
+				"能代改二",
 				"Gotland",
 				"日進"
 			}
