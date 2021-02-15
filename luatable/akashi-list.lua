@@ -16335,6 +16335,7 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"大鯨型",
 				"夕張改二丁",
+				"能代改二",
 				"Fletcher Mk.II"
 			}
 		},
