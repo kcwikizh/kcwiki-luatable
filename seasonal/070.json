@@ -130,5 +130,19 @@
       "vname": "秘书舰3",
       "zh": "啊，是，小队长，没问题的。啊， 啊！还……还好，应该没搞砸。"
     }
+  },
+  "2021年女儿节": {
+    "070-Sec1Hinamaturi2021": {
+      "file": "/9/95/070-Sec1Hinamaturi2021.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "070-Sec2Hinamaturi2021": {
+      "file": "/6/6c/070-Sec2Hinamaturi2021.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
   }
 }

@@ -146,5 +146,19 @@
       "vname": "秘书舰2",
       "zh": "曙酱，怎么了？啊，没关系，交给我吧。你就负责烧烤吧，嗯。"
     }
+  },
+  "2021年女儿节": {
+    "067-Sec1Hinamaturi2021": {
+      "file": "/8/8a/067-Sec1Hinamaturi2021.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "067-Sec2Hinamaturi2021": {
+      "file": "/3/37/067-Sec2Hinamaturi2021.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
   }
 }

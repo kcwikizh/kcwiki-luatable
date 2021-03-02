@@ -146,5 +146,19 @@
       "vname": "秘书舰2",
       "zh": "涟的出击，等到了呢！"
     }
+  },
+  "2021年女儿节": {
+    "069-Sec1Hinamaturi2021": {
+      "file": "/4/4c/069-Sec1Hinamaturi2021.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "069-Sec2Hinamaturi2021": {
+      "file": "/d/d4/069-Sec2Hinamaturi2021.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
   }
 }
