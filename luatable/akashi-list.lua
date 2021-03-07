@@ -20148,7 +20148,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_build"] = {
-			["secretary"] = "秘書艦: 空母系",
+			["secretary"] = "秘書艦: 空母系(注：本装備は開発理論値では開発不可、特殊な資源投入で開発可)",
 			["cost"] = {
 				["fuel"] = "70",
 				["ammo"] = "40",
