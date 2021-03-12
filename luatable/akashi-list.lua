@@ -6546,7 +6546,8 @@ k.EquipUpdateTb = {
 			"谷風丁改(Lv70)",
 			"★+5黒潮改二(Lv73)",
 			"★+5風雲改二(Lv75)",
-			"龍田改二(Lv80)"
+			"龍田改二(Lv80)",
+			"曙改二(Lv82)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Depth_Charge_Projector"
@@ -7311,7 +7312,8 @@ k.EquipUpdateTb = {
 			"潮改(Lv20)",
 			"木曾改(Lv20)",
 			"狭霧改(Lv30)",
-			"松改(Lv50)"
+			"松改(Lv50)",
+			"曙改二(Lv82)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Single_Autocannon_Mount"
@@ -11692,6 +11694,7 @@ k.EquipUpdateTb = {
 			"阿武隈改二(Lv75)",
 			"鬼怒改二(Lv75)",
 			"龍田改二(Lv80)",
+			"曙改二(Lv82)",
 			"天龍改二(Lv84)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
