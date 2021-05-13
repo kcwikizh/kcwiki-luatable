@@ -1,5 +1,5 @@
 lxml==4.6.3
 Jinja2==2.11.0
 pytz==2019.3
-aiohttp==3.6.2
+aiohttp==3.7.4
 beautifulsoup4==4.8.2
