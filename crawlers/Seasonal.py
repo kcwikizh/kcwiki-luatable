@@ -121,6 +121,8 @@ class SeasonalCrawler(HttpClient):
             category = self.__get_text(item)
             if not category:
                 continue
+            if category.endswith('特典语音'):
+                continue
             self.categories.append(category[4:])
 
     async def __process_wikicode(self, key, wiki_txt):
@@ -187,7 +189,10 @@ class SeasonalCrawler(HttpClient):
             cnt += 1
             md5hash = hashlib.md5((arch + '.mp3').encode())
             digest = md5hash.hexdigest()
-            res = ARCH_PATTERN.match(arch).group(1)
+            try:
+                res = ARCH_PATTERN.match(arch).group(1)
+            except Exception:
+                print('Seasonal Voice Exception:', arch)
             vname = '-'
             for k, val in VoiceMap.items():
                 if res.startswith(k):
