@@ -195,8 +195,12 @@ class AkashiListCrawler(HttpClient):
         if item_no:
             detail['no'] = item_no
         if item_title:
+            try:
+                zh_title = self.items[detail['id']]['name']['zh_cn']
+            except KeyError:
+                zh_title = item_title
             detail['item_name'] = {
-                'zh': self.items[detail['id']]['name']['zh_cn'],
+                'zh': zh_title,
                 'ja': item_title
             }
 

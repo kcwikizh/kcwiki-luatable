@@ -11,13 +11,56 @@ from config import (AKASHI_LIST_OUTPUT_JSON, BONUS_JSON, DB_PATH, ENTITIES_DB,
 from utils import jsonFile2dic, luatable, sortDict
 
 STYPE = {
-    1: 2, 2: 3, 3: 4, 4: 5, 5: 5,
-    6: 9, 7: 9, 8: 9, 9: 7, 10: 11,
-    11: 18, 12: 16, 13: 13, 14: 13, 15: 17,
-    16: 19, 17: 20, 18: 9, 19: 2, 20: 9,
-    21: 21, 22: None, 23: 5, 24: 16, 25: None,
-    26: None, 27: None, 28: 3, 29: 22, 30: 7,
-    31: 1, 32: 7, 33: 10, 34: 23, 35: 3
+    #1=海防舰
+    31: 1,
+    #2=驱逐舰
+    1: 2, 19: 2,
+    #3=轻型巡洋舰
+    28: 3, 2: 3,
+    #4=重型雷装巡洋舰
+    3: 4,
+    #5=重型巡洋舰
+    4: 5, 23: 5,
+    #6=航空巡洋舰
+    5: 6,
+    #7=轻型航空母舰
+    9: 7, 32: 7, 30: 7,
+    #8=战列巡洋舰
+    18: 8, 7: 8,
+    #9=战列舰
+    6: 9,
+    #10=航空战列舰
+    8: 10, 33: 10,
+    #11=航空母舰
+    10: 11,
+    #12=超弩级战舰
+    20: 12,
+    #13=潜水舰
+    13: 13,
+    #14=潜水航空母舰
+    14: 14,
+    #16=水上机母舰
+    24: 16, 12: 16,
+    #17=扬陆舰
+    15: 17,
+    #18=装甲航空母舰
+    11: 18,
+    #19=工作舰
+    16: 19,
+    #20=潜水母舰
+    17: 20,
+    #21=练习巡洋舰
+    21: 21,
+    #22=补给舰
+    29: 22,
+    #23=轻航空巡洋舰
+    34: 23,
+    #24=改装航空巡洋舰
+    36: 24,
+    #25=兵装实验轻巡
+    35: 25,
+    #未使用
+    26: None, 25: None, 27: None, 22: None
 }
 COST = {
     'ammo': '弹药',
@@ -34,7 +77,7 @@ STAT = {
 }
 CONSUMABLE = {
     'consumable_70': '熟练搭乘员',
-    'consumable_71': 'ネ式エンジン',
+    'consumable_71': 'ネ(Ne)式引擎',
     'consumable_75': '新型炮熕兵装资材',
     'consumable_77': '新型航空兵装資材',
     'consumable_78': '戦闘詳報',
@@ -81,33 +124,85 @@ class ShipLuatable:
         self.SHIP_TYPES_DB = {}
 
     def __map_lvl_up(self):
+        ship_series_data = {}
         for series in self.SHIP_SERIES_DB.values():
+            ship_loopable = False
             series_ships = series['ships']
-            for series_ship in series_ships:
-                next_blueprint = 'next_blueprint' in series_ship and series_ship[
-                    'next_blueprint'] == 'on'
-                next_catapult = 'next_catapult' in series_ship and series_ship[
-                    'next_catapult'] == 'on'
-                next_loop = 'next_loop' in series_ship and series_ship['next_loop'] == 'on'
+            for i in range(len(series_ships)):
+                series_ship = series_ships[i]
+                
+                #next_blueprint = 'next_blueprint' in series_ship and series_ship[
+                    #'next_blueprint'] == 'on'
+                #next_catapult = 'next_catapult' in series_ship and series_ship[
+                    #'next_catapult'] == 'on'
+                #next_level = series_ship['next_lvl'] if 'next_lvl' in series_ship \
+                    #and series_ship['next_lvl'] else 0
 
-                next_level = series_ship['next_lvl'] if 'next_lvl' in series_ship \
-                    and series_ship['next_lvl'] else 0
+                
                 shipid = series_ship['id']
                 _ship = self.SHIPS_DB[shipid]
-                if 'remodel' in _ship and 'next' in _ship['remodel']:
+                try:
+                    ship_kcid = str(self.SHIPS_KCDATA[shipid]['wiki_id'])
+                except KeyError:
+                    continue
+                next_loop = 'next_loop' in series_ship and series_ship['next_loop'] == 'on'
+                is_last_ship = i == len(series_ships)-1
+                is_first_ship = i == 0
+                
+                if not(ship_loopable) and next_loop:
+                    ship_loopable = True
+                    first_loopable_shipid = shipid
+                    first_loopable_kcid = ship_kcid
+
+                if ship_loopable and is_last_ship:
+                    _ship['remodel'].update({
+                        'next': first_loopable_shipid,
+                        'next_lvl': ''
+                    })
+
+
+                if is_first_ship:
+                    first_ship = ship_kcid
+                    ship_series_data[first_ship] = {}
+                    ship_series_data[first_ship]['编号'] = []
+                    ship_series_data[first_ship]['符号'] = []
+
+                ship_series_data[first_ship]['编号'].append(ship_kcid)
+                _ship['remodel_series'] = first_ship
+
+                if ship_loopable:
+                    ship_series_data[first_ship]['符号'].append('⇒')
+                    if is_last_ship:
+                        ship_series_data[first_ship]['编号'].append(first_loopable_kcid)
+                        ship_series_data[first_ship]['符号'].append('end')
+                else:
+                    if is_last_ship:
+                        ship_series_data[first_ship]['符号'].append('end')
+                    else:
+                        ship_series_data[first_ship]['符号'].append('→')
+                
+                if ('remodel' in _ship) and ('next' in _ship['remodel']) and not(is_last_ship):
                     next_shipid = _ship['remodel']['next']
-                    can_remodel = 1
-                    if next_blueprint:
-                        can_remodel += 1
-                    if next_catapult:
-                        can_remodel += 1
-                    self.SHIPS_DB[next_shipid]['remodel_info'] = can_remodel
-                    self.SHIPS_DB[shipid]['next_type'] = can_remodel
-                    if next_loop:
-                        self.SHIPS_DB[next_shipid]['remodel'].update({
-                            'next': shipid,
-                            'next_lvl': next_level
-                        })
+                    #can_remodel = 1
+                    #if next_blueprint:
+                        #can_remodel += 1
+                    #if next_catapult:
+                        #can_remodel += 1
+                    self.SHIPS_DB[next_shipid]['remodel_info'] = 1
+                    #self.SHIPS_DB[shipid]['next_type'] = can_remodel
+                    
+        ships_series_luatable = 'local d = {}\n'
+        ships_series_luatable += '------------------------\n'
+        ships_series_luatable += '--   以下为舰娘系列数据列表  -- \n'
+        ships_series_luatable += '------------------------\n'
+        ships_series_luatable += '\nd.shipSeriesDataTb = '
+        ships_series_luatable += luatable(ship_series_data)
+        ships_series_luatable += '\n'
+        ships_series_luatable += '\nreturn d\n'
+        with open(OUPUT_PATH + LUATABLE_PATH + SHIP_SERIES_DB + '.lua', 'w', encoding='utf-8') as fp:
+            fp.write(ships_series_luatable)
+        with open(OUPUT_PATH + JSON_PATH + SHIP_SERIES_DB + '.json', 'w', encoding='utf-8') as fp:
+            json.dump(ship_series_data, fp, ensure_ascii=False, indent=4)
 
     def __get_ship_namesuffix(self, suffix, lan):
         if not suffix:
@@ -159,9 +254,9 @@ class ShipLuatable:
             '改造后': -1
         })
         if 'remodel' in wctf_ship and 'prev' in wctf_ship['remodel']:
-            ret['改造前'] = self.SHIPS_KCDATA[wctf_ship['remodel']['prev']]['wiki_id']
+            ret['改造前'] = str(self.SHIPS_KCDATA[wctf_ship['remodel']['prev']]['wiki_id'])
         if 'after_ship_id' in wiki_ship and wiki_ship['after_ship_id']:
-            ret['改造后'] = self.SHIPS_KCDATA[wiki_ship['after_ship_id']]['wiki_id']
+            ret['改造后'] = str(self.SHIPS_KCDATA[wiki_ship['after_ship_id']]['wiki_id'])
 
         remodel_extra = ''
         if ship_id in self.SHIP_REMODEL_EXTRA:
@@ -170,6 +265,8 @@ class ShipLuatable:
             remodel_extra = REMODEL_TYPES[next_type]
         if remodel_extra:
             ret.update({ '图纸': remodel_extra })
+        if 'remodel_series' in wctf_ship:
+            ret.update({'系列': wctf_ship['remodel_series']})
         return ret
 
     def __append_ship(self, ship_id):
@@ -182,7 +279,11 @@ class ShipLuatable:
             'can_drop' in wiki_ship and wiki_ship['can_drop']) else -1
         can_build = 1 if 'can_construct' in wiki_ship and wiki_ship['can_construct'] else -1
         next_type = wctf_ship['next_type'] if 'next_type' in wctf_ship else 0
-        self.ships_data[wiki_ship['wiki_id']] = {
+        if wctf_ship['class'] in self.SHIP_CLASSES_DB:
+            ship_class = self.SHIP_CLASSES_DB[wctf_ship['class']]['name']['zh_cn']
+        else:
+            ship_class = '?'
+        self.ships_data[str(wiki_ship['wiki_id'])] = {
             'ID': ship_id,
             '图鉴号': wctf_ship['no'],
             '日文名': wctf_ship['name']['ja_jp'] + self.__get_ship_namesuffix(wctf_ship['name']['suffix'], 'ja_jp'),
@@ -190,7 +291,7 @@ class ShipLuatable:
             '中文名': wctf_ship['name']['zh_cn'] + self.__get_ship_namesuffix(wctf_ship['name']['suffix'], 'zh_cn'),
             '舰种': STYPE[wctf_ship['type']],
             '级别': [
-                self.SHIP_CLASSES_DB[wctf_ship['class']]['name']['zh_cn'] + '型',
+                ship_class + '型',
                 wctf_ship['class_no'] if wctf_ship['class_no'] else 0
             ],
             '数据': {
@@ -243,7 +344,7 @@ class ShipLuatable:
         }
         wiki_links = wctf_ship['links'] if 'links' in wctf_ship else []
         for wiki_link in wiki_links:
-            self.ships_data[wiki_ship['wiki_id']].update({
+            self.ships_data[str(wiki_ship['wiki_id'])].update({
                 wiki_link['name']: wiki_link['url']
             })
 
@@ -379,10 +480,14 @@ class ShipLuatable:
                 upgrade_cosume_equip = ''
                 upgrade_cosume_count = 0
                 if isinstance(upgrade_resource[4], list):
-                    upgrade_cosume_equip = upgrade_resource[4][0][0] if upgrade_resource[4][0][0] else ''
-                    upgrade_cosume_count = upgrade_resource[4][0][1] if upgrade_resource[4][0][1] else 0
-                    if len(upgrade_resource[4]) > 1:
-                        extra_kits = upgrade_resource[4][1:]
+                    if upgrade_resource[4][0][0]:
+                        if isinstance(upgrade_resource[4][0][0], int):
+                            upgrade_cosume_equip = upgrade_resource[4][0][0]
+                            upgrade_cosume_count = upgrade_resource[4][0][1]
+                            if len(upgrade_resource[4]) > 1:
+                                extra_kits = upgrade_resource[4][1:]
+                        else:
+                            extra_kits = upgrade_resource[4]
                 elif isinstance(upgrade_resource[4], int):
                     upgrade_cosume_equip = upgrade_resource[4]
                     upgrade_cosume_count = upgrade_resource[5]

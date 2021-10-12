@@ -9,7 +9,7 @@ import traceback
 from os import environ, path
 
 from config import (AIRPOWER_TABLE, AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH,
-                    ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB,
+                    ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB, SHIP_REMODEL_EXTRA,
                     JSON_PATH, KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
                     KCKIT_NAME, LUATABLE_PATH, OUPUT_PATH, SCRIPTS_PATH,
                     SEASONAL_PATH, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
@@ -103,6 +103,7 @@ class LuatableBot:
             dbDownloader = DBDownloader()
             dbDownloader.appendTask('https://kcwikizh.github.io/kcdata/ship/all.json', DB_PATH + KCDATA_SHIP_ALL_JSON)
             dbDownloader.appendTask('https://kcwikizh.github.io/kcdata/slotitem/all.json', DB_PATH + KCDATA_SLOTITEM_ALL_JSON)
+            dbDownloader.appendTask('https://raw.githubusercontent.com/kcwikizh/get_kaisou_data/master/kaisou_data.json', DB_PATH + SHIP_REMODEL_EXTRA)
             await dbDownloader.start()
             self.task_status[task_name] = True
 
@@ -195,6 +196,7 @@ class LuatableBot:
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIPCLASSES_MAPPING_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA)
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AIRPOWER_TABLE)
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIP_SERIES_DB + '.lua')
         print('CheckLuatable: All the lua files is valid!')
 
     async def main(self):

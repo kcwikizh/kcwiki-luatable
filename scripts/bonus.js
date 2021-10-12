@@ -68,13 +68,25 @@ for (let _bonus of bonusList) {
         if (!('class' in include)) {
           include['class'] = []
         }
-        include['class'] = include['class'].concat(_bonus['ship']['isClass'])
+        const clzList1 = _bonus['ship']['isClass'];
+        if (Array.isArray(clzList1[0])) {
+            include['class'] = include['class'].concat(...clzList1);
+
+        } else {
+            include['class'] = include['class'].concat(clzList1);
+        }
         break
       case 'isNotClass':
         if (!('class' in exclude)) {
           exclude['class'] = []
         }
-        exclude['class'] = exclude['class'].concat(_bonus['ship']['isNotClass'])
+        const clzList2 = _bonus['ship']['isNotClass'];
+        if (Array.isArray(clzList2[0])) {
+            exclude['class'] = exclude['class'].concat(...clzList2);
+
+        } else {
+            exclude['class'] = exclude['class'].concat(clzList2);
+        }
         break
       default:
         break

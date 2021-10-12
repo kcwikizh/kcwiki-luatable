@@ -3,7 +3,7 @@ import os
 
 from config import (AKASHI_LIST_OUTPUT_LUA, ITEMS_DATA, LUATABLE_PATH,
                     OUPUT_PATH, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
-                    SHIPS_DATA, TIMEZONE, WIKIWIKI_Compare_TABLE,
+                    SHIPS_DATA, TIMEZONE, WIKIWIKI_Compare_TABLE, SHIP_SERIES_DB,
                     WIKIWIKI_MaxValue_TABLE, AIRPOWER_TABLE, SHIPCLASSES_MAPPING_DATA)
 from HttpClient import HttpClient
 
@@ -15,7 +15,7 @@ class KcwikiException(Exception):
 
 class WikiBot(HttpClient):
 
-    KCWIKI_API_URL = 'https://zh.kcwiki.org/api.php'
+    KCWIKI_API_URL = 'https://zh.kcwiki.cn/api.php'
     HEADERS = {
         'Cache-Control': 'no-cache',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36'
@@ -112,7 +112,7 @@ class WikiBot(HttpClient):
         await self.updatePage('模块:深海栖舰制空数据', OUPUT_PATH + LUATABLE_PATH + AIRPOWER_TABLE)
         await self.updatePage('模块:舰娘数据', OUPUT_PATH + LUATABLE_PATH + SHIPS_DATA + '.lua')
         await self.updatePage('模块:舰娘装备数据改', OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua')
-        await self.updatePage('模块:舰娘装备数据改', OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua')
+        await self.updatePage('模块:舰娘系列数据', OUPUT_PATH + LUATABLE_PATH + SHIP_SERIES_DB + '.lua')
         await self.updatePage('模块:深海装备数据', OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')
         await self.updatePage('模块:深海栖舰数据改二', OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua')
         await self.updatePage('模块:明石工厂数据', OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA)

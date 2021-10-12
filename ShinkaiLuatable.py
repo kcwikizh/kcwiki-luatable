@@ -70,10 +70,10 @@ class ShinkaiLuatable(HttpClient):
         self.SHIPS_KCDATA = jsonFile2dic(DB_PATH + KCDATA_SHIP_ALL_JSON, masterKey='id')
 
     async def __get_allitems(self):
-        SHINKAI_ITEMS_URL = 'http://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_equipment_modules&cmlimit=500&format=json'
+        SHINKAI_ITEMS_URL = 'https://kancolle.fandom.com/api.php?action=query&list=allpages&apprefix=Data%2FEnemyEquipment%2F&apnamespace=828&aplimit=max&format=json'
         async with self.session.get(SHINKAI_ITEMS_URL) as resp:
             res = await resp.json()
-            return res['query']['categorymembers']
+            return res['query']['allpages']
 
     async def __append_shinkai_item(self, title):
         resp = await self.session.get(self.WIKIA_RAW_URL.format(title))
@@ -150,9 +150,11 @@ class ShinkaiLuatable(HttpClient):
                 title = category['title']
                 if title.startswith('Module:Data/Enemy/Vita:'):
                     continue
-                if title.endswith('(fog)'):
+                elif title.startswith('Module:Data/Enemy/Mist:'):
                     continue
-                if title.startswith('Module') and title not in ret:
+                elif title == "Module:Data/Enemy/Transport Ship Wa-Class B":
+                    continue
+                elif title.startswith('Module') and title not in ret:
                     ret.append(title)
         return ret
 

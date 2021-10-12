@@ -109,9 +109,12 @@ class WikiaCrawler(HttpClient):
         for moduleName in ships:
             if moduleName.startswith('Module:Data/Enemy/Vita:'):
                 continue
-            if moduleName.endswith('(fog)'):
+            elif moduleName.startswith('Module:Data/Enemy/Mist:'):
                 continue
-            tasks.append(asyncio.ensure_future(self.getDetail(moduleName)))
+            elif moduleName == "Module:Data/Enemy/Transport Ship Wa-Class B":
+                continue
+            else:
+                tasks.append(asyncio.ensure_future(self.getDetail(moduleName)))
 
         dones = (await asyncio.wait(tasks))[0]
         ids = set()

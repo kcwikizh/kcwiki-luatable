@@ -24,7 +24,7 @@ class ShipClassMappingLuatable:
     def __fill_classes(self):
         for ship_id in self.SHIPS_DB.keys():
             wctf_ship = self.SHIPS_DB[ship_id]
-            ship_class = self.CLASS_ID_NAME_MAP[wctf_ship['class']]
+            ship_class = self.CLASS_ID_NAME_MAP.get(wctf_ship['class'],'?')
             if ship_class in self.shipclass_data:
                 self.shipclass_data[ship_class].append(wctf_ship['id'])
             # print(self.shipclass_data)
