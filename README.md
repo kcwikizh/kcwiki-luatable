@@ -1,6 +1,6 @@
 # Kcwiki-Luatable
 
-[![Travis](https://img.shields.io/travis/kcwikizh/kcwiki-luatable.svg)](https://travis-ci.org/kcwikizh/kcwiki-luatable)
+[![GitHub CI](https://github.com/kcwikizh/kcwiki-luatable/actions/workflows/python-app.yml/badge.svg)](https://github.com/kcwikizh/kcwiki-luatable/actions/workflows/python-app.yml)
 [![GitHub last commit (gh-pages)](https://img.shields.io/github/last-commit/kcwikizh/kcwiki-luatable/gh-pages.svg)](https://github.com/kcwikizh/kcwiki-luatable/tree/gh-pages)
 
 kcwiki lua模块数据机器人🤖️
