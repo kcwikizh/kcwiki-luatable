@@ -1,0 +1,78 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: kcwiki-lua-update
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    name: Run Lua-table Build
+    runs-on: ubuntu-latest
+    env:
+      KCKIT_REPO_URL: https://github.com/TeamFleet/KCKit.git
+      KCKIT_REPO_BRANCH: master
+      WCTF_DB_REPO_URL: https://github.com/TeamFleet/WhoCallsTheFleet-DB.git
+      WCTF_DB_REPO_BRANCH: master
+
+      Check: on
+      Ships: on
+      Shinkai: on
+      Wikiwiki: on
+      SeasonalSubtitles: on
+      ShipClassesMapping: on
+
+
+    steps:
+    - name: Run actions/checkout@v2
+      uses: actions/checkout@v2
+    
+    - name: Set up Python 3.7 environment
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
+        
+    - name: Set up Node.js environment
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+    
+    - name: Install NPM package
+      run: npm install
+    
+    - name: Run actions/cache@v2
+      uses: actions/cache@v2
+      if: startsWith(runner.os, 'Linux')
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Before build
+      run: |
+        pip install -U pip setuptools
+        pip install hererocks
+        hererocks lua_install -r^ --lua=5.3
+        echo $PWD/lua_install/bin >> $GITHUB_PATH
+        pip install -r requirements.txt
+    
+    - name: Run build
+      run: |
+        python LuatableBot.py
+        
+    - name: Before deploy
+      run: |
+        cp docs/index.html output/index.html
+        cp docs/style.css output/style.css
+        echo bot.kcwiki.moe > output/CNAME
+    
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output
