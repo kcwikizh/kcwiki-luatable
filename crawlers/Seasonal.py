@@ -205,6 +205,14 @@ class SeasonalCrawler(HttpClient):
             }
         print('Seasonal:「{}」共{}条语音'.format(key, cnt))
 
+    async def __dump_all_json(self):
+        print('Seasonal: generating all.json...')
+        file_name = 'all.json'
+        with open(OUPUT_PATH + SEASONAL_PATH + file_name, 'w') as fp:
+            json.dump(self.seasonals, fp, ensure_ascii=False, sort_keys=True, indent=2)
+        file_size = format_filesize(os.path.getsize(OUPUT_PATH + SEASONAL_PATH + file_name))
+        self.files.append((file_name, file_size))
+
     async def __fetch_seasonal(self, category):
         retry = RETRY_TIMES
         wiki_txt = ''
@@ -221,6 +229,7 @@ class SeasonalCrawler(HttpClient):
                 print('Seasonal:「{}」开始重试第{}/{}次 原因：{}'.format(category, RETRY_TIMES - retry, RETRY_TIMES, e))
                 continue
         await self.__process_wikicode(category, wiki_txt)
+        
 
     async def start(self):
         await self.__get_categories()
@@ -237,6 +246,8 @@ class SeasonalCrawler(HttpClient):
                 json.dump(subtitles, fp, ensure_ascii=False, sort_keys=True, indent=2)
             file_size = format_filesize(os.path.getsize(OUPUT_PATH + SEASONAL_PATH + file_name))
             self.files.append((file_name, file_size))
+        await self.__dump_all_json()
+
         is_filesdiff = await self.diff_files()
         if is_filesdiff:
             if len(self.rofiles):
