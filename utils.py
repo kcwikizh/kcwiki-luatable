@@ -22,6 +22,8 @@ def json2dic(data, masterKey=None):
         return data
     dic = {}
     for entry in data:
+        if not entry:
+            continue
         if not entry[masterKey]:
             continue
         dic[entry[masterKey]] = entry

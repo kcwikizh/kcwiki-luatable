@@ -14,7 +14,6 @@ cache
 
 KCKit
 WCTF_DB
-
-/lua_install
+lua_install
 
 util.txt

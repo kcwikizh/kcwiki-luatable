@@ -14,7 +14,7 @@ stages:
 update:
   stage: update
   tags:
-    - iad
+    - amdyes
   only:
     - master
   before_script:
