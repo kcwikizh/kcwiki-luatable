@@ -10025,6 +10025,15 @@ k.EquipUpdateTb = {
 				"-?%"
 			}
 		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: 神通改二・比叡改二/丙",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "10",
+				["steel"] = "10",
+				["bauxite"] = "10"
+			}
+		},
 		["equip_ships"] = {
 			"神通改(Lv20)",
 			"鹿島改(Lv35)",
