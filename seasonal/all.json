@@ -10122,6 +10122,26 @@
         "zh": "诶，什么什么，想和我说什么？"
       }
     },
+    "2021年万圣节": {
+      "081a-BattleHalloween2021": {
+        "file": "/b/bf/081a-BattleHalloween2021.mp3",
+        "ja": "",
+        "vname": "战斗开始",
+        "zh": ""
+      },
+      "081a-Equip3Halloween2021": {
+        "file": "/7/7b/081a-Equip3Halloween2021.mp3",
+        "ja": "",
+        "vname": "装备",
+        "zh": ""
+      },
+      "081a-IntroHalloween2021": {
+        "file": "/7/73/081a-IntroHalloween2021.mp3",
+        "ja": "",
+        "vname": "入手/登入时",
+        "zh": ""
+      }
+    },
     "2021年情人节": {
       "081a-Sec2Valentine2021": {
         "file": "/a/aa/081a-Sec2Valentine2021.mp3",
@@ -16192,6 +16212,20 @@
         "zh": "提督，尝过夕立做的巧克力了吗？poi!"
       }
     },
+    "2021年万圣节": {
+      "144-NightBattleHalloween2021": {
+        "file": "/a/a5/144-NightBattleHalloween2021.mp3",
+        "ja": "",
+        "vname": "夜战",
+        "zh": ""
+      },
+      "144-Sec2Halloween2021": {
+        "file": "/b/ba/144-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "144-Sec1EighthAnniversary": {
         "file": "/c/c0/144-Sec1EighthAnniversary.mp3",
@@ -16386,6 +16420,20 @@
         "ja": "七周年なんだ、提督、止まない雨はないよ。",
         "vname": "秘书舰1",
         "zh": "七周年了啊，提督，这世界上并没有永无止境的雨呢。"
+      }
+    },
+    "2021年万圣节": {
+      "145-Sec2Halloween2021": {
+        "file": "/f/f8/145-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      },
+      "145-Sec3Halloween2021": {
+        "file": "/0/00/145-Sec3Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰3",
+        "zh": ""
       }
     }
   },
@@ -18797,6 +18845,14 @@
         "vname": "秘书舰1",
         "zh": "秋刀鱼渔场的保护会是一场苦战，四驱需要竭尽全力。没事的，我们几个能做到！"
       }
+    },
+    "2021年万圣节": {
+      "215-Sec2Halloween2021": {
+        "file": "/d/d3/215-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
     }
   },
   "221": {
@@ -20008,6 +20064,14 @@
         "ja": "提督、おめでとう！この記念の日に。あなたといられて、私も少し嬉しいわ。ほんとうよ。",
         "vname": "秘书舰1",
         "zh": "提督，恭喜！在这值得纪念的一天，能和你在一起，我也有些开心。真的哦。"
+      }
+    },
+    "2021年万圣节": {
+      "242-Sec1Halloween2021": {
+        "file": "/3/3f/242-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -23238,6 +23302,32 @@
         "zh": "啊，藤酱。谢……谢谢。我……很感激地收下了。嗯、唔……真心地……"
       }
     },
+    "2021年万圣节": {
+      "284-IntroHalloween2021": {
+        "file": "/2/2a/284-IntroHalloween2021.mp3",
+        "ja": "",
+        "vname": "入手/登入时",
+        "zh": ""
+      },
+      "284-LightDmg1Halloween2021": {
+        "file": "/0/09/284-LightDmg1Halloween2021.mp3",
+        "ja": "",
+        "vname": "小破1",
+        "zh": ""
+      },
+      "284-Sec2Halloween2021": {
+        "file": "/4/4c/284-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      },
+      "284-Sec3Halloween2021": {
+        "file": "/a/a6/284-Sec3Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰3",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "284-Sec1EighthAnniversary": {
         "file": "/0/01/284-Sec1EighthAnniversary.mp3",
@@ -23466,6 +23556,20 @@
         "ja": "うん、ハヤちん、これくれるんだ？ありがとう。あぁ？もち、食べるよ。",
         "vname": "秘书舰2",
         "zh": "唔，早（波）酱，这是给我的？谢谢。啊？当然要吃掉了啊~"
+      }
+    },
+    "2021年万圣节": {
+      "285-Sec2Halloween2021": {
+        "file": "/c/cc/285-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      },
+      "285-Sec3Halloween2021": {
+        "file": "/6/67/285-Sec3Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰3",
+        "zh": ""
       }
     },
     "2021年八周年纪念": {
@@ -24470,6 +24574,32 @@
         "zh": "感觉不错，感觉不错。村雨当然会好好战斗。"
       }
     },
+    "2021年万圣节": {
+      "298-Equip3Halloween2021": {
+        "file": "/3/3b/298-Equip3Halloween2021.mp3",
+        "ja": "",
+        "vname": "装备",
+        "zh": ""
+      },
+      "298-Sec1Halloween2021": {
+        "file": "/a/ac/298-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      },
+      "298-Sec2Halloween2021": {
+        "file": "/1/1c/298-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      },
+      "298-Sec3Halloween2021": {
+        "file": "/b/bb/298-Sec3Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰3",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "298-Sec1EighthAnniversary": {
         "file": "/9/9a/298-Sec1EighthAnniversary.mp3",
@@ -24794,6 +24924,14 @@
     }
   },
   "314": {
+    "2021年万圣节": {
+      "314-Sec1Halloween2021": {
+        "file": "/2/2f/314-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "314-Sec1EighthAnniversary": {
         "file": "/8/85/314-Sec1EighthAnniversary.mp3",
@@ -25904,6 +26042,14 @@
         "zh": "鬼往外，福往内。啊！滨酱，对不起。痛吗？"
       }
     },
+    "2021年万圣节": {
+      "328-Sec2Halloween2021": {
+        "file": "/4/43/328-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "328-Sec1EighthAnniversary": {
         "file": "/0/0c/328-Sec1EighthAnniversary.mp3",
@@ -25968,6 +26114,14 @@
         "ja": "提督、艦隊、七周年、おめでとうございます。四十一駆、涼月、ともにお祝い、申し上げます。提督、本当に嬉しいですね。感謝です。",
         "vname": "秘书舰2",
         "zh": "舰队七周年了，恭喜您，提督。凉月代表四十一驱献上祝贺。提督，我真的好开心。谢谢您。"
+      }
+    },
+    "2021年万圣节": {
+      "332-Sec1Halloween2021": {
+        "file": "/7/71/332-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "2021年八周年纪念": {
@@ -27216,6 +27370,14 @@
         "zh": "赏花？好啊，我想去！好久没和塔菲3的大家一起了，好期待啊！"
       }
     },
+    "2021年万圣节": {
+      "362-Sec1Halloween2021": {
+        "file": "/1/1f/362-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "362-Sec1EighthAnniversary": {
         "file": "/4/43/362-Sec1EighthAnniversary.mp3",
@@ -27402,6 +27564,14 @@
         "ja": "我がヒ船団護衛隊の鬼役は…速吸さん？すみません、では遠慮なく。鬼は外！福は内！鬼は外…外！",
         "vname": "秘书舰1",
         "zh": "我们HI船团护卫队是谁来扮鬼呢？是速吸小姐吗…对不起，那么我就不客气了。鬼往外！福往内！鬼往外…往外！"
+      }
+    },
+    "2021年万圣节": {
+      "370-Sec1Halloween2021": {
+        "file": "/3/3a/370-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "2021年八周年纪念": {
@@ -28188,6 +28358,14 @@
         "zh": "我听说了，日本镇守府的名物，节分对吧？我们ABDA的鬼是，诶？珀斯，是你吗？"
       }
     },
+    "2021年万圣节": {
+      "395-Sec1Halloween2021": {
+        "file": "/a/af/395-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "395-Sec1EighthAnniversary": {
         "file": "/2/2f/395-Sec1EighthAnniversary.mp3",
@@ -28312,6 +28490,14 @@
         "zh": "好痛……怎么了？是谁？晓！你这家伙……疼！这次是Nightmare。你们几个合在一起……啊疼！？（※Nightmare：指夕立）"
       }
     },
+    "2021年万圣节": {
+      "397-Sec1Halloween2021": {
+        "file": "/d/d7/397-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "397-Sec1EighthAnniversary": {
         "file": "/e/ec/397-Sec1EighthAnniversary.mp3",
@@ -28322,6 +28508,14 @@
     }
   },
   "398": {
+    "2021年万圣节": {
+      "398-Sec1Halloween2021": {
+        "file": "/b/bf/398-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年初秋季节": {
       "398-Sec1Shoshuu2021": {
         "file": "/e/e3/398-Sec1Shoshuu2021.mp3",
@@ -28494,6 +28688,14 @@
         "zh": "啊，火鸡无论在哪儿吃都很美味啊。啊，怎么了瑞鹤，我又没说你……你这家伙，什么？要打架吗？放马过来啊！我全给你打下来！"
       }
     },
+    "2021年万圣节": {
+      "402-Sec1Halloween2021": {
+        "file": "/2/25/402-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "402-Sec1EighthAnniversary": {
         "file": "/e/ea/402-Sec1EighthAnniversary.mp3",
@@ -28544,6 +28746,14 @@
         "zh": "是圣诞呢！今天想好好玩一场呢。啊，有好吃的火鸡烧烤，提督来一块怎么样？……嗯？您看上去很紧张啊，怎么了嘛？什么？"
       }
     },
+    "2021年万圣节": {
+      "403-Sec1Halloween2021": {
+        "file": "/7/78/403-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "403-Sec1EighthAnniversary": {
         "file": "/8/8e/403-Sec1EighthAnniversary.mp3",
@@ -28576,6 +28786,16 @@
         "ja": "航空母艦、加賀です。提督、今日もそれなりに期待はしているわ。よろしく。",
         "vname": "入手/登入时",
         "zh": "我是航空母舰，加贺。提督，今天也和期待中的差不多吧。请多关照。"
+      }
+    }
+  },
+  "408": {
+    "2021年万圣节": {
+      "408-Sec1Halloween2021": {
+        "file": "/3/3b/408-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -28678,6 +28898,14 @@
         "zh": "台湾很少过圣诞节的……不过，玩得很高兴！"
       }
     },
+    "2021年万圣节": {
+      "412-Sec1Halloween2021": {
+        "file": "/6/6e/412-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "412-Sec1EighthAnniversary": {
         "file": "/7/79/412-Sec1EighthAnniversary.mp3",
@@ -28752,6 +28980,14 @@
         "zh": "ABDA Fleer的Setsupuun Master，也就是鬼由我珀斯来担任。放，放马过来！"
       }
     },
+    "2021年万圣节": {
+      "413-Sec1Halloween2021": {
+        "file": "/0/01/413-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "413-Sec1EighthAnniversary": {
         "file": "/e/e7/413-Sec1EighthAnniversary.mp3",
@@ -28824,6 +29060,20 @@
         "ja": "待ってたよ、節分！リベ、あいつをやりたいかい？あいつはやばいよ。空母にしてあげよ，ありゃ隙きがある。",
         "vname": "秘书舰1",
         "zh": "我等不及了，节分！西南风，想不想去那整家伙？他可是很可怕的哟。把他当成是航母吧。这里有机可乘。"
+      }
+    },
+    "2021年万圣节": {
+      "414-Sec1Halloween2021": {
+        "file": "/f/fb/414-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      },
+      "414-Sec2Halloween2021": {
+        "file": "/5/51/414-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
       }
     },
     "2021年八周年纪念": {
@@ -28968,6 +29218,14 @@
         "zh": "节分终于来了！来了！我们的鬼是哪位？哪位？诶？长长姐。啊，要不然就算了？呐…"
       }
     },
+    "2021年万圣节": {
+      "425-Sec1Halloween2021": {
+        "file": "/9/96/425-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "425-Sec1EighthAnniversary": {
         "file": "/d/d2/425-Sec1EighthAnniversary.mp3",
@@ -29028,6 +29286,14 @@
         "zh": "提督，第五舰队的圣诞节派对……啊，那个，那智和足柄她们……呃，对不起！请您过来一下！"
       }
     },
+    "2021年万圣节": {
+      "431-Sec1Halloween2021": {
+        "file": "/1/1a/431-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "431-Sec1EighthAnniversary": {
         "file": "/1/14/431-Sec1EighthAnniversary.mp3",
@@ -29060,6 +29326,14 @@
         "ja": "はー、これがクリスマスってやつかい？ ぶっちゃけ、飯がうまいな、飯が。……あ、なんか空母揉めてんな。近寄らんとこ。……あ、提督！？ こっち来んな！？うわあっ！？",
         "vname": "秘书舰1",
         "zh": "哈，这就是圣诞节吗？说实话饭还挺好吃的，嗯。……啊，航母们貌似在吵架，不要靠近为好。……啊，提督？别过来！哇！！"
+      }
+    },
+    "2021年万圣节": {
+      "432-Sec1Halloween2021": {
+        "file": "/5/54/432-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "2021年八周年纪念": {
@@ -29181,6 +29455,22 @@
       }
     }
   },
+  "435": {
+    "2021年万圣节": {
+      "435-Sec1Halloween2021": {
+        "file": "/b/ba/435-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      },
+      "435-Sec2Halloween2021": {
+        "file": "/4/43/435-Sec2Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    }
+  },
   "436": {
     "2020年初秋季节": {
       "436-Sec1Shoshuu2020": {
@@ -29232,6 +29522,14 @@
         "zh": "我很喜欢很喜欢圣诞节哦！蛋糕好好吃~啊，松姐姐！尝尝这个！哇！"
       }
     },
+    "2021年万圣节": {
+      "437-Sec1Halloween2021": {
+        "file": "/7/7e/437-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "437-Sec1EighthAnniversary": {
         "file": "/d/d3/437-Sec1EighthAnniversary.mp3",
@@ -29262,6 +29560,26 @@
         "ja": "鬼は、外！福は、内！ヨツ達の、鬼は、誰？えぇ？潜水艦？ヨツ得意、得意！よーし、行くぞ〜！",
         "vname": "秘书舰1",
         "zh": "鬼在外！福在内！我们打的鬼是谁啊？欸？潜水艇？这个四号我很拿手的！来，开始啦！"
+      }
+    }
+  },
+  "438": {
+    "2021年万圣节": {
+      "438-Sec1Halloween2021": {
+        "file": "/2/2f/438-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    }
+  },
+  "439": {
+    "2021年万圣节": {
+      "439-NightBattleHalloween2021": {
+        "file": "/6/62/439-NightBattleHalloween2021.mp3",
+        "ja": "",
+        "vname": "夜战",
+        "zh": ""
       }
     }
   },
@@ -29308,6 +29626,14 @@
     }
   },
   "442": {
+    "2021年万圣节": {
+      "442-Sec1Halloween2021": {
+        "file": "/4/4a/442-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "442-Sec1EighthAnniversary": {
         "file": "/d/dd/442-Sec1EighthAnniversary.mp3",
@@ -29342,6 +29668,14 @@
     }
   },
   "444": {
+    "2021年万圣节": {
+      "444-Sec1Halloween2021": {
+        "file": "/9/96/444-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年初秋季节": {
       "444-Sec1Shoshuu2021": {
         "file": "/9/9b/444-Sec1Shoshuu2021.mp3",
@@ -29382,6 +29716,14 @@
     }
   },
   "453": {
+    "2021年万圣节": {
+      "453-Sec1Halloween2021": {
+        "file": "/3/3b/453-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年八周年纪念": {
       "453-Sec1EighthAnniversary": {
         "file": "/4/43/453-Sec1EighthAnniversary.mp3",
@@ -29442,6 +29784,14 @@
     }
   },
   "455": {
+    "2021年万圣节": {
+      "455-Sec1Halloween2021": {
+        "file": "/8/89/455-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年初秋季节": {
       "455-Sec1Shoshuu2021": {
         "file": "/7/7b/455-Sec1Shoshuu2021.mp3",
@@ -29463,7 +29813,37 @@
       }
     }
   },
+  "470": {
+    "2021年万圣节": {
+      "470-Atk2Halloween2021": {
+        "file": "/e/e9/470-Atk2Halloween2021.mp3",
+        "ja": "",
+        "vname": "攻击2",
+        "zh": ""
+      },
+      "470-DockLightDmgHalloween2021": {
+        "file": "/f/f0/470-DockLightDmgHalloween2021.mp3",
+        "ja": "",
+        "vname": "小破入渠",
+        "zh": ""
+      },
+      "470-Sec3Halloween2021": {
+        "file": "/4/4c/470-Sec3Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰3",
+        "zh": ""
+      }
+    }
+  },
   "471": {
+    "2021年万圣节": {
+      "471-Sec1Halloween2021": {
+        "file": "/5/55/471-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年初秋季节": {
       "471-Sec1Shoshuu2021": {
         "file": "/d/d1/471-Sec1Shoshuu2021.mp3",
@@ -29474,6 +29854,14 @@
     }
   },
   "475": {
+    "2021年万圣节": {
+      "475-Sec1Halloween2021": {
+        "file": "/a/af/475-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年初秋季节": {
       "475-Sec1Shoshuu2021": {
         "file": "/a/af/475-Sec1Shoshuu2021.mp3",
@@ -29498,6 +29886,14 @@
     }
   },
   "477": {
+    "2021年万圣节": {
+      "477-Sec1Halloween2021": {
+        "file": "/4/4a/477-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年初秋季节": {
       "477-Sec1Shoshuu2021": {
         "file": "/c/c4/477-Sec1Shoshuu2021.mp3",
@@ -29520,6 +29916,14 @@
     }
   },
   "482": {
+    "2021年万圣节": {
+      "482-Sec1Halloween2021": {
+        "file": "/c/cd/482-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年初秋季节": {
       "482-Sec1Shoshuu2021": {
         "file": "/7/78/482-Sec1Shoshuu2021.mp3",
@@ -29546,6 +29950,14 @@
     }
   },
   "485": {
+    "2021年万圣节": {
+      "485-Sec1Halloween2021": {
+        "file": "/2/28/485-Sec1Halloween2021.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "2021年初秋季节": {
       "485-Sec1Shoshuu2021": {
         "file": "/b/b0/485-Sec1Shoshuu2021.mp3",

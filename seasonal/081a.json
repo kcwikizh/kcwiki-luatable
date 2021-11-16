@@ -37,6 +37,26 @@
       "zh": "诶，什么什么，想和我说什么？"
     }
   },
+  "2021年万圣节": {
+    "081a-BattleHalloween2021": {
+      "file": "/b/bf/081a-BattleHalloween2021.mp3",
+      "ja": "",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "081a-Equip3Halloween2021": {
+      "file": "/7/7b/081a-Equip3Halloween2021.mp3",
+      "ja": "",
+      "vname": "装备",
+      "zh": ""
+    },
+    "081a-IntroHalloween2021": {
+      "file": "/7/73/081a-IntroHalloween2021.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    }
+  },
   "2021年情人节": {
     "081a-Sec2Valentine2021": {
       "file": "/a/aa/081a-Sec2Valentine2021.mp3",

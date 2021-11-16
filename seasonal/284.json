@@ -151,6 +151,32 @@
       "zh": "啊，藤酱。谢……谢谢。我……很感激地收下了。嗯、唔……真心地……"
     }
   },
+  "2021年万圣节": {
+    "284-IntroHalloween2021": {
+      "file": "/2/2a/284-IntroHalloween2021.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "284-LightDmg1Halloween2021": {
+      "file": "/0/09/284-LightDmg1Halloween2021.mp3",
+      "ja": "",
+      "vname": "小破1",
+      "zh": ""
+    },
+    "284-Sec2Halloween2021": {
+      "file": "/4/4c/284-Sec2Halloween2021.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "284-Sec3Halloween2021": {
+      "file": "/a/a6/284-Sec3Halloween2021.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
+  },
   "2021年八周年纪念": {
     "284-Sec1EighthAnniversary": {
       "file": "/0/01/284-Sec1EighthAnniversary.mp3",

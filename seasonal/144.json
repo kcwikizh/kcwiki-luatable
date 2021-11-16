@@ -131,6 +131,20 @@
       "zh": "提督，尝过夕立做的巧克力了吗？poi!"
     }
   },
+  "2021年万圣节": {
+    "144-NightBattleHalloween2021": {
+      "file": "/a/a5/144-NightBattleHalloween2021.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    },
+    "144-Sec2Halloween2021": {
+      "file": "/b/ba/144-Sec2Halloween2021.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
+  },
   "2021年八周年纪念": {
     "144-Sec1EighthAnniversary": {
       "file": "/c/c0/144-Sec1EighthAnniversary.mp3",

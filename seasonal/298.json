@@ -79,6 +79,32 @@
       "zh": "感觉不错，感觉不错。村雨当然会好好战斗。"
     }
   },
+  "2021年万圣节": {
+    "298-Equip3Halloween2021": {
+      "file": "/3/3b/298-Equip3Halloween2021.mp3",
+      "ja": "",
+      "vname": "装备",
+      "zh": ""
+    },
+    "298-Sec1Halloween2021": {
+      "file": "/a/ac/298-Sec1Halloween2021.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "298-Sec2Halloween2021": {
+      "file": "/1/1c/298-Sec2Halloween2021.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "298-Sec3Halloween2021": {
+      "file": "/b/bb/298-Sec3Halloween2021.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
+  },
   "2021年八周年纪念": {
     "298-Sec1EighthAnniversary": {
       "file": "/9/9a/298-Sec1EighthAnniversary.mp3",
