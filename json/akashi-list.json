@@ -16365,7 +16365,7 @@
         "高波改(Lv30)",
         "風雲改(Lv30)",
         "鳥海改二(Lv65)",
-        "★+8高波改二(Lv79)"
+        "★8高波改二(Lv79)"
       ],
       "id": 129,
       "item_equip": {
@@ -27895,7 +27895,9 @@
       "EN_Wiki": "http://kancolle.wikia.com/wiki/F6F-3N",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/F6F-3N",
       "equip_ships": [
-        "-"
+        "Gambier",
+        "Bay",
+        "Mk.II(Lv73)"
       ],
       "id": 254,
       "item_equip": {
@@ -28061,7 +28063,9 @@
       "EN_Wiki": "http://kancolle.wikia.com/wiki/Night_Battle_Operation_Aviation_Personnel",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1",
       "equip_ships": [
-        "-"
+        "Gambier",
+        "Bay",
+        "Mk.II(Lv73)"
       ],
       "id": 258,
       "item_equip": {
@@ -28355,9 +28359,9 @@
         "霰改二(Lv63)",
         "村雨改二(Lv70)",
         "陽炎改二(Lv70)",
-        "★+5不知火改二(Lv72)",
-        "★+5黒潮改二(Lv73)",
-        "★+7秋雲改二(Lv74)",
+        "★5不知火改二(Lv72)",
+        "★5黒潮改二(Lv73)",
+        "★7秋雲改二(Lv74)",
         "満潮改二(Lv77)",
         "白露改二(Lv77)"
       ],
@@ -29782,7 +29786,10 @@
         "Gambier",
         "Bay(Lv1)",
         "Gambier",
-        "Bay改(Lv45)"
+        "Bay改(Lv45)",
+        "★2Gambier",
+        "Bay",
+        "Mk.II(Lv73)"
       ],
       "id": 277,
       "item_equip": {
@@ -29805,6 +29812,32 @@
         "ja": "FM-2",
         "zh": "FM-2"
       },
+      "item_remodel": {
+        "対潜": [
+          "+0.2",
+          "+0.4",
+          "+0.6",
+          "+0.8",
+          "+1.0",
+          "+1.2",
+          "+1.4",
+          "+1.6",
+          "+1.8",
+          "+2.0"
+        ],
+        "爆装": [
+          "+0.2",
+          "+0.4",
+          "+0.6",
+          "+0.8",
+          "+1.0",
+          "+1.2",
+          "+1.4",
+          "+1.6",
+          "+1.8",
+          "+2.0"
+        ]
+      },
       "item_stat": {
         "命中": "+2",
         "回避": "+2",
@@ -29824,7 +29857,9 @@
       "EN_Wiki": "http://kancolle.wikia.com/wiki/SK_Radar",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/SK%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
       "equip_ships": [
-        "-"
+        "★2Gambier",
+        "Bay",
+        "Mk.II(Lv73)"
       ],
       "id": 278,
       "item_equip": {

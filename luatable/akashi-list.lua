@@ -16451,7 +16451,7 @@ k.EquipUpdateTb = {
 			"高波改(Lv30)",
 			"風雲改(Lv30)",
 			"鳥海改二(Lv65)",
-			"★+8高波改二(Lv79)"
+			"★8高波改二(Lv79)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%A6%8B%E5%BC%B5%E5%93%A1",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Skilled_Lookouts"
@@ -27928,7 +27928,9 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Gambier",
+			"Bay",
+			"Mk.II(Lv73)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3N",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F6F-3N"
@@ -28103,7 +28105,9 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Gambier",
+			"Bay",
+			"Mk.II(Lv73)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Night_Battle_Operation_Aviation_Personnel"
@@ -28522,9 +28526,9 @@ k.EquipUpdateTb = {
 			"霰改二(Lv63)",
 			"村雨改二(Lv70)",
 			"陽炎改二(Lv70)",
-			"★+5不知火改二(Lv72)",
-			"★+5黒潮改二(Lv73)",
-			"★+7秋雲改二(Lv74)",
+			"★5不知火改二(Lv72)",
+			"★5黒潮改二(Lv73)",
+			"★7秋雲改二(Lv74)",
 			"満潮改二(Lv77)",
 			"白露改二(Lv77)"
 		},
@@ -29812,11 +29816,40 @@ k.EquipUpdateTb = {
 				"​"
 			}
 		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["equip_ships"] = {
 			"Gambier",
 			"Bay(Lv1)",
 			"Gambier",
-			"Bay改(Lv45)"
+			"Bay改(Lv45)",
+			"★2Gambier",
+			"Bay",
+			"Mk.II(Lv73)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/FM-2",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/FM-2"
@@ -29990,7 +30023,9 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"★2Gambier",
+			"Bay",
+			"Mk.II(Lv73)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SK%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
 		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/SK_Radar"
