@@ -42888,7 +42888,7 @@ k.EquipUpdateTb = {
 		["id"] = 439,
 		["no"] = "No.439",
 		["item_name"] = {
-			["zh"] = "Hedgehog(初期型)",
+			["zh"] = "刺猬（Hedgehog）",
 			["ja"] = "Hedgehog(初期型)"
 		},
 		["item_type"] = "爆雷",
