@@ -209,8 +209,7 @@ k.EquipUpdateTb = {
 			"松風改(Lv50)",
 			"旗風改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12cm_Single_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E7%A0%B2"
 	},
 	["2"] = {
 		["id"] = 2,
@@ -390,8 +389,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"主なcommon駆逐艦の初期装備"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["3"] = {
 		["id"] = 3,
@@ -454,8 +452,7 @@ k.EquipUpdateTb = {
 			"浜風乙改(Lv67)",
 			"磯風乙改(Lv68)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2"
 	},
 	["4"] = {
 		["id"] = 4,
@@ -633,8 +630,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"主なcommon軽巡の初期装備"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E5%8D%98%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Single_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E5%8D%98%E8%A3%85%E7%A0%B2"
 	},
 	["5"] = {
 		["id"] = 5,
@@ -826,8 +822,7 @@ k.EquipUpdateTb = {
 			"最上(Lv1)",
 			"大淀(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15.5cm_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["6"] = {
 		["id"] = 6,
@@ -1018,8 +1013,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"主なcommon重巡の初期装備"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/20.3cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["7"] = {
 		["id"] = 7,
@@ -1277,8 +1271,7 @@ k.EquipUpdateTb = {
 			"扶桑改(Lv20)",
 			"山城改(Lv20)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/35.6cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["8"] = {
 		["id"] = 8,
@@ -1540,8 +1533,7 @@ k.EquipUpdateTb = {
 			"長門改二(Lv88)",
 			"陸奥改二(Lv89)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/41cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["9"] = {
 		["id"] = 9,
@@ -1792,8 +1784,7 @@ k.EquipUpdateTb = {
 			"武蔵改(Lv40)",
 			"大和改(Lv60)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/46cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/46cm_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/46cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["10"] = {
 		["id"] = 10,
@@ -2085,8 +2076,7 @@ k.EquipUpdateTb = {
 			"大和改(Lv60)",
 			"摩耶改二(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_High-angle_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2"
 	},
 	["11"] = {
 		["id"] = 11,
@@ -2269,8 +2259,7 @@ k.EquipUpdateTb = {
 			"扶桑(Lv1)",
 			"山城(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E5%8D%98%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15.2cm_Single_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E5%8D%98%E8%A3%85%E7%A0%B2"
 	},
 	["12"] = {
 		["id"] = 12,
@@ -2513,8 +2502,7 @@ k.EquipUpdateTb = {
 			"榛名改(Lv25)",
 			"霧島改(Lv25)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15.5cm_Triple_Secondary_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2"
 	},
 	["13"] = {
 		["id"] = 13,
@@ -2727,8 +2715,7 @@ k.EquipUpdateTb = {
 			"水無月改(Lv20)",
 			"薄雲改(Lv40)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Triple_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7"
 	},
 	["14"] = {
 		["id"] = 14,
@@ -2928,8 +2915,7 @@ k.EquipUpdateTb = {
 			"青葉改(Lv25)",
 			"衣笠改(Lv25)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Quadruple_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7"
 	},
 	["15"] = {
 		["id"] = 15,
@@ -3112,8 +3098,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"主な駆逐艦、軽巡、重巡洋艦改の初期装備"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Quadruple_%28Oxygen%29_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7"
 	},
 	["16"] = {
 		["id"] = 16,
@@ -3214,8 +3199,7 @@ k.EquipUpdateTb = {
 			"千代田航改(Lv35)",
 			"大鷹改(Lv60)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB"
 	},
 	["17"] = {
 		["id"] = 17,
@@ -3290,8 +3274,7 @@ k.EquipUpdateTb = {
 			"大鳳(Lv1)",
 			"瑞鳳改(Lv25)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1"
 	},
 	["18"] = {
 		["id"] = 18,
@@ -3340,8 +3323,7 @@ k.EquipUpdateTb = {
 			"速吸改(Lv25)",
 			"大鳳改(Lv40)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F"
 	},
 	["19"] = {
 		["id"] = 19,
@@ -3405,8 +3387,7 @@ k.EquipUpdateTb = {
 			"飛鷹(Lv1)",
 			"隼鷹(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E8%89%A6%E6%88%A6",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_Fighter"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E8%89%A6%E6%88%A6"
 	},
 	["20"] = {
 		["id"] = 20,
@@ -3476,8 +3457,7 @@ k.EquipUpdateTb = {
 			"千代田航(Lv15)",
 			"龍鳳(Lv25)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_21"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B"
 	},
 	["21"] = {
 		["id"] = 21,
@@ -3556,8 +3536,7 @@ k.EquipUpdateTb = {
 			"千代田航改二(Lv50)",
 			"龍鳳改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_52"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B"
 	},
 	["22"] = {
 		["id"] = 22,
@@ -3606,8 +3585,7 @@ k.EquipUpdateTb = {
 			"大鳳改(Lv40)",
 			"隼鷹改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E7%83%88%E9%A2%A8%20%E5%BE%8C%E6%9C%9F%E5%9E%8B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Reppuu_Late_Model"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E7%83%88%E9%A2%A8%20%E5%BE%8C%E6%9C%9F%E5%9E%8B"
 	},
 	["23"] = {
 		["id"] = 23,
@@ -3691,8 +3669,7 @@ k.EquipUpdateTb = {
 			"翔鶴(Lv1)",
 			"瑞鶴(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86"
 	},
 	["24"] = {
 		["id"] = 24,
@@ -3777,8 +3754,7 @@ k.EquipUpdateTb = {
 			"飛龍改(Lv30)",
 			"翔鶴改(Lv30)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Suisei"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F"
 	},
 	["25"] = {
 		["id"] = 25,
@@ -3873,8 +3849,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"主な軽巡・重巡・戦艦の初期装備"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F"
 	},
 	["26"] = {
 		["id"] = 26,
@@ -3966,8 +3941,7 @@ k.EquipUpdateTb = {
 			"鈴谷改(Lv35)",
 			"熊野改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2"
 	},
 	["27"] = {
 		["id"] = 27,
@@ -4162,8 +4136,7 @@ k.EquipUpdateTb = {
 			"木曽改二(Lv65)",
 			"榛名改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_13_Air_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2"
 	},
 	["28"] = {
 		["id"] = 28,
@@ -4318,8 +4291,7 @@ k.EquipUpdateTb = {
 			"金剛改二(Lv75)",
 			"満潮改二(Lv77)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2"
 	},
 	["29"] = {
 		["id"] = 29,
@@ -4449,8 +4421,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/33%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_21_Air_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/33%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2"
 	},
 	["30"] = {
 		["id"] = 30,
@@ -4644,8 +4615,7 @@ k.EquipUpdateTb = {
 			"霧島改二(Lv75)",
 			"隼鷹改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_21_Air_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2"
 	},
 	["31"] = {
 		["id"] = 31,
@@ -4780,8 +4750,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/32%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_32_Surface_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/32%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2"
 	},
 	["32"] = {
 		["id"] = 32,
@@ -4960,8 +4929,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/42%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_42_Air_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/42%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2"
 	},
 	["33"] = {
 		["id"] = 33,
@@ -5015,8 +4983,7 @@ k.EquipUpdateTb = {
 			"Ташкент(Lv1)",
 			"Ташкент改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%94%B9%E8%89%AF%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Improved_Kanhon_Type_Turbine"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%94%B9%E8%89%AF%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3"
 	},
 	["34"] = {
 		["id"] = 34,
@@ -5077,8 +5044,7 @@ k.EquipUpdateTb = {
 			"睦月改二(Lv65)",
 			"如月改二(Lv65)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BC%B7%E5%8C%96%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E7%BC%B6",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Enhanced_Kanhon_Type_Boiler"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BC%B7%E5%8C%96%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E7%BC%B6"
 	},
 	["35"] = {
 		["id"] = 35,
@@ -5251,8 +5217,7 @@ k.EquipUpdateTb = {
 			"比叡改二(Lv75)",
 			"榛名改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE",
-		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/Type_3_Shell"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE"
 	},
 	["36"] = {
 		["id"] = 36,
@@ -5426,8 +5391,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_91_Armor_Piercing_Shell"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE"
 	},
 	["37"] = {
 		["id"] = 37,
@@ -5489,8 +5453,7 @@ k.EquipUpdateTb = {
 			"榛名(Lv1)",
 			"霧島(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/7.7mm%E6%A9%9F%E9%8A%83",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/7.7mm_Machine_Gun"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/7.7mm%E6%A9%9F%E9%8A%83"
 	},
 	["38"] = {
 		["id"] = 38,
@@ -5543,8 +5506,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7mm_Single_Machine_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83"
 	},
 	["39"] = {
 		["id"] = 39,
@@ -5841,8 +5803,7 @@ k.EquipUpdateTb = {
 			"長波改二(Lv75)",
 			"龍驤改二(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Twin_Autocannon_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83"
 	},
 	["40"] = {
 		["id"] = 40,
@@ -6100,8 +6061,7 @@ k.EquipUpdateTb = {
 			"伊勢改二(Lv88)",
 			"金剛改二丙(Lv92)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Triple_Autocannon_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83"
 	},
 	["41"] = {
 		["id"] = 41,
@@ -6173,8 +6133,7 @@ k.EquipUpdateTb = {
 			"日進改(Lv40)",
 			"日進甲(Lv60)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E7%94%B2%E5%9E%8B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_A_Kouhyouteki"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E7%94%B2%E5%9E%8B"
 	},
 	["42"] = {
 		["id"] = 42,
@@ -6219,8 +6178,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BF%9C%E6%80%A5%E4%BF%AE%E7%90%86%E8%A6%81%E5%93%A1",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Emergency_Repair_Personnel"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BF%9C%E6%80%A5%E4%BF%AE%E7%90%86%E8%A6%81%E5%93%A1"
 	},
 	["43"] = {
 		["id"] = 43,
@@ -6265,8 +6223,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BF%9C%E6%80%A5%E4%BF%AE%E7%90%86%E5%A5%B3%E7%A5%9E",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Emergency_Repair_Goddess"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BF%9C%E6%80%A5%E4%BF%AE%E7%90%86%E5%A5%B3%E7%A5%9E"
 	},
 	["44"] = {
 		["id"] = 44,
@@ -6439,8 +6396,7 @@ k.EquipUpdateTb = {
 			"敷波改二(Lv80)",
 			"★+5海風改二(Lv82)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%9B%9B%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_94_Depth_Charge_Projector"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%9B%9B%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F"
 	},
 	["45"] = {
 		["id"] = 45,
@@ -6586,8 +6542,7 @@ k.EquipUpdateTb = {
 			"龍田改二(Lv80)",
 			"曙改二(Lv82)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Depth_Charge_Projector"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F"
 	},
 	["46"] = {
 		["id"] = 46,
@@ -6836,8 +6791,7 @@ k.EquipUpdateTb = {
 			"敷波改二(Lv80)",
 			"★+5海風改二(Lv82)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_93_Passive_Sonar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F"
 	},
 	["47"] = {
 		["id"] = 47,
@@ -7075,8 +7029,7 @@ k.EquipUpdateTb = {
 			"不知火改二(Lv72)",
 			"★+8沖波改二(Lv79)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E6%8E%A2%E4%BF%A1%E5%84%80",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Active_Sonar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E6%8E%A2%E4%BF%A1%E5%84%80"
 	},
 	["48"] = {
 		["id"] = 48,
@@ -7126,8 +7079,7 @@ k.EquipUpdateTb = {
 			"水無月改(Lv20)",
 			"夕張改(Lv25)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12cm_Single_High-angle_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2"
 	},
 	["49"] = {
 		["id"] = 49,
@@ -7358,8 +7310,7 @@ k.EquipUpdateTb = {
 			"松改(Lv50)",
 			"曙改二(Lv82)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Single_Autocannon_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83"
 	},
 	["50"] = {
 		["id"] = 50,
@@ -7541,8 +7492,7 @@ k.EquipUpdateTb = {
 			"利根改二(Lv70)",
 			"筑摩改二(Lv70)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%283%E5%8F%B7%29%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/20.3cm_%28No.3%29_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%283%E5%8F%B7%29%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["51"] = {
 		["id"] = 51,
@@ -7782,8 +7732,7 @@ k.EquipUpdateTb = {
 			"伊勢改二(Lv88)",
 			"日向改二(Lv90)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12cm_30-tube_Rocket_Launcher"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2"
 	},
 	["52"] = {
 		["id"] = 52,
@@ -7831,8 +7780,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9"
 	},
 	["53"] = {
 		["id"] = 53,
@@ -7872,8 +7820,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%20%E4%B8%80%E4%B8%80%E5%9E%8B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Model_11"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%20%E4%B8%80%E4%B8%80%E5%9E%8B"
 	},
 	["54"] = {
 		["id"] = 54,
@@ -7946,8 +7893,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"雲龍改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Saiun"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2"
 	},
 	["55"] = {
 		["id"] = 55,
@@ -8009,8 +7955,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Kai_2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%E4%BA%8C"
 	},
 	["56"] = {
 		["id"] = 56,
@@ -8050,8 +7995,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9C%87%E9%9B%BB%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Shinden_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9C%87%E9%9B%BB%E6%94%B9"
 	},
 	["57"] = {
 		["id"] = 57,
@@ -8099,8 +8043,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_Model_12A"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2"
 	},
 	["58"] = {
 		["id"] = 58,
@@ -8276,8 +8219,7 @@ k.EquipUpdateTb = {
 			"北上改二(Lv50)",
 			"木曽改二(Lv65)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%BA%94%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Quintuple_%28Oxygen%29_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%BA%94%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7"
 	},
 	["59"] = {
 		["id"] = 59,
@@ -8375,8 +8317,7 @@ k.EquipUpdateTb = {
 			"瑞穂(Lv1)",
 			"瑞穂改(Lv40)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E8%A6%B3%E6%B8%AC%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Observation_Seaplane"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E8%A6%B3%E6%B8%AC%E6%A9%9F"
 	},
 	["60"] = {
 		["id"] = 60,
@@ -8439,8 +8380,7 @@ k.EquipUpdateTb = {
 			"大鳳(Lv1)",
 			"龍驤改二(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A662%E5%9E%8B%28%E7%88%86%E6%88%A6%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_62_%28Fighter-bomber%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A662%E5%9E%8B%28%E7%88%86%E6%88%A6%29"
 	},
 	["61"] = {
 		["id"] = 61,
@@ -8581,8 +8521,7 @@ k.EquipUpdateTb = {
 			"龍驤改二(Lv75)",
 			"蒼龍改二(Lv78)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E8%89%A6%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Reconnaissance_Aircraft"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E8%89%A6%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F"
 	},
 	["62"] = {
 		["id"] = 62,
@@ -8632,8 +8571,7 @@ k.EquipUpdateTb = {
 			"伊400改(Lv37)",
 			"伊14改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%99%B4%E5%B5%90",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_Seiran"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%99%B4%E5%B5%90"
 	},
 	["63"] = {
 		["id"] = 63,
@@ -8819,8 +8757,7 @@ k.EquipUpdateTb = {
 			"江風改二(Lv75)",
 			"敷波改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_B_Kai_2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E4%BA%8C"
 	},
 	["64"] = {
 		["id"] = 64,
@@ -8862,8 +8799,7 @@ k.EquipUpdateTb = {
 			"Graf",
 			"Zeppelin改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9"
 	},
 	["65"] = {
 		["id"] = 65,
@@ -9048,8 +8984,7 @@ k.EquipUpdateTb = {
 			"矢矧改(Lv35)",
 			"大淀改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15.2cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["66"] = {
 		["id"] = 66,
@@ -9330,8 +9265,7 @@ k.EquipUpdateTb = {
 			"矢矧(Lv1)",
 			"酒匂(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8cm%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/8cm_High-angle_Gun"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8cm%E9%AB%98%E8%A7%92%E7%A0%B2"
 	},
 	["67"] = {
 		["id"] = 67,
@@ -9376,8 +9310,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/53cm%E8%89%A6%E9%A6%96%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/53cm_Bow_%28Oxygen%29_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/53cm%E8%89%A6%E9%A6%96%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7"
 	},
 	["68"] = {
 		["id"] = 68,
@@ -9569,6 +9502,15 @@ k.EquipUpdateTb = {
 				"+22%"
 			}
 		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: あきつ丸",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "10",
+				["steel"] = "10",
+				["bauxite"] = "10"
+			}
+		},
 		["equip_ships"] = {
 			"あきつ丸(Lv1)",
 			"神州丸(Lv1)",
@@ -9579,8 +9521,7 @@ k.EquipUpdateTb = {
 			"阿武隈改二(Lv75)",
 			"鬼怒改二(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Daihatsu_Landing_Craft"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87"
 	},
 	["69"] = {
 		["id"] = 69,
@@ -9647,8 +9588,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"あきつ丸改(Lv25)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AB%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ka_Type_Observation_Autogyro"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AB%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F"
 	},
 	["70"] = {
 		["id"] = 70,
@@ -9687,8 +9627,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"あきつ丸改(Lv25)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%8C%87%E6%8F%AE%E9%80%A3%E7%B5%A1%E6%A9%9F%28%E5%AF%BE%E6%BD%9C%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Command_Liaison_Aircraft_%28ASW%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%8C%87%E6%8F%AE%E9%80%A3%E7%B5%A1%E6%A9%9F%28%E5%AF%BE%E6%BD%9C%29"
 	},
 	["71"] = {
 		["id"] = 71,
@@ -9742,8 +9681,7 @@ k.EquipUpdateTb = {
 			"長門改二(Lv88)",
 			"陸奥改二(Lv89)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E7%A0%B2%E6%9E%B6%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_%28Carriage%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E7%A0%B2%E6%9E%B6%29"
 	},
 	["72"] = {
 		["id"] = 72,
@@ -9864,8 +9802,7 @@ k.EquipUpdateTb = {
 			"Zara",
 			"due(Lv88)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E4%B8%AD%E5%9E%8B%E8%89%A6%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Anti-torpedo_Bulge_%28Medium%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E4%B8%AD%E5%9E%8B%E8%89%A6%29"
 	},
 	["73"] = {
 		["id"] = 73,
@@ -9940,8 +9877,7 @@ k.EquipUpdateTb = {
 			"長門改二(Lv88)",
 			"陸奥改二(Lv89)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Anti-torpedo_Bulge_%28Large%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29"
 	},
 	["74"] = {
 		["id"] = 74,
@@ -10053,8 +9989,7 @@ k.EquipUpdateTb = {
 			"満潮改二(Lv77)",
 			"山城改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%8E%A2%E7%85%A7%E7%81%AF",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Searchlight"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%8E%A2%E7%85%A7%E7%81%AF"
 	},
 	["75"] = {
 		["id"] = 75,
@@ -10102,8 +10037,7 @@ k.EquipUpdateTb = {
 			"春雨改(Lv30)",
 			"峯雲改(Lv38)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%83%89%E3%83%A9%E3%83%A0%E7%BC%B6%28%E8%BC%B8%E9%80%81%E7%94%A8%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Drum_Canister_%28Transport_Use%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%83%89%E3%83%A9%E3%83%A0%E7%BC%B6%28%E8%BC%B8%E9%80%81%E7%94%A8%29"
 	},
 	["76"] = {
 		["id"] = 76,
@@ -10347,8 +10281,7 @@ k.EquipUpdateTb = {
 			"Bismarck",
 			"zwei(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/38cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["77"] = {
 		["id"] = 77,
@@ -10392,8 +10325,7 @@ k.EquipUpdateTb = {
 			"Bismarck(Lv1)",
 			"Bismarck改(Lv30)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15cm%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15cm_Twin_Secondary_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15cm%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2"
 	},
 	["78"] = {
 		["id"] = 78,
@@ -10504,8 +10436,7 @@ k.EquipUpdateTb = {
 			"Z3",
 			"zwei(Lv70)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Single_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E7%A0%B2"
 	},
 	["79"] = {
 		["id"] = 79,
@@ -10581,8 +10512,7 @@ k.EquipUpdateTb = {
 			"筑摩改二(Lv70)",
 			"日向改二(Lv90)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_%28634_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29"
 	},
 	["80"] = {
 		["id"] = 80,
@@ -10657,8 +10587,7 @@ k.EquipUpdateTb = {
 			"扶桑改二(Lv80)",
 			"山城改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_Model_12"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B"
 	},
 	["81"] = {
 		["id"] = 81,
@@ -10732,8 +10661,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_Model_12_%28634_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29"
 	},
 	["82"] = {
 		["id"] = 82,
@@ -10801,8 +10729,7 @@ k.EquipUpdateTb = {
 			"大鷹改(Lv60)",
 			"神鷹改(Lv60)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28931_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%29"
 	},
 	["83"] = {
 		["id"] = 83,
@@ -10842,8 +10769,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"大鷹改二(Lv85)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_%28931_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%29"
 	},
 	["84"] = {
 		["id"] = 84,
@@ -11065,8 +10991,7 @@ k.EquipUpdateTb = {
 			"Z1",
 			"zwei(Lv70)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/2cm%20%E5%9B%9B%E9%80%A3%E8%A3%85FlaK%2038",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/2cm_Flakvierling_38"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/2cm%20%E5%9B%9B%E9%80%A3%E8%A3%85FlaK%2038"
 	},
 	["85"] = {
 		["id"] = 85,
@@ -11117,8 +11042,7 @@ k.EquipUpdateTb = {
 			"Bismarck",
 			"drei(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/3.7cm%20FlaK%20M42",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/3.7cm_FlaK_M42"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/3.7cm%20FlaK%20M42"
 	},
 	["86"] = {
 		["id"] = 86,
@@ -11151,8 +11075,7 @@ k.EquipUpdateTb = {
 			"明石(Lv1)",
 			"明石改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%89%87%E4%BF%AE%E7%90%86%E6%96%BD%E8%A8%AD",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ship_Repair_Facility"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%89%87%E4%BF%AE%E7%90%86%E6%96%BD%E8%A8%AD"
 	},
 	["87"] = {
 		["id"] = 87,
@@ -11214,8 +11137,7 @@ k.EquipUpdateTb = {
 			"天津風改(Lv20)",
 			"武蔵改二(Lv89)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%96%B0%E5%9E%8B%E9%AB%98%E6%B8%A9%E9%AB%98%E5%9C%A7%E7%BC%B6",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/New_Model_High_Temperature_High_Pressure_Boiler"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%96%B0%E5%9E%8B%E9%AB%98%E6%B8%A9%E9%AB%98%E5%9C%A7%E7%BC%B6"
 	},
 	["88"] = {
 		["id"] = 88,
@@ -11340,8 +11262,7 @@ k.EquipUpdateTb = {
 			"鳥海改二(Lv65)",
 			"白露改二(Lv77)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar_Kai_4"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B"
 	},
 	["89"] = {
 		["id"] = 89,
@@ -11514,8 +11435,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"比叡改二丙(Lv90)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_21_Air_Radar_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9"
 	},
 	["90"] = {
 		["id"] = 90,
@@ -11710,8 +11630,7 @@ k.EquipUpdateTb = {
 			"妙高改二(Lv70)",
 			"摩耶改二(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%282%E5%8F%B7%29%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/20.3cm_%28No.2%29_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%282%E5%8F%B7%29%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["91"] = {
 		["id"] = 91,
@@ -11988,8 +11907,7 @@ k.EquipUpdateTb = {
 			"曙改二(Lv82)",
 			"天龍改二(Lv84)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_High-angle_Gun_Mount_%28Late_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29"
 	},
 	["92"] = {
 		["id"] = 92,
@@ -12207,8 +12125,7 @@ k.EquipUpdateTb = {
 			"大鯨(Lv1)",
 			"春雨(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%AF%98%E5%BC%8F40mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bi_Type_40mm_Twin_Autocannon_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%AF%98%E5%BC%8F40mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83"
 	},
 	["93"] = {
 		["id"] = 93,
@@ -12274,8 +12191,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"飛龍改二(Lv77)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E5%8F%8B%E6%B0%B8%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Tomonaga_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E5%8F%8B%E6%B0%B8%E9%9A%8A%29"
 	},
 	["94"] = {
 		["id"] = 94,
@@ -12341,8 +12257,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%8F%8B%E6%B0%B8%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Tomonaga_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%8F%8B%E6%B0%B8%E9%9A%8A%29"
 	},
 	["95"] = {
 		["id"] = 95,
@@ -12371,8 +12286,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A653cm%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%288%E9%96%80%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Submarine_53cm_Bow_Torpedo_Mount_%288_tubes%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A653cm%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%288%E9%96%80%29"
 	},
 	["96"] = {
 		["id"] = 96,
@@ -12427,8 +12341,7 @@ k.EquipUpdateTb = {
 			"飛龍改二(Lv77)",
 			"蒼龍改二(Lv78)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_21_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["97"] = {
 		["id"] = 97,
@@ -12468,8 +12381,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"飛龍改二(Lv77)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["98"] = {
 		["id"] = 98,
@@ -12535,8 +12447,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"蒼龍改二(Lv78)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["99"] = {
 		["id"] = 99,
@@ -12602,8 +12513,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"蒼龍改二(Lv78)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber_%28Egusa_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29"
 	},
 	["100"] = {
 		["id"] = 100,
@@ -12669,8 +12579,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_%28Egusa_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29"
 	},
 	["101"] = {
 		["id"] = 101,
@@ -12713,8 +12622,7 @@ k.EquipUpdateTb = {
 			"綾波改二(Lv70)",
 			"江風改二(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%85%A7%E6%98%8E%E5%BC%BE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Star_Shell"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%85%A7%E6%98%8E%E5%BC%BE"
 	},
 	["102"] = {
 		["id"] = 102,
@@ -12802,8 +12710,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"川内改二(Lv60)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AB%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E5%A4%9C%E5%81%B5%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_98_Reconnaissance_Seaplane_%28Night_Recon%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AB%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E5%A4%9C%E5%81%B5%29"
 	},
 	["103"] = {
 		["id"] = 103,
@@ -13044,8 +12951,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD35.6cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_35.6cm_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD35.6cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["104"] = {
 		["id"] = 104,
@@ -13286,8 +13192,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"榛名改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%28%E3%83%80%E3%82%BA%E3%83%AB%E8%BF%B7%E5%BD%A9%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/35.6cm_Twin_Gun_Mount_%28Dazzle_Camouflage%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%28%E3%83%80%E3%82%BA%E3%83%AB%E8%BF%B7%E5%BD%A9%29"
 	},
 	["105"] = {
 		["id"] = 105,
@@ -13533,8 +13438,7 @@ k.EquipUpdateTb = {
 			"陸奥改二(Lv89)",
 			"日向改二(Lv90)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_41cm_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["106"] = {
 		["id"] = 106,
@@ -13717,8 +13621,7 @@ k.EquipUpdateTb = {
 			"朝霜改二(Lv77)",
 			"隼鷹改二(Lv80)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_13_Air_Radar_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9"
 	},
 	["107"] = {
 		["id"] = 107,
@@ -13769,8 +13672,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"大淀改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%96%BD%E8%A8%AD",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Fleet_Command_Facility"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%96%BD%E8%A8%AD"
 	},
 	["108"] = {
 		["id"] = 108,
@@ -13818,8 +13720,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%89%A6%E8%BC%89%E6%A9%9F%E6%95%B4%E5%82%99%E5%93%A1",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Skilled_Carrier-based_Aircraft_Maintenance_Personnel"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%89%A6%E8%BC%89%E6%A9%9F%E6%95%B4%E5%82%99%E5%93%A1"
 	},
 	["109"] = {
 		["id"] = 109,
@@ -13875,8 +13776,7 @@ k.EquipUpdateTb = {
 			"天城改(Lv50)",
 			"葛城改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E4%B8%99%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52C_%28601_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E4%B8%99%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29"
 	},
 	["110"] = {
 		["id"] = 110,
@@ -13930,8 +13830,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Reppuu_%28601_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29"
 	},
 	["111"] = {
 		["id"] = 111,
@@ -13972,8 +13871,7 @@ k.EquipUpdateTb = {
 			"雲龍改(Lv50)",
 			"天城改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_%28601_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29"
 	},
 	["112"] = {
 		["id"] = 112,
@@ -14014,8 +13912,7 @@ k.EquipUpdateTb = {
 			"雲龍改(Lv50)",
 			"天城改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_%28601_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29"
 	},
 	["113"] = {
 		["id"] = 113,
@@ -14055,8 +13952,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"葛城改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei_%28601_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29"
 	},
 	["114"] = {
 		["id"] = 114,
@@ -14298,8 +14194,7 @@ k.EquipUpdateTb = {
 			"Bismarck",
 			"drei(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/38cm_Twin_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["115"] = {
 		["id"] = 115,
@@ -14371,8 +14266,7 @@ k.EquipUpdateTb = {
 			"Bismarck",
 			"drei(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ar196%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ar196_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ar196%E6%94%B9"
 	},
 	["116"] = {
 		["id"] = 116,
@@ -14539,8 +14433,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Armor_Piercing_Shell"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE"
 	},
 	["117"] = {
 		["id"] = 117,
@@ -14781,8 +14674,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD46cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_46cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD46cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["118"] = {
 		["id"] = 118,
@@ -14851,8 +14743,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Shiun"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%B2"
 	},
 	["119"] = {
 		["id"] = 119,
@@ -15033,8 +14924,7 @@ k.EquipUpdateTb = {
 			"迅鯨改(Lv45)",
 			"長鯨改(Lv47)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["120"] = {
 		["id"] = 120,
@@ -15298,8 +15188,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"初霜改二(Lv70)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/91%E5%BC%8F%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_91_Anti-Aircraft_Fire_Director"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/91%E5%BC%8F%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE"
 	},
 	["121"] = {
 		["id"] = 121,
@@ -15558,8 +15447,7 @@ k.EquipUpdateTb = {
 			"吹雪改二(Lv70)",
 			"摩耶改二(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/94%E5%BC%8F%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_94_Anti-Aircraft_Fire_Director"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/94%E5%BC%8F%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE"
 	},
 	["122"] = {
 		["id"] = 122,
@@ -15825,8 +15713,7 @@ k.EquipUpdateTb = {
 			"涼月改(Lv55)",
 			"★+4雪風改二(Lv88)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%AB%98%E8%A7%92%E7%A0%B2%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_%2B_Anti-Aircraft_Fire_Director"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%AB%98%E8%A7%92%E7%A0%B2%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE"
 	},
 	["123"] = {
 		["id"] = 123,
@@ -15872,8 +15759,7 @@ k.EquipUpdateTb = {
 			"Prinz",
 			"Eugen改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SKC34%2020.3cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/SKC34_20.3cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SKC34%2020.3cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["124"] = {
 		["id"] = 124,
@@ -15919,8 +15805,7 @@ k.EquipUpdateTb = {
 			"Prinz",
 			"Eugen改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/FuMO25%20%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/FuMO25_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/FuMO25%20%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC"
 	},
 	["125"] = {
 		["id"] = 125,
@@ -16105,8 +15990,7 @@ k.EquipUpdateTb = {
 			"暁改二(Lv70)",
 			"皐月改二(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Triple_%28Oxygen%29_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7"
 	},
 	["126"] = {
 		["id"] = 126,
@@ -16153,8 +16037,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"U-511(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/WG42%20%28Wurfgerat%2042%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/WG42_%28Wurfger%C3%A4t_42%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/WG42%20%28Wurfgerat%2042%29"
 	},
 	["127"] = {
 		["id"] = 127,
@@ -16183,8 +16066,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"呂500(Lv55)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BDFaT%E4%BB%95%E6%A7%98%E4%B9%9D%E4%BA%94%E5%BC%8F%E9%85%B8%E7%B4%A0%E9%AD%9A%E9%9B%B7%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_FaT_Type_95_Oxygen_Torpedo_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BDFaT%E4%BB%95%E6%A7%98%E4%B9%9D%E4%BA%94%E5%BC%8F%E9%85%B8%E7%B4%A0%E9%AD%9A%E9%9B%B7%E6%94%B9"
 	},
 	["128"] = {
 		["id"] = 128,
@@ -16356,8 +16238,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"武蔵改二(Lv89)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD51cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_51cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD51cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["129"] = {
 		["id"] = 129,
@@ -16453,8 +16334,7 @@ k.EquipUpdateTb = {
 			"鳥海改二(Lv65)",
 			"★8高波改二(Lv79)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%A6%8B%E5%BC%B5%E5%93%A1",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Skilled_Lookouts"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%A6%8B%E5%BC%B5%E5%93%A1"
 	},
 	["130"] = {
 		["id"] = 130,
@@ -16498,8 +16378,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%AB%98%E8%A7%92%E7%A0%B2%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_High-angle_Gun_%2B_Anti-Aircraft_Fire_Director"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%AB%98%E8%A7%92%E7%A0%B2%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE"
 	},
 	["131"] = {
 		["id"] = 131,
@@ -16720,8 +16599,7 @@ k.EquipUpdateTb = {
 			"文月改二(Lv77)",
 			"朝霜改二(Lv77)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Triple_Autocannon_Mount_%28Concentrated_Deployment%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99"
 	},
 	["132"] = {
 		["id"] = 132,
@@ -16764,8 +16642,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Passive_Sonar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F"
 	},
 	["133"] = {
 		["id"] = 133,
@@ -17007,8 +16884,7 @@ k.EquipUpdateTb = {
 			"Littorio(Lv1)",
 			"Roma(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/381mm%EF%BC%8F50%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/381mm/50_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/381mm%EF%BC%8F50%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["134"] = {
 		["id"] = 134,
@@ -17183,8 +17059,7 @@ k.EquipUpdateTb = {
 			"Italia(Lv35)",
 			"Roma改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/OTO%20152mm%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/OTO_152mm_Triple_Rapid_Fire_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/OTO%20152mm%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2"
 	},
 	["135"] = {
 		["id"] = 135,
@@ -17441,8 +17316,7 @@ k.EquipUpdateTb = {
 			"Italia(Lv35)",
 			"Roma改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/90mm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/90mm_Single_High-angle_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/90mm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2"
 	},
 	["136"] = {
 		["id"] = 136,
@@ -17511,8 +17385,7 @@ k.EquipUpdateTb = {
 			"Littorio(Lv1)",
 			"Roma(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%83%97%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BC%E5%BC%8F%E6%B0%B4%E4%B8%AD%E9%98%B2%E5%BE%A1%E9%9A%94%E5%A3%81",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Pugliese_Underwater_Protection_Bulkhead"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%83%97%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BC%E5%BC%8F%E6%B0%B4%E4%B8%AD%E9%98%B2%E5%BE%A1%E9%9A%94%E5%A3%81"
 	},
 	["137"] = {
 		["id"] = 137,
@@ -17754,8 +17627,7 @@ k.EquipUpdateTb = {
 			"Italia(Lv35)",
 			"Roma改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/381mm%EF%BC%8F50%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/381mm/50_Triple_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/381mm%EF%BC%8F50%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["138"] = {
 		["id"] = 138,
@@ -17788,8 +17660,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"秋津洲改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E5%A4%A7%E8%89%87",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Large_Flying_Boat"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E5%A4%A7%E8%89%87"
 	},
 	["139"] = {
 		["id"] = 139,
@@ -17960,8 +17831,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"能代改二(Lv85)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15.2cm_Twin_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["140"] = {
 		["id"] = 140,
@@ -18057,8 +17927,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/96%E5%BC%8F150cm%E6%8E%A2%E7%85%A7%E7%81%AF",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_150cm_Searchlight"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/96%E5%BC%8F150cm%E6%8E%A2%E7%85%A7%E7%81%AF"
 	},
 	["141"] = {
 		["id"] = 141,
@@ -18187,8 +18056,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/32%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_32_Surface_Radar_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/32%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9"
 	},
 	["142"] = {
 		["id"] = 142,
@@ -18226,8 +18094,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"武蔵改二(Lv89)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15m%E4%BA%8C%E9%87%8D%E6%B8%AC%E8%B7%9D%E5%84%80%EF%BC%8B21%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15m_Duplex_Rangefinder_%2B_Type_21_Radar_Kai_Ni"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15m%E4%BA%8C%E9%87%8D%E6%B8%AC%E8%B7%9D%E5%84%80%EF%BC%8B21%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C"
 	},
 	["143"] = {
 		["id"] = 143,
@@ -18267,8 +18134,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E6%9D%91%E7%94%B0%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Murata_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E6%9D%91%E7%94%B0%E9%9A%8A%29"
 	},
 	["144"] = {
 		["id"] = 144,
@@ -18334,8 +18200,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E6%9D%91%E7%94%B0%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Murata_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E6%9D%91%E7%94%B0%E9%9A%8A%29"
 	},
 	["145"] = {
 		["id"] = 145,
@@ -18380,8 +18245,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%88%A6%E9%97%98%E7%B3%A7%E9%A3%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Combat_Ration"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%88%A6%E9%97%98%E7%B3%A7%E9%A3%9F"
 	},
 	["146"] = {
 		["id"] = 146,
@@ -18414,8 +18278,7 @@ k.EquipUpdateTb = {
 			"速吸(Lv1)",
 			"速吸改(Lv25)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B4%8B%E4%B8%8A%E8%A3%9C%E7%B5%A6",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Underway_Replenishment"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B4%8B%E4%B8%8A%E8%A3%9C%E7%B5%A6"
 	},
 	["147"] = {
 		["id"] = 147,
@@ -18604,8 +18467,7 @@ k.EquipUpdateTb = {
 			"Maestrale(Lv35)",
 			"Grecale改(Lv35)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/120mm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["148"] = {
 		["id"] = 148,
@@ -18646,8 +18508,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E5%8D%97%E5%B1%B1",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_Nanzan"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E5%8D%97%E5%B1%B1"
 	},
 	["149"] = {
 		["id"] = 149,
@@ -18873,8 +18734,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_4_Passive_Sonar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F"
 	},
 	["150"] = {
 		["id"] = 150,
@@ -18919,8 +18779,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%A7%8B%E5%88%80%E9%AD%9A%E3%81%AE%E7%BC%B6%E8%A9%B0",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Canned_Mackerel"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%A7%8B%E5%88%80%E9%AD%9A%E3%81%AE%E7%BC%B6%E8%A9%B0"
 	},
 	["151"] = {
 		["id"] = 151,
@@ -18995,8 +18854,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%99%AF%E9%9B%B2%28%E8%89%A6%E5%81%B5%E5%9E%8B%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_Keiun_%28Carrier-based_Reconnaissance_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%99%AF%E9%9B%B2%28%E8%89%A6%E5%81%B5%E5%9E%8B%29"
 	},
 	["152"] = {
 		["id"] = 152,
@@ -19050,8 +18908,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_52_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["153"] = {
 		["id"] = 153,
@@ -19105,8 +18962,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E4%B8%99%28%E4%BB%98%E5%B2%A9%E4%BA%95%E5%B0%8F%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52C_%28w/_Iwai_Flight%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E4%B8%99%28%E4%BB%98%E5%B2%A9%E4%BA%95%E5%B0%8F%E9%9A%8A%29"
 	},
 	["154"] = {
 		["id"] = 154,
@@ -19160,8 +19016,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A662%E5%9E%8B%28%E7%88%86%E6%88%A6%EF%BC%8F%E5%B2%A9%E4%BA%95%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_62_%28Fighter-bomber_/_Iwai_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A662%E5%9E%8B%28%E7%88%86%E6%88%A6%EF%BC%8F%E5%B2%A9%E4%BA%95%E9%9A%8A%29"
 	},
 	["155"] = {
 		["id"] = 155,
@@ -19201,8 +19056,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A621%E5%9E%8B%28%E4%BB%98%E5%B2%A9%E6%9C%AC%E5%B0%8F%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_21_%28w/_Iwamoto_Flight%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A621%E5%9E%8B%28%E4%BB%98%E5%B2%A9%E6%9C%AC%E5%B0%8F%E9%9A%8A%29"
 	},
 	["156"] = {
 		["id"] = 156,
@@ -19256,8 +19110,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E7%94%B2%28%E4%BB%98%E5%B2%A9%E6%9C%AC%E5%B0%8F%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52A_%28w/_Iwamoto_Flight%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E7%94%B2%28%E4%BB%98%E5%B2%A9%E6%9C%AC%E5%B0%8F%E9%9A%8A%29"
 	},
 	["157"] = {
 		["id"] = 157,
@@ -19311,8 +19164,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A653%E5%9E%8B%28%E5%B2%A9%E6%9C%AC%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_53_%28Iwamoto_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A653%E5%9E%8B%28%E5%B2%A9%E6%9C%AC%E9%9A%8A%29"
 	},
 	["158"] = {
 		["id"] = 158,
@@ -19353,8 +19205,7 @@ k.EquipUpdateTb = {
 			"Graf",
 			"Zeppelin(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bf109T%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bf_109T_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bf109T%E6%94%B9"
 	},
 	["159"] = {
 		["id"] = 159,
@@ -19395,8 +19246,7 @@ k.EquipUpdateTb = {
 			"Graf",
 			"Zeppelin改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fw190T%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Fw_190T_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fw190T%E6%94%B9"
 	},
 	["160"] = {
 		["id"] = 160,
@@ -19442,8 +19292,7 @@ k.EquipUpdateTb = {
 			"Graf",
 			"Zeppelin改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10.5cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/10.5cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10.5cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["161"] = {
 		["id"] = 161,
@@ -19686,8 +19535,7 @@ k.EquipUpdateTb = {
 			"Iowa(Lv1)",
 			"Iowa改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Triple_Gun_Mount_Mk.7"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.7"
 	},
 	["162"] = {
 		["id"] = 162,
@@ -19863,8 +19711,7 @@ k.EquipUpdateTb = {
 			"Zara",
 			"due(Lv88)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/203mm%EF%BC%8F53%20%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/203mm/53_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/203mm%EF%BC%8F53%20%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["163"] = {
 		["id"] = 163,
@@ -19959,8 +19806,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Zara改(Lv40)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ro.43%E6%B0%B4%E5%81%B5",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ro.43_Reconnaissance_Seaplane"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ro.43%E6%B0%B4%E5%81%B5"
 	},
 	["164"] = {
 		["id"] = 164,
@@ -20026,8 +19872,7 @@ k.EquipUpdateTb = {
 			"Zara",
 			"due(Lv88)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ro.44%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ro.44_Seaplane_Fighter"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ro.44%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F"
 	},
 	["165"] = {
 		["id"] = 165,
@@ -20091,8 +19936,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E6%B0%B4%E6%88%A6%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Seaplane_Fighter_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E6%B0%B4%E6%88%A6%E6%94%B9"
 	},
 	["166"] = {
 		["id"] = 166,
@@ -20282,8 +20126,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%28%E5%85%AB%E4%B9%9D%E5%BC%8F%E4%B8%AD%E6%88%A6%E8%BB%8A%EF%BC%86%E9%99%B8%E6%88%A6%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Daihatsu_Landing_Craft_%28Type_89_Medium_Tank_%26_Landing_Force%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%28%E5%85%AB%E4%B9%9D%E5%BC%8F%E4%B8%AD%E6%88%A6%E8%BB%8A%EF%BC%86%E9%99%B8%E6%88%A6%E9%9A%8A%29"
 	},
 	["167"] = {
 		["id"] = 167,
@@ -20473,8 +20316,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E4%BA%8C%E5%BC%8F%E5%86%85%E7%81%AB%E8%89%87",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Special_Type_2_Amphibious_Landing_Craft"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E4%BA%8C%E5%BC%8F%E5%86%85%E7%81%AB%E8%89%87"
 	},
 	["168"] = {
 		["id"] = 168,
@@ -20536,8 +20378,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E9%99%B8%E6%94%BB",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_Land-based_Attack_Aircraft"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E9%99%B8%E6%94%BB"
 	},
 	["169"] = {
 		["id"] = 169,
@@ -20591,8 +20432,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB"
 	},
 	["170"] = {
 		["id"] = 170,
@@ -20646,8 +20486,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%28%E9%87%8E%E4%B8%AD%E9%9A%8A%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_1_Land-based_Attack_Aircraft_%28Nonaka_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%28%E9%87%8E%E4%B8%AD%E9%9A%8A%29"
 	},
 	["171"] = {
 		["id"] = 171,
@@ -20716,8 +20555,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Iowa改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/OS2U",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/OS2U"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/OS2U"
 	},
 	["172"] = {
 		["id"] = 172,
@@ -20763,8 +20601,7 @@ k.EquipUpdateTb = {
 			"Iowa(Lv1)",
 			"Iowa改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.28%20mod.2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/5inch_Twin_Gun_Mount_Mk.28_mod.2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.28%20mod.2"
 	},
 	["173"] = {
 		["id"] = 173,
@@ -20865,8 +20702,7 @@ k.EquipUpdateTb = {
 			"Gotland",
 			"andra(Lv85)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2040mm%E5%9B%9B%E9%80%A3%E8%A3%85%E6%A9%9F%E9%96%A2%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bofors_40mm_Quadruple_Autocannon_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2040mm%E5%9B%9B%E9%80%A3%E8%A3%85%E6%A9%9F%E9%96%A2%E7%A0%B2"
 	},
 	["174"] = {
 		["id"] = 174,
@@ -21050,8 +20886,7 @@ k.EquipUpdateTb = {
 			"比叡改二丙(Lv90)",
 			"金剛改二丙(Lv92)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/53cm%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/53cm_Twin_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/53cm%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7"
 	},
 	["175"] = {
 		["id"] = 175,
@@ -21078,8 +20913,7 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B7%E9%9B%BB",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Raiden"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B7%E9%9B%BB"
 	},
 	["176"] = {
 		["id"] = 176,
@@ -21120,8 +20954,7 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95"
 	},
 	["177"] = {
 		["id"] = 177,
@@ -21162,8 +20995,7 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95%28%E9%A3%9B%E8%A1%8C%E7%AC%AC244%E6%88%A6%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien_%28244th_Air_Combat_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95%28%E9%A3%9B%E8%A1%8C%E7%AC%AC244%E6%88%A6%E9%9A%8A%29"
 	},
 	["178"] = {
 		["id"] = 178,
@@ -21196,8 +21028,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/PBY-5A%20Catalina",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/PBY-5A_Catalina"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/PBY-5A%20Catalina"
 	},
 	["179"] = {
 		["id"] = 179,
@@ -21371,8 +21202,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD61cm%E5%85%AD%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_61cm_Sextuple_%28Oxygen%29_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD61cm%E5%85%AD%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7"
 	},
 	["180"] = {
 		["id"] = 180,
@@ -21397,8 +21227,33 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%BA%8C%E4%BA%8C%E5%9E%8B%E7%94%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft_Model_22A"
+		["item_remodel"] = {
+			["雷撃"] = {
+				"+0.70",
+				"+0.98",
+				"+1.21",
+				"+1.40",
+				"+1.56",
+				"+1.71",
+				"+1.85",
+				"+1.97",
+				"+2.10",
+				"+2.21"
+			},
+			["対空"] = {
+				"+0.50",
+				"+0.70",
+				"+0.86",
+				"+1.00",
+				"+1.11",
+				"+1.22",
+				"+1.32",
+				"+1.41",
+				"+1.50",
+				"+1.58"
+			}
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%BA%8C%E4%BA%8C%E5%9E%8B%E7%94%B2"
 	},
 	["181"] = {
 		["id"] = 181,
@@ -21460,8 +21315,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A632%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_32"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A632%E5%9E%8B"
 	},
 	["182"] = {
 		["id"] = 182,
@@ -21515,8 +21369,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A632%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_32_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A632%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["183"] = {
 		["id"] = 183,
@@ -21758,8 +21611,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.7%EF%BC%8BGFCS",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Triple_Gun_Mount_Mk.7_%2B_GFCS"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.7%EF%BC%8BGFCS"
 	},
 	["184"] = {
 		["id"] = 184,
@@ -21814,8 +21666,7 @@ k.EquipUpdateTb = {
 			"Aquila(Lv1)",
 			"Aquila改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20OR%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Re.2001_OR_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20OR%E6%94%B9"
 	},
 	["185"] = {
 		["id"] = 185,
@@ -21856,8 +21707,7 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95%E4%B8%80%E5%9E%8B%E4%B8%81",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien_Model_1D"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95%E4%B8%80%E5%9E%8B%E4%B8%81"
 	},
 	["186"] = {
 		["id"] = 186,
@@ -21896,23 +21746,22 @@ k.EquipUpdateTb = {
 				"+2.21"
 			},
 			["対空"] = {
-				"+0.25",
 				"+0.50",
-				"+0.75",
+				"+0.70",
+				"+0.86",
 				"+1.00",
-				"+1.25",
+				"+1.11",
+				"+1.22",
+				"+1.32",
+				"+1.41",
 				"+1.50",
-				"+1.75",
-				"+2.00",
-				"+2.25",
-				"+2.50"
+				"+1.58"
 			}
 		},
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%B8%89%E5%9B%9B%E5%9E%8B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_1_Land-based_Attack_Aircraft_Model_34"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%B8%89%E5%9B%9B%E5%9E%8B"
 	},
 	["187"] = {
 		["id"] = 187,
@@ -21966,8 +21815,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Ginga"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3"
 	},
 	["188"] = {
 		["id"] = 188,
@@ -22007,8 +21855,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Aquila改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20G%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Re.2001_G_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20G%E6%94%B9"
 	},
 	["189"] = {
 		["id"] = 189,
@@ -22048,8 +21895,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Re.2005%20%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Re.2005_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Re.2005%20%E6%94%B9"
 	},
 	["190"] = {
 		["id"] = 190,
@@ -22291,8 +22137,7 @@ k.EquipUpdateTb = {
 			"Warspite(Lv1)",
 			"Warspite改(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38.1cm%20Mk.I%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/38.1cm_Mk.I_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38.1cm%20Mk.I%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["191"] = {
 		["id"] = 191,
@@ -22391,8 +22236,7 @@ k.EquipUpdateTb = {
 			"Royal改(Lv45)",
 			"Warspite改(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/QF%202%E3%83%9D%E3%83%B3%E3%83%898%E9%80%A3%E8%A3%85%E3%83%9D%E3%83%B3%E3%83%9D%E3%83%B3%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/QF_2-pounder_Octuple_Pom-pom_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/QF%202%E3%83%9D%E3%83%B3%E3%83%898%E9%80%A3%E8%A3%85%E3%83%9D%E3%83%B3%E3%83%9D%E3%83%B3%E7%A0%B2"
 	},
 	["192"] = {
 		["id"] = 192,
@@ -22633,8 +22477,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38.1cm%20Mk.I%EF%BC%8FN%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/38.1cm_Mk.I/N_Twin_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38.1cm%20Mk.I%EF%BC%8FN%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["193"] = {
 		["id"] = 193,
@@ -22829,8 +22672,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
-		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/Toku_Daihatsu_Landing_Craft"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87"
 	},
 	["194"] = {
 		["id"] = 194,
@@ -22916,8 +22758,7 @@ k.EquipUpdateTb = {
 			"Commandant",
 			"Teste改(Lv40)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Late%20298B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Lat%C3%A9_298B"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Late%20298B"
 	},
 	["195"] = {
 		["id"] = 195,
@@ -22985,8 +22826,7 @@ k.EquipUpdateTb = {
 			"Saratoga改(Lv40)",
 			"Hornet改(Lv40)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SBD",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/SBD"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SBD"
 	},
 	["196"] = {
 		["id"] = 196,
@@ -23053,8 +22893,7 @@ k.EquipUpdateTb = {
 			"Saratoga(Lv1)",
 			"Hornet(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBD",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/TBD"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBD"
 	},
 	["197"] = {
 		["id"] = 197,
@@ -23118,8 +22957,7 @@ k.EquipUpdateTb = {
 			"Saratoga(Lv1)",
 			"Hornet(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4F-3",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F4F-3"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4F-3"
 	},
 	["198"] = {
 		["id"] = 198,
@@ -23174,8 +23012,7 @@ k.EquipUpdateTb = {
 			"Saratoga改(Lv40)",
 			"Hornet改(Lv40)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4F-4",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F4F-4"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4F-4"
 	},
 	["199"] = {
 		["id"] = 199,
@@ -23210,8 +23047,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%99%B4%E5%BC%8F%E6%99%AF%E9%9B%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Jet_Keiun_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%99%B4%E5%BC%8F%E6%99%AF%E9%9B%B2%E6%94%B9"
 	},
 	["200"] = {
 		["id"] = 200,
@@ -23246,8 +23082,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%A9%98%E8%8A%B1%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Kikka_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%A9%98%E8%8A%B1%E6%94%B9"
 	},
 	["201"] = {
 		["id"] = 201,
@@ -23289,8 +23124,7 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%B8%80%E4%B8%80%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Model_11"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%B8%80%E4%B8%80%E5%9E%8B"
 	},
 	["202"] = {
 		["id"] = 202,
@@ -23318,8 +23152,7 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%BA%8C%E4%B8%80%E5%9E%8B%20%E7%B4%AB%E9%9B%BB%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Model_21_Shiden_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%BA%8C%E4%B8%80%E5%9E%8B%20%E7%B4%AB%E9%9B%BB%E6%94%B9"
 	},
 	["203"] = {
 		["id"] = 203,
@@ -23433,8 +23266,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E6%9C%AC%E6%96%B0%E8%A8%AD%E8%A8%88%20%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E4%B8%AD%E5%9E%8B%E8%89%A6%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/New_Kanhon_Design_Anti-torpedo_Bulge_%28Medium%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E6%9C%AC%E6%96%B0%E8%A8%AD%E8%A8%88%20%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E4%B8%AD%E5%9E%8B%E8%89%A6%29"
 	},
 	["204"] = {
 		["id"] = 204,
@@ -23514,8 +23346,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E6%9C%AC%E6%96%B0%E8%A8%AD%E8%A8%88%20%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/New_Kanhon_Design_Anti-torpedo_Bulge_%28Large%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E6%9C%AC%E6%96%B0%E8%A8%AD%E8%A8%88%20%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29"
 	},
 	["205"] = {
 		["id"] = 205,
@@ -23569,8 +23400,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Intrepid(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F6F-3"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3"
 	},
 	["206"] = {
 		["id"] = 206,
@@ -23624,8 +23454,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-5",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F6F-5"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-5"
 	},
 	["207"] = {
 		["id"] = 207,
@@ -23708,8 +23537,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_%28631_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E4%B8%80%E7%A9%BA%29"
 	},
 	["208"] = {
 		["id"] = 208,
@@ -23757,8 +23585,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%99%B4%E5%B5%90%28%E5%85%AD%E4%B8%89%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Seiran_%28631_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%99%B4%E5%B5%90%28%E5%85%AD%E4%B8%89%E4%B8%80%E7%A9%BA%29"
 	},
 	["209"] = {
 		["id"] = 209,
@@ -23797,8 +23624,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E8%BC%B8%E9%80%81%E7%94%A8%E5%88%86%E8%A7%A3%E6%B8%88%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Saiun_%28Disassembled_for_Transport%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E8%BC%B8%E9%80%81%E7%94%A8%E5%88%86%E8%A7%A3%E6%B8%88%29"
 	},
 	["210"] = {
 		["id"] = 210,
@@ -23846,8 +23672,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E6%B0%B4%E9%98%B2%E5%BC%8F%E6%9C%9B%E9%81%A0%E9%8F%A1",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Submarine_Radar_%26_Waterproof_Telescope"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E6%B0%B4%E9%98%B2%E5%BC%8F%E6%9C%9B%E9%81%A0%E9%8F%A1"
 	},
 	["211"] = {
 		["id"] = 211,
@@ -23880,8 +23705,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"伊13改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2%28E27%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Submarine_Radar_%26_Passive_Radiolocator_%28E27%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2%28E27%29"
 	},
 	["212"] = {
 		["id"] = 212,
@@ -23921,8 +23745,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E6%9D%B1%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%B3%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Saiun_%28Eastern_Caroline_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E6%9D%B1%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%B3%E7%A9%BA%29"
 	},
 	["213"] = {
 		["id"] = 213,
@@ -23951,8 +23774,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%286%E9%96%80%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Late_Model_Bow_Torpedo_Mount_%286_tubes%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%286%E9%96%80%29"
 	},
 	["214"] = {
 		["id"] = 214,
@@ -23981,8 +23803,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%81%B4%E9%9F%B3%E5%93%A1%EF%BC%8B%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%286%E9%96%80%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Skilled_Sonar_Personnel_%2B_Late_Model_Bow_Torpedo_Mount_%286_tubes%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%81%B4%E9%9F%B3%E5%93%A1%EF%BC%8B%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%286%E9%96%80%29"
 	},
 	["215"] = {
 		["id"] = 215,
@@ -24046,8 +23867,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ro.44%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9Fbis",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ro.44_Seaplane_Fighter_bis"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ro.44%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9Fbis"
 	},
 	["216"] = {
 		["id"] = 216,
@@ -24111,8 +23931,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E6%B0%B4%E6%88%A6%E6%94%B9%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Seaplane_Fighter_Kai_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E6%B0%B4%E6%88%A6%E6%94%B9%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["217"] = {
 		["id"] = 217,
@@ -24176,8 +23995,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BC%B7%E9%A2%A8%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Kyoufuu_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BC%B7%E9%A2%A8%E6%94%B9"
 	},
 	["218"] = {
 		["id"] = 218,
@@ -24218,8 +24036,7 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E6%88%A6%20%E7%96%BE%E9%A2%A8",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_4_Fighter_Hayate"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E6%88%A6%20%E7%96%BE%E9%A2%A8"
 	},
 	["219"] = {
 		["id"] = 219,
@@ -24273,8 +24090,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A663%E5%9E%8B%28%E7%88%86%E6%88%A6%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_63_%28Fighter-bomber%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A663%E5%9E%8B%28%E7%88%86%E6%88%A6%29"
 	},
 	["220"] = {
 		["id"] = 220,
@@ -24545,8 +24361,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8cm%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%EF%BC%8B%E5%A2%97%E8%A8%AD%E6%A9%9F%E9%8A%83",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/8cm_High-angle_Gun_Kai_%2B_Extra_Machine_Guns"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8cm%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%EF%BC%8B%E5%A2%97%E8%A8%AD%E6%A9%9F%E9%8A%83"
 	},
 	["221"] = {
 		["id"] = 221,
@@ -24587,8 +24402,7 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_II"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B"
 	},
 	["222"] = {
 		["id"] = 222,
@@ -24629,8 +24443,7 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_III_A"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2"
 	},
 	["223"] = {
 		["id"] = 223,
@@ -24657,8 +24470,7 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2%2854%E6%88%A6%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_III_A_%2854th_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2%2854%E6%88%A6%E9%9A%8A%29"
 	},
 	["224"] = {
 		["id"] = 224,
@@ -24700,8 +24512,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%88%86%E8%A3%85%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E6%94%B9%2865%E6%88%A6%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bomb-carrying_Type_1_Fighter_Hayabusa_Model_III_Kai_%2865th_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%88%86%E8%A3%85%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E6%94%B9%2865%E6%88%A6%E9%9A%8A%29"
 	},
 	["225"] = {
 		["id"] = 225,
@@ -24728,8 +24539,7 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B%2864%E6%88%A6%E9%9A%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_II_%2864th_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B%2864%E6%88%A6%E9%9A%8A%29"
 	},
 	["226"] = {
 		["id"] = 226,
@@ -24844,8 +24654,7 @@ k.EquipUpdateTb = {
 			"谷風丁改(Lv70)",
 			"★+4白露改二(Lv77)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%BA%94%E5%BC%8F%E7%88%86%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_95_Depth_Charge"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%BA%94%E5%BC%8F%E7%88%86%E9%9B%B7"
 	},
 	["227"] = {
 		["id"] = 227,
@@ -24904,8 +24713,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"★+7秋雲改二(Lv74)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Depth_Charge"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7"
 	},
 	["228"] = {
 		["id"] = 228,
@@ -24960,8 +24768,7 @@ k.EquipUpdateTb = {
 			"春日丸(Lv1)",
 			"大鷹(Lv30)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E8%89%A6%E6%88%A6%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_Fighter_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E8%89%A6%E6%88%A6%E6%94%B9"
 	},
 	["229"] = {
 		["id"] = 229,
@@ -25234,8 +25041,7 @@ k.EquipUpdateTb = {
 			"由良改二(Lv77)",
 			"天龍改二(Lv84)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Single_High-angle_Gun_Mount_%28Late_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29"
 	},
 	["230"] = {
 		["id"] = 230,
@@ -25254,8 +25060,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%EF%BC%8B%E6%88%A6%E8%BB%8A%E7%AC%AC11%E9%80%A3%E9%9A%8A",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Toku_Daihatsu_Landing_Craft_%2B_11th_Tank_Regiment"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%EF%BC%8B%E6%88%A6%E8%BB%8A%E7%AC%AC11%E9%80%A3%E9%9A%8A"
 	},
 	["231"] = {
 		["id"] = 231,
@@ -25497,8 +25302,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Гангут(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/30.5cm_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["232"] = {
 		["id"] = 232,
@@ -25743,8 +25547,7 @@ k.EquipUpdateTb = {
 			"Гангут",
 			"два(Lv75)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/30.5cm_Triple_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["233"] = {
 		["id"] = 233,
@@ -25785,8 +25588,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Intrepid改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4U-1D",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F4U-1D"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4U-1D"
 	},
 	["234"] = {
 		["id"] = 234,
@@ -26025,8 +25827,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15.5cm_Triple_Secondary_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2%E6%94%B9"
 	},
 	["235"] = {
 		["id"] = 235,
@@ -26211,8 +26012,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15.5cm_Triple_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["236"] = {
 		["id"] = 236,
@@ -26454,8 +26254,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/41cm_Triple_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["237"] = {
 		["id"] = 237,
@@ -26529,8 +26328,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_%28634_Air_Group/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["238"] = {
 		["id"] = 238,
@@ -26617,8 +26415,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"由良改二(Lv77)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F11%E5%9E%8B%E4%B9%99",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane_Model_11B"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F11%E5%9E%8B%E4%B9%99"
 	},
 	["239"] = {
 		["id"] = 239,
@@ -26661,8 +26458,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F11%E5%9E%8B%E4%B9%99%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane_Model_11B_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F11%E5%9E%8B%E4%B9%99%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["240"] = {
 		["id"] = 240,
@@ -26700,8 +26496,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B%28%E5%BE%8C%E6%9C%9F%E8%AA%BF%E6%95%B4%E5%9E%8B%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar_Kai_4_%28Calibrated_Late_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B%28%E5%BE%8C%E6%9C%9F%E8%AA%BF%E6%95%B4%E5%9E%8B%29"
 	},
 	["241"] = {
 		["id"] = 241,
@@ -26746,8 +26541,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%88%A6%E9%97%98%E7%B3%A7%E9%A3%9F%28%E7%89%B9%E5%88%A5%E3%81%AA%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Combat_Ration_%28Special_Onigiri%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%88%A6%E9%97%98%E7%B3%A7%E9%A3%9F%28%E7%89%B9%E5%88%A5%E3%81%AA%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%29"
 	},
 	["242"] = {
 		["id"] = 242,
@@ -26825,8 +26619,7 @@ k.EquipUpdateTb = {
 			"Ark",
 			"Royal改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish"
 	},
 	["243"] = {
 		["id"] = 243,
@@ -26892,8 +26685,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.II%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish_Mk.II_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.II%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["244"] = {
 		["id"] = 244,
@@ -26933,8 +26725,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish_Mk.III_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["245"] = {
 		["id"] = 245,
@@ -27175,8 +26966,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Richelieu(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/38cm_Quadruple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["246"] = {
 		["id"] = 246,
@@ -27418,8 +27208,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Richelieu改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/38cm_Quadruple_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["247"] = {
 		["id"] = 247,
@@ -27591,8 +27380,7 @@ k.EquipUpdateTb = {
 			"Richelieu(Lv1)",
 			"Richelieu改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/15.2cm_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["248"] = {
 		["id"] = 248,
@@ -27659,8 +27447,7 @@ k.EquipUpdateTb = {
 			"Ark",
 			"Royal(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Skua",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Skua"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Skua"
 	},
 	["249"] = {
 		["id"] = 249,
@@ -27724,8 +27511,7 @@ k.EquipUpdateTb = {
 			"Ark",
 			"Royal改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fulmar",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Fulmar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fulmar"
 	},
 	["250"] = {
 		["id"] = 250,
@@ -27777,8 +27563,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.I",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Spitfire_Mk.I"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.I"
 	},
 	["251"] = {
 		["id"] = 251,
@@ -27819,8 +27604,7 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.V",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Spitfire_Mk.V"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.V"
 	},
 	["252"] = {
 		["id"] = 252,
@@ -27861,8 +27645,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Seafire%20Mk.III%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Seafire_Mk.III_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Seafire%20Mk.III%E6%94%B9"
 	},
 	["253"] = {
 		["id"] = 253,
@@ -27889,8 +27672,7 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.IX%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Spitfire_Mk.IX_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.IX%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["254"] = {
 		["id"] = 254,
@@ -27932,8 +27714,7 @@ k.EquipUpdateTb = {
 			"Bay",
 			"Mk.II(Lv73)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3N",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F6F-3N"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3N"
 	},
 	["255"] = {
 		["id"] = 255,
@@ -27973,8 +27754,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-5N",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/F6F-5N"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-5N"
 	},
 	["256"] = {
 		["id"] = 256,
@@ -28016,8 +27796,7 @@ k.EquipUpdateTb = {
 			"Gambier",
 			"Bay改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBF",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/TBF"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBF"
 	},
 	["257"] = {
 		["id"] = 257,
@@ -28057,8 +27836,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBM-3D",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/TBM-3D"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBM-3D"
 	},
 	["258"] = {
 		["id"] = 258,
@@ -28109,8 +27887,7 @@ k.EquipUpdateTb = {
 			"Bay",
 			"Mk.II(Lv73)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Night_Battle_Operation_Aviation_Personnel"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1"
 	},
 	["259"] = {
 		["id"] = 259,
@@ -28159,8 +27936,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1%EF%BC%8B%E7%86%9F%E7%B7%B4%E7%94%B2%E6%9D%BF%E5%93%A1",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Night_Battle_Operation_Aviation_Personnel_%2B_Skilled_Deck_Hands"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1%EF%BC%8B%E7%86%9F%E7%B7%B4%E7%94%B2%E6%9D%BF%E5%93%A1"
 	},
 	["260"] = {
 		["id"] = 260,
@@ -28213,8 +27989,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Jervis改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Type124%20ASDIC",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type124_ASDIC"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Type124%20ASDIC"
 	},
 	["261"] = {
 		["id"] = 261,
@@ -28267,8 +28042,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Janus改(Lv55)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Type144%EF%BC%8F147%20ASDIC",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type144/147_ASDIC"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Type144%EF%BC%8F147%20ASDIC"
 	},
 	["262"] = {
 		["id"] = 262,
@@ -28321,8 +28095,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/HF%EF%BC%8FDF%20%EF%BC%8B%20Type144%EF%BC%8F147%20ASDIC",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/HF/DF_%2B_Type144/147_ASDIC"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/HF%EF%BC%8FDF%20%EF%BC%8B%20Type144%EF%BC%8F147%20ASDIC"
 	},
 	["263"] = {
 		["id"] = 263,
@@ -28350,8 +28123,7 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%28%E4%B8%89%E5%9B%9B%E4%B8%89%E7%A9%BA%29%20%E6%88%A6%E9%97%98301",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Kai_%28343_Air_Group%29_301st_Fighter_Squadron"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%28%E4%B8%89%E5%9B%9B%E4%B8%89%E7%A9%BA%29%20%E6%88%A6%E9%97%98301"
 	},
 	["266"] = {
 		["id"] = 266,
@@ -28532,8 +28304,7 @@ k.EquipUpdateTb = {
 			"満潮改二(Lv77)",
 			"白露改二(Lv77)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2C%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_C_Kai_2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2C%E5%9E%8B%E6%94%B9%E4%BA%8C"
 	},
 	["267"] = {
 		["id"] = 267,
@@ -28713,8 +28484,7 @@ k.EquipUpdateTb = {
 			"沖波改二(Lv79)",
 			"高波改二(Lv79)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%BA%8C"
 	},
 	["268"] = {
 		["id"] = 268,
@@ -28814,8 +28584,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"多摩改二(Lv70)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%8C%97%E6%96%B9%E8%BF%B7%E5%BD%A9%28%EF%BC%8B%E5%8C%97%E6%96%B9%E8%A3%85%E5%82%99%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Arctic_Camouflage_%28%2B_Arctic_Equipment%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%8C%97%E6%96%B9%E8%BF%B7%E5%BD%A9%28%EF%BC%8B%E5%8C%97%E6%96%B9%E8%A3%85%E5%82%99%29"
 	},
 	["269"] = {
 		["id"] = 269,
@@ -28840,8 +28609,7 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%9D%B1%E6%B5%B7",
-		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/Prototype_Toukai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%9D%B1%E6%B5%B7"
 	},
 	["270"] = {
 		["id"] = 270,
@@ -28869,8 +28637,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%9D%B1%E6%B5%B7%28%E4%B9%9D%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Toukai_%28901_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%9D%B1%E6%B5%B7%28%E4%B9%9D%E3%80%87%E4%B8%80%E7%A9%BA%29"
 	},
 	["271"] = {
 		["id"] = 271,
@@ -28937,8 +28704,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%E5%9B%9B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Kai_4"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%E5%9B%9B"
 	},
 	["272"] = {
 		["id"] = 272,
@@ -28989,8 +28755,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%81%8A%E6%92%83%E9%83%A8%E9%9A%8A%20%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Striking_Force_Fleet_Command_Facility"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%81%8A%E6%92%83%E9%83%A8%E9%9A%8A%20%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8"
 	},
 	["273"] = {
 		["id"] = 273,
@@ -29030,8 +28795,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E5%81%B5%E5%9B%9B%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Saiun_%284th_Recon_Squad%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E5%81%B5%E5%9B%9B%29"
 	},
 	["274"] = {
 		["id"] = 274,
@@ -29269,8 +29033,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12cm_30-tube_Rocket_Launcher_Kai_Ni"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2%E6%94%B9%E4%BA%8C"
 	},
 	["275"] = {
 		["id"] = 275,
@@ -29534,8 +29297,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"武蔵改二(Lv89)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%EF%BC%8B%E5%A2%97%E8%A8%AD%E6%A9%9F%E9%8A%83",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_Kai_%2B_Additional_Machine_Guns"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%EF%BC%8B%E5%A2%97%E8%A8%AD%E6%A9%9F%E9%8A%83"
 	},
 	["276"] = {
 		["id"] = 276,
@@ -29777,8 +29539,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/46cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/46cm_Triple_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/46cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["277"] = {
 		["id"] = 277,
@@ -29851,8 +29612,7 @@ k.EquipUpdateTb = {
 			"Bay",
 			"Mk.II(Lv73)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/FM-2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/FM-2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/FM-2"
 	},
 	["278"] = {
 		["id"] = 278,
@@ -30027,8 +29787,7 @@ k.EquipUpdateTb = {
 			"Bay",
 			"Mk.II(Lv73)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SK%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/SK_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SK%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC"
 	},
 	["279"] = {
 		["id"] = 279,
@@ -30111,8 +29870,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SK%EF%BC%8BSG%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/SK_%2B_SG_Radar"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SK%EF%BC%8BSG%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC"
 	},
 	["280"] = {
 		["id"] = 280,
@@ -30288,8 +30046,7 @@ k.EquipUpdateTb = {
 			"Jervis改(Lv45)",
 			"Janus改(Lv55)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/QF%204.7inch%E7%A0%B2%20Mk.XII%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/QF_4.7inch_Gun_Mk.XII_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/QF%204.7inch%E7%A0%B2%20Mk.XII%E6%94%B9"
 	},
 	["281"] = {
 		["id"] = 281,
@@ -30462,8 +30219,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/51cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/51cm_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/51cm%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["282"] = {
 		["id"] = 282,
@@ -30638,8 +30394,7 @@ k.EquipUpdateTb = {
 			"Ташкент(Lv1)",
 			"Ташкент改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/130mm%20B-13%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/130mm_B-13_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/130mm%20B-13%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["283"] = {
 		["id"] = 283,
@@ -30813,8 +30568,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Ташкент改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/533mm_Triple_Torpedo_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7"
 	},
 	["284"] = {
 		["id"] = 284,
@@ -31078,8 +30832,7 @@ k.EquipUpdateTb = {
 			"Samuel",
 			"B.Roberts改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30"
 	},
 	["285"] = {
 		["id"] = 285,
@@ -31254,8 +31007,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7%E5%BE%8C%E6%9C%9F%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Triple_%28Oxygen%29_Torpedo_Mount_Late_Model"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7%E5%BE%8C%E6%9C%9F%E5%9E%8B"
 	},
 	["286"] = {
 		["id"] = 286,
@@ -31376,8 +31128,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7%E5%BE%8C%E6%9C%9F%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Quadruple_%28Oxygen%29_Torpedo_Mount_Late_Model"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7%E5%BE%8C%E6%9C%9F%E5%9E%8B"
 	},
 	["287"] = {
 		["id"] = 287,
@@ -31422,8 +31173,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Depth_Charge_Projector_%28Concentrated_Deployment%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99"
 	},
 	["288"] = {
 		["id"] = 288,
@@ -31468,8 +31218,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD15cm9%E9%80%A3%E8%A3%85%E5%AF%BE%E6%BD%9C%E5%99%B4%E9%80%B2%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_15cm_9-tube_ASW_Rocket_Launcher"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD15cm9%E9%80%A3%E8%A3%85%E5%AF%BE%E6%BD%9C%E5%99%B4%E9%80%B2%E7%A0%B2"
 	},
 	["289"] = {
 		["id"] = 289,
@@ -31620,8 +31369,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%28%E3%83%80%E3%82%BA%E3%83%AB%E8%BF%B7%E5%BD%A9%E4%BB%95%E6%A7%98%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/35.6cm_Triple_Gun_Mount_Kai_%28Dazzle_Camouflage%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%28%E3%83%80%E3%82%BA%E3%83%AB%E8%BF%B7%E5%BD%A9%E4%BB%95%E6%A7%98%29"
 	},
 	["290"] = {
 		["id"] = 290,
@@ -31862,8 +31610,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/41cm_Triple_Gun_Mount_Kai_Ni"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C"
 	},
 	["291"] = {
 		["id"] = 291,
@@ -31904,8 +31651,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"伊勢改二(Lv88)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_Model_22_%28634_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29"
 	},
 	["292"] = {
 		["id"] = 292,
@@ -31946,8 +31692,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_Model_22_%28634_Air_Group/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["293"] = {
 		["id"] = 293,
@@ -32121,8 +31866,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12cm_Single_Gun_Mount_Kai_2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C"
 	},
 	["294"] = {
 		["id"] = 294,
@@ -32296,8 +32040,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_A_Kai_2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E4%BA%8C"
 	},
 	["295"] = {
 		["id"] = 295,
@@ -32556,8 +32299,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E4%B8%89%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_A_Kai_3_%28Wartime_Modification%29_%2B_Anti-Aircraft_Fire_Director"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E4%B8%89%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE"
 	},
 	["296"] = {
 		["id"] = 296,
@@ -32816,8 +32558,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E5%9B%9B%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_B_Kai_4_%28Wartime_Modification%29_%2B_Anti-Aircraft_Fire_Director"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E5%9B%9B%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE"
 	},
 	["297"] = {
 		["id"] = 297,
@@ -33005,8 +32746,7 @@ k.EquipUpdateTb = {
 			"浦波改(Lv30)",
 			"薄雲改(Lv40)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_A"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B"
 	},
 	["298"] = {
 		["id"] = 298,
@@ -33120,8 +32860,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Nelson(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["299"] = {
 		["id"] = 299,
@@ -33235,8 +32974,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Nelson改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%EF%BC%8BAFCT%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_%2B_AFCT_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%EF%BC%8BAFCT%E6%94%B9"
 	},
 	["300"] = {
 		["id"] = 300,
@@ -33350,8 +33088,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%EF%BC%8BFCR%20type284",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_Kai_%2B_FCR_Type_284"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%EF%BC%8BFCR%20type284"
 	},
 	["301"] = {
 		["id"] = 301,
@@ -33386,8 +33123,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Nelson改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20%E9%80%A3%E8%A3%857inch%20UP%20Rocket%20Launchers",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/20-tube_7inch_UP_Rocket_Launchers"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20%E9%80%A3%E8%A3%857inch%20UP%20Rocket%20Launchers"
 	},
 	["302"] = {
 		["id"] = 302,
@@ -33427,8 +33163,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28931_Air_Group/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["303"] = {
 		["id"] = 303,
@@ -33602,8 +33337,7 @@ k.EquipUpdateTb = {
 			"Gotland",
 			"andra(Lv85)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%20Model1930",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Bofors_15.2cm_Twin_Gun_Mount_Model_1930"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%20Model1930"
 	},
 	["304"] = {
 		["id"] = 304,
@@ -33692,8 +33426,7 @@ k.EquipUpdateTb = {
 			"Gotland",
 			"andra(Lv85)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S9%20Osprey",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/S9_Osprey"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S9%20Osprey"
 	},
 	["305"] = {
 		["id"] = 305,
@@ -33734,8 +33467,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"神鷹改二(Lv85)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai_Ni_%28w/_KMX%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29"
 	},
 	["306"] = {
 		["id"] = 306,
@@ -33777,8 +33509,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai_Ni_%28w/_KMX/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["307"] = {
 		["id"] = 307,
@@ -33818,8 +33549,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/GFCS_Mk.37"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37"
 	},
 	["308"] = {
 		["id"] = 308,
@@ -33866,8 +33596,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%E6%94%B9%EF%BC%8BGFCS%20Mk.37",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30_Kai_%2B_GFCS_Mk.37"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%E6%94%B9%EF%BC%8BGFCS%20Mk.37"
 	},
 	["309"] = {
 		["id"] = 309,
@@ -33927,8 +33656,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%99%E5%9E%8B",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_C_Kouhyouteki"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%99%E5%9E%8B"
 	},
 	["310"] = {
 		["id"] = 310,
@@ -34100,8 +33828,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"日進甲(Lv60)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Twin_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["311"] = {
 		["id"] = 311,
@@ -34129,8 +33856,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Land-based_Reconnaissance_Aircraft"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F"
 	},
 	["312"] = {
 		["id"] = 312,
@@ -34159,8 +33885,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/Type_2_Land-based_Reconnaissance_Aircraft_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["313"] = {
 		["id"] = 313,
@@ -34208,8 +33933,7 @@ k.EquipUpdateTb = {
 			"Johnston改(Lv55)",
 			"Fletcher改(Lv55)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%20%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%20%E6%94%B9"
 	},
 	["314"] = {
 		["id"] = 314,
@@ -34385,8 +34109,7 @@ k.EquipUpdateTb = {
 			"Johnston(Lv1)",
 			"Fletcher(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%E4%BA%94%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/533mm_Quintuple_Torpedo_Mount_%28Initial_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%E4%BA%94%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29"
 	},
 	["315"] = {
 		["id"] = 315,
@@ -34468,8 +34191,7 @@ k.EquipUpdateTb = {
 			"Johnston改(Lv55)",
 			"Fletcher改(Lv55)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SG%20%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "http://kancolle.wikia.com/wiki/SG_Radar_%28Initial_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SG%20%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29"
 	},
 	["316"] = {
 		["id"] = 316,
@@ -34535,8 +34257,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20CB%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Re.2001_CB_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20CB%E6%94%B9"
 	},
 	["317"] = {
 		["id"] = 317,
@@ -34701,8 +34422,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_3_Shell_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE%E6%94%B9"
 	},
 	["318"] = {
 		["id"] = 318,
@@ -34944,8 +34664,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/41cm_Twin_Gun_Mount_Kai_Ni"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C"
 	},
 	["319"] = {
 		["id"] = 319,
@@ -34986,8 +34705,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E4%B8%89%E5%8F%B7%E7%88%86%E5%BC%BE%E6%90%AD%E8%BC%89%E6%A9%9F%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Suisei_Model_12_%28634_Air_Group_w/_Type_3_Cluster_Bombs%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E4%B8%89%E5%8F%B7%E7%88%86%E5%BC%BE%E6%90%AD%E8%BC%89%E6%A9%9F%29"
 	},
 	["320"] = {
 		["id"] = 320,
@@ -35053,8 +34771,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E4%B8%89%E4%B8%80%E5%8F%B7%E5%85%89%E9%9B%BB%E7%AE%A1%E7%88%86%E5%BC%BE%E6%90%AD%E8%BC%89%E6%A9%9F%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Suisei_Model_12_%28w/_Type_31_Photoelectric_Fuze_Bombs%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E4%B8%89%E4%B8%80%E5%8F%B7%E5%85%89%E9%9B%BB%E7%AE%A1%E7%88%86%E5%BC%BE%E6%90%AD%E8%BC%89%E6%A9%9F%29"
 	},
 	["322"] = {
 		["id"] = 322,
@@ -35128,8 +34845,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Zuiun_Kai_Ni_%28634_Air_Group%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29"
 	},
 	["323"] = {
 		["id"] = 323,
@@ -35177,8 +34893,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Zuiun_Kai_Ni_%28634_Air_Group/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["324"] = {
 		["id"] = 324,
@@ -35245,8 +34960,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"日向改二(Lv90)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/O_Type_Observation_Autogyro_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9"
 	},
 	["325"] = {
 		["id"] = 325,
@@ -35313,8 +35027,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/O_Type_Observation_Autogyro_Kai_Ni"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9%E4%BA%8C"
 	},
 	["326"] = {
 		["id"] = 326,
@@ -35381,8 +35094,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S-51J",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/S-51J"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S-51J"
 	},
 	["327"] = {
 		["id"] = 327,
@@ -35449,8 +35161,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S-51J%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/S-51J_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/S-51J%E6%94%B9"
 	},
 	["328"] = {
 		["id"] = 328,
@@ -35693,8 +35404,7 @@ k.EquipUpdateTb = {
 			"比叡改二丙(Lv90)",
 			"金剛改二丙(Lv92)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/35.6cm_Twin_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["329"] = {
 		["id"] = 329,
@@ -35808,8 +35518,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/35.6cm_Twin_Gun_Mount_Kai_Ni"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C"
 	},
 	["330"] = {
 		["id"] = 330,
@@ -36051,8 +35760,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Colorado(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Mk.I_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["331"] = {
 		["id"] = 331,
@@ -36294,8 +36002,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Colorado改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.V%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Mk.V_Twin_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.V%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["332"] = {
 		["id"] = 332,
@@ -36537,8 +36244,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.VIII%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Mk.VIII_Twin_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.VIII%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9"
 	},
 	["333"] = {
 		["id"] = 333,
@@ -36569,8 +36275,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9"
 	},
 	["334"] = {
 		["id"] = 334,
@@ -36601,8 +36306,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%28%E4%B8%89%E4%BA%94%E4%BA%8C%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_%28352_Air_Group/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%28%E4%B8%89%E4%BA%94%E4%BA%8C%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["335"] = {
 		["id"] = 335,
@@ -36643,8 +36347,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%28%E8%A9%A6%E8%A3%BD%E8%89%A6%E8%BC%89%E5%9E%8B%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_%28352_Air_Group/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%28%E8%A9%A6%E8%A3%BD%E8%89%A6%E8%BC%89%E5%9E%8B%29"
 	},
 	["336"] = {
 		["id"] = 336,
@@ -36684,8 +36387,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_Ni"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C"
 	},
 	["338"] = {
 		["id"] = 338,
@@ -36725,8 +36427,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_Ni_Model_E"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B"
 	},
 	["339"] = {
 		["id"] = 339,
@@ -36766,8 +36467,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B%28%E4%B8%80%E8%88%AA%E6%88%A6%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_Ni_Model_E_%28CarDiv_1/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B%28%E4%B8%80%E8%88%AA%E6%88%A6%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["340"] = {
 		["id"] = 340,
@@ -36812,8 +36512,7 @@ k.EquipUpdateTb = {
 			"L.d.S.D.d.Abruzzi(Lv1)",
 			"G.Garibaldi(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/152mm/55_Triple_Rapid_Fire_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2"
 	},
 	["341"] = {
 		["id"] = 341,
@@ -36858,8 +36557,7 @@ k.EquipUpdateTb = {
 			"L.d.S.D.d.Abruzzi改(Lv45)",
 			"G.Garibaldi改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/152mm/55_Triple_Rapid_Fire_Gun_Mount_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%E6%94%B9"
 	},
 	["342"] = {
 		["id"] = 342,
@@ -36899,8 +36597,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9%28%E4%B8%80%E8%88%AA%E6%88%A6%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Ryuusei_Kai_%28CarDiv_1%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9%28%E4%B8%80%E8%88%AA%E6%88%A6%29"
 	},
 	["343"] = {
 		["id"] = 343,
@@ -36940,8 +36637,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9%28%E4%B8%80%E8%88%AA%E6%88%A6%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Ryuusei_Kai_%28CarDiv_1/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9%28%E4%B8%80%E8%88%AA%E6%88%A6%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["344"] = {
 		["id"] = 344,
@@ -37007,8 +36703,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%E6%94%B9%20%E8%A9%A6%E8%A3%BD%E4%B8%89%E5%8F%B7%E6%88%8A%E5%9E%8B%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Type_97_Torpedo_Bomber_Kai_No._3_Model_E_%28w/_Type_6_Airborne_Radar_Kai%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%E6%94%B9%20%E8%A9%A6%E8%A3%BD%E4%B8%89%E5%8F%B7%E6%88%8A%E5%9E%8B%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29"
 	},
 	["345"] = {
 		["id"] = 345,
@@ -37048,8 +36743,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%E6%94%B9%28%E7%86%9F%E7%B7%B4%29%20%E8%A9%A6%E8%A3%BD%E4%B8%89%E5%8F%B7%E6%88%8A%E5%9E%8B%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Type_97_Torpedo_Bomber_Kai_%28Skilled%29_No._3_Model_E_%28w/_Type_6_Airborne_Radar_Kai%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%E6%94%B9%28%E7%86%9F%E7%B7%B4%29%20%E8%A9%A6%E8%A3%BD%E4%B8%89%E5%8F%B7%E6%88%8A%E5%9E%8B%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29"
 	},
 	["346"] = {
 		["id"] = 346,
@@ -37181,8 +36875,7 @@ k.EquipUpdateTb = {
 			"御蔵改(Lv45)",
 			"神州丸改(Lv48)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_2_12cm_Mortar_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9"
 	},
 	["347"] = {
 		["id"] = 347,
@@ -37228,8 +36921,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_2_12cm_Mortar_Kai_%28Concentrated_Deployment%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99"
 	},
 	["348"] = {
 		["id"] = 348,
@@ -37362,8 +37054,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%BC%89%E5%9E%8B%20%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Shipborne_Model_Type_4_20cm_Anti-ground_Rocket_Launcher"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%BC%89%E5%9E%8B%20%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2"
 	},
 	["349"] = {
 		["id"] = 349,
@@ -37410,8 +37101,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_20cm_Anti-ground_Rocket_Launcher_%28Concentrated_Deployment%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99"
 	},
 	["350"] = {
 		["id"] = 350,
@@ -37441,8 +37131,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Me163B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Me163B"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Me163B"
 	},
 	["351"] = {
 		["id"] = 351,
@@ -37472,8 +37161,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%20%E7%A7%8B%E6%B0%B4",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Shuusui"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%20%E7%A7%8B%E6%B0%B4"
 	},
 	["352"] = {
 		["id"] = 352,
@@ -37503,8 +37191,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%A7%8B%E6%B0%B4",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Shuusui"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%A7%8B%E6%B0%B4"
 	},
 	["353"] = {
 		["id"] = 353,
@@ -37544,8 +37231,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20A-5%E6%94%B9%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Fw_190_A-5_Kai_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20A-5%E6%94%B9%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["354"] = {
 		["id"] = 354,
@@ -37575,8 +37261,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20D-9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Fw_190_D-9"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20D-9"
 	},
 	["355"] = {
 		["id"] = 355,
@@ -37596,8 +37281,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/M4A1%20DD",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/M4A1_DD"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/M4A1%20DD"
 	},
 	["356"] = {
 		["id"] = 356,
@@ -37771,8 +37455,7 @@ k.EquipUpdateTb = {
 			"Houston改(Lv50)",
 			"Northampton改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/8inch_Triple_Gun_Mount_Mk.9"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9"
 	},
 	["357"] = {
 		["id"] = 357,
@@ -37943,8 +37626,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9%20mod.2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/8inch_Triple_Gun_Mount_Mk.9_mod.2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9%20mod.2"
 	},
 	["358"] = {
 		["id"] = 358,
@@ -38052,8 +37734,7 @@ k.EquipUpdateTb = {
 			"Houston改(Lv50)",
 			"Northampton改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%20%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E7%BE%A4",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/5inch_Single_High-angle_Gun_Mount_Battery"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%20%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E7%BE%A4"
 	},
 	["359"] = {
 		["id"] = 359,
@@ -38136,8 +37817,7 @@ k.EquipUpdateTb = {
 			"Perth(Lv1)",
 			"Perth改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%20%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.XXI",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Twin_Rapid_Fire_Gun_Mount_Mk.XXI"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%20%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.XXI"
 	},
 	["360"] = {
 		["id"] = 360,
@@ -38181,8 +37861,7 @@ k.EquipUpdateTb = {
 			"De",
 			"Ruyter(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%20Model%201938",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Bofors_15cm_Twin_Rapid_Fire_Gun_Mount_Mk.9_Model_1938"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%20Model%201938"
 	},
 	["361"] = {
 		["id"] = 361,
@@ -38227,8 +37906,7 @@ k.EquipUpdateTb = {
 			"De",
 			"Ruyter改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%E6%94%B9%EF%BC%8B%E5%8D%98%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.10%E6%94%B9%20Model%201938",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Bofors_15cm_Twin_Rapid_Fire_Gun_Mount_Mk.9_Kai_%2B_Single_Rapid_Fire_Gun_Mount_Mk.10_Kai_Model_1938"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%E6%94%B9%EF%BC%8B%E5%8D%98%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.10%E6%94%B9%20Model%201938"
 	},
 	["362"] = {
 		["id"] = 362,
@@ -38335,8 +38013,7 @@ k.EquipUpdateTb = {
 			"Atlanta(Lv1)",
 			"Atlanta改(Lv50)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29"
 	},
 	["363"] = {
 		["id"] = 363,
@@ -38442,8 +38119,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37%EF%BC%8B5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/GFCS_Mk.37_%2B_5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37%EF%BC%8B5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29"
 	},
 	["364"] = {
 		["id"] = 364,
@@ -38489,8 +38165,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%81%E5%9E%8B%E6%94%B9%28%E8%9B%9F%E9%BE%8D%E6%94%B9%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_D_Kouhyouteki_Kai_%28Kouryuu_Kai%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%81%E5%9E%8B%E6%94%B9%28%E8%9B%9F%E9%BE%8D%E6%94%B9%29"
 	},
 	["365"] = {
 		["id"] = 365,
@@ -38656,8 +38331,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_1_Armor_Piercing_Shell_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE%E6%94%B9"
 	},
 	["366"] = {
 		["id"] = 366,
@@ -38741,8 +38415,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%B8%89",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_3"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%B8%89"
 	},
 	["367"] = {
 		["id"] = 367,
@@ -38816,8 +38489,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish_%28Seaplane_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%29"
 	},
 	["368"] = {
 		["id"] = 368,
@@ -38891,8 +38563,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%E6%94%B9%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish_Mk.III_Kai_%28Seaplane_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%E6%94%B9%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%29"
 	},
 	["369"] = {
 		["id"] = 369,
@@ -38940,8 +38611,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%E6%94%B9%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish_Mk.III_Kai_%28Seaplane_Model/Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%E6%94%B9%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%EF%BC%8F%E7%86%9F%E7%B7%B4%29"
 	},
 	["370"] = {
 		["id"] = 370,
@@ -39028,8 +38698,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.II%E6%94%B9%28%E6%B0%B4%E5%81%B5%E5%9E%8B%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish_Mk.II_Kai_%28Reconnaissance_Seaplane_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.II%E6%94%B9%28%E6%B0%B4%E5%81%B5%E5%9E%8B%29"
 	},
 	["371"] = {
 		["id"] = 371,
@@ -39116,8 +38785,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fairey%20Seafox%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Fairey_Seafox_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Fairey%20Seafox%E6%94%B9"
 	},
 	["372"] = {
 		["id"] = 372,
@@ -39183,8 +38851,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Tenzan_Model_12A"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2"
 	},
 	["373"] = {
 		["id"] = 373,
@@ -39224,8 +38891,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Tenzan_Model_12_A_Kai_%28w/_Type_6_Airborne_Radar_Kai%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29"
 	},
 	["374"] = {
 		["id"] = 374,
@@ -39265,8 +38931,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%86%9F%E7%B7%B4%EF%BC%8F%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Tenzan_Model_12_A_Kai_%28Skilled/_w/_Type_6_Airborne_Radar_Kai%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%86%9F%E7%B7%B4%EF%BC%8F%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29"
 	},
 	["375"] = {
 		["id"] = 375,
@@ -39306,8 +38971,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/XF5U",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/XF5U"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/XF5U"
 	},
 	["376"] = {
 		["id"] = 376,
@@ -39353,8 +39017,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%E4%BA%94%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/533mm_Quintuple_Torpedo_Mount_%28Late_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%E4%BA%94%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29"
 	},
 	["377"] = {
 		["id"] = 377,
@@ -39400,8 +39063,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/RUR-4A%20Weapon%20Alpha%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/RUR-4A_Weapon_Alpha_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/RUR-4A%20Weapon%20Alpha%E6%94%B9"
 	},
 	["378"] = {
 		["id"] = 378,
@@ -39446,8 +39108,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%AF%BE%E6%BD%9C%E7%9F%AD%E9%AD%9A%E9%9B%B7%28%E8%A9%A6%E4%BD%9C%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Lightweight_ASW_Torpedo_%28Initial_Test_Model%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%AF%BE%E6%BD%9C%E7%9F%AD%E9%AD%9A%E9%9B%B7%28%E8%A9%A6%E4%BD%9C%E5%88%9D%E6%9C%9F%E5%9E%8B%29"
 	},
 	["379"] = {
 		["id"] = 379,
@@ -39494,8 +39155,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"★+4雪風改二(Lv88)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Single_High-angle_Gun_Mount_Kai_2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C"
 	},
 	["380"] = {
 		["id"] = 380,
@@ -39542,8 +39202,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_High-angle_Gun_Mount_Kai_2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C"
 	},
 	["381"] = {
 		["id"] = 381,
@@ -39787,8 +39446,7 @@ k.EquipUpdateTb = {
 			"Dakota(Lv1)",
 			"Washington(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6"
 	},
 	["382"] = {
 		["id"] = 382,
@@ -40064,8 +39722,7 @@ k.EquipUpdateTb = {
 			"福江改(Lv48)",
 			"平戸改(Lv48)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2E%E5%9E%8B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/12cm_Single_High-angle_Gun_Mount_Model_E"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2E%E5%9E%8B"
 	},
 	["383"] = {
 		["id"] = 383,
@@ -40094,8 +39751,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B53cm%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%288%E9%96%80%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Late_Model_53cm_Bow_Torpedo_Mount_%288_tubes%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B53cm%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%288%E9%96%80%29"
 	},
 	["384"] = {
 		["id"] = 384,
@@ -40129,8 +39785,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Late_Model_Submarine_Radar_%26_Passive_Radiolocator"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2"
 	},
 	["385"] = {
 		["id"] = 385,
@@ -40374,8 +40029,7 @@ k.EquipUpdateTb = {
 			"South",
 			"Dakota改(Lv48)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%20mod.2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6_mod.2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%20mod.2"
 	},
 	["386"] = {
 		["id"] = 386,
@@ -40420,8 +40074,7 @@ k.EquipUpdateTb = {
 			"Honolulu(Lv1)",
 			"Helena(Lv1)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Triple_Rapid_Fire_Gun_Mount_Mk.16"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16"
 	},
 	["387"] = {
 		["id"] = 387,
@@ -40466,8 +40119,7 @@ k.EquipUpdateTb = {
 			"Honolulu改(Lv45)",
 			"Helena改(Lv45)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16%20mod.2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Triple_Rapid_Fire_Gun_Mount_Mk.16_mod.2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16%20mod.2"
 	},
 	["388"] = {
 		["id"] = 388,
@@ -40495,8 +40147,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Ginga_%28Egusa_Squadron%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29"
 	},
 	["389"] = {
 		["id"] = 389,
@@ -40536,8 +40187,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBM-3W%20%EF%BC%8B%203S",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/TBM-3W%2B3S"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBM-3W%20%EF%BC%8B%203S"
 	},
 	["390"] = {
 		["id"] = 390,
@@ -40689,8 +40339,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%EF%BC%8BGFCS",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6_%2B_GFCS"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%EF%BC%8BGFCS"
 	},
 	["391"] = {
 		["id"] = 391,
@@ -40756,8 +40405,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%E4%BA%8C%E4%BA%8C%E5%9E%8B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_99_Dive_Bomber_Model_22"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%E4%BA%8C%E4%BA%8C%E5%9E%8B"
 	},
 	["392"] = {
 		["id"] = 392,
@@ -40823,8 +40471,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_99_Dive_Bomber_Model_22_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["393"] = {
 		["id"] = 393,
@@ -40869,8 +40516,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%20mod.1936",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/120mm/50_Twin_Gun_Mount_mod.1936"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%20mod.1936"
 	},
 	["394"] = {
 		["id"] = 394,
@@ -40915,8 +40561,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%20A.mod.1937",
-		["EN_Wiki"] = ""
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%20A.mod.1937"
 	},
 	["395"] = {
 		["id"] = 395,
@@ -40944,8 +40589,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B7%B1%E5%B1%B1",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Shinzan"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B7%B1%E5%B1%B1"
 	},
 	["396"] = {
 		["id"] = 396,
@@ -40973,8 +40617,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B7%B1%E5%B1%B1%E6%94%B9",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Shinzan_Kai"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B7%B1%E5%B1%B1%E6%94%B9"
 	},
 	["397"] = {
 		["id"] = 397,
@@ -41020,8 +40663,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"丹陽(Lv71)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%8F%BE%E5%9C%B0%E6%94%B9%E8%A3%8512.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Locally_Modified_12.7cm_Twin_High-angle_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%8F%BE%E5%9C%B0%E6%94%B9%E8%A3%8512.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2"
 	},
 	["398"] = {
 		["id"] = 398,
@@ -41066,8 +40708,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"丹陽(Lv71)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%8F%BE%E5%9C%B0%E6%94%B9%E8%A3%8510cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Locally_Modified_10cm_Twin_High-angle_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%8F%BE%E5%9C%B0%E6%94%B9%E8%A3%8510cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2"
 	},
 	["399"] = {
 		["id"] = 399,
@@ -41112,8 +40753,7 @@ k.EquipUpdateTb = {
 			"Sheffield(Lv1)",
 			"Sheffield改(Lv55)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%20Mk.XXIII%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Mk.XXIII_Triple_Gun_Mount"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%20Mk.XXIII%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["400"] = {
 		["id"] = 400,
@@ -41158,8 +40798,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%2853-39%E5%9E%8B%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/533mm_Triple_Torpedo_Mount_%28Model_53-39%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%2853-39%E5%9E%8B%29"
 	},
 	["401"] = {
 		["id"] = 401,
@@ -41213,8 +40852,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Do%2017%20Z-2",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Do_17_Z-2"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Do%2017%20Z-2"
 	},
 	["402"] = {
 		["id"] = 402,
@@ -41262,8 +40900,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%AF%92%E5%86%B7%E5%9C%B0%E8%A3%85%E5%82%99%EF%BC%86%E7%94%B2%E6%9D%BF%E8%A6%81%E5%93%A1",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Arctic_Gear_%26_Deck_Personnel"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%AF%92%E5%86%B7%E5%9C%B0%E8%A3%85%E5%82%99%EF%BC%86%E7%94%B2%E6%9D%BF%E8%A6%81%E5%93%A1"
 	},
 	["403"] = {
 		["id"] = 403,
@@ -41317,8 +40954,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_Heavy_Bomber_Hiryuu"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D"
 	},
 	["404"] = {
 		["id"] = 404,
@@ -41346,8 +40982,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D%28%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_Heavy_Bomber_Hiryuu_%28Skilled%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D%28%E7%86%9F%E7%B7%B4%29"
 	},
 	["405"] = {
 		["id"] = 405,
@@ -41375,8 +41010,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Do%20217%20E-5%EF%BC%8BHs293%E5%88%9D%E6%9C%9F%E5%9E%8B",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Do_217_E-5_%2B_Hs293_Initial_Model"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Do%20217%20E-5%EF%BC%8BHs293%E5%88%9D%E6%9C%9F%E5%9E%8B"
 	},
 	["406"] = {
 		["id"] = 406,
@@ -41404,8 +41038,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Do%20217%20K-2%EF%BC%8BFritz-X",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Do_217_K-2_%2B_Fritz-X"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Do%20217%20K-2%EF%BC%8BFritz-X"
 	},
 	["407"] = {
 		["id"] = 407,
@@ -41577,8 +41210,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/15.2cm_Twin_Gun_Mount_Kai_Ni"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C"
 	},
 	["408"] = {
 		["id"] = 408,
@@ -41603,8 +41235,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A3%85%E7%94%B2%E8%89%87%28AB%E8%89%87%29",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Soukoutei_%28Armored_Boat_Class%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A3%85%E7%94%B2%E8%89%87%28AB%E8%89%87%29"
 	},
 	["409"] = {
 		["id"] = 409,
@@ -41624,8 +41255,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%AD%A6%E8%A3%85%E5%A4%A7%E7%99%BA",
-		["EN_Wiki"] = "https://kancolle.fandom.com/wiki/Armed_Daihatsu"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%AD%A6%E8%A3%85%E5%A4%A7%E7%99%BA"
 	},
 	["410"] = {
 		["id"] = 410,
@@ -42929,6 +42559,215 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Hedgehog%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29"
+	},
+	["440"] = {
+		["id"] = 440,
+		["no"] = "No.440",
+		["item_name"] = {
+			["zh"] = "21inch舰首鱼雷发射管6门（初期型）",
+			["ja"] = "21inch艦首魚雷発射管6門(初期型)"
+		},
+		["item_type"] = "潜水艦魚雷",
+		["item_intro"] = "米海軍で開発され、運用された潜水艦用魚雷兵装です。前部6門の発射管から、水上の敵艦を攻撃可能ですが、初期型の魚雷は信頼性が低く、数々のチャンスを逸しています。逆に、信頼性の向上した後期型では、日本の輸送船団、さらに護衛艦艇や主力艦に対しても猛威を発揮することになります。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+10",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "",
+			["回避"] = "+2",
+			["射程"] = "短"
+		},
+		["item_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/21inch%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A16%E9%96%80%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29"
+	},
+	["441"] = {
+		["id"] = 441,
+		["no"] = "No.441",
+		["item_name"] = {
+			["zh"] = "21inch舰首鱼雷发射管6门（后期型）",
+			["ja"] = "21inch艦首魚雷発射管6門(後期型)"
+		},
+		["item_type"] = "潜水艦魚雷",
+		["item_intro"] = "米海軍で開発され、運用された潜水艦用魚雷兵装です。前部6門の発射管から最大6射線、後部発射管もあわせれば、10発の魚雷で攻撃可能です。信頼性の向上した後期型の魚雷は、日本の輸送船舶や護衛艦艇に対して圧倒的な猛威を発揮、日本海軍そして日本全体の継戦能力を大きく削っていきました。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+14",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+3",
+			["回避"] = "+3",
+			["射程"] = "短"
+		},
+		["item_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/21inch%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A16%E9%96%80%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29"
+	},
+	["442"] = {
+		["id"] = 442,
+		["no"] = "No.442",
+		["item_name"] = {
+			["zh"] = "潜艇后部鱼雷发射管4门（初期型）",
+			["ja"] = "潜水艦後部魚雷発射管4門(初期型)"
+		},
+		["item_type"] = "潜水艦魚雷",
+		["item_intro"] = "潜水艦の後部に設置する、魚雷兵装です。4門の発射管を備え、艦首発射管とあわせて、より多くの魚雷で攻撃スタンバイに入ることが可能です。魚雷の信頼性が向上した同後期型では、より強力な戦闘力を発揮することが可能です。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+6",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+1",
+			["回避"] = "+1",
+			["射程"] = "短"
+		},
+		["item_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["item_extra_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E5%BE%8C%E9%83%A8%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A14%E9%96%80%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29"
+	},
+	["443"] = {
+		["id"] = 443,
+		["no"] = "No.443",
+		["item_name"] = {
+			["zh"] = "潜艇后部鱼雷发射管4门（后期型）",
+			["ja"] = "潜水艦後部魚雷発射管4門(後期型)"
+		},
+		["item_type"] = "潜水艦魚雷",
+		["item_intro"] = "潜水艦の後部に設置する魚雷兵装、その後期型です。4門の発射管を備え、前部の発射管とあわせて、より多くの魚雷で攻撃体制に入ることが可能です。魚雷の信頼性が向上した本後期型では、艦首発射管と共に運用することで、大きな魚雷戦火力を得ることが可能です。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+9",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+2",
+			["回避"] = "+2",
+			["射程"] = "短"
+		},
+		["item_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["item_extra_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E5%BE%8C%E9%83%A8%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A14%E9%96%80%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29"
+	},
+	["445"] = {
+		["id"] = 445,
+		["no"] = "No.445",
+		["item_name"] = {
+			["zh"] = "二式複戦 屠龍",
+			["ja"] = "二式複戦 屠龍"
+		},
+		["item_type"] = "陸軍戦闘機",
+		["item_intro"] = "日本陸軍が開発、配備した二式複座戦闘機、通称二式複戦、「屠龍」です。双発複座のため比較的重武装が可能ですが、単座戦闘機に対して運動性で劣り、対戦闘機戦闘には不向きです。戦いの後半、本土上空に飛来した戦略爆撃機B-29の迎撃で飛び立ち、劣勢ながら日本の空を守る防空戦で奮戦します。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+3",
+			["対潜"] = "",
+			["索敵"] = "",
+			["対爆"] = "+4",
+			["迎撃"] = "+2",
+			["出撃対空"] = "6",
+			["防空対空"] = "13",
+			["戦闘行動半径"] = "3",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["基地航空隊"] = 1
+		},
+		["item_remodel"] = {
+			["対空"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: あきつ丸・神州丸",
+			["cost"] = {
+				["fuel"] = "20",
+				["ammo"] = "40",
+				["steel"] = "10",
+				["bauxite"] = "20"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E8%A4%87%E6%88%A6%20%E5%B1%A0%E9%BE%8D"
+	},
+	["446"] = {
+		["id"] = 446,
+		["no"] = "No.446",
+		["item_name"] = {
+			["zh"] = "二式複戦 屠龍 丙型",
+			["ja"] = "二式複戦 屠龍 丙型"
+		},
+		["item_type"] = "陸軍戦闘機",
+		["item_intro"] = "日本陸軍が開発、配備した二式複座戦闘機、通称二式複戦、「屠龍」。その改良型重武装型です。本機はその改良丙型に対重爆迎撃用の大口径上向き銃、いわゆる「斜銃」を試験的に備えた重爆キラー、まさしく「屠龍」の名の通りの機体。対戦闘機戦には不向きですが、日本本土防空戦において、敵重爆に対して海軍「月光」と共に奮戦します。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+3",
+			["対潜"] = "",
+			["索敵"] = "",
+			["対爆"] = "+6",
+			["迎撃"] = "+2",
+			["出撃対空"] = "6",
+			["防空対空"] = "17",
+			["戦闘行動半径"] = "3",
+			["装甲"] = "+2"
+		},
+		["item_equip"] = {
+			["基地航空隊"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E8%A4%87%E6%88%A6%20%E5%B1%A0%E9%BE%8D%20%E4%B8%99%E5%9E%8B"
 	}
 }
 

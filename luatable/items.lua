@@ -158,7 +158,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12cm_Single_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["002"] = {
 		["ID"] = 2,
@@ -278,7 +278,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["003"] = {
 		["ID"] = 3,
@@ -327,7 +327,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["004"] = {
 		["ID"] = 4,
@@ -455,7 +455,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E5%8D%98%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Single_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["005"] = {
 		["ID"] = 5,
@@ -662,7 +662,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15.5cm_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["006"] = {
 		["ID"] = 6,
@@ -812,7 +812,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/20.3cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["007"] = {
 		["ID"] = 7,
@@ -928,7 +928,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/35.6cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["008"] = {
 		["ID"] = 8,
@@ -1050,7 +1050,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/41cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["009"] = {
 		["ID"] = 9,
@@ -1166,7 +1166,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/46cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/46cm_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["010"] = {
 		["ID"] = 10,
@@ -1316,7 +1316,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_High-angle_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["011"] = {
 		["ID"] = 11,
@@ -1463,7 +1463,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E5%8D%98%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15.2cm_Single_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["012"] = {
 		["ID"] = 12,
@@ -1597,7 +1597,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15.5cm_Triple_Secondary_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["013"] = {
 		["ID"] = 13,
@@ -1728,7 +1728,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Triple_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["014"] = {
 		["ID"] = 14,
@@ -1850,7 +1850,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Quadruple_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["015"] = {
 		["ID"] = 15,
@@ -2040,7 +2040,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Quadruple_%28Oxygen%29_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["016"] = {
 		["ID"] = 16,
@@ -2177,7 +2177,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber"
+		["英文Wiki"] = ""
 	},
 	["017"] = {
 		["ID"] = 17,
@@ -2318,7 +2318,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan"
+		["英文Wiki"] = ""
 	},
 	["018"] = {
 		["ID"] = 18,
@@ -2395,7 +2395,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei"
+		["英文Wiki"] = ""
 	},
 	["019"] = {
 		["ID"] = 19,
@@ -2557,7 +2557,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E8%89%A6%E6%88%A6",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_Fighter"
+		["英文Wiki"] = ""
 	},
 	["020"] = {
 		["ID"] = 20,
@@ -2690,7 +2690,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_21"
+		["英文Wiki"] = ""
 	},
 	["021"] = {
 		["ID"] = 21,
@@ -2874,7 +2874,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_52"
+		["英文Wiki"] = ""
 	},
 	["022"] = {
 		["ID"] = 22,
@@ -2914,7 +2914,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E7%83%88%E9%A2%A8%20%E5%BE%8C%E6%9C%9F%E5%9E%8B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Reppuu_Late_Model"
+		["英文Wiki"] = ""
 	},
 	["023"] = {
 		["ID"] = 23,
@@ -3059,7 +3059,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber"
+		["英文Wiki"] = ""
 	},
 	["024"] = {
 		["ID"] = 24,
@@ -3199,7 +3199,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Suisei"
+		["英文Wiki"] = ""
 	},
 	["025"] = {
 		["ID"] = 25,
@@ -3333,7 +3333,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane"
+		["英文Wiki"] = ""
 	},
 	["026"] = {
 		["ID"] = 26,
@@ -3574,7 +3574,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun"
+		["英文Wiki"] = ""
 	},
 	["027"] = {
 		["ID"] = 27,
@@ -3716,7 +3716,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_13_Air_Radar"
+		["英文Wiki"] = ""
 	},
 	["028"] = {
 		["ID"] = 28,
@@ -3861,7 +3861,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar"
+		["英文Wiki"] = ""
 	},
 	["029"] = {
 		["ID"] = 29,
@@ -3993,7 +3993,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/33%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_21_Air_Radar"
+		["英文Wiki"] = ""
 	},
 	["030"] = {
 		["ID"] = 30,
@@ -4245,7 +4245,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_21_Air_Radar"
+		["英文Wiki"] = ""
 	},
 	["031"] = {
 		["ID"] = 31,
@@ -4396,7 +4396,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/32%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_32_Surface_Radar"
+		["英文Wiki"] = ""
 	},
 	["032"] = {
 		["ID"] = 32,
@@ -4534,7 +4534,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/42%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_42_Air_Radar"
+		["英文Wiki"] = ""
 	},
 	["033"] = {
 		["ID"] = 33,
@@ -4592,7 +4592,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%94%B9%E8%89%AF%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Improved_Kanhon_Type_Turbine"
+		["英文Wiki"] = ""
 	},
 	["034"] = {
 		["ID"] = 34,
@@ -4733,7 +4733,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BC%B7%E5%8C%96%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E7%BC%B6",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Enhanced_Kanhon_Type_Boiler"
+		["英文Wiki"] = ""
 	},
 	["035"] = {
 		["ID"] = 35,
@@ -4930,7 +4930,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE",
-		["英文Wiki"] = "https://kancolle.wikia.com/wiki/Type_3_Shell"
+		["英文Wiki"] = ""
 	},
 	["036"] = {
 		["ID"] = 36,
@@ -5060,7 +5060,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_91_Armor_Piercing_Shell"
+		["英文Wiki"] = ""
 	},
 	["037"] = {
 		["ID"] = 37,
@@ -5120,7 +5120,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/7.7mm%E6%A9%9F%E9%8A%83",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/7.7mm_Machine_Gun"
+		["英文Wiki"] = ""
 	},
 	["038"] = {
 		["ID"] = 38,
@@ -5180,7 +5180,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7mm_Single_Machine_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["039"] = {
 		["ID"] = 39,
@@ -5347,7 +5347,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Twin_Autocannon_Mount"
+		["英文Wiki"] = ""
 	},
 	["040"] = {
 		["ID"] = 40,
@@ -5566,7 +5566,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Triple_Autocannon_Mount"
+		["英文Wiki"] = ""
 	},
 	["041"] = {
 		["ID"] = 41,
@@ -5705,7 +5705,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>戦闘詳報</font>x1，失败时不消耗, 更新时消耗<font color=red>新型兵装資材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E7%94%B2%E5%9E%8B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_A_Kouhyouteki"
+		["英文Wiki"] = ""
 	},
 	["042"] = {
 		["ID"] = 42,
@@ -5763,7 +5763,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "避免一次被击沉<br />发动后装备消失不可再用",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BF%9C%E6%80%A5%E4%BF%AE%E7%90%86%E8%A6%81%E5%93%A1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Emergency_Repair_Personnel"
+		["英文Wiki"] = ""
 	},
 	["043"] = {
 		["ID"] = 43,
@@ -5821,7 +5821,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "避免一次被击沉<br />并且回满耐久油弹<br />发动后装备消失不可再用",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BF%9C%E6%80%A5%E4%BF%AE%E7%90%86%E5%A5%B3%E7%A5%9E",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Emergency_Repair_Goddess"
+		["英文Wiki"] = ""
 	},
 	["044"] = {
 		["ID"] = 44,
@@ -5952,7 +5952,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%9B%9B%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_94_Depth_Charge_Projector"
+		["英文Wiki"] = ""
 	},
 	["045"] = {
 		["ID"] = 45,
@@ -6080,7 +6080,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Depth_Charge_Projector"
+		["英文Wiki"] = ""
 	},
 	["046"] = {
 		["ID"] = 46,
@@ -6309,7 +6309,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_93_Passive_Sonar"
+		["英文Wiki"] = ""
 	},
 	["047"] = {
 		["ID"] = 47,
@@ -6494,7 +6494,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%B0%B4%E4%B8%AD%E6%8E%A2%E4%BF%A1%E5%84%80",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Active_Sonar"
+		["英文Wiki"] = ""
 	},
 	["048"] = {
 		["ID"] = 48,
@@ -6543,7 +6543,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12cm_Single_High-angle_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["049"] = {
 		["ID"] = 49,
@@ -6714,7 +6714,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Single_Autocannon_Mount"
+		["英文Wiki"] = ""
 	},
 	["050"] = {
 		["ID"] = 50,
@@ -6983,7 +6983,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%283%E5%8F%B7%29%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/20.3cm_%28No.3%29_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["051"] = {
 		["ID"] = 51,
@@ -7114,7 +7114,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>戦闘詳報</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/12cm_30-tube_Rocket_Launcher"
+		["英文Wiki"] = ""
 	},
 	["052"] = {
 		["ID"] = 52,
@@ -7191,7 +7191,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei_Kai"
+		["英文Wiki"] = ""
 	},
 	["053"] = {
 		["ID"] = 53,
@@ -7231,7 +7231,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%20%E4%B8%80%E4%B8%80%E5%9E%8B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Model_11"
+		["英文Wiki"] = ""
 	},
 	["054"] = {
 		["ID"] = 54,
@@ -7285,7 +7285,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Saiun"
+		["英文Wiki"] = ""
 	},
 	["055"] = {
 		["ID"] = 55,
@@ -7398,7 +7398,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x1, 更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Kai_2"
+		["英文Wiki"] = ""
 	},
 	["056"] = {
 		["ID"] = 56,
@@ -7438,7 +7438,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9C%87%E9%9B%BB%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Shinden_Kai"
+		["英文Wiki"] = ""
 	},
 	["057"] = {
 		["ID"] = 57,
@@ -7488,7 +7488,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_Model_12A"
+		["英文Wiki"] = ""
 	},
 	["058"] = {
 		["ID"] = 58,
@@ -7608,7 +7608,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%BA%94%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Quintuple_%28Oxygen%29_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["059"] = {
 		["ID"] = 59,
@@ -7724,7 +7724,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E8%A6%B3%E6%B8%AC%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Observation_Seaplane"
+		["英文Wiki"] = ""
 	},
 	["060"] = {
 		["ID"] = 60,
@@ -7931,7 +7931,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A662%E5%9E%8B%28%E7%88%86%E6%88%A6%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_62_%28Fighter-bomber%29"
+		["英文Wiki"] = ""
 	},
 	["061"] = {
 		["ID"] = 61,
@@ -8266,7 +8266,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E8%89%A6%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Reconnaissance_Aircraft"
+		["英文Wiki"] = ""
 	},
 	["062"] = {
 		["ID"] = 62,
@@ -8355,7 +8355,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%99%B4%E5%B5%90",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_Seiran"
+		["英文Wiki"] = ""
 	},
 	["063"] = {
 		["ID"] = 63,
@@ -8546,7 +8546,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_B_Kai_2"
+		["英文Wiki"] = ""
 	},
 	["064"] = {
 		["ID"] = 64,
@@ -8586,7 +8586,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai"
+		["英文Wiki"] = ""
 	},
 	["065"] = {
 		["ID"] = 65,
@@ -8742,7 +8742,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15.2cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["066"] = {
 		["ID"] = 66,
@@ -9011,7 +9011,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/8cm%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/8cm_High-angle_Gun"
+		["英文Wiki"] = ""
 	},
 	["067"] = {
 		["ID"] = 67,
@@ -9073,7 +9073,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/53cm%E8%89%A6%E9%A6%96%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/53cm_Bow_%28Oxygen%29_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["068"] = {
 		["ID"] = 68,
@@ -9380,7 +9380,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Daihatsu_Landing_Craft"
+		["英文Wiki"] = ""
 	},
 	["069"] = {
 		["ID"] = 69,
@@ -9535,7 +9535,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AB%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ka_Type_Observation_Autogyro"
+		["英文Wiki"] = ""
 	},
 	["070"] = {
 		["ID"] = 70,
@@ -9577,7 +9577,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "扬陆可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%8C%87%E6%8F%AE%E9%80%A3%E7%B5%A1%E6%A9%9F%28%E5%AF%BE%E6%BD%9C%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Command_Liaison_Aircraft_%28ASW%29"
+		["英文Wiki"] = ""
 	},
 	["071"] = {
 		["ID"] = 71,
@@ -9633,7 +9633,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E7%A0%B2%E6%9E%B6%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_%28Carriage%29"
+		["英文Wiki"] = ""
 	},
 	["072"] = {
 		["ID"] = 72,
@@ -9798,7 +9798,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E4%B8%AD%E5%9E%8B%E8%89%A6%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Anti-torpedo_Bulge_%28Medium%29"
+		["英文Wiki"] = ""
 	},
 	["073"] = {
 		["ID"] = 73,
@@ -10015,7 +10015,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Anti-torpedo_Bulge_%28Large%29"
+		["英文Wiki"] = ""
 	},
 	["074"] = {
 		["ID"] = 74,
@@ -10271,7 +10271,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%8E%A2%E7%85%A7%E7%81%AF",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Searchlight"
+		["英文Wiki"] = ""
 	},
 	["075"] = {
 		["ID"] = 75,
@@ -10318,7 +10318,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "航巡、扬陆可以装备<br />雷巡、秋津洲(含改)不可装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E3%83%89%E3%83%A9%E3%83%A0%E7%BC%B6%28%E8%BC%B8%E9%80%81%E7%94%A8%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Drum_Canister_%28Transport_Use%29"
+		["英文Wiki"] = ""
 	},
 	["076"] = {
 		["ID"] = 76,
@@ -10439,7 +10439,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/38cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["077"] = {
 		["ID"] = 77,
@@ -10495,7 +10495,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15cm%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15cm_Twin_Secondary_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["078"] = {
 		["ID"] = 78,
@@ -10658,7 +10658,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Single_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["079"] = {
 		["ID"] = 79,
@@ -10845,7 +10845,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗, 更新时消耗<font color=red>熟练搭乘员</font>x1"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_%28634_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["080"] = {
 		["ID"] = 80,
@@ -10993,7 +10993,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_Model_12"
+		["英文Wiki"] = ""
 	},
 	["081"] = {
 		["ID"] = 81,
@@ -11181,7 +11181,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗, 更新时消耗<font color=red>熟练搭乘员</font>x2"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_Model_12_%28634_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["082"] = {
 		["ID"] = 82,
@@ -11329,7 +11329,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28931_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["083"] = {
 		["ID"] = 83,
@@ -11371,7 +11371,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_%28931_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["084"] = {
 		["ID"] = 84,
@@ -11492,7 +11492,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/2cm%20%E5%9B%9B%E9%80%A3%E8%A3%85FlaK%2038",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/2cm_Flakvierling_38"
+		["英文Wiki"] = ""
 	},
 	["085"] = {
 		["ID"] = 85,
@@ -11553,7 +11553,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/3.7cm%20FlaK%20M42",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/3.7cm_FlaK_M42"
+		["英文Wiki"] = ""
 	},
 	["086"] = {
 		["ID"] = 86,
@@ -11588,7 +11588,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "同时修理船数+1<br />工作舰可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%89%87%E4%BF%AE%E7%90%86%E6%96%BD%E8%A8%AD",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ship_Repair_Facility"
+		["英文Wiki"] = ""
 	},
 	["087"] = {
 		["ID"] = 87,
@@ -11728,7 +11728,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%96%B0%E5%9E%8B%E9%AB%98%E6%B8%A9%E9%AB%98%E5%9C%A7%E7%BC%B6",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/New_Model_High_Temperature_High_Pressure_Boiler"
+		["英文Wiki"] = ""
 	},
 	["088"] = {
 		["ID"] = 88,
@@ -11848,7 +11848,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar_Kai_4"
+		["英文Wiki"] = ""
 	},
 	["089"] = {
 		["ID"] = 89,
@@ -11983,7 +11983,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_21_Air_Radar_Kai"
+		["英文Wiki"] = ""
 	},
 	["090"] = {
 		["ID"] = 90,
@@ -12207,7 +12207,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/20.3cm%282%E5%8F%B7%29%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/20.3cm_%28No.2%29_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["091"] = {
 		["ID"] = 91,
@@ -12319,7 +12319,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_High-angle_Gun_Mount_%28Late_Model%29"
+		["英文Wiki"] = ""
 	},
 	["092"] = {
 		["ID"] = 92,
@@ -12493,7 +12493,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%AF%98%E5%BC%8F40mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Bi_Type_40mm_Twin_Autocannon_Mount"
+		["英文Wiki"] = ""
 	},
 	["093"] = {
 		["ID"] = 93,
@@ -12635,7 +12635,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x2, 更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E5%8F%8B%E6%B0%B8%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Tomonaga_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["094"] = {
 		["ID"] = 94,
@@ -12705,7 +12705,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%8F%8B%E6%B0%B8%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Tomonaga_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["095"] = {
 		["ID"] = 95,
@@ -12742,7 +12742,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A653cm%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%288%E9%96%80%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Submarine_53cm_Bow_Torpedo_Mount_%288_tubes%29"
+		["英文Wiki"] = ""
 	},
 	["096"] = {
 		["ID"] = 96,
@@ -12878,7 +12878,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_21_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["097"] = {
 		["ID"] = 97,
@@ -12920,7 +12920,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["098"] = {
 		["ID"] = 98,
@@ -13048,7 +13048,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x1, 更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["099"] = {
 		["ID"] = 99,
@@ -13187,7 +13187,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x3，失败时不消耗, 更新时消耗<font color=red>熟练搭乘员</font>x2"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_99_Dive_Bomber_%28Egusa_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["100"] = {
 		["ID"] = 100,
@@ -13265,7 +13265,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_%28Egusa_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["101"] = {
 		["ID"] = 101,
@@ -13316,7 +13316,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "工作、扬陆可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%85%A7%E6%98%8E%E5%BC%BE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Star_Shell"
+		["英文Wiki"] = ""
 	},
 	["102"] = {
 		["ID"] = 102,
@@ -13425,7 +13425,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AB%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E5%A4%9C%E5%81%B5%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_98_Reconnaissance_Seaplane_%28Night_Recon%29"
+		["英文Wiki"] = ""
 	},
 	["103"] = {
 		["ID"] = 103,
@@ -13603,7 +13603,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x3，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD35.6cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_35.6cm_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["104"] = {
 		["ID"] = 104,
@@ -13730,7 +13730,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%28%E3%83%80%E3%82%BA%E3%83%AB%E8%BF%B7%E5%BD%A9%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/35.6cm_Twin_Gun_Mount_%28Dazzle_Camouflage%29"
+		["英文Wiki"] = ""
 	},
 	["105"] = {
 		["ID"] = 105,
@@ -13850,7 +13850,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_41cm_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["106"] = {
 		["ID"] = 106,
@@ -14058,7 +14058,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_13_Air_Radar_Kai"
+		["英文Wiki"] = ""
 	},
 	["107"] = {
 		["ID"] = 107,
@@ -14141,7 +14141,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8%E6%96%BD%E8%A8%AD",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Fleet_Command_Facility"
+		["英文Wiki"] = ""
 	},
 	["108"] = {
 		["ID"] = 108,
@@ -14203,7 +14203,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "航巡可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%89%A6%E8%BC%89%E6%A9%9F%E6%95%B4%E5%82%99%E5%93%A1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Skilled_Carrier-based_Aircraft_Maintenance_Personnel"
+		["英文Wiki"] = ""
 	},
 	["109"] = {
 		["ID"] = 109,
@@ -14316,7 +14316,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E4%B8%99%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52C_%28601_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["110"] = {
 		["ID"] = 110,
@@ -14358,7 +14358,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Reppuu_%28601_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["111"] = {
 		["ID"] = 111,
@@ -14409,7 +14409,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_%28601_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["112"] = {
 		["ID"] = 112,
@@ -14452,7 +14452,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_%28601_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["113"] = {
 		["ID"] = 113,
@@ -14495,7 +14495,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%28%E5%85%AD%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ryuusei_%28601_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["114"] = {
 		["ID"] = 114,
@@ -14600,7 +14600,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/38cm_Twin_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["115"] = {
 		["ID"] = 115,
@@ -14740,7 +14740,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ar196%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ar196_Kai"
+		["英文Wiki"] = ""
 	},
 	["116"] = {
 		["ID"] = 116,
@@ -14866,7 +14866,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x2，失败时不消耗, 更新时消耗<font color=red>戦闘詳報</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Armor_Piercing_Shell"
+		["英文Wiki"] = ""
 	},
 	["117"] = {
 		["ID"] = 117,
@@ -14984,7 +14984,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD46cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_46cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["118"] = {
 		["ID"] = 118,
@@ -15116,7 +15116,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Shiun"
+		["英文Wiki"] = ""
 	},
 	["119"] = {
 		["ID"] = 119,
@@ -15336,7 +15336,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["120"] = {
 		["ID"] = 120,
@@ -15488,7 +15488,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/91%E5%BC%8F%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_91_Anti-Aircraft_Fire_Director"
+		["英文Wiki"] = ""
 	},
 	["121"] = {
 		["ID"] = 121,
@@ -15727,7 +15727,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/94%E5%BC%8F%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_94_Anti-Aircraft_Fire_Director"
+		["英文Wiki"] = ""
 	},
 	["122"] = {
 		["ID"] = 122,
@@ -15908,7 +15908,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%AB%98%E8%A7%92%E7%A0%B2%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_%2B_Anti-Aircraft_Fire_Director"
+		["英文Wiki"] = ""
 	},
 	["123"] = {
 		["ID"] = 123,
@@ -15966,7 +15966,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "高速战舰装备不可",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/SKC34%2020.3cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/SKC34_20.3cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["124"] = {
 		["ID"] = 124,
@@ -16037,7 +16037,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "对空电探",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/FuMO25%20%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/FuMO25_Radar"
+		["英文Wiki"] = ""
 	},
 	["125"] = {
 		["ID"] = 125,
@@ -16161,7 +16161,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Triple_%28Oxygen%29_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["126"] = {
 		["ID"] = 126,
@@ -16219,7 +16219,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/WG42%20%28Wurfgerat%2042%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/WG42_%28Wurfger%C3%A4t_42%29"
+		["英文Wiki"] = ""
 	},
 	["127"] = {
 		["ID"] = 127,
@@ -16257,7 +16257,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BDFaT%E4%BB%95%E6%A7%98%E4%B9%9D%E4%BA%94%E5%BC%8F%E9%85%B8%E7%B4%A0%E9%AD%9A%E9%9B%B7%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_FaT_Type_95_Oxygen_Torpedo_Kai"
+		["英文Wiki"] = ""
 	},
 	["128"] = {
 		["ID"] = 128,
@@ -16378,7 +16378,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x3，失败时不消耗, 更新时消耗<font color=red>戦闘詳報</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD51cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_51cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["129"] = {
 		["ID"] = 129,
@@ -16510,7 +16510,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%A6%8B%E5%BC%B5%E5%93%A1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Skilled_Lookouts"
+		["英文Wiki"] = ""
 	},
 	["130"] = {
 		["ID"] = 130,
@@ -16567,7 +16567,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%AB%98%E8%A7%92%E7%A0%B2%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_High-angle_Gun_%2B_Anti-Aircraft_Fire_Director"
+		["英文Wiki"] = ""
 	},
 	["131"] = {
 		["ID"] = 131,
@@ -16704,7 +16704,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E4%B8%89%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/25mm_Triple_Autocannon_Mount_%28Concentrated_Deployment%29"
+		["英文Wiki"] = ""
 	},
 	["132"] = {
 		["ID"] = 132,
@@ -16767,7 +16767,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Passive_Sonar"
+		["英文Wiki"] = ""
 	},
 	["133"] = {
 		["ID"] = 133,
@@ -16887,7 +16887,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/381mm%EF%BC%8F50%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/381mm/50_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["134"] = {
 		["ID"] = 134,
@@ -17008,7 +17008,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/OTO%20152mm%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/OTO_152mm_Triple_Rapid_Fire_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["135"] = {
 		["ID"] = 135,
@@ -17127,7 +17127,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/90mm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/90mm_Single_High-angle_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["136"] = {
 		["ID"] = 136,
@@ -17305,7 +17305,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E3%83%97%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BC%E5%BC%8F%E6%B0%B4%E4%B8%AD%E9%98%B2%E5%BE%A1%E9%9A%94%E5%A3%81",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Pugliese_Underwater_Protection_Bulkhead"
+		["英文Wiki"] = ""
 	},
 	["137"] = {
 		["ID"] = 137,
@@ -17409,7 +17409,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/381mm%EF%BC%8F50%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/381mm/50_Triple_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["138"] = {
 		["ID"] = 138,
@@ -17449,7 +17449,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有秋津洲(含改)可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E5%A4%A7%E8%89%87",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Large_Flying_Boat"
+		["英文Wiki"] = ""
 	},
 	["139"] = {
 		["ID"] = 139,
@@ -17672,7 +17672,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15.2cm_Twin_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["140"] = {
 		["ID"] = 140,
@@ -17841,7 +17841,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/96%E5%BC%8F150cm%E6%8E%A2%E7%85%A7%E7%81%AF",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_150cm_Searchlight"
+		["英文Wiki"] = ""
 	},
 	["141"] = {
 		["ID"] = 141,
@@ -17975,7 +17975,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/32%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_32_Surface_Radar_Kai"
+		["英文Wiki"] = ""
 	},
 	["142"] = {
 		["ID"] = 142,
@@ -18018,7 +18018,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15m%E4%BA%8C%E9%87%8D%E6%B8%AC%E8%B7%9D%E5%84%80%EF%BC%8B21%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15m_Duplex_Rangefinder_%2B_Type_21_Radar_Kai_Ni"
+		["英文Wiki"] = ""
 	},
 	["143"] = {
 		["ID"] = 143,
@@ -18128,7 +18128,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E6%9D%91%E7%94%B0%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28Murata_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["144"] = {
 		["ID"] = 144,
@@ -18258,7 +18258,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E6%9D%91%E7%94%B0%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Tenzan_Model_12_%28Murata_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["145"] = {
 		["ID"] = 145,
@@ -18407,7 +18407,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%88%A6%E9%97%98%E7%B3%A7%E9%A3%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Combat_Ration"
+		["英文Wiki"] = ""
 	},
 	["146"] = {
 		["ID"] = 146,
@@ -18442,7 +18442,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B4%8B%E4%B8%8A%E8%A3%9C%E7%B5%A6",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Underway_Replenishment"
+		["英文Wiki"] = ""
 	},
 	["147"] = {
 		["ID"] = 147,
@@ -18579,7 +18579,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/120mm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["148"] = {
 		["ID"] = 148,
@@ -18620,7 +18620,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E5%8D%97%E5%B1%B1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_Nanzan"
+		["英文Wiki"] = ""
 	},
 	["149"] = {
 		["ID"] = 149,
@@ -18800,7 +18800,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E6%B0%B4%E4%B8%AD%E8%81%B4%E9%9F%B3%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_4_Passive_Sonar"
+		["英文Wiki"] = ""
 	},
 	["150"] = {
 		["ID"] = 150,
@@ -18858,7 +18858,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%A7%8B%E5%88%80%E9%AD%9A%E3%81%AE%E7%BC%B6%E8%A9%B0",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Canned_Mackerel"
+		["英文Wiki"] = ""
 	},
 	["151"] = {
 		["ID"] = 151,
@@ -18990,7 +18990,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>ネ(Ne)式引擎</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%99%AF%E9%9B%B2%28%E8%89%A6%E5%81%B5%E5%9E%8B%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_Keiun_%28Carrier-based_Reconnaissance_Model%29"
+		["英文Wiki"] = ""
 	},
 	["152"] = {
 		["ID"] = 152,
@@ -19107,7 +19107,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_52_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["153"] = {
 		["ID"] = 153,
@@ -19212,7 +19212,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E4%B8%99%28%E4%BB%98%E5%B2%A9%E4%BA%95%E5%B0%8F%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52C_%28w/_Iwai_Flight%29"
+		["英文Wiki"] = ""
 	},
 	["154"] = {
 		["ID"] = 154,
@@ -19343,7 +19343,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A662%E5%9E%8B%28%E7%88%86%E6%88%A6%EF%BC%8F%E5%B2%A9%E4%BA%95%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_62_%28Fighter-bomber_/_Iwai_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["155"] = {
 		["ID"] = 155,
@@ -19386,7 +19386,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A621%E5%9E%8B%28%E4%BB%98%E5%B2%A9%E6%9C%AC%E5%B0%8F%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_21_%28w/_Iwamoto_Flight%29"
+		["英文Wiki"] = ""
 	},
 	["156"] = {
 		["ID"] = 156,
@@ -19491,7 +19491,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E6%88%A652%E5%9E%8B%E7%94%B2%28%E4%BB%98%E5%B2%A9%E6%9C%AC%E5%B0%8F%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zero_Fighter_Model_52A_%28w/_Iwamoto_Flight%29"
+		["英文Wiki"] = ""
 	},
 	["157"] = {
 		["ID"] = 157,
@@ -19596,7 +19596,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A653%E5%9E%8B%28%E5%B2%A9%E6%9C%AC%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_53_%28Iwamoto_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["158"] = {
 		["ID"] = 158,
@@ -19638,7 +19638,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Bf109T%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Bf_109T_Kai"
+		["英文Wiki"] = ""
 	},
 	["159"] = {
 		["ID"] = 159,
@@ -19680,7 +19680,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Fw190T%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Fw_190T_Kai"
+		["英文Wiki"] = ""
 	},
 	["160"] = {
 		["ID"] = 160,
@@ -19737,7 +19737,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/10.5cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/10.5cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["161"] = {
 		["ID"] = 161,
@@ -19857,7 +19857,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Triple_Gun_Mount_Mk.7"
+		["英文Wiki"] = ""
 	},
 	["162"] = {
 		["ID"] = 162,
@@ -19971,7 +19971,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/203mm%EF%BC%8F53%20%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/203mm/53_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["163"] = {
 		["ID"] = 163,
@@ -20104,7 +20104,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ro.43%E6%B0%B4%E5%81%B5",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ro.43_Reconnaissance_Seaplane"
+		["英文Wiki"] = ""
 	},
 	["164"] = {
 		["ID"] = 164,
@@ -20242,7 +20242,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ro.44%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ro.44_Seaplane_Fighter"
+		["英文Wiki"] = ""
 	},
 	["165"] = {
 		["ID"] = 165,
@@ -20383,7 +20383,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E6%B0%B4%E6%88%A6%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Seaplane_Fighter_Kai"
+		["英文Wiki"] = ""
 	},
 	["166"] = {
 		["ID"] = 166,
@@ -20534,7 +20534,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%28%E5%85%AB%E4%B9%9D%E5%BC%8F%E4%B8%AD%E6%88%A6%E8%BB%8A%EF%BC%86%E9%99%B8%E6%88%A6%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Daihatsu_Landing_Craft_%28Type_89_Medium_Tank_%26_Landing_Force%29"
+		["英文Wiki"] = ""
 	},
 	["167"] = {
 		["ID"] = 167,
@@ -20680,7 +20680,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E4%BA%8C%E5%BC%8F%E5%86%85%E7%81%AB%E8%89%87",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Special_Type_2_Amphibious_Landing_Craft"
+		["英文Wiki"] = ""
 	},
 	["168"] = {
 		["ID"] = 168,
@@ -20799,7 +20799,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E9%99%B8%E6%94%BB",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_Land-based_Attack_Aircraft"
+		["英文Wiki"] = ""
 	},
 	["169"] = {
 		["ID"] = 169,
@@ -20916,7 +20916,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft"
+		["英文Wiki"] = ""
 	},
 	["170"] = {
 		["ID"] = 170,
@@ -20956,7 +20956,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%28%E9%87%8E%E4%B8%AD%E9%9A%8A%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_1_Land-based_Attack_Aircraft_%28Nonaka_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["171"] = {
 		["ID"] = 171,
@@ -21129,7 +21129,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/OS2U",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/OS2U"
+		["英文Wiki"] = ""
 	},
 	["172"] = {
 		["ID"] = 172,
@@ -21187,7 +21187,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.28%20mod.2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/5inch_Twin_Gun_Mount_Mk.28_mod.2"
+		["英文Wiki"] = ""
 	},
 	["173"] = {
 		["ID"] = 173,
@@ -21250,7 +21250,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2040mm%E5%9B%9B%E9%80%A3%E8%A3%85%E6%A9%9F%E9%96%A2%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Bofors_40mm_Quadruple_Autocannon_Mount"
+		["英文Wiki"] = ""
 	},
 	["174"] = {
 		["ID"] = 174,
@@ -21396,7 +21396,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/53cm%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/53cm_Twin_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["175"] = {
 		["ID"] = 175,
@@ -21433,7 +21433,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B7%E9%9B%BB",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Raiden"
+		["英文Wiki"] = ""
 	},
 	["176"] = {
 		["ID"] = 176,
@@ -21557,7 +21557,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien"
+		["英文Wiki"] = ""
 	},
 	["177"] = {
 		["ID"] = 177,
@@ -21594,7 +21594,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95%28%E9%A3%9B%E8%A1%8C%E7%AC%AC244%E6%88%A6%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien_%28244th_Air_Combat_Group%29"
+		["英文Wiki"] = ""
 	},
 	["178"] = {
 		["ID"] = 178,
@@ -21634,7 +21634,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有秋津洲(含改)可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/PBY-5A%20Catalina",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/PBY-5A_Catalina"
+		["英文Wiki"] = ""
 	},
 	["179"] = {
 		["ID"] = 179,
@@ -21758,7 +21758,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD61cm%E5%85%AD%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_61cm_Sextuple_%28Oxygen%29_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["180"] = {
 		["ID"] = 180,
@@ -21797,7 +21797,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%BA%8C%E4%BA%8C%E5%9E%8B%E7%94%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Land-based_Attack_Aircraft_Model_22A"
+		["英文Wiki"] = ""
 	},
 	["181"] = {
 		["ID"] = 181,
@@ -21924,7 +21924,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A632%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_32"
+		["英文Wiki"] = ""
 	},
 	["182"] = {
 		["ID"] = 182,
@@ -22052,7 +22052,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A632%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_32_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["183"] = {
 		["ID"] = 183,
@@ -22154,7 +22154,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.7%EF%BC%8BGFCS",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Triple_Gun_Mount_Mk.7_%2B_GFCS"
+		["英文Wiki"] = ""
 	},
 	["184"] = {
 		["ID"] = 184,
@@ -22286,7 +22286,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x1"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20OR%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Re.2001_OR_Kai"
+		["英文Wiki"] = ""
 	},
 	["185"] = {
 		["ID"] = 185,
@@ -22323,7 +22323,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%88%A6%20%E9%A3%9B%E7%87%95%E4%B8%80%E5%9E%8B%E4%B8%81",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Fighter_Hien_Model_1D"
+		["英文Wiki"] = ""
 	},
 	["186"] = {
 		["ID"] = 186,
@@ -22363,7 +22363,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%20%E4%B8%89%E5%9B%9B%E5%9E%8B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_1_Land-based_Attack_Aircraft_Model_34"
+		["英文Wiki"] = ""
 	},
 	["187"] = {
 		["ID"] = 187,
@@ -22403,7 +22403,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "只有陆上基地可以装备",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Ginga"
+		["英文Wiki"] = ""
 	},
 	["188"] = {
 		["ID"] = 188,
@@ -22457,7 +22457,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20G%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Re.2001_G_Kai"
+		["英文Wiki"] = ""
 	},
 	["189"] = {
 		["ID"] = 189,
@@ -22510,7 +22510,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Re.2005%20%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Re.2005_Kai"
+		["英文Wiki"] = ""
 	},
 	["190"] = {
 		["ID"] = 190,
@@ -22626,7 +22626,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/38.1cm%20Mk.I%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/38.1cm_Mk.I_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["191"] = {
 		["ID"] = 191,
@@ -22686,7 +22686,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/QF%202%E3%83%9D%E3%83%B3%E3%83%898%E9%80%A3%E8%A3%85%E3%83%9D%E3%83%B3%E3%83%9D%E3%83%B3%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/QF_2-pounder_Octuple_Pom-pom_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["192"] = {
 		["ID"] = 192,
@@ -22786,7 +22786,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/38.1cm%20Mk.I%EF%BC%8FN%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/38.1cm_Mk.I/N_Twin_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["193"] = {
 		["ID"] = 193,
@@ -22917,7 +22917,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
-		["英文Wiki"] = "https://kancolle.wikia.com/wiki/Toku_Daihatsu_Landing_Craft"
+		["英文Wiki"] = ""
 	},
 	["194"] = {
 		["ID"] = 194,
@@ -23088,7 +23088,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Late%20298B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Lat%C3%A9_298B"
+		["英文Wiki"] = ""
 	},
 	["195"] = {
 		["ID"] = 195,
@@ -23233,7 +23233,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/SBD",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/SBD"
+		["英文Wiki"] = ""
 	},
 	["196"] = {
 		["ID"] = 196,
@@ -23276,7 +23276,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/TBD",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBD"
+		["英文Wiki"] = ""
 	},
 	["197"] = {
 		["ID"] = 197,
@@ -23392,7 +23392,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/F4F-3",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/F4F-3"
+		["英文Wiki"] = ""
 	},
 	["198"] = {
 		["ID"] = 198,
@@ -23511,7 +23511,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/F4F-4",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/F4F-4"
+		["英文Wiki"] = ""
 	},
 	["199"] = {
 		["ID"] = 199,
@@ -23552,7 +23552,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%99%B4%E5%BC%8F%E6%99%AF%E9%9B%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Jet_Keiun_Kai"
+		["英文Wiki"] = ""
 	},
 	["200"] = {
 		["ID"] = 200,
@@ -23592,7 +23592,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%A9%98%E8%8A%B1%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Kikka_Kai"
+		["英文Wiki"] = ""
 	},
 	["201"] = {
 		["ID"] = 201,
@@ -23726,7 +23726,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%B8%80%E4%B8%80%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Model_11"
+		["英文Wiki"] = ""
 	},
 	["202"] = {
 		["ID"] = 202,
@@ -23764,7 +23764,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E4%BA%8C%E4%B8%80%E5%9E%8B%20%E7%B4%AB%E9%9B%BB%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Model_21_Shiden_Kai"
+		["英文Wiki"] = ""
 	},
 	["203"] = {
 		["ID"] = 203,
@@ -23903,7 +23903,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E6%9C%AC%E6%96%B0%E8%A8%AD%E8%A8%88%20%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E4%B8%AD%E5%9E%8B%E8%89%A6%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/New_Kanhon_Design_Anti-torpedo_Bulge_%28Medium%29"
+		["英文Wiki"] = ""
 	},
 	["204"] = {
 		["ID"] = 204,
@@ -24027,7 +24027,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E6%9C%AC%E6%96%B0%E8%A8%AD%E8%A8%88%20%E5%A2%97%E8%A8%AD%E3%83%90%E3%83%AB%E3%82%B8%28%E5%A4%A7%E5%9E%8B%E8%89%A6%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/New_Kanhon_Design_Anti-torpedo_Bulge_%28Large%29"
+		["英文Wiki"] = ""
 	},
 	["205"] = {
 		["ID"] = 205,
@@ -24149,7 +24149,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/F6F-3"
+		["英文Wiki"] = ""
 	},
 	["206"] = {
 		["ID"] = 206,
@@ -24252,7 +24252,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/F6F-5",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/F6F-5"
+		["英文Wiki"] = ""
 	},
 	["207"] = {
 		["ID"] = 207,
@@ -24342,7 +24342,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_%28631_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["208"] = {
 		["ID"] = 208,
@@ -24431,7 +24431,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%99%B4%E5%B5%90%28%E5%85%AD%E4%B8%89%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Seiran_%28631_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["209"] = {
 		["ID"] = 209,
@@ -24476,7 +24476,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E8%BC%B8%E9%80%81%E7%94%A8%E5%88%86%E8%A7%A3%E6%B8%88%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Saiun_%28Disassembled_for_Transport%29"
+		["英文Wiki"] = ""
 	},
 	["210"] = {
 		["ID"] = 210,
@@ -24599,7 +24599,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E6%B0%B4%E9%98%B2%E5%BC%8F%E6%9C%9B%E9%81%A0%E9%8F%A1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Submarine_Radar_%26_Waterproof_Telescope"
+		["英文Wiki"] = ""
 	},
 	["211"] = {
 		["ID"] = 211,
@@ -24639,7 +24639,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2%28E27%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Submarine_Radar_%26_Passive_Radiolocator_%28E27%29"
+		["英文Wiki"] = ""
 	},
 	["212"] = {
 		["ID"] = 212,
@@ -24679,7 +24679,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E6%9D%B1%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%B3%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Saiun_%28Eastern_Caroline_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["213"] = {
 		["ID"] = 213,
@@ -24731,7 +24731,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%286%E9%96%80%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Late_Model_Bow_Torpedo_Mount_%286_tubes%29"
+		["英文Wiki"] = ""
 	},
 	["214"] = {
 		["ID"] = 214,
@@ -24784,7 +24784,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%81%B4%E9%9F%B3%E5%93%A1%EF%BC%8B%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%286%E9%96%80%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Skilled_Sonar_Personnel_%2B_Late_Model_Bow_Torpedo_Mount_%286_tubes%29"
+		["英文Wiki"] = ""
 	},
 	["215"] = {
 		["ID"] = 215,
@@ -24906,7 +24906,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ro.44%E6%B0%B4%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9Fbis",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ro.44_Seaplane_Fighter_bis"
+		["英文Wiki"] = ""
 	},
 	["216"] = {
 		["ID"] = 216,
@@ -25031,7 +25031,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E6%B0%B4%E6%88%A6%E6%94%B9%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Seaplane_Fighter_Kai_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["217"] = {
 		["ID"] = 217,
@@ -25169,7 +25169,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BC%B7%E9%A2%A8%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Kyoufuu_Kai"
+		["英文Wiki"] = ""
 	},
 	["218"] = {
 		["ID"] = 218,
@@ -25206,7 +25206,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E6%88%A6%20%E7%96%BE%E9%A2%A8",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_4_Fighter_Hayate"
+		["英文Wiki"] = ""
 	},
 	["219"] = {
 		["ID"] = 219,
@@ -25331,7 +25331,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A663%E5%9E%8B%28%E7%88%86%E6%88%A6%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Fighter_Model_63_%28Fighter-bomber%29"
+		["英文Wiki"] = ""
 	},
 	["220"] = {
 		["ID"] = 220,
@@ -25509,7 +25509,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/8cm%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%EF%BC%8B%E5%A2%97%E8%A8%AD%E6%A9%9F%E9%8A%83",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/8cm_High-angle_Gun_Kai_%2B_Extra_Machine_Guns"
+		["英文Wiki"] = ""
 	},
 	["221"] = {
 		["ID"] = 221,
@@ -25647,7 +25647,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_II"
+		["英文Wiki"] = ""
 	},
 	["222"] = {
 		["ID"] = 222,
@@ -25762,7 +25762,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_III_A"
+		["英文Wiki"] = ""
 	},
 	["223"] = {
 		["ID"] = 223,
@@ -25801,7 +25801,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E7%94%B2%2854%E6%88%A6%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_III_A_%2854th_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["224"] = {
 		["ID"] = 224,
@@ -25905,7 +25905,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%88%86%E8%A3%85%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCIII%E5%9E%8B%E6%94%B9%2865%E6%88%A6%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Bomb-carrying_Type_1_Fighter_Hayabusa_Model_III_Kai_%2865th_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["225"] = {
 		["ID"] = 225,
@@ -25944,7 +25944,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B%2864%E6%88%A6%E9%9A%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_1_Fighter_Hayabusa_Model_II_%2864th_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["226"] = {
 		["ID"] = 226,
@@ -26095,7 +26095,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%BA%94%E5%BC%8F%E7%88%86%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_95_Depth_Charge"
+		["英文Wiki"] = ""
 	},
 	["227"] = {
 		["ID"] = 227,
@@ -26155,7 +26155,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Depth_Charge"
+		["英文Wiki"] = ""
 	},
 	["228"] = {
 		["ID"] = 228,
@@ -26298,7 +26298,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E5%85%AD%E5%BC%8F%E8%89%A6%E6%88%A6%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_96_Fighter_Kai"
+		["英文Wiki"] = ""
 	},
 	["229"] = {
 		["ID"] = 229,
@@ -26575,7 +26575,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Single_High-angle_Gun_Mount_%28Late_Model%29"
+		["英文Wiki"] = ""
 	},
 	["230"] = {
 		["ID"] = 230,
@@ -26647,7 +26647,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%EF%BC%8B%E6%88%A6%E8%BB%8A%E7%AC%AC11%E9%80%A3%E9%9A%8A",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Toku_Daihatsu_Landing_Craft_%2B_11th_Tank_Regiment"
+		["英文Wiki"] = ""
 	},
 	["231"] = {
 		["ID"] = 231,
@@ -26773,7 +26773,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/30.5cm_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["232"] = {
 		["ID"] = 232,
@@ -26885,7 +26885,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/30.5cm_Triple_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["233"] = {
 		["ID"] = 233,
@@ -26928,7 +26928,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/F4U-1D",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/F4U-1D"
+		["英文Wiki"] = ""
 	},
 	["234"] = {
 		["ID"] = 234,
@@ -27057,7 +27057,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15.5cm_Triple_Secondary_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["235"] = {
 		["ID"] = 235,
@@ -27249,7 +27249,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15.5cm_Triple_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["236"] = {
 		["ID"] = 236,
@@ -27434,7 +27434,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x3，失败时不消耗, 更新时消耗<font color=red>戦闘詳報</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/41cm_Triple_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["237"] = {
 		["ID"] = 237,
@@ -27616,7 +27616,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Zuiun_%28634_Air_Group/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["238"] = {
 		["ID"] = 238,
@@ -27727,7 +27727,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F11%E5%9E%8B%E4%B9%99",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane_Model_11B"
+		["英文Wiki"] = ""
 	},
 	["239"] = {
 		["ID"] = 239,
@@ -27782,7 +27782,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E6%B0%B4%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F11%E5%9E%8B%E4%B9%99%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_0_Reconnaissance_Seaplane_Model_11B_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["240"] = {
 		["ID"] = 240,
@@ -27842,7 +27842,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B%28%E5%BE%8C%E6%9C%9F%E8%AA%BF%E6%95%B4%E5%9E%8B%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_22_Surface_Radar_Kai_4_%28Calibrated_Late_Model%29"
+		["英文Wiki"] = ""
 	},
 	["241"] = {
 		["ID"] = 241,
@@ -27900,7 +27900,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%88%A6%E9%97%98%E7%B3%A7%E9%A3%9F%28%E7%89%B9%E5%88%A5%E3%81%AA%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Combat_Ration_%28Special_Onigiri%29"
+		["英文Wiki"] = ""
 	},
 	["242"] = {
 		["ID"] = 242,
@@ -28042,7 +28042,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x1"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish"
+		["英文Wiki"] = ""
 	},
 	["243"] = {
 		["ID"] = 243,
@@ -28164,7 +28164,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.II%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish_Mk.II_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["244"] = {
 		["ID"] = 244,
@@ -28227,7 +28227,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Swordfish_Mk.III_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["245"] = {
 		["ID"] = 245,
@@ -28343,7 +28343,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/38cm_Quadruple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["246"] = {
 		["ID"] = 246,
@@ -28440,7 +28440,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/38cm_Quadruple_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["247"] = {
 		["ID"] = 247,
@@ -28556,7 +28556,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/15.2cm_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["248"] = {
 		["ID"] = 248,
@@ -28656,7 +28656,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Skua",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Skua"
+		["英文Wiki"] = ""
 	},
 	["249"] = {
 		["ID"] = 249,
@@ -28777,7 +28777,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗, 更新时消耗<font color=red>熟练搭乘员</font>x2"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Fulmar",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Fulmar"
+		["英文Wiki"] = ""
 	},
 	["250"] = {
 		["ID"] = 250,
@@ -28897,7 +28897,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.I",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Spitfire_Mk.I"
+		["英文Wiki"] = ""
 	},
 	["251"] = {
 		["ID"] = 251,
@@ -29017,7 +29017,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.V",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Spitfire_Mk.V"
+		["英文Wiki"] = ""
 	},
 	["252"] = {
 		["ID"] = 252,
@@ -29061,7 +29061,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Seafire%20Mk.III%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Seafire_Mk.III_Kai"
+		["英文Wiki"] = ""
 	},
 	["253"] = {
 		["ID"] = 253,
@@ -29099,7 +29099,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Spitfire%20Mk.IX%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Spitfire_Mk.IX_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["254"] = {
 		["ID"] = 254,
@@ -29143,7 +29143,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3N",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/F6F-3N"
+		["英文Wiki"] = ""
 	},
 	["255"] = {
 		["ID"] = 255,
@@ -29187,7 +29187,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/F6F-5N",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/F6F-5N"
+		["英文Wiki"] = ""
 	},
 	["256"] = {
 		["ID"] = 256,
@@ -29231,7 +29231,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/TBF",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBF"
+		["英文Wiki"] = ""
 	},
 	["257"] = {
 		["ID"] = 257,
@@ -29276,7 +29276,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/TBM-3D",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/TBM-3D"
+		["英文Wiki"] = ""
 	},
 	["258"] = {
 		["ID"] = 258,
@@ -29336,7 +29336,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Night_Battle_Operation_Aviation_Personnel"
+		["英文Wiki"] = ""
 	},
 	["259"] = {
 		["ID"] = 259,
@@ -29398,7 +29398,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%9C%E9%96%93%E4%BD%9C%E6%88%A6%E8%88%AA%E7%A9%BA%E8%A6%81%E5%93%A1%EF%BC%8B%E7%86%9F%E7%B7%B4%E7%94%B2%E6%9D%BF%E5%93%A1",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Night_Battle_Operation_Aviation_Personnel_%2B_Skilled_Deck_Hands"
+		["英文Wiki"] = ""
 	},
 	["260"] = {
 		["ID"] = 260,
@@ -29469,7 +29469,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Type124%20ASDIC",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type124_ASDIC"
+		["英文Wiki"] = ""
 	},
 	["261"] = {
 		["ID"] = 261,
@@ -29540,7 +29540,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Type144%EF%BC%8F147%20ASDIC",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type144/147_ASDIC"
+		["英文Wiki"] = ""
 	},
 	["262"] = {
 		["ID"] = 262,
@@ -29612,7 +29612,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/HF%EF%BC%8FDF%20%EF%BC%8B%20Type144%EF%BC%8F147%20ASDIC",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/HF/DF_%2B_Type144/147_ASDIC"
+		["英文Wiki"] = ""
 	},
 	["263"] = {
 		["ID"] = 263,
@@ -29650,7 +29650,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%28%E4%B8%89%E5%9B%9B%E4%B8%89%E7%A9%BA%29%20%E6%88%A6%E9%97%98301",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Kai_%28343_Air_Group%29_301st_Fighter_Squadron"
+		["英文Wiki"] = ""
 	},
 	["266"] = {
 		["ID"] = 266,
@@ -29874,7 +29874,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗, 更新时消耗<font color=red>戦闘詳報</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2C%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_C_Kai_2"
+		["英文Wiki"] = ""
 	},
 	["267"] = {
 		["ID"] = 267,
@@ -30163,7 +30163,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_2"
+		["英文Wiki"] = ""
 	},
 	["268"] = {
 		["ID"] = 268,
@@ -30269,7 +30269,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%8C%97%E6%96%B9%E8%BF%B7%E5%BD%A9%28%EF%BC%8B%E5%8C%97%E6%96%B9%E8%A3%85%E5%82%99%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Arctic_Camouflage_%28%2B_Arctic_Equipment%29"
+		["英文Wiki"] = ""
 	},
 	["269"] = {
 		["ID"] = 269,
@@ -30306,7 +30306,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%E6%9D%B1%E6%B5%B7",
-		["英文Wiki"] = "https://kancolle.wikia.com/wiki/Prototype_Toukai"
+		["英文Wiki"] = ""
 	},
 	["270"] = {
 		["ID"] = 270,
@@ -30344,7 +30344,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%9D%B1%E6%B5%B7%28%E4%B9%9D%E3%80%87%E4%B8%80%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Toukai_%28901_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["271"] = {
 		["ID"] = 271,
@@ -30471,7 +30471,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%E5%9B%9B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Shiden_Kai_4"
+		["英文Wiki"] = ""
 	},
 	["272"] = {
 		["ID"] = 272,
@@ -30554,7 +30554,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%81%8A%E6%92%83%E9%83%A8%E9%9A%8A%20%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Striking_Force_Fleet_Command_Facility"
+		["英文Wiki"] = ""
 	},
 	["273"] = {
 		["ID"] = 273,
@@ -30594,7 +30594,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E5%81%B5%E5%9B%9B%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Saiun_%284th_Recon_Squad%29"
+		["英文Wiki"] = ""
 	},
 	["274"] = {
 		["ID"] = 274,
@@ -30716,7 +30716,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12cm_30-tube_Rocket_Launcher_Kai_Ni"
+		["英文Wiki"] = ""
 	},
 	["275"] = {
 		["ID"] = 275,
@@ -30832,7 +30832,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/10cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%EF%BC%8B%E5%A2%97%E8%A8%AD%E6%A9%9F%E9%8A%83",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/10cm_Twin_High-angle_Gun_Mount_Kai_%2B_Additional_Machine_Guns"
+		["英文Wiki"] = ""
 	},
 	["276"] = {
 		["ID"] = 276,
@@ -30948,7 +30948,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x3，失败时不消耗, 更新时消耗<font color=red>新型兵装資材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/46cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/46cm_Triple_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["277"] = {
 		["ID"] = 277,
@@ -31097,7 +31097,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x1, 更新时消耗<font color=red>新型航空兵装資材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/FM-2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/FM-2"
+		["英文Wiki"] = ""
 	},
 	["278"] = {
 		["ID"] = 278,
@@ -31295,7 +31295,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/SK%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/SK_Radar"
+		["英文Wiki"] = ""
 	},
 	["279"] = {
 		["ID"] = 279,
@@ -31418,7 +31418,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/SK%EF%BC%8BSG%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/SK_%2B_SG_Radar"
+		["英文Wiki"] = ""
 	},
 	["280"] = {
 		["ID"] = 280,
@@ -31533,7 +31533,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/QF%204.7inch%E7%A0%B2%20Mk.XII%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/QF_4.7inch_Gun_Mk.XII_Kai"
+		["英文Wiki"] = ""
 	},
 	["281"] = {
 		["ID"] = 281,
@@ -31636,7 +31636,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/51cm%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/51cm_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["282"] = {
 		["ID"] = 282,
@@ -31780,7 +31780,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/130mm%20B-13%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/130mm_B-13_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["283"] = {
 		["ID"] = 283,
@@ -31909,7 +31909,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/533mm_Triple_Torpedo_Mount"
+		["英文Wiki"] = ""
 	},
 	["284"] = {
 		["ID"] = 284,
@@ -32032,7 +32032,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30"
+		["英文Wiki"] = ""
 	},
 	["285"] = {
 		["ID"] = 285,
@@ -32170,7 +32170,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%B8%89%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7%E5%BE%8C%E6%9C%9F%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Triple_%28Oxygen%29_Torpedo_Mount_Late_Model"
+		["英文Wiki"] = ""
 	},
 	["286"] = {
 		["ID"] = 286,
@@ -32390,7 +32390,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E5%9B%9B%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7%E5%BE%8C%E6%9C%9F%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/61cm_Quadruple_%28Oxygen%29_Torpedo_Mount_Late_Model"
+		["英文Wiki"] = ""
 	},
 	["287"] = {
 		["ID"] = 287,
@@ -32473,7 +32473,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E7%88%86%E9%9B%B7%E6%8A%95%E5%B0%84%E6%A9%9F%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_3_Depth_Charge_Projector_%28Concentrated_Deployment%29"
+		["英文Wiki"] = ""
 	},
 	["288"] = {
 		["ID"] = 288,
@@ -32568,7 +32568,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD15cm9%E9%80%A3%E8%A3%85%E5%AF%BE%E6%BD%9C%E5%99%B4%E9%80%B2%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Prototype_15cm_9-tube_ASW_Rocket_Launcher"
+		["英文Wiki"] = ""
 	},
 	["289"] = {
 		["ID"] = 289,
@@ -32654,7 +32654,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%28%E3%83%80%E3%82%BA%E3%83%AB%E8%BF%B7%E5%BD%A9%E4%BB%95%E6%A7%98%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/35.6cm_Triple_Gun_Mount_Kai_%28Dazzle_Camouflage%29"
+		["英文Wiki"] = ""
 	},
 	["290"] = {
 		["ID"] = 290,
@@ -32812,7 +32812,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/41cm_Triple_Gun_Mount_Kai_Ni"
+		["英文Wiki"] = ""
 	},
 	["291"] = {
 		["ID"] = 291,
@@ -32864,7 +32864,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_Model_22_%28634_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["292"] = {
 		["ID"] = 292,
@@ -32918,7 +32918,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Suisei_Model_22_%28634_Air_Group/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["293"] = {
 		["ID"] = 293,
@@ -33115,7 +33115,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12cm_Single_Gun_Mount_Kai_2"
+		["英文Wiki"] = ""
 	},
 	["294"] = {
 		["ID"] = 294,
@@ -33319,7 +33319,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_A_Kai_2"
+		["英文Wiki"] = ""
 	},
 	["295"] = {
 		["ID"] = 295,
@@ -33555,7 +33555,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E4%B8%89%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_A_Kai_3_%28Wartime_Modification%29_%2B_Anti-Aircraft_Fire_Director"
+		["英文Wiki"] = ""
 	},
 	["296"] = {
 		["ID"] = 296,
@@ -33861,7 +33861,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E5%9B%9B%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_B_Kai_4_%28Wartime_Modification%29_%2B_Anti-Aircraft_Fire_Director"
+		["英文Wiki"] = ""
 	},
 	["297"] = {
 		["ID"] = 297,
@@ -34095,7 +34095,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/12.7cm_Twin_Gun_Mount_Model_A"
+		["英文Wiki"] = ""
 	},
 	["298"] = {
 		["ID"] = 298,
@@ -34170,7 +34170,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["299"] = {
 		["ID"] = 299,
@@ -34245,7 +34245,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%EF%BC%8BAFCT%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_%2B_AFCT_Kai"
+		["英文Wiki"] = ""
 	},
 	["300"] = {
 		["ID"] = 300,
@@ -34322,7 +34322,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%EF%BC%8BFCR%20type284",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/16inch_Mk.I_Triple_Gun_Mount_Kai_%2B_FCR_Type_284"
+		["英文Wiki"] = ""
 	},
 	["301"] = {
 		["ID"] = 301,
@@ -34398,7 +34398,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/20%E9%80%A3%E8%A3%857inch%20UP%20Rocket%20Launchers",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/20-tube_7inch_UP_Rocket_Launchers"
+		["英文Wiki"] = ""
 	},
 	["302"] = {
 		["ID"] = 302,
@@ -34455,7 +34455,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%28%E4%B9%9D%E4%B8%89%E4%B8%80%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_97_Torpedo_Bomber_%28931_Air_Group/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["303"] = {
 		["ID"] = 303,
@@ -34612,7 +34612,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Bofors15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%20Model1930",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Bofors_15.2cm_Twin_Gun_Mount_Model_1930"
+		["英文Wiki"] = ""
 	},
 	["304"] = {
 		["ID"] = 304,
@@ -34775,7 +34775,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x2，失败时不消耗, 更新时消耗<font color=red>熟练搭乘员</font>x1"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/S9%20Osprey",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/S9_Osprey"
+		["英文Wiki"] = ""
 	},
 	["305"] = {
 		["ID"] = 305,
@@ -34852,7 +34852,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai_Ni_%28w/_KMX%29"
+		["英文Wiki"] = ""
 	},
 	["306"] = {
 		["ID"] = 306,
@@ -34929,7 +34929,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Ju_87C_Kai_Ni_%28w/_KMX/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["307"] = {
 		["ID"] = 307,
@@ -35016,7 +35016,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/GFCS_Mk.37"
+		["英文Wiki"] = ""
 	},
 	["308"] = {
 		["ID"] = 308,
@@ -35132,7 +35132,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%E6%94%B9%EF%BC%8BGFCS%20Mk.37",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30_Kai_%2B_GFCS_Mk.37"
+		["英文Wiki"] = ""
 	},
 	["309"] = {
 		["ID"] = 309,
@@ -35189,7 +35189,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%99%E5%9E%8B",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_C_Kouhyouteki"
+		["英文Wiki"] = ""
 	},
 	["310"] = {
 		["ID"] = 310,
@@ -35408,7 +35408,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/14cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/14cm_Twin_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["311"] = {
 		["ID"] = 311,
@@ -35445,7 +35445,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/Type_2_Land-based_Reconnaissance_Aircraft"
+		["英文Wiki"] = ""
 	},
 	["312"] = {
 		["ID"] = 312,
@@ -35483,7 +35483,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.wikia.com/wiki/Type_2_Land-based_Reconnaissance_Aircraft_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["313"] = {
 		["ID"] = 313,
@@ -35561,7 +35561,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%20%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.wikia.com/wiki/5inch_Single_Gun_Mount_Mk.30_Kai"
+		["英文Wiki"] = ""
 	},
 	["314"] = {
 		["ID"] = 314,
@@ -35692,7 +35692,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/533mm%E4%BA%94%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/533mm_Quintuple_Torpedo_Mount_%28Initial_Model%29"
+		["英文Wiki"] = ""
 	},
 	["315"] = {
 		["ID"] = 315,
@@ -35803,7 +35803,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/SG%20%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
-		["英文Wiki"] = "http://kancolle.wikia.com/wiki/SG_Radar_%28Initial_Model%29"
+		["英文Wiki"] = ""
 	},
 	["316"] = {
 		["ID"] = 316,
@@ -35932,7 +35932,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x1, 更新时消耗<font color=red>新型航空兵装資材</font>x3，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Re.2001%20CB%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Re.2001_CB_Kai"
+		["英文Wiki"] = ""
 	},
 	["317"] = {
 		["ID"] = 317,
@@ -36127,7 +36127,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_3_Shell_Kai"
+		["英文Wiki"] = ""
 	},
 	["318"] = {
 		["ID"] = 318,
@@ -36347,7 +36347,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/41cm_Twin_Gun_Mount_Kai_Ni"
+		["英文Wiki"] = ""
 	},
 	["319"] = {
 		["ID"] = 319,
@@ -36401,7 +36401,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E4%B8%89%E5%8F%B7%E7%88%86%E5%BC%BE%E6%90%AD%E8%BC%89%E6%A9%9F%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Suisei_Model_12_%28634_Air_Group_w/_Type_3_Cluster_Bombs%29"
+		["英文Wiki"] = ""
 	},
 	["320"] = {
 		["ID"] = 320,
@@ -36478,7 +36478,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E4%B8%89%E4%B8%80%E5%8F%B7%E5%85%89%E9%9B%BB%E7%AE%A1%E7%88%86%E5%BC%BE%E6%90%AD%E8%BC%89%E6%A9%9F%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Suisei_Model_12_%28w/_Type_31_Photoelectric_Fuze_Bombs%29"
+		["英文Wiki"] = ""
 	},
 	["322"] = {
 		["ID"] = 322,
@@ -36641,7 +36641,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Zuiun_Kai_Ni_%28634_Air_Group%29"
+		["英文Wiki"] = ""
 	},
 	["323"] = {
 		["ID"] = 323,
@@ -36748,7 +36748,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Zuiun_Kai_Ni_%28634_Air_Group/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["324"] = {
 		["ID"] = 324,
@@ -36906,7 +36906,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/O_Type_Observation_Autogyro_Kai"
+		["英文Wiki"] = ""
 	},
 	["325"] = {
 		["ID"] = 325,
@@ -37066,7 +37066,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x3，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/O_Type_Observation_Autogyro_Kai_Ni"
+		["英文Wiki"] = ""
 	},
 	["326"] = {
 		["ID"] = 326,
@@ -37236,7 +37236,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/S-51J",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/S-51J"
+		["英文Wiki"] = ""
 	},
 	["327"] = {
 		["ID"] = 327,
@@ -37390,7 +37390,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/S-51J%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/S-51J_Kai"
+		["英文Wiki"] = ""
 	},
 	["328"] = {
 		["ID"] = 328,
@@ -37551,7 +37551,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/35.6cm_Twin_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["329"] = {
 		["ID"] = 329,
@@ -37657,7 +37657,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/35.6cm_Twin_Gun_Mount_Kai_Ni"
+		["英文Wiki"] = ""
 	},
 	["330"] = {
 		["ID"] = 330,
@@ -37800,7 +37800,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Mk.I_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["331"] = {
 		["ID"] = 331,
@@ -37950,7 +37950,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x2，失败时不消耗, 更新时消耗<font color=red>新型兵装資材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.V%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Mk.V_Twin_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["332"] = {
 		["ID"] = 332,
@@ -38080,7 +38080,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.VIII%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Mk.VIII_Twin_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["333"] = {
 		["ID"] = 333,
@@ -38118,7 +38118,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai"
+		["英文Wiki"] = ""
 	},
 	["334"] = {
 		["ID"] = 334,
@@ -38156,7 +38156,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%28%E4%B8%89%E4%BA%94%E4%BA%8C%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_%28352_Air_Group/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["335"] = {
 		["ID"] = 335,
@@ -38225,7 +38225,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%28%E8%A9%A6%E8%A3%BD%E8%89%A6%E8%BC%89%E5%9E%8B%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_%28352_Air_Group/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["336"] = {
 		["ID"] = 336,
@@ -38295,7 +38295,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_Ni"
+		["英文Wiki"] = ""
 	},
 	["337"] = {
 		["ID"] = 337,
@@ -38416,7 +38416,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_Ni_Model_E"
+		["英文Wiki"] = ""
 	},
 	["339"] = {
 		["ID"] = 339,
@@ -38496,7 +38496,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B%28%E4%B8%80%E8%88%AA%E6%88%A6%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Reppuu_Kai_Ni_Model_E_%28CarDiv_1/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["340"] = {
 		["ID"] = 340,
@@ -38566,7 +38566,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/152mm/55_Triple_Rapid_Fire_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["341"] = {
 		["ID"] = 341,
@@ -38649,7 +38649,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/152mm%EF%BC%8F55%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/152mm/55_Triple_Rapid_Fire_Gun_Mount_Kai"
+		["英文Wiki"] = ""
 	},
 	["342"] = {
 		["ID"] = 342,
@@ -38732,7 +38732,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9%28%E4%B8%80%E8%88%AA%E6%88%A6%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Ryuusei_Kai_%28CarDiv_1%29"
+		["英文Wiki"] = ""
 	},
 	["343"] = {
 		["ID"] = 343,
@@ -38823,7 +38823,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B5%81%E6%98%9F%E6%94%B9%28%E4%B8%80%E8%88%AA%E6%88%A6%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Ryuusei_Kai_%28CarDiv_1/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["344"] = {
 		["ID"] = 344,
@@ -39008,7 +39008,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x2, 更新时消耗<font color=red>新型航空兵装資材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%E6%94%B9%20%E8%A9%A6%E8%A3%BD%E4%B8%89%E5%8F%B7%E6%88%8A%E5%9E%8B%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Type_97_Torpedo_Bomber_Kai_No._3_Model_E_%28w/_Type_6_Airborne_Radar_Kai%29"
+		["英文Wiki"] = ""
 	},
 	["345"] = {
 		["ID"] = 345,
@@ -39118,7 +39118,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E8%89%A6%E6%94%BB%E6%94%B9%28%E7%86%9F%E7%B7%B4%29%20%E8%A9%A6%E8%A3%BD%E4%B8%89%E5%8F%B7%E6%88%8A%E5%9E%8B%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Type_97_Torpedo_Bomber_Kai_%28Skilled%29_No._3_Model_E_%28w/_Type_6_Airborne_Radar_Kai%29"
+		["英文Wiki"] = ""
 	},
 	["346"] = {
 		["ID"] = 346,
@@ -39268,7 +39268,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>戦闘詳報</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_2_12cm_Mortar_Kai"
+		["英文Wiki"] = ""
 	},
 	["347"] = {
 		["ID"] = 347,
@@ -39330,7 +39330,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_2_12cm_Mortar_Kai_%28Concentrated_Deployment%29"
+		["英文Wiki"] = ""
 	},
 	["348"] = {
 		["ID"] = 348,
@@ -39470,7 +39470,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型噴進装備開発資材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%BC%89%E5%9E%8B%20%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Shipborne_Model_Type_4_20cm_Anti-ground_Rocket_Launcher"
+		["英文Wiki"] = ""
 	},
 	["349"] = {
 		["ID"] = 349,
@@ -39528,7 +39528,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F20cm%E5%AF%BE%E5%9C%B0%E5%99%B4%E9%80%B2%E7%A0%B2%20%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_20cm_Anti-ground_Rocket_Launcher_%28Concentrated_Deployment%29"
+		["英文Wiki"] = ""
 	},
 	["350"] = {
 		["ID"] = 350,
@@ -39564,7 +39564,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Me163B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Me163B"
+		["英文Wiki"] = ""
 	},
 	["351"] = {
 		["ID"] = 351,
@@ -39600,7 +39600,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%20%E7%A7%8B%E6%B0%B4",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Prototype_Shuusui"
+		["英文Wiki"] = ""
 	},
 	["352"] = {
 		["ID"] = 352,
@@ -39636,7 +39636,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%A7%8B%E6%B0%B4",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Shuusui"
+		["英文Wiki"] = ""
 	},
 	["353"] = {
 		["ID"] = 353,
@@ -39679,7 +39679,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20A-5%E6%94%B9%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Fw_190_A-5_Kai_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["354"] = {
 		["ID"] = 354,
@@ -39717,7 +39717,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20D-9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Fw_190_D-9"
+		["英文Wiki"] = ""
 	},
 	["355"] = {
 		["ID"] = 355,
@@ -39791,7 +39791,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/M4A1%20DD",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/M4A1_DD"
+		["英文Wiki"] = ""
 	},
 	["356"] = {
 		["ID"] = 356,
@@ -39949,7 +39949,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/8inch_Triple_Gun_Mount_Mk.9"
+		["英文Wiki"] = ""
 	},
 	["357"] = {
 		["ID"] = 357,
@@ -40092,7 +40092,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9%20mod.2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/8inch_Triple_Gun_Mount_Mk.9_mod.2"
+		["英文Wiki"] = ""
 	},
 	["358"] = {
 		["ID"] = 358,
@@ -40187,7 +40187,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/5inch%20%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E7%BE%A4",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/5inch_Single_High-angle_Gun_Mount_Battery"
+		["英文Wiki"] = ""
 	},
 	["359"] = {
 		["ID"] = 359,
@@ -40280,7 +40280,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/6inch%20%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.XXI",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Twin_Rapid_Fire_Gun_Mount_Mk.XXI"
+		["英文Wiki"] = ""
 	},
 	["360"] = {
 		["ID"] = 360,
@@ -40373,7 +40373,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%20Model%201938",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Bofors_15cm_Twin_Rapid_Fire_Gun_Mount_Mk.9_Model_1938"
+		["英文Wiki"] = ""
 	},
 	["361"] = {
 		["ID"] = 361,
@@ -40467,7 +40467,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2015cm%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.9%E6%94%B9%EF%BC%8B%E5%8D%98%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.10%E6%94%B9%20Model%201938",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Bofors_15cm_Twin_Rapid_Fire_Gun_Mount_Mk.9_Kai_%2B_Single_Rapid_Fire_Gun_Mount_Mk.10_Kai_Model_1938"
+		["英文Wiki"] = ""
 	},
 	["362"] = {
 		["ID"] = 362,
@@ -40602,7 +40602,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
+		["英文Wiki"] = ""
 	},
 	["363"] = {
 		["ID"] = 363,
@@ -40738,7 +40738,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/GFCS%20Mk.37%EF%BC%8B5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/GFCS_Mk.37_%2B_5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
+		["英文Wiki"] = ""
 	},
 	["364"] = {
 		["ID"] = 364,
@@ -40863,7 +40863,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%94%B2%E6%A8%99%E7%9A%84%20%E4%B8%81%E5%9E%8B%E6%94%B9%28%E8%9B%9F%E9%BE%8D%E6%94%B9%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_D_Kouhyouteki_Kai_%28Kouryuu_Kai%29"
+		["英文Wiki"] = ""
 	},
 	["365"] = {
 		["ID"] = 365,
@@ -41009,7 +41009,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E5%BE%B9%E7%94%B2%E5%BC%BE%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_1_Armor_Piercing_Shell_Kai"
+		["英文Wiki"] = ""
 	},
 	["366"] = {
 		["ID"] = 366,
@@ -41278,7 +41278,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2D%E5%9E%8B%E6%94%B9%E4%B8%89",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_Gun_Mount_Model_D_Kai_3"
+		["英文Wiki"] = ""
 	},
 	["367"] = {
 		["ID"] = 367,
@@ -41535,7 +41535,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x1, 更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish_%28Seaplane_Model%29"
+		["英文Wiki"] = ""
 	},
 	["368"] = {
 		["ID"] = 368,
@@ -41721,7 +41721,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%E6%94%B9%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish_Mk.III_Kai_%28Seaplane_Model%29"
+		["英文Wiki"] = ""
 	},
 	["369"] = {
 		["ID"] = 369,
@@ -41842,7 +41842,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.III%E6%94%B9%28%E6%B0%B4%E4%B8%8A%E6%A9%9F%E5%9E%8B%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish_Mk.III_Kai_%28Seaplane_Model/Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["370"] = {
 		["ID"] = 370,
@@ -42034,7 +42034,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Swordfish%20Mk.II%E6%94%B9%28%E6%B0%B4%E5%81%B5%E5%9E%8B%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Swordfish_Mk.II_Kai_%28Reconnaissance_Seaplane_Model%29"
+		["英文Wiki"] = ""
 	},
 	["371"] = {
 		["ID"] = 371,
@@ -42218,7 +42218,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Fairey%20Seafox%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Fairey_Seafox_Kai"
+		["英文Wiki"] = ""
 	},
 	["372"] = {
 		["ID"] = 372,
@@ -42396,7 +42396,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Tenzan_Model_12A"
+		["英文Wiki"] = ""
 	},
 	["373"] = {
 		["ID"] = 373,
@@ -42626,7 +42626,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Tenzan_Model_12_A_Kai_%28w/_Type_6_Airborne_Radar_Kai%29"
+		["英文Wiki"] = ""
 	},
 	["374"] = {
 		["ID"] = 374,
@@ -42782,7 +42782,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%86%9F%E7%B7%B4%EF%BC%8F%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Tenzan_Model_12_A_Kai_%28Skilled/_w/_Type_6_Airborne_Radar_Kai%29"
+		["英文Wiki"] = ""
 	},
 	["375"] = {
 		["ID"] = 375,
@@ -42853,7 +42853,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/XF5U",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/XF5U"
+		["英文Wiki"] = ""
 	},
 	["376"] = {
 		["ID"] = 376,
@@ -42943,7 +42943,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/533mm%E4%BA%94%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/533mm_Quintuple_Torpedo_Mount_%28Late_Model%29"
+		["英文Wiki"] = ""
 	},
 	["377"] = {
 		["ID"] = 377,
@@ -43056,7 +43056,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/RUR-4A%20Weapon%20Alpha%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/RUR-4A_Weapon_Alpha_Kai"
+		["英文Wiki"] = ""
 	},
 	["378"] = {
 		["ID"] = 378,
@@ -43176,7 +43176,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%AF%BE%E6%BD%9C%E7%9F%AD%E9%AD%9A%E9%9B%B7%28%E8%A9%A6%E4%BD%9C%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Lightweight_ASW_Torpedo_%28Initial_Test_Model%29"
+		["英文Wiki"] = ""
 	},
 	["379"] = {
 		["ID"] = 379,
@@ -43577,7 +43577,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Single_High-angle_Gun_Mount_Kai_2"
+		["英文Wiki"] = ""
 	},
 	["380"] = {
 		["ID"] = 380,
@@ -43921,7 +43921,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/12.7cm_Twin_High-angle_Gun_Mount_Kai_2"
+		["英文Wiki"] = ""
 	},
 	["381"] = {
 		["ID"] = 381,
@@ -44085,7 +44085,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6"
+		["英文Wiki"] = ""
 	},
 	["382"] = {
 		["ID"] = 382,
@@ -44374,7 +44374,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2E%E5%9E%8B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/12cm_Single_High-angle_Gun_Mount_Model_E"
+		["英文Wiki"] = ""
 	},
 	["383"] = {
 		["ID"] = 383,
@@ -44458,7 +44458,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B53cm%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%288%E9%96%80%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Late_Model_53cm_Bow_Torpedo_Mount_%288_tubes%29"
+		["英文Wiki"] = ""
 	},
 	["384"] = {
 		["ID"] = 384,
@@ -44523,7 +44523,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6%E6%90%AD%E8%BC%89%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Late_Model_Submarine_Radar_%26_Passive_Radiolocator"
+		["英文Wiki"] = ""
 	},
 	["385"] = {
 		["ID"] = 385,
@@ -44687,7 +44687,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%20mod.2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6_mod.2"
+		["英文Wiki"] = ""
 	},
 	["386"] = {
 		["ID"] = 386,
@@ -44767,7 +44767,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Triple_Rapid_Fire_Gun_Mount_Mk.16"
+		["英文Wiki"] = ""
 	},
 	["387"] = {
 		["ID"] = 387,
@@ -44848,7 +44848,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16%20mod.2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Triple_Rapid_Fire_Gun_Mount_Mk.16_mod.2"
+		["英文Wiki"] = ""
 	},
 	["388"] = {
 		["ID"] = 388,
@@ -44888,7 +44888,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3%28%E6%B1%9F%E8%8D%89%E9%9A%8A%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Ginga_%28Egusa_Squadron%29"
+		["英文Wiki"] = ""
 	},
 	["389"] = {
 		["ID"] = 389,
@@ -45046,7 +45046,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/TBM-3W%20%EF%BC%8B%203S",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/TBM-3W%2B3S"
+		["英文Wiki"] = ""
 	},
 	["390"] = {
 		["ID"] = 390,
@@ -45143,7 +45143,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%EF%BC%8BGFCS",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/16inch_Triple_Gun_Mount_Mk.6_%2B_GFCS"
+		["英文Wiki"] = ""
 	},
 	["391"] = {
 		["ID"] = 391,
@@ -45283,7 +45283,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x1"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%E4%BA%8C%E4%BA%8C%E5%9E%8B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_99_Dive_Bomber_Model_22"
+		["英文Wiki"] = ""
 	},
 	["392"] = {
 		["ID"] = 392,
@@ -45438,7 +45438,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%89%A6%E7%88%86%E4%BA%8C%E4%BA%8C%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_99_Dive_Bomber_Model_22_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["393"] = {
 		["ID"] = 393,
@@ -45499,7 +45499,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%20mod.1936",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/120mm/50_Twin_Gun_Mount_mod.1936"
+		["英文Wiki"] = ""
 	},
 	["394"] = {
 		["ID"] = 394,
@@ -45613,7 +45613,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B7%B1%E5%B1%B1",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Shinzan"
+		["英文Wiki"] = ""
 	},
 	["396"] = {
 		["ID"] = 396,
@@ -45650,7 +45650,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B7%B1%E5%B1%B1%E6%94%B9",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Shinzan_Kai"
+		["英文Wiki"] = ""
 	},
 	["397"] = {
 		["ID"] = 397,
@@ -45744,7 +45744,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%8F%BE%E5%9C%B0%E6%94%B9%E8%A3%8512.7cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Locally_Modified_12.7cm_Twin_High-angle_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["398"] = {
 		["ID"] = 398,
@@ -45859,7 +45859,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%8F%BE%E5%9C%B0%E6%94%B9%E8%A3%8510cm%E9%80%A3%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Locally_Modified_10cm_Twin_High-angle_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["399"] = {
 		["ID"] = 399,
@@ -45935,7 +45935,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/6inch%20Mk.XXIII%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/6inch_Mk.XXIII_Triple_Gun_Mount"
+		["英文Wiki"] = ""
 	},
 	["400"] = {
 		["ID"] = 400,
@@ -46003,7 +46003,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/533mm%20%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%2853-39%E5%9E%8B%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/533mm_Triple_Torpedo_Mount_%28Model_53-39%29"
+		["英文Wiki"] = ""
 	},
 	["401"] = {
 		["ID"] = 401,
@@ -46127,7 +46127,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x4，失败时不消耗, 更新时消耗<font color=red>新型兵装資材</font>x2，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Do%2017%20Z-2",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Do_17_Z-2"
+		["英文Wiki"] = ""
 	},
 	["402"] = {
 		["ID"] = 402,
@@ -46185,7 +46185,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%AF%92%E5%86%B7%E5%9C%B0%E8%A3%85%E5%82%99%EF%BC%86%E7%94%B2%E6%9D%BF%E8%A6%81%E5%93%A1",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Arctic_Gear_%26_Deck_Personnel"
+		["英文Wiki"] = ""
 	},
 	["403"] = {
 		["ID"] = 403,
@@ -46301,7 +46301,7 @@ d.equipDataTb = {
 			["改修备注"] = "更新时消耗<font color=red>熟练搭乘员</font>x3, 更新时消耗<font color=red>新型航空兵装資材</font>x3，失败时不消耗"
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_Heavy_Bomber_Hiryuu"
+		["英文Wiki"] = ""
 	},
 	["404"] = {
 		["ID"] = 404,
@@ -46341,7 +46341,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Type_4_Heavy_Bomber_Hiryuu_%28Skilled%29"
+		["英文Wiki"] = ""
 	},
 	["405"] = {
 		["ID"] = 405,
@@ -46380,7 +46380,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Do%20217%20E-5%EF%BC%8BHs293%E5%88%9D%E6%9C%9F%E5%9E%8B",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Do_217_E-5_%2B_Hs293_Initial_Model"
+		["英文Wiki"] = ""
 	},
 	["406"] = {
 		["ID"] = 406,
@@ -46419,7 +46419,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Do%20217%20K-2%EF%BC%8BFritz-X",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Do_217_K-2_%2B_Fritz-X"
+		["英文Wiki"] = ""
 	},
 	["407"] = {
 		["ID"] = 407,
@@ -46572,7 +46572,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/15.2cm_Twin_Gun_Mount_Kai_Ni"
+		["英文Wiki"] = ""
 	},
 	["408"] = {
 		["ID"] = 408,
@@ -46742,7 +46742,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A3%85%E7%94%B2%E8%89%87%28AB%E8%89%87%29",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Soukoutei_%28Armored_Boat_Class%29"
+		["英文Wiki"] = ""
 	},
 	["409"] = {
 		["ID"] = 409,
@@ -46842,7 +46842,7 @@ d.equipDataTb = {
 			}
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%AD%A6%E8%A3%85%E5%A4%A7%E7%99%BA",
-		["英文Wiki"] = "https://kancolle.fandom.com/wiki/Armed_Daihatsu"
+		["英文Wiki"] = ""
 	},
 	["410"] = {
 		["ID"] = 410,
@@ -49920,7 +49920,9 @@ d.equipDataTb = {
 			["收益属性"] = {
 				["雷装"] = 2
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/21inch%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A16%E9%96%80%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
+		["英文Wiki"] = ""
 	},
 	["441"] = {
 		["ID"] = 441,
@@ -49965,7 +49967,9 @@ d.equipDataTb = {
 			["收益属性"] = {
 				["雷装"] = 2
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/21inch%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A16%E9%96%80%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
+		["英文Wiki"] = ""
 	},
 	["442"] = {
 		["ID"] = 442,
@@ -50010,7 +50014,9 @@ d.equipDataTb = {
 			["收益属性"] = {
 				["雷装"] = 2
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E5%BE%8C%E9%83%A8%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A14%E9%96%80%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
+		["英文Wiki"] = ""
 	},
 	["443"] = {
 		["ID"] = 443,
@@ -50055,7 +50061,9 @@ d.equipDataTb = {
 			["收益属性"] = {
 				["雷装"] = 2
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E5%BE%8C%E9%83%A8%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A14%E9%96%80%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
+		["英文Wiki"] = ""
 	},
 	["444"] = {
 		["ID"] = 444,
