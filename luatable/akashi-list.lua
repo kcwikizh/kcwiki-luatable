@@ -9674,7 +9674,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_build"] = {
-			["secretary"] = "秘書艦: あきつ丸",
+			["secretary"] = "秘書艦: あきつ丸・神州丸・宗谷(特務艦)",
 			["cost"] = {
 				["fuel"] = "10",
 				["ammo"] = "10",
@@ -9756,6 +9756,15 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: あきつ丸・神州丸・宗谷(特務艦)",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "10",
+				["steel"] = "10",
+				["bauxite"] = "10"
+			}
+		},
 		["equip_ships"] = {
 			"あきつ丸改(Lv25)"
 		},
@@ -9793,6 +9802,15 @@ k.EquipUpdateTb = {
 			["揚陸艦"] = 1,
 			["extra"] = {
 				"伊勢型改二"
+			}
+		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: あきつ丸・神州丸・宗谷(特務艦)",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "10",
+				["steel"] = "10",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -43108,7 +43126,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_build"] = {
-			["secretary"] = "秘書艦: あきつ丸・神州丸",
+			["secretary"] = "秘書艦: あきつ丸・神州丸・宗谷(特務艦)",
 			["cost"] = {
 				["fuel"] = "20",
 				["ammo"] = "40",
