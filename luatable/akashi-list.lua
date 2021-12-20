@@ -24591,6 +24591,18 @@ k.EquipUpdateTb = {
 				"+2.0"
 			}
 		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: あきつ丸・神州丸・神威",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "10",
+				["steel"] = "10",
+				["bauxite"] = "10"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B"
 	},
 	["222"] = {

@@ -24553,7 +24553,19 @@
     },
     "221": {
       "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B",
+      "equip_ships": [
+        "-"
+      ],
       "id": 221,
+      "item_build": {
+        "cost": {
+          "ammo": "10",
+          "bauxite": "10",
+          "fuel": "10",
+          "steel": "10"
+        },
+        "secretary": "秘書艦: あきつ丸・神州丸・神威"
+      },
       "item_equip": {
         "基地航空隊": 1
       },
