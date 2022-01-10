@@ -1121,6 +1121,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -1377,6 +1382,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -1639,6 +1649,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -2703,10 +2718,6 @@ k.EquipUpdateTb = {
 			"菊月改(Lv20)",
 			"三日月改(Lv20)",
 			"望月改(Lv20)",
-			"朧改(Lv20)",
-			"曙改(Lv20)",
-			"漣改(Lv20)",
-			"潮改(Lv20)",
 			"暁改(Lv20)",
 			"響改(Lv20)",
 			"雷改(Lv20)",
@@ -10340,6 +10351,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -13015,6 +13031,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -13256,6 +13277,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -13495,6 +13521,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -14258,6 +14289,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -14737,6 +14773,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -16949,6 +16990,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -17690,6 +17736,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -19599,6 +19650,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -21678,6 +21734,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -22203,6 +22264,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -22542,6 +22608,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -25383,6 +25454,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -25623,6 +25699,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -26333,6 +26414,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -27047,6 +27133,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -27287,6 +27378,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -29621,6 +29717,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -31543,6 +31644,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -31692,6 +31798,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -33072,6 +33183,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -33186,6 +33302,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -33298,6 +33419,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -34748,6 +34874,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -35487,6 +35618,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -35730,6 +35866,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["equip_ships"] = {
@@ -35842,6 +35983,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -36086,6 +36232,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -36326,6 +36477,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -39740,6 +39896,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -40325,6 +40486,11 @@ k.EquipUpdateTb = {
 				["ship_class"] = "South Dakota級改",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
 			}
 		},
 		["item_remodel"] = {
@@ -40725,6 +40891,11 @@ k.EquipUpdateTb = {
 			},
 			{
 				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
 				["ship_fitting"] = "unk",
 				["ship_correct"] = ""
 			}
@@ -42512,6 +42683,494 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Barracuda%20Mk.III"
+	},
+	["426"] = {
+		["id"] = 426,
+		["no"] = "No.426",
+		["item_name"] = {
+			["zh"] = "305mm/46 连装炮",
+			["ja"] = "305mm/46 連装砲"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "パスタの国が生んだ弩級戦艦のための主砲兵装です。Conte di Cavour級では一番、三番、五番主砲に三連装を、第二、第四主砲に本連装砲を装備、計13門の火力を誇ります。弩級時代の主砲であり、列強の新型戦艦に対する火力不足は否めず、既存主砲を改造、同砲砲身をボーリングするという半ば強引な手法で320mmへと口径を拡張強化します。",
+		["item_stat"] = {
+			["火力"] = "+13",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+1",
+			["回避"] = "+2",
+			["射程"] = "長",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
+		["equip_ships"] = {
+			"Conte",
+			"di",
+			"Cavour(Lv1)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/305mm%EF%BC%8F46%20%E9%80%A3%E8%A3%85%E7%A0%B2"
+	},
+	["427"] = {
+		["id"] = 427,
+		["no"] = "No.427",
+		["item_name"] = {
+			["zh"] = "305mm/46 三连装炮",
+			["ja"] = "305mm/46 三連装砲"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "パスタの国が生んだ弩級戦艦のための主砲兵装です。Conte di Cavour級では一番、三番、五番主砲に本三連装を、第二、第四主砲に連装砲を装備、計13門の火力を誇ります。弩級時代の主砲であり、列強の新型戦艦に対する火力不足は否めず、近代化改装時に既存主砲を改造、同砲砲身をボーリングするという手法で320mmへと口径を拡張強化します。",
+		["item_stat"] = {
+			["火力"] = "+14",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+2",
+			["回避"] = "+1",
+			["射程"] = "長",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
+		["equip_ships"] = {
+			"Conte",
+			"di",
+			"Cavour(Lv1)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/305mm%EF%BC%8F46%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
+	},
+	["428"] = {
+		["id"] = 428,
+		["no"] = "No.428",
+		["item_name"] = {
+			["zh"] = "320mm/44 连装炮",
+			["ja"] = "320mm/44 連装砲"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "パスタの国が生んだ弩級戦艦のための改造主砲兵装です。相対的に旧式化が進むConte di Cavour級弩級戦艦の近代化改装時に、従来装備していた同主砲の砲身をボーリングして削るというアプローチで、320mmへの大口径化を実現しました。本兵装は、同改装砲の連装砲塔バージョンです。",
+		["item_stat"] = {
+			["火力"] = "+15",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+1",
+			["回避"] = "+2",
+			["射程"] = "長",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
+		["equip_ships"] = {
+			"Conte",
+			"di",
+			"Cavour改(Lv48)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/320mm%EF%BC%8F44%20%E9%80%A3%E8%A3%85%E7%A0%B2"
+	},
+	["429"] = {
+		["id"] = 429,
+		["no"] = "No.429",
+		["item_name"] = {
+			["zh"] = "320mm/44 三连装炮",
+			["ja"] = "320mm/44 三連装砲"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "パスタの国が生んだ弩級戦艦のための改造主砲兵装です。相対的に旧式化が進むConte di Cavour級弩級戦艦の近代化改装時に、従来装備していた同主砲の砲身をボーリングして削るというアプローチで、320mmへの大口径化を実現しました。本兵装は、同改装砲の三装砲塔バージョンです。",
+		["item_stat"] = {
+			["火力"] = "+16",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+2",
+			["回避"] = "+1",
+			["射程"] = "長",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["item_fitting_type"] = "フィット命中補正値",
+		["item_fitting"] = {
+			{
+				["ship_class"] = "伊勢型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "扶桑型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "大和型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門型改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "金剛型改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Bismarck drei級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "V.Veneto級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Iowa級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Queen Elizabeth級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Гангут級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Richelieu級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "長門改二",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Nelson級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "Colorado級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "South Dakota級改",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			},
+			{
+				["ship_class"] = "C.d.Cavour級",
+				["ship_fitting"] = "unk",
+				["ship_correct"] = ""
+			}
+		},
+		["equip_ships"] = {
+			"Conte",
+			"di",
+			"Cavour改(Lv48)",
+			"Conte",
+			"di",
+			"Cavour",
+			"nuovo(Lv74)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/320mm%EF%BC%8F44%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2"
 	},
 	["430"] = {
 		["id"] = 430,
