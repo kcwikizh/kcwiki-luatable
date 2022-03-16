@@ -1,4 +1,4 @@
-lxml==4.6.5
+lxml==4.6.5  # Update by dependabot
 Jinja2>=2.11.3
 pytz==2019.3
 aiohttp==3.7.4
