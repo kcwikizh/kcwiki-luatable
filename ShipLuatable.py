@@ -349,6 +349,11 @@ class ShipLuatable:
             })
 
     def genShipsData(self):
+        placeholder = 0
+        for ship_id in self.SHIPS_KCDATA.keys():
+            if self.SHIPS_KCDATA[ship_id]['wiki_id'] == None:
+                placeholder += 1
+                self.SHIPS_KCDATA[ship_id]['wiki_id'] = '临时编号' + str(placeholder).zfill(3)
         self.__map_lvl_up()
         for ship_id in self.SHIPS_DB.keys():
             if ship_id in self.SHIPS_KCDATA:
@@ -400,8 +405,8 @@ class ShipLuatable:
                     val = RANGE[val]
             if not val:
                 continue
-            if key == 'range' and 'distance' in stats:
-                continue
+            #if key == 'range' and 'distance' in stats:
+                #continue
             ret[STAT[key]] = val
         return ret
 
@@ -417,14 +422,16 @@ class ShipLuatable:
             for ship_id in _type['equipable_extra_ship']:
                 wctf_ship = self.SHIPS_DB[ship_id]
                 ship_name = wctf_ship['name']['zh_cn'] + self.__get_ship_namesuffix(wctf_ship['name']['suffix'], 'zh_cn')
-                ret.append(ship_name)
+                if ship_name not in ret:
+                    ret.append(ship_name)
         if equipable_extra_ship:
             for ship_id in equipable_extra_ship:
                 wctf_ship = self.SHIPS_DB[ship_id]
                 ship_name = wctf_ship['name']['zh_cn'] + \
                     self.__get_ship_namesuffix(
                         wctf_ship['name']['suffix'], 'zh_cn')
-                ret.append(ship_name)
+                if ship_name not in ret:
+                    ret.append(ship_name)
         return ret
 
     def __append_item_improvement(self, __item_id, improvements):
@@ -440,16 +447,16 @@ class ShipLuatable:
                 primary_cosume_equip = primary_resource[4][0][0] if primary_resource[4][0][0] else ''
                 primary_cosume_count = primary_resource[4][0][1] if primary_resource[4][0][1] else 0
             else:
-                primary_cosume_equip = primary_resource[4]
-                primary_cosume_count = primary_resource[5]
+                primary_cosume_equip = primary_resource[4] if primary_resource[4] else ''
+                primary_cosume_count = primary_resource[5] if primary_resource[5] else 0
             middle_cosume_equip = ''
             middle_cosume_count = 0
             if isinstance(middle_resource[4], list):
                 middle_cosume_equip = middle_resource[4][0][0] if middle_resource[4][0][0] else ''
                 middle_cosume_count = middle_resource[4][0][1] if middle_resource[4][0][1] else 0
             else:
-                middle_cosume_equip = middle_resource[4]
-                middle_cosume_count = middle_resource[5]
+                middle_cosume_equip = middle_resource[4] if middle_resource[4] else ''
+                middle_cosume_count = middle_resource[5] if middle_resource[5] else 0
             improve = {
                 '资源消费': {
                     '燃料': base_resource[0], '弹药': base_resource[1],
@@ -673,7 +680,8 @@ class ShipLuatable:
         self.__load_akashi_list()
         self.__load_ship_types()
         for item_id in self.ITEMS_DB.keys():
-            self.__append_item(item_id)
+            if item_id in self.SLOTITEMS_KCDATA:
+                self.__append_item(item_id)
         self.items_data = sortDict(self.items_data)
         items_luatable = 'local d = {}\n'
         items_luatable += '------------------------\n'

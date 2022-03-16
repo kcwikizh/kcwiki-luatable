@@ -370,6 +370,7 @@ class AkashiListCrawler(HttpClient):
         remodel_selector_iterator = content_soup.select('div.remodel-table table')
         remodel = dict()
         for remodel_selector in remodel_selector_iterator:
+            last_line = list()
             for remodel_line in remodel_selector:
                 remodel_line_name = remodel_line.name
                 if not remodel_line_name:
@@ -384,6 +385,7 @@ class AkashiListCrawler(HttpClient):
                 if 'class' in remodel_line.attrs and ('equip-count' in remodel_line.attrs['class'] or 'equip-per-star' in remodel_line.attrs['class']):
                     continue
                 remodel_title = ''
+                new_line = list()
                 for remodel_row in remodel_line.children:
                     remodel_row_name = remodel_row.name
                     if not remodel_row_name:
@@ -400,9 +402,13 @@ class AkashiListCrawler(HttpClient):
                         if not remodel_title:
                             continue
                         value = self.get_text(remodel_row)
-                        remodel[remodel_title].append(value)
-            if '夜戦火力' in remodel and not remodel['夜戦火力']:
-                remodel['夜戦火力'] = remodel['火力']
+                        new_line.append(value)
+                if remodel_title in remodel:
+                    if not new_line:
+                        remodel[remodel_title] += last_line
+                    else:
+                        remodel[remodel_title] += new_line
+                        last_line = new_line
             
         if remodel:
             detail['item_remodel'] = remodel
@@ -479,7 +485,7 @@ class AkashiListCrawler(HttpClient):
             wiki_name = self.get_text(wiki_link)
             if wiki_name == 'Wiki':
                 detail['JA_Wiki'] = wiki_link.attrs['href']
-            elif wiki_name == 'Wikia':
+            elif wiki_name == 'WikiEn':
                 detail['EN_Wiki'] = wiki_link.attrs['href']
 
         self.ok_items += 1
