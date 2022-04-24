@@ -62,5 +62,25 @@
       "vname": "秘书舰1",
       "zh": "提督，又到了这个季节呢。挺厉害嘛。真是非常感谢。还有，恭喜我们！"
     }
+  },
+  "2022年九周年纪念": {
+    "008-Sec1NinthAnniversary": {
+      "file": "/2/23/008-Sec1NinthAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "008-Sec2NinthAnniversary": {
+      "file": "/8/8a/008-Sec2NinthAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "008-Sec3NinthAnniversary": {
+      "file": "/0/0e/008-Sec3NinthAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
   }
 }
