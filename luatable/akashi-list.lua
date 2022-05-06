@@ -4080,7 +4080,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -6981,7 +6982,7 @@ k.EquipUpdateTb = {
 				"金剛型改二丙",
 				"宗谷",
 				"G.Bay Mk.II",
-				"C.Cavour",
+				"C.d.C nuovo",
 				"Victorious"
 			}
 		},
@@ -7232,7 +7233,7 @@ k.EquipUpdateTb = {
 				"金剛型改二丙",
 				"宗谷",
 				"G.Bay Mk.II",
-				"C.Cavour",
+				"C.d.C nuovo",
 				"Victorious"
 			}
 		},
@@ -8971,7 +8972,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["equip_ships"] = {
@@ -10929,7 +10931,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -11006,7 +11009,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -11082,7 +11086,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -14212,10 +14217,10 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"球磨改二",
 				"多摩改二",
-				"能代改二",
-				"矢矧改二/乙",
+				"阿賀野型改二",
 				"Gotland",
-				"日進"
+				"日進",
+				"C.d.C nuovo"
 			}
 		},
 		["equip_ships"] = {
@@ -17174,8 +17179,11 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"大鯨型",
 				"夕張改二丁",
-				"能代改二",
-				"Fletcher Mk.II"
+				"阿賀野型改二",
+				"Fletcher Mk.II",
+				"秋月型改",
+				"宗谷(南極観測船)",
+				"神威改母"
 			}
 		},
 		["equip_ships"] = {
@@ -19124,7 +19132,7 @@ k.EquipUpdateTb = {
 				"金剛型改二丙",
 				"宗谷",
 				"G.Bay Mk.II",
-				"C.Cavour",
+				"C.d.C nuovo",
 				"Victorious"
 			}
 		},
@@ -20437,7 +20445,8 @@ k.EquipUpdateTb = {
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
-				"多摩改二"
+				"多摩改二",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -20504,7 +20513,8 @@ k.EquipUpdateTb = {
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
-				"多摩改二"
+				"多摩改二",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -24157,7 +24167,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -24241,7 +24252,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["equip_ships"] = {
@@ -24516,7 +24528,8 @@ k.EquipUpdateTb = {
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
-				"多摩改二"
+				"多摩改二",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -24581,7 +24594,8 @@ k.EquipUpdateTb = {
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
-				"多摩改二"
+				"多摩改二",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -24646,7 +24660,8 @@ k.EquipUpdateTb = {
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
-				"多摩改二"
+				"多摩改二",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -26967,7 +26982,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -28579,10 +28595,10 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"球磨改二",
 				"多摩改二",
-				"能代改二",
-				"矢矧改二/乙",
+				"阿賀野型改二",
 				"Gotland",
-				"日進"
+				"日進",
+				"C.d.C nuovo"
 			}
 		},
 		["equip_ships"] = {
@@ -28632,10 +28648,10 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"球磨改二",
 				"多摩改二",
-				"能代改二",
-				"矢矧改二/乙",
+				"阿賀野型改二",
 				"Gotland",
-				"日進"
+				"日進",
+				"C.d.C nuovo"
 			}
 		},
 		["equip_ships"] = {
@@ -28688,7 +28704,7 @@ k.EquipUpdateTb = {
 				"金剛型改二丙",
 				"宗谷",
 				"G.Bay Mk.II",
-				"C.Cavour",
+				"C.d.C nuovo",
 				"Victorious"
 			}
 		},
@@ -28742,7 +28758,7 @@ k.EquipUpdateTb = {
 				"金剛型改二丙",
 				"宗谷",
 				"G.Bay Mk.II",
-				"C.Cavour",
+				"C.d.C nuovo",
 				"Victorious"
 			}
 		},
@@ -28796,7 +28812,7 @@ k.EquipUpdateTb = {
 				"金剛型改二丙",
 				"宗谷",
 				"G.Bay Mk.II",
-				"C.Cavour",
+				"C.d.C nuovo",
 				"Victorious"
 			}
 		},
@@ -35652,7 +35668,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -35727,7 +35744,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["equip_ships"] = {
@@ -39375,7 +39393,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -39450,7 +39469,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["item_remodel"] = {
@@ -39525,7 +39545,8 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"多摩改二",
 				"Gotland",
-				"金剛改二丙"
+				"金剛改二丙",
+				"C.d.C nuovo"
 			}
 		},
 		["equip_ships"] = {
@@ -42202,10 +42223,10 @@ k.EquipUpdateTb = {
 				"由良改二",
 				"球磨改二",
 				"多摩改二",
-				"能代改二",
-				"矢矧改二/乙",
+				"阿賀野型改二",
 				"Gotland",
-				"日進"
+				"日進",
+				"C.d.C nuovo"
 			}
 		},
 		["equip_ships"] = {
@@ -44267,7 +44288,7 @@ k.EquipUpdateTb = {
 				"金剛型改二丙",
 				"宗谷",
 				"G.Bay Mk.II",
-				"C.Cavour",
+				"C.d.C nuovo",
 				"Victorious"
 			}
 		},
