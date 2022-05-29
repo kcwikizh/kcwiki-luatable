@@ -39799,6 +39799,47 @@
       "item_type": "艦上攻撃機",
       "no": "No.372"
     },
+    "373": {
+      "EN_Wiki": "https://en.kancollewiki.net/Tenzan_Model_12A_Kai_%28w/_Type_6_Airborne_Radar_Kai%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 373,
+      "item_equip": {
+        "extra": [
+          "速吸改",
+          "​"
+        ],
+        "基地航空隊": 1,
+        "戦艦": 0,
+        "正規空母": 1,
+        "水上機母艦": 0,
+        "航空戦艦": 0,
+        "軽巡洋艦": 0,
+        "軽空母": 1,
+        "重巡洋艦": 0,
+        "駆逐艦": 0
+      },
+      "item_intro": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」その改良後期型に、機上電探空六号の改良調整型と電波高度計などの夜間作戦機材を装備した、夜間雷撃可能な新型夜間作戦艦上攻撃機です。",
+      "item_name": {
+        "ja": "天山一二型甲改(空六号電探改装備機)",
+        "zh": "天山一二型甲改（空六号电探改装备机）"
+      },
+      "item_stat": {
+        "命中": "+1",
+        "回避": "",
+        "対潜": "+6",
+        "対空": "+1",
+        "戦闘行動半径": "5",
+        "火力": "",
+        "爆装": "",
+        "索敵": "+5",
+        "雷装": "+11"
+      },
+      "item_type": "艦上攻撃機",
+      "no": "No.373"
+    },
     "374": {
       "EN_Wiki": "https://en.kancollewiki.net/Tenzan_Model_12A_Kai_%28Skilled_w/_Type_6_Airborne_Radar_Kai%29",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%86%9F%E7%B7%B4%EF%BC%8F%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
