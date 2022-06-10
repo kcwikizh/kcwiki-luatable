@@ -52149,7 +52149,7 @@ d.equipDataTb = {
 		},
 		["备注"] = "",
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AD102%E4%B9%99%E6%94%B9%EF%BC%8B%E3%82%A4%E5%8F%B7%E4%B8%80%E5%9E%8B%E4%B9%99%20%E8%AA%98%E5%B0%8E%E5%BC%BE",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://en.kancollewiki.net/Ki-102_B_Kai_%2B_No.1_Model_1B_Guided_Missile"
 	},
 	["455"] = {
 		["ID"] = 455,
@@ -52440,7 +52440,7 @@ d.equipDataTb = {
 			["改修备注"] = ""
 		},
 		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%20%E9%95%B712.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B%E6%94%B9%E5%9B%9B",
-		["英文Wiki"] = ""
+		["英文Wiki"] = "https://en.kancollewiki.net/Prototype_Long-barrel_12.7cm_Twin_Gun_Mount_Model_A_Kai_4"
 	}
 }
 
