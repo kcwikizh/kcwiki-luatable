@@ -45694,6 +45694,51 @@ k.EquipUpdateTb = {
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15m%E4%BA%8C%E9%87%8D%E6%B8%AC%E8%B7%9D%E5%84%80%E6%94%B9%EF%BC%8B21%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C%EF%BC%8B%E7%86%9F%E7%B7%B4%E5%B0%84%E6%92%83%E6%8C%87%E6%8F%AE%E6%89%80",
 		["EN_Wiki"] = "https://en.kancollewiki.net/15m_Duplex_Rangefinder_Kai_%2B_Type_21_Radar_Kai_Ni_%2B_Skilled_Fire_Direction_Center"
 	},
+	["463"] = {
+		["id"] = 463,
+		["no"] = "No.463",
+		["item_name"] = {
+			["zh"] = "15.5cm三連装副砲改ニ",
+			["ja"] = "15.5cm三連装副砲改ニ"
+		},
+		["item_type"] = "副砲",
+		["item_intro"] = "巡洋艦主砲兵装を「大和」型戦艦副砲に搭載した、対空戦闘も可能な、性能・運用性ともに優秀な戦艦副砲です。防御面においては、諸説ありますが「大和」型の唯一の弱点という指摘もありました。本改良砲塔は上面に装甲を増設、更に被弾時に強い内部構造に改良、最大仰角及び射撃速度を向上させた大和改二型に最適化した性能向上型副砲です。",
+		["item_stat"] = {
+			["火力"] = "+9",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+5",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+5",
+			["回避"] = "+1",
+			["射程"] = "中",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 1,
+			["正規空母"] = 1,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["揚陸艦"] = 1,
+			["工作艦"] = 1,
+			["extra"] = {
+				"大鯨型"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2%E6%94%B9%E4%BA%8C",
+		["EN_Wiki"] = "https://en.kancollewiki.net/15.5cm_Triple_Secondary_Gun_Mount_Kai_2"
+	},
 	["464"] = {
 		["id"] = 464,
 		["no"] = "No.464",
@@ -45960,6 +46005,7 @@ k.EquipUpdateTb = {
 			["ja"] = "試製51cm三連装砲"
 		},
 		["item_type"] = "大口径主砲",
+		["item_intro"] = "改「大和」型、そしてその拡大発展級である超「大和」型の主兵装として開発された新型戦艦用大口径主砲、そのif発展型兵装です。51cm砲三連装がもたらす他を圧倒する大火力は、内部構造の大幅改良と装甲配置最適化等の工夫により実現されました。大型戦艦のさらなる重改装艦のみ、最適運用が可能です。",
 		["item_stat"] = {
 			["火力"] = "+36",
 			["雷装"] = "",
@@ -46067,7 +46113,9 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"-"
-		}
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD51cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Prototype_51cm_Triple_Gun_Mount"
 	}
 }
 
