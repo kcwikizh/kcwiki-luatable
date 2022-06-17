@@ -2537,6 +2537,11 @@ k.EquipUpdateTb = {
 				"大鯨型"
 			}
 		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"大和型改二"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+0.3",
@@ -26495,12 +26500,9 @@ k.EquipUpdateTb = {
 				"大鯨型"
 			}
 		},
-		["item_fitting_type"] = "命中補正値?",
-		["item_fitting"] = {
-			{
-				["ship_class"] = "大和型",
-				["ship_fitting"] = "fit",
-				["ship_correct"] = "+?"
+		["item_extra_equip"] = {
+			["extra"] = {
+				"大和型改二"
 			}
 		},
 		["item_remodel"] = {
@@ -45677,6 +45679,11 @@ k.EquipUpdateTb = {
 			["工作艦"] = 1,
 			["extra"] = {
 				"大鯨型"
+			}
+		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"大和型改二"
 			}
 		},
 		["equip_ships"] = {
