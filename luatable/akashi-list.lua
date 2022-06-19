@@ -2061,6 +2061,11 @@ k.EquipUpdateTb = {
 				"大鯨型"
 			}
 		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"大和型改二"
+			}
+		},
 		["item_remodel"] = {
 			["火力"] = {
 				"+0.2",
@@ -10117,7 +10122,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"大鳳型",
 				"大淀型",
-				"大和型改"
+				"大和型改",
+				"大和型改二"
 			}
 		},
 		["equip_ships"] = {
@@ -16923,6 +16929,11 @@ k.EquipUpdateTb = {
 				"大鯨型"
 			}
 		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"大和型改二"
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -18664,6 +18675,11 @@ k.EquipUpdateTb = {
 			["正規空母"] = 0,
 			["水上機母艦"] = 0,
 			["航空戦艦"] = 1
+		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"大和型改二"
+			}
 		},
 		["item_remodel"] = {
 			["索敵値"] = {
@@ -26502,6 +26518,7 @@ k.EquipUpdateTb = {
 		},
 		["item_extra_equip"] = {
 			["extra"] = {
+				"大和型改二",
 				"大和型改二"
 			}
 		},
@@ -29946,7 +29963,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"大鳳型",
 				"大淀型",
-				"大和型改"
+				"大和型改",
+				"大和型改二"
 			}
 		},
 		["item_remodel"] = {
@@ -45634,6 +45652,11 @@ k.EquipUpdateTb = {
 				"霞改二乙",
 				"秋月型",
 				"初霜改二"
+			}
+		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"大和型改二"
 			}
 		},
 		["equip_ships"] = {
