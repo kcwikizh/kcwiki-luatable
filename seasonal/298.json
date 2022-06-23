@@ -160,5 +160,43 @@
       "vname": "秘书舰1",
       "zh": "来了来了↘↗"
     }
+  },
+  "2022年梅雨季节": {
+    "298-Atk1Tsuyu2022": {
+      "file": "/c/cf/298-Atk1Tsuyu2022.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "298-IdleTsuyu2022": {
+      "file": "/6/6c/298-IdleTsuyu2022.mp3",
+      "ja": "",
+      "vname": "放置",
+      "zh": ""
+    },
+    "298-IntroTsuyu2022": {
+      "file": "/f/fb/298-IntroTsuyu2022.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "298-LightDmg2Tsuyu2022": {
+      "file": "/c/ca/298-LightDmg2Tsuyu2022.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "298-Sec1Tsuyu2022": {
+      "file": "/8/8b/298-Sec1Tsuyu2022.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "298-Sec3Tsuyu2022": {
+      "file": "/f/ff/298-Sec3Tsuyu2022.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
   }
 }

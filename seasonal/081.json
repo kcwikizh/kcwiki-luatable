@@ -328,5 +328,37 @@
       "vname": "秘书舰1",
       "zh": "提督，谨贺新年。今年也给你看看村雨有点不错的地方吧！"
     }
+  },
+  "2022年梅雨季节": {
+    "081-Atk1Tsuyu2022": {
+      "file": "/9/9b/081-Atk1Tsuyu2022.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "081-IntroTsuyu2022": {
+      "file": "/5/53/081-IntroTsuyu2022.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "081-LightDmg2Tsuyu2022": {
+      "file": "/7/70/081-LightDmg2Tsuyu2022.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "081-Sec1Tsuyu2022": {
+      "file": "/1/1d/081-Sec1Tsuyu2022.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "081-Sec3Tsuyu2022": {
+      "file": "/f/f5/081-Sec3Tsuyu2022.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
   }
 }
