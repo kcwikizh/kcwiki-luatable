@@ -6132,6 +6132,7 @@ k.EquipUpdateTb = {
 			"御蔵(Lv1)",
 			"屋代(Lv1)",
 			"昭南(Lv1)",
+			"倉橋(Lv1)",
 			"初風(Lv1)",
 			"舞風(Lv1)",
 			"秋雲(Lv1)",
@@ -6175,6 +6176,7 @@ k.EquipUpdateTb = {
 			"玉波改(Lv30)",
 			"天霧改(Lv35)",
 			"岸波改(Lv35)",
+			"倉橋改(Lv35)",
 			"明石改(Lv35)",
 			"択捉改(Lv37)",
 			"松輪改(Lv37)",
@@ -26558,7 +26560,6 @@ k.EquipUpdateTb = {
 		},
 		["item_extra_equip"] = {
 			["extra"] = {
-				"大和型改二",
 				"大和型改二"
 			}
 		},
@@ -35470,6 +35471,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Colorado改(Lv45)",
+			"Maryland改(Lv45)",
 			"South",
 			"Dakota改(Lv48)",
 			"Johnston改(Lv55)",
@@ -37078,7 +37080,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Colorado(Lv1)"
+			"Colorado(Lv1)",
+			"Maryland(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/16inch_Mk.I_Twin_Gun_Mount"
@@ -37326,7 +37329,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Colorado改(Lv45)"
+			"Colorado改(Lv45)",
+			"Maryland改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.V%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/16inch_Mk.V_Twin_Gun_Mount"
@@ -41320,8 +41324,10 @@ k.EquipUpdateTb = {
 			"御蔵(Lv1)",
 			"屋代(Lv1)",
 			"昭南(Lv1)",
+			"倉橋(Lv1)",
 			"第四号海防艦改(Lv35)",
 			"第三〇号海防艦改(Lv35)",
+			"倉橋改(Lv35)",
 			"択捉改(Lv37)",
 			"松輪改(Lv37)",
 			"佐渡改(Lv37)",
@@ -46022,7 +46028,7 @@ k.EquipUpdateTb = {
 		["no"] = "No.463",
 		["item_name"] = {
 			["zh"] = "15.5cm三连装副炮改二",
-			["ja"] = "15.5cm三連装副砲改ニ"
+			["ja"] = "15.5cm三連装副砲改二"
 		},
 		["item_type"] = "副砲",
 		["item_intro"] = "巡洋艦主砲兵装を「大和」型戦艦副砲に搭載した、対空戦闘も可能な、性能・運用性ともに優秀な戦艦副砲です。防御面においては、諸説ありますが「大和」型の唯一の弱点という指摘もありました。本改良砲塔は上面に装甲を増設、更に被弾時に強い内部構造に改良、最大仰角及び射撃速度を向上させた大和改二型に最適化した性能向上型副砲です。",
