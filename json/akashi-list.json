@@ -43504,6 +43504,15 @@
         "Northampton改(Lv50)"
       ],
       "id": 414,
+      "item_build": {
+        "cost": {
+          "ammo": "10",
+          "bauxite": "10",
+          "fuel": "10",
+          "steel": "10"
+        },
+        "secretary": "秘書艦: Honolulu・Northampton"
+      },
       "item_equip": {
         "extra": [
           "大鯨型"

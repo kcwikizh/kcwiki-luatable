@@ -43573,6 +43573,15 @@ k.EquipUpdateTb = {
 				"回避+1"
 			}
 		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: Honolulu・Northampton",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "10",
+				["steel"] = "10",
+				["bauxite"] = "10"
+			}
+		},
 		["equip_ships"] = {
 			"Honolulu改(Lv45)",
 			"Northampton改(Lv50)"
