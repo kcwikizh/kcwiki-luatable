@@ -46122,6 +46122,37 @@ k.EquipUpdateTb = {
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15m%E4%BA%8C%E9%87%8D%E6%B8%AC%E8%B7%9D%E5%84%80%E6%94%B9%EF%BC%8B21%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C%EF%BC%8B%E7%86%9F%E7%B7%B4%E5%B0%84%E6%92%83%E6%8C%87%E6%8F%AE%E6%89%80",
 		["EN_Wiki"] = "https://en.kancollewiki.net/15m_Duplex_Rangefinder_Kai_%2B_Type_21_Radar_Kai_Ni_%2B_Skilled_Fire_Direction_Center"
 	},
+	["461"] = {
+		["id"] = 461,
+		["no"] = "No.461",
+		["item_name"] = {
+			["zh"] = "熟練聴音員+後期型艦首魚雷(4門)",
+			["ja"] = "熟練聴音員+後期型艦首魚雷(4門)"
+		},
+		["item_type"] = "潜水艦魚雷",
+		["item_intro"] = "伊号潜水艦の艦首に装備する、潜水艦専用魚雷兵装の改良後期型です。水上艦艇に搭載するものよりやや直径の小さい長射程高威力を誇る必殺の酸素魚雷、その無気泡発射管の改良後期型艦首4門。高速迎撃型伊号の潜高型に装備され、門数は少ないものの、改良型無気泡発射管と熟練の高いソナー員達の組み合わせは、より高い生存性と攻撃力を伊号に付与します。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+13",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+5",
+			["回避"] = "+5",
+			["射程"] = "短",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%81%B4%E9%9F%B3%E5%93%A1%EF%BC%8B%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%284%E9%96%80%29",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Skilled_Sonar_Personnel_%2B_Late_Model_Bow_Torpedo_Mount_%284_tubes%29"
+	},
 	["463"] = {
 		["id"] = 463,
 		["no"] = "No.463",
@@ -46897,6 +46928,51 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2C%E5%9E%8B%E6%94%B9%E4%B8%89",
 		["EN_Wiki"] = "https://en.kancollewiki.net/12.7cm_Twin_Gun_Mount_Model_C_Kai_3"
+	},
+	["471"] = {
+		["id"] = 471,
+		["no"] = "No.471",
+		["item_name"] = {
+			["zh"] = "Loire 130M",
+			["ja"] = "Loire 130M"
+		},
+		["item_type"] = "水上偵察機",
+		["item_intro"] = "トリコロールの国で開発された三座飛行艇です。やや大型、そして低速で最新の機体ではありませんが、その頑丈な作りの本機は、艦載型のM型が「Richelieu」級などの主力艦に搭載、配備運用されています。ぜひ、フランス艦艇での運用を！",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "+3",
+			["索敵"] = "+3",
+			["命中"] = "+2",
+			["回避"] = "",
+			["戦闘行動半径"] = "3"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 1,
+			["航空巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["補給艦"] = 1,
+			["潜水空母"] = 1,
+			["基地航空隊"] = 1,
+			["extra"] = {
+				"大鯨型",
+				"命中率+10%攻撃力+7"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Loire%20130M",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Loire_130M"
 	}
 }
 
