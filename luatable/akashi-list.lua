@@ -10001,7 +10001,8 @@ k.EquipUpdateTb = {
 				"陸奥改二",
 				"日進改",
 				"能代改二",
-				"矢矧改二/乙"
+				"矢矧改二/乙",
+				"S B.R Mk.II"
 			}
 		},
 		["item_remodel"] = {
@@ -35398,7 +35399,10 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Johnston改(Lv55)",
-			"Fletcher改(Lv55)"
+			"Fletcher改(Lv55)",
+			"Samuel",
+			"B.Roberts",
+			"Mk.II(Lv78)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%20%E6%94%B9",
 		["EN_Wiki"] = "https://en.kancollewiki.net/5inch_Single_Gun_Mount_Mk.30_Kai"
@@ -36515,7 +36519,8 @@ k.EquipUpdateTb = {
 				"陸奥改二",
 				"日進改",
 				"能代改二",
-				"矢矧改二/乙"
+				"矢矧改二/乙",
+				"S B.R Mk.II"
 			}
 		},
 		["item_remodel"] = {
@@ -36583,7 +36588,8 @@ k.EquipUpdateTb = {
 				"陸奥改二",
 				"日進改",
 				"能代改二",
-				"矢矧改二/乙"
+				"矢矧改二/乙",
+				"S B.R Mk.II"
 			}
 		},
 		["item_remodel"] = {
@@ -36651,7 +36657,8 @@ k.EquipUpdateTb = {
 				"陸奥改二",
 				"日進改",
 				"能代改二",
-				"矢矧改二/乙"
+				"矢矧改二/乙",
+				"S B.R Mk.II"
 			}
 		},
 		["item_remodel"] = {
@@ -36719,7 +36726,8 @@ k.EquipUpdateTb = {
 				"陸奥改二",
 				"日進改",
 				"能代改二",
-				"矢矧改二/乙"
+				"矢矧改二/乙",
+				"S B.R Mk.II"
 			}
 		},
 		["item_remodel"] = {
