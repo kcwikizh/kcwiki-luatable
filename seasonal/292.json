@@ -194,5 +194,31 @@
       "vname": "秘书舰2",
       "zh": "我的提督，怎样，适合我吗？……哼哼，那就好。谢谢♪"
     }
+  },
+  "2022年初秋季节": {
+    "292-Atk2Shoshuu2022": {
+      "file": "/6/6d/292-Atk2Shoshuu2022.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "292-BattleShoshuu2022": {
+      "file": "/a/aa/292-BattleShoshuu2022.mp3",
+      "ja": "",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "292-NightBattleShoshuu2022": {
+      "file": "/5/5b/292-NightBattleShoshuu2022.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    },
+    "292-Sec1Shoshuu2022": {
+      "file": "/6/6e/292-Sec1Shoshuu2022.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    }
   }
 }
