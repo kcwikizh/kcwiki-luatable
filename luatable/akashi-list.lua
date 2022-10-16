@@ -6079,6 +6079,7 @@ k.EquipUpdateTb = {
 			"屋代(Lv1)",
 			"昭南(Lv1)",
 			"倉橋(Lv1)",
+			"鵜来(Lv1)",
 			"初風(Lv1)",
 			"舞風(Lv1)",
 			"秋雲(Lv1)",
@@ -6128,6 +6129,7 @@ k.EquipUpdateTb = {
 			"松輪改(Lv37)",
 			"佐渡改(Lv37)",
 			"★+4早潮改(Lv37)",
+			"夏雲改(Lv38)",
 			"占守改(Lv40)",
 			"瑞穂改(Lv40)",
 			"迅鯨改(Lv45)",
@@ -7075,6 +7077,7 @@ k.EquipUpdateTb = {
 			"香取改(Lv35)",
 			"日振改(Lv37)",
 			"昭南改(Lv37)",
+			"鵜来改(Lv43)",
 			"山風改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
@@ -21086,6 +21089,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"Massachusetts改(Lv48)",
 			"Iowa改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/OS2U",
@@ -23246,7 +23250,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
-				"Richelieu改"
+				"Richelieu級改"
 			}
 		},
 		["item_remodel"] = {
@@ -23355,6 +23359,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Hornet(Lv1)",
+			"Ranger(Lv1)",
 			"Saratoga改(Lv40)",
 			"Hornet改(Lv40)"
 		},
@@ -23489,7 +23494,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Saratoga(Lv1)",
-			"Hornet(Lv1)"
+			"Hornet(Lv1)",
+			"Ranger(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4F-3",
 		["EN_Wiki"] = "https://en.kancollewiki.net/F4F-3"
@@ -23545,7 +23551,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Saratoga改(Lv40)",
-			"Hornet改(Lv40)"
+			"Hornet改(Lv40)",
+			"Ranger改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F4F-4",
 		["EN_Wiki"] = "https://en.kancollewiki.net/F4F-4"
@@ -23838,7 +23845,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Intrepid(Lv1)"
+			"Intrepid(Lv1)",
+			"Langley改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3",
 		["EN_Wiki"] = "https://en.kancollewiki.net/F6F-3"
@@ -25109,6 +25117,7 @@ k.EquipUpdateTb = {
 			"昭南改(Lv37)",
 			"占守改(Lv40)",
 			"薄雲改(Lv40)",
+			"鵜来改(Lv43)",
 			"御蔵改(Lv45)",
 			"屋代改(Lv45)",
 			"対馬改(Lv47)",
@@ -27408,7 +27417,9 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Richelieu(Lv1)"
+			"Richelieu(Lv1)",
+			"Jean",
+			"Bart(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/38cm_Quadruple_Gun_Mount"
@@ -27656,7 +27667,9 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Richelieu改(Lv45)"
+			"Richelieu改(Lv45)",
+			"Jean",
+			"Bart改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/38cm%E5%9B%9B%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
 		["EN_Wiki"] = "https://en.kancollewiki.net/38cm_Quadruple_Gun_Mount_Kai"
@@ -27829,7 +27842,9 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Richelieu(Lv1)",
-			"Richelieu改(Lv45)"
+			"Richelieu改(Lv45)",
+			"Jean",
+			"Bart改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/15.2cm_Triple_Gun_Mount"
@@ -28251,10 +28266,40 @@ k.EquipUpdateTb = {
 				"​"
 			}
 		},
+		["item_remodel"] = {
+			["雷装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["equip_ships"] = {
+			"Langley(Lv1)",
+			"Ranger(Lv1)",
 			"Hornet改(Lv40)",
 			"Gambier",
-			"Bay改(Lv45)"
+			"Bay改(Lv45)",
+			"Langley改(Lv50)",
+			"Ranger改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBF",
 		["EN_Wiki"] = "https://en.kancollewiki.net/TBF"
@@ -31868,6 +31913,92 @@ k.EquipUpdateTb = {
 				"宗谷"
 			}
 		},
+		["item_remodel"] = {
+			["火力"] = {
+				"+0.75",
+				"+1.06",
+				"+1.29",
+				"+1.50",
+				"+1.67",
+				"+1.83",
+				"+1.98",
+				"+2.12",
+				"+2.25",
+				"+2.37",
+				"+3.51",
+				"+3.67",
+				"+3.82",
+				"+3.96",
+				"+4.10",
+				"+4.24",
+				"+4.37",
+				"+4.50",
+				"+4.62",
+				"+4.74",
+				"+5.95",
+				"+6.08",
+				"+6.22",
+				"+6.36",
+				"+6.49",
+				"+6.62",
+				"+6.75",
+				"+6.87",
+				"+6.99",
+				"+7.11",
+				"+8.34",
+				"+8.48",
+				"+8.61",
+				"+8.74",
+				"+8.87",
+				"+9.00",
+				"+9.12",
+				"+9.24",
+				"+9.36",
+				"+9.48"
+			},
+			["対潜"] = {
+				"+0.66",
+				"+0.94",
+				"+1.15",
+				"+1.33",
+				"+1.49",
+				"+1.63",
+				"+1.76",
+				"+1.88",
+				"+2.00",
+				"+2.10",
+				"+3.12",
+				"+3.26",
+				"+3.39",
+				"+3.52",
+				"+3.64",
+				"+3.77",
+				"+3.88",
+				"+4.00",
+				"+4.10",
+				"+4.21",
+				"+5.29",
+				"+5.41",
+				"+5.53",
+				"+5.65",
+				"+5.77",
+				"+5.88",
+				"+6.00",
+				"+6.10",
+				"+6.21",
+				"+6.32",
+				"+7.42",
+				"+7.54",
+				"+7.65",
+				"+7.77",
+				"+7.88",
+				"+8.00",
+				"+8.10",
+				"+8.21",
+				"+8.32",
+				"+8.43"
+			}
+		},
 		["equip_ships"] = {
 			"-"
 		},
@@ -35192,6 +35323,7 @@ k.EquipUpdateTb = {
 			"Maryland改(Lv45)",
 			"South",
 			"Dakota改(Lv48)",
+			"Massachusetts改(Lv48)",
 			"Johnston改(Lv55)",
 			"Fletcher改(Lv55)"
 		},
@@ -40782,7 +40914,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"South",
 			"Dakota(Lv1)",
-			"Washington(Lv1)"
+			"Washington(Lv1)",
+			"Massachusetts(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6",
 		["EN_Wiki"] = "https://en.kancollewiki.net/16inch_Triple_Gun_Mount_Mk.6"
@@ -41047,6 +41180,7 @@ k.EquipUpdateTb = {
 			"屋代(Lv1)",
 			"昭南(Lv1)",
 			"倉橋(Lv1)",
+			"鵜来(Lv1)",
 			"第四号海防艦改(Lv35)",
 			"第三〇号海防艦改(Lv35)",
 			"択捉改(Lv37)",
@@ -41058,6 +41192,7 @@ k.EquipUpdateTb = {
 			"国後改(Lv40)",
 			"八丈改(Lv40)",
 			"石垣改(Lv40)",
+			"鵜来改(Lv43)",
 			"御蔵改(Lv45)",
 			"屋代改(Lv45)",
 			"倉橋改(Lv45)",
@@ -41370,7 +41505,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Washington改(Lv47)",
 			"South",
-			"Dakota改(Lv48)"
+			"Dakota改(Lv48)",
+			"Massachusetts改(Lv48)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%20mod.2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/16inch_Triple_Gun_Mount_Mk.6_mod.2"
@@ -41416,7 +41552,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Honolulu(Lv1)",
-			"Helena(Lv1)"
+			"Helena(Lv1)",
+			"Brooklyn(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16",
 		["EN_Wiki"] = "https://en.kancollewiki.net/6inch_Triple_Rapid_Fire_Gun_Mount_Mk.16"
@@ -41462,7 +41599,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Honolulu改(Lv45)",
-			"Helena改(Lv45)"
+			"Helena改(Lv45)",
+			"Brooklyn改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/6inch%E4%B8%89%E9%80%A3%E8%A3%85%E9%80%9F%E5%B0%84%E7%A0%B2%20Mk.16%20mod.2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/6inch_Triple_Rapid_Fire_Gun_Mount_Mk.16_mod.2"
@@ -43200,6 +43338,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Honolulu改(Lv45)",
+			"Brooklyn改(Lv45)",
 			"Northampton改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SOC%20Seagull",
@@ -43404,7 +43543,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Langley(Lv1)",
+			"Ranger改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SBD-5",
 		["EN_Wiki"] = "https://en.kancollewiki.net/SBD-5"
@@ -46649,7 +46789,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"Jean",
+			"Bart改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Loire%20130M",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Loire_130M"
