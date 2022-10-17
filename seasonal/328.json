@@ -133,6 +133,38 @@
       "zh": "姐姐……浴衣，真好看！非常合适！不愧是，我的姐姐！"
     }
   },
+  "2022年万圣节": {
+    "328-Atk2Halloween2022": {
+      "file": "/1/11/328-Atk2Halloween2022.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "328-BattleHalloween2022": {
+      "file": "/d/d5/328-BattleHalloween2022.mp3",
+      "ja": "",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "328-IntroHalloween2022": {
+      "file": "/1/1c/328-IntroHalloween2022.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "328-Sec1Halloween2022": {
+      "file": "/a/ae/328-Sec1Halloween2022.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "328-Sec2Halloween2022": {
+      "file": "/d/d6/328-Sec2Halloween2022.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
+  },
   "2022年九周年纪念": {
     "328-Sec1NinthAnniversary": {
       "file": "/2/20/328-Sec1NinthAnniversary.mp3",
