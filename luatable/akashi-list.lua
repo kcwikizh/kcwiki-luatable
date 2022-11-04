@@ -47303,7 +47303,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%2BIII%E5%8F%B7%E6%88%A6%E8%BB%8A%28%E5%8C%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E4%BB%95%E6%A7%98%29",
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87%EF%BC%8BIII%E5%8F%B7%E6%88%A6%E8%BB%8A%28%E5%8C%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E4%BB%95%E6%A7%98%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Toku_Daihatsu_Landing_Craft_%2B_Panzer_III_%28North_African_Specification%29"
 	},
 	["483"] = {
@@ -47343,6 +47343,35 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE%E6%94%B9%E4%BA%8C",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Type_3_Shell_Kai_Ni"
+	},
+	["484"] = {
+		["id"] = 484,
+		["no"] = "No.484",
+		["item_name"] = {
+			["zh"] = "四式重爆 飛龍(熟練)＋イ号一型甲 誘導弾",
+			["ja"] = "四式重爆 飛龍(熟練)＋イ号一型甲 誘導弾"
+		},
+		["item_type"] = "陸上攻撃機",
+		["item_intro"] = "陸軍で開発された新鋭双発爆撃機キ67四式重爆撃機「飛龍」です。軽快な運動性を誇り、機外懸架ながら魚雷装備も可能な本機に、空対艦ミサイルの始祖的存在であるイ号一型甲無線誘導弾の試作型を装備した誘導弾搭載機です。陸軍航空の技術者が目指した対艦誘導弾。本飛行隊は、同装備と熟練搭乗員で編成された精鋭基地航空隊です。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+17",
+			["爆装"] = "+21",
+			["対空"] = "+5",
+			["対潜"] = "+4",
+			["索敵"] = "+5",
+			["命中"] = "+3",
+			["回避"] = "",
+			["戦闘行動半径"] = "5"
+		},
+		["item_equip"] = {
+			["基地航空隊"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%9B%9B%E5%BC%8F%E9%87%8D%E7%88%86%20%E9%A3%9B%E9%BE%8D%28%E7%86%9F%E7%B7%B4%29%EF%BC%8B%E3%82%A4%E5%8F%B7%E4%B8%80%E5%9E%8B%E7%94%B2%20%E8%AA%98%E5%B0%8E%E5%BC%BE",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Type_4_Heavy_Bomber_Hiryuu_%28Skilled%29_%2B_No.1_Model_1A_Guided_Missile"
 	}
 }
 
