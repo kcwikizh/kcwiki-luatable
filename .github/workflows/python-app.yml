@@ -22,6 +22,7 @@ jobs:
 
       Check: on
       Ships: on
+      Items: on
       Shinkai: on
       Wikiwiki: on
       SeasonalSubtitles: on
