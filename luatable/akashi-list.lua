@@ -34065,10 +34065,10 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: Nelson",
 			["cost"] = {
-				["fuel"] = "?",
-				["ammo"] = "?",
-				["steel"] = "?",
-				["bauxite"] = "?"
+				["fuel"] = "10",
+				["ammo"] = "150",
+				["steel"] = "210",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -34606,10 +34606,10 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: Nelson",
 			["cost"] = {
-				["fuel"] = "?",
-				["ammo"] = "?",
-				["steel"] = "?",
-				["bauxite"] = "?"
+				["fuel"] = "10",
+				["ammo"] = "40",
+				["steel"] = "20",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {

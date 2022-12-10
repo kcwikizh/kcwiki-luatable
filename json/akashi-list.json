@@ -33828,10 +33828,10 @@
       "id": 298,
       "item_build": {
         "cost": {
-          "ammo": "?",
-          "bauxite": "?",
-          "fuel": "?",
-          "steel": "?"
+          "ammo": "150",
+          "bauxite": "10",
+          "fuel": "10",
+          "steel": "210"
         },
         "secretary": "秘書艦: Nelson"
       },
@@ -34581,10 +34581,10 @@
       "id": 301,
       "item_build": {
         "cost": {
-          "ammo": "?",
-          "bauxite": "?",
-          "fuel": "?",
-          "steel": "?"
+          "ammo": "40",
+          "bauxite": "10",
+          "fuel": "10",
+          "steel": "20"
         },
         "secretary": "秘書艦: Nelson"
       },
