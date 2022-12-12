@@ -2,45 +2,45 @@
   "2022年圣诞节": {
     "452-AchievementChristmas2022": {
       "file": "/b/b4/452-AchievementChristmas2022.mp3",
-      "ja": "機関発見くまの実力をミルクマン。",
+      "ja": "情報を見るクマ？ほいきたクマ！",
       "vname": "战绩",
-      "zh": ""
+      "zh": "要看情报kuma？给你kuma！"
     },
     "452-Atk1Christmas2022": {
       "file": "/8/88/452-Atk1Christmas2022.mp3",
-      "ja": "機関発見くまの実力をミルクマン。",
+      "ja": "敵艦発見！球磨の実力を見るクマ！",
       "vname": "攻击1",
-      "zh": ""
+      "zh": "发现敌舰！瞧瞧球磨的实力吧kuma！"
     },
     "452-DockLightDmgChristmas2022": {
       "file": "/0/0f/452-DockLightDmgChristmas2022.mp3",
-      "ja": "大人のクマはゆとりの行動をするクマ。",
+      "ja": "大人の球磨はゆとりの行動をするクマ。",
       "vname": "小破入渠",
-      "zh": ""
+      "zh": "成熟的球磨要采取留有余裕的行动了kuma。"
     },
     "452-IntroChristmas2022": {
       "file": "/7/7c/452-IntroChristmas2022.mp3",
-      "ja": "ママ、今日も頑張るくま。",
+      "ja": "クッマァ～♪　今日も頑張るクマ♪",
       "vname": "入手/登入时",
-      "zh": ""
+      "zh": "Kuma~♪今天要加油了kuma♪"
     },
     "452-MVPChristmas2022": {
       "file": "/9/9f/452-MVPChristmas2022.mp3",
-      "ja": "やる時はやるくまちゃんって言われてるかも。",
+      "ja": "やるときはやるクマちゃんって言われてるクマ。",
       "vname": "MVP",
-      "zh": ""
+      "zh": "别人都叫我关键时候顶得住的球磨呢kuma。"
     },
     "452-NightBattleChristmas2022": {
       "file": "/2/2e/452-NightBattleChristmas2022.mp3",
-      "ja": "いや、宣伝してあげる車馬鹿。",
+      "ja": "夜戦で仕上げるクマ。クッマァ～",
       "vname": "夜战",
-      "zh": ""
+      "zh": "夜战收个尾kuma。Kuma~"
     },
     "452-Sec2Christmas2022": {
       "file": "/3/3f/452-Sec2Christmas2022.mp3",
-      "ja": "改装された熊、よんだくま。",
+      "ja": "改装されたクマ？呼んだクマ？",
       "vname": "秘书舰2",
-      "zh": ""
+      "zh": "改装了kuma？加我了kuma？"
     }
   }
 }

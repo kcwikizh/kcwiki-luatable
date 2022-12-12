@@ -29032,6 +29032,38 @@
       "item_type": "局地戦闘機",
       "no": "No.263"
     },
+    "264": {
+      "EN_Wiki": "https://en.kancollewiki.net/Shiden_Kai_%28343_Air_Group%29_701st_Fighter_Squadron",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%B4%AB%E9%9B%BB%E6%94%B9%28%E4%B8%89%E5%9B%9B%E4%B8%89%E7%A9%BA%29%20%E6%88%A6%E9%97%98701",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 264,
+      "item_equip": {
+        "基地航空隊": 1
+      },
+      "item_intro": "本土防空の切り札、局地戦闘機「紫電改」。同機が集中配備された三四三空。四国松山に展開した同戦闘飛行隊の一つ、精強な紫電改戦闘機隊、戦闘701。自らも優れたパイロットである空中指揮官、鴛淵隊長の率いる同隊は、苦しい戦局の中、圧倒的に優勢な敵機動部隊艦載機群に立ち向かいました。",
+      "item_name": {
+        "ja": "紫電改(三四三空) 戦闘701",
+        "zh": "紫电改（三四三空）战斗701"
+      },
+      "item_stat": {
+        "出撃対空": "17",
+        "対潜": "",
+        "対爆": "+2",
+        "対空": "+11",
+        "戦闘行動半径": "4",
+        "火力": "",
+        "爆装": "",
+        "索敵": "",
+        "装甲": "+2",
+        "迎撃": "+4",
+        "防空対空": "19",
+        "雷装": ""
+      },
+      "item_type": "局地戦闘機",
+      "no": "No.264"
+    },
     "266": {
       "EN_Wiki": "https://en.kancollewiki.net/12.7cm_Twin_Gun_Mount_Model_C_Kai_2",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2C%E5%9E%8B%E6%94%B9%E4%BA%8C",
