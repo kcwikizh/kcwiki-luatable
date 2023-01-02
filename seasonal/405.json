@@ -6,5 +6,19 @@
       "vname": "入手/登入时",
       "zh": "我是航空母舰，加贺。提督，今天也和期待中的差不多吧。请多关照。"
     }
+  },
+  "2023年新年季节": {
+    "405-Equip1Shinnen2023": {
+      "file": "/6/6a/405-Equip1Shinnen2023.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造1",
+      "zh": ""
+    },
+    "405-LibIntroShinnen2023": {
+      "file": "/8/8e/405-LibIntroShinnen2023.mp3",
+      "ja": "",
+      "vname": "图鉴介绍",
+      "zh": ""
+    }
   }
 }

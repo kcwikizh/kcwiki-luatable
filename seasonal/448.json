@@ -1,0 +1,40 @@
+{
+  "2023年新年季节": {
+    "448-Equip1Shinnen2023": {
+      "file": "/6/62/448-Equip1Shinnen2023.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造1",
+      "zh": ""
+    },
+    "448-Equip3Shinnen2023": {
+      "file": "/5/5d/448-Equip3Shinnen2023.mp3",
+      "ja": "",
+      "vname": "装备",
+      "zh": ""
+    },
+    "448-IdleShinnen2023": {
+      "file": "/c/ce/448-IdleShinnen2023.mp3",
+      "ja": "",
+      "vname": "放置",
+      "zh": ""
+    },
+    "448-IntroShinnen2023": {
+      "file": "/f/fa/448-IntroShinnen2023.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "448-Sec2Shinnen2023": {
+      "file": "/2/22/448-Sec2Shinnen2023.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "448-Sec3Shinnen2023": {
+      "file": "/a/ac/448-Sec3Shinnen2023.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
+  }
+}
