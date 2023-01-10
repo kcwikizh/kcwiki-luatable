@@ -7057,7 +7057,8 @@ k.EquipUpdateTb = {
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious"
+				"Victorious",
+				"鳳翔改二戦"
 			}
 		},
 		["item_remodel"] = {
@@ -7309,7 +7310,8 @@ k.EquipUpdateTb = {
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious"
+				"Victorious",
+				"鳳翔改二戦"
 			}
 		},
 		["item_remodel"] = {
@@ -9511,8 +9513,8 @@ k.EquipUpdateTb = {
 				"熊野改二",
 				"鈴谷航改二",
 				"熊野航改二",
-				"最上改二",
-				"最上改二特",
+				"鳳翔改二/戦",
+				"最上改二/特",
 				"阿賀野型",
 				"由良改二",
 				"大鯨型"
@@ -10203,8 +10205,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"大鳳型",
 				"大淀型",
-				"大和型改",
-				"大和型改二"
+				"大和型改/改二",
+				"鳳翔改二/戦"
 			}
 		},
 		["item_remodel"] = {
@@ -10679,7 +10681,8 @@ k.EquipUpdateTb = {
 			["揚陸艦"] = 1,
 			["補給艦"] = 1,
 			["extra"] = {
-				"UIT-25"
+				"UIT-25",
+				"鳳翔改二戦"
 			}
 		},
 		["item_build"] = {
@@ -19368,7 +19371,8 @@ k.EquipUpdateTb = {
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious"
+				"Victorious",
+				"鳳翔改二戦"
 			}
 		},
 		["item_remodel"] = {
@@ -24915,8 +24919,8 @@ k.EquipUpdateTb = {
 				"熊野改二",
 				"鈴谷航改二",
 				"熊野航改二",
-				"最上改二",
-				"最上改二特",
+				"鳳翔改二/戦",
+				"最上改二/特",
 				"阿賀野型",
 				"由良改二",
 				"大鯨型"
@@ -28820,7 +28824,8 @@ k.EquipUpdateTb = {
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious"
+				"Victorious",
+				"鳳翔改二戦"
 			}
 		},
 		["item_remodel"] = {
@@ -29044,7 +29049,8 @@ k.EquipUpdateTb = {
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious"
+				"Victorious",
+				"鳳翔改二戦"
 			}
 		},
 		["equip_ships"] = {
@@ -29098,7 +29104,8 @@ k.EquipUpdateTb = {
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious"
+				"Victorious",
+				"鳳翔改二戦"
 			}
 		},
 		["equip_ships"] = {
@@ -30032,8 +30039,8 @@ k.EquipUpdateTb = {
 			["extra"] = {
 				"大鳳型",
 				"大淀型",
-				"大和型改",
-				"大和型改二"
+				"大和型改/改二",
+				"鳳翔改二/戦"
 			}
 		},
 		["item_remodel"] = {
@@ -45402,7 +45409,8 @@ k.EquipUpdateTb = {
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious"
+				"Victorious",
+				"鳳翔改二戦"
 			}
 		},
 		["item_remodel"] = {
