@@ -1,11 +1,12 @@
 import asyncio
 import json
 import re
+import math
 
 from config import (DB_PATH, JSON_PATH, KCDATA_SHIP_ALL_JSON,
                     KCDATA_SLOTITEM_ALL_JSON, LUATABLE_PATH, OUPUT_PATH,
                     SHINKAI_EXTRA_JSON, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
-                    WIKIA_OUTPUT_JSON)
+                    WIKIA_OUTPUT_JSON, AIRPOWER_TABLE)
 from HttpClient import HttpClient
 from slpp import slpp as lua
 from utils import jsonFile2dic, luatable, sortDict
@@ -34,7 +35,6 @@ STATS = {
 }
 STATS_EXTRA = {
     '_opening_torpedo': '开幕鱼雷',
-    '_slots': '格数',
     '_night_bombing': '夜战轰炸',
     '_air_power': '制空值',
     '_asw_attack': '开幕反潜'
@@ -54,24 +54,31 @@ STYPE = {
     21: '练习巡洋舰', 22: '补给舰'
 }
 
-SKIP_SUFFIXES = ['New Year 2017']
-
+IS_BOMBER = [7, 8, 11]
+IS_FIGHTER = [6, 7, 8, 11, 47]
+IS_RECON = [10]
+IS_CARRIER = [7, 11, 18]
 
 class ShinkaiLuatable(HttpClient):
-    WIKIA_RAW_URL = 'http://kancolle.wikia.com/wiki/{}?action=raw'
-
+    WIKIA_RAW_URL = 'https://en.kancollewiki.net/{}?action=raw'
+    SHINKAI_ITEMS_URL = 'https://en.kancollewiki.net/w/api.php?action=query&list=allpages&apprefix=Data%2FEnemyEquipment%2F&apnamespace=828&aplimit=max&format=json'
+    SHINKAI_SHIP_URL = 'https://en.kancollewiki.net/w/api.php?action=query&list=allpages&apprefix=Data%2FEnemy%2F&apnamespace=828&aplimit=max&format=json'
+    DETAIL_URL = 'https://en.kancollewiki.net/w/api.php?action=expandtemplates&text={{{{EnemyShipInfoKai|{}}}}}&format=json'
+    NUM_PATTERN = re.compile(r'\d+')
+    
     def __init__(self):
         super().__init__()
         self.items_id_map = {}
         self.items_data = {}
         self.ships_data = {}
+        self.airpower_table = {}
+        self.labs_airpower_table = {}
         self.SHINKAI_EXTRA = {}
         self.SLOTITEMS_KCDATA = jsonFile2dic(DB_PATH + KCDATA_SLOTITEM_ALL_JSON, masterKey='id')
         self.SHIPS_KCDATA = jsonFile2dic(DB_PATH + KCDATA_SHIP_ALL_JSON, masterKey='id')
 
     async def __get_allitems(self):
-        SHINKAI_ITEMS_URL = 'https://kancolle.fandom.com/api.php?action=query&list=allpages&apprefix=Data%2FEnemyEquipment%2F&apnamespace=828&aplimit=max&format=json'
-        async with self.session.get(SHINKAI_ITEMS_URL) as resp:
+        async with self.session.get(self.SHINKAI_ITEMS_URL) as resp:
             res = await resp.json()
             return res['query']['allpages']
 
@@ -135,36 +142,28 @@ class ShinkaiLuatable(HttpClient):
             json.dump(self.items_data, fp, ensure_ascii=False, indent=4)
 
     async def __get_allships(self):
-        ret = []
-        async with self.session.get('http://kancolle.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Enemy_ship_modules&cmlimit=500&format=json') as resp:
+        async with self.session.get(self.SHINKAI_SHIP_URL) as resp:
             res = await resp.json()
-            CATEGORY_MEMBERS = res['query']['categorymembers']
-            for category in CATEGORY_MEMBERS:
-                title = category['title']
-                if title.startswith('Module') and title not in ret:
-                    ret.append(title)
-        async with self.session.get('https://kancolle.fandom.com/api.php?action=query&list=allpages&apprefix=Data%2FEnemy%2F&apnamespace=828&aplimit=max&format=json') as resp:
-            res = await resp.json()
-            CATEGORY_MEMBERS = res['query']['allpages']
-            for category in CATEGORY_MEMBERS:
-                title = category['title']
-                if title.startswith('Module:Data/Enemy/Vita:'):
-                    continue
-                elif title.startswith('Module:Data/Enemy/Mist:'):
-                    continue
-                elif title == "Module:Data/Enemy/Transport Ship Wa-Class B":
-                    continue
-                elif title.startswith('Module') and title not in ret:
-                    ret.append(title)
-        return ret
+            return res['query']['allpages']
 
-    def __load_extra(self):
-        self.SHINKAI_EXTRA = jsonFile2dic(DB_PATH + SHINKAI_EXTRA_JSON)
-        wikia_data = jsonFile2dic(DB_PATH + WIKIA_OUTPUT_JSON)
-        for _id, value in wikia_data.items():
-            if _id not in self.SHINKAI_EXTRA:
-                self.SHINKAI_EXTRA[_id] = {}
-            self.SHINKAI_EXTRA[_id].update(value)
+    async def __wikia_crawler(self, title, variant):
+        url = self.DETAIL_URL.format(title[18:] + '/' + variant)
+        async with self.session.get(url) as resp:
+            res_json = await resp.json()
+            val = res_json['expandtemplates']['*']
+            txt = val.split("'''")
+            dayBattle = 0
+            re_res = self.NUM_PATTERN.search(txt[47].strip())
+            if re_res:
+                dayBattle = int(re_res.group(0))
+            airPower = txt[36].split('|')[3].strip()
+            if airPower.find('?') != -1:
+                airPower = airPower.strip('?')
+            try:
+                airPower = int(airPower)
+            except ValueError:
+                airPower = 9999
+        return (airPower, dayBattle)
 
     async def __append_shinkai_ship(self, title):
         resp = await self.session.get(self.WIKIA_RAW_URL.format(title))
@@ -172,12 +171,12 @@ class ShinkaiLuatable(HttpClient):
         _luatable = LUATABLE_PATTERN.search(resp_text)
         _luatable = _luatable.group(0)
         shinkai_infos = lua.decode(_luatable)
-        for shinkai_info in shinkai_infos.values():
+        for variant, shinkai_info in shinkai_infos.items():
             if type(shinkai_info) is not dict:
                 continue
             if '_api_id' not in shinkai_info:
                 continue
-            if '_suffix' in shinkai_info and shinkai_info['_suffix'] in SKIP_SUFFIXES:
+            if '_seasonal' in shinkai_info:
                 continue
             api_id = shinkai_info['_api_id']
             if api_id < 1000:
@@ -185,18 +184,13 @@ class ShinkaiLuatable(HttpClient):
             if api_id not in self.SHIPS_KCDATA:
                 continue
             _api_id = str(api_id)
-            extra_data = self.SHINKAI_EXTRA[_api_id] if _api_id in self.SHINKAI_EXTRA else {
-            }
             yomi = self.SHIPS_KCDATA[api_id]['yomi']
             yomi = yomi if yomi else ''
             chinese_name = self.SHIPS_KCDATA[api_id]['chinese_name']
             chinese_name = chinese_name if chinese_name else ''
             category = ''
             stype = self.SHIPS_KCDATA[api_id]['stype']
-            if 'Stype' in extra_data:
-                category = extra_data['Stype']
-            else:
-                category = STYPE[stype]
+            category = STYPE[stype]
             self.ships_data[_api_id] = {
                 '日文名': shinkai_info['_japanese_name'],
                 '中文名': chinese_name,
@@ -216,31 +210,60 @@ class ShinkaiLuatable(HttpClient):
                 },
                 '装备': {}
             }
+            equips_air_power = 9999
+            labs_air = 0
+            equips_firepower = 0
+            equips_torpedo = 0
+            equips_bombing = 0
             for key, val in shinkai_info.items():
                 if key == '_id' or key == '_api_id':
                     continue
-                if val == None or val == 0:
+                if val == None:
                     continue
                 if key == '_range':
                     val = RANGE[val]
                 elif key == '_speed':
                     val = SPEED[val]
+                if val == 0:
+                    continue
                 elif key == '_equipment':
                     equips = {
                         '格数': len(val),
                         '搭载': [],
                         '装备': []
                     }
+                    equips_air_power = 0
                     for att in val:
-                        equips['搭载'].append(att['size'] if att['size'] else 0)
+                        slot_size = att['size'] if 'size' in att and att['size'] else 0
+                        equips['搭载'].append(slot_size)
                         equip_name = att['equipment']
                         equip_id = -1
+                        current_equip = {}
                         if equip_name and equip_name not in self.items_id_map:
                             if equip_name in REDIRECT:
                                 equip_name = REDIRECT[equip_name]
                         if equip_name and equip_name in self.items_id_map:
                             equip_id = self.items_id_map[equip_name]
+                            current_equip = self.items_data[equip_id]
                         equips['装备'].append(equip_id)
+                        if equip_id == -1:
+                            equips_air_power = 9999
+                        else:
+                            if slot_size > 0:
+                                equip_air_power = current_equip["对空"] if "对空" in current_equip else 0
+                                equip_torpedo = current_equip["雷装"] if "雷装" in current_equip else 0
+                                equip_bombing = current_equip["爆装"] if "爆装" in current_equip else 0
+                                equip_type = current_equip["类型"][2] if "类型" in current_equip else 0
+                                if equip_type in IS_RECON:
+                                    labs_air += math.floor(math.sqrt(slot_size) * equip_air_power)
+                                if equips_air_power != 9999:
+                                    if equip_type in IS_FIGHTER:
+                                        equips_air_power += math.floor(math.sqrt(slot_size) * equip_air_power)
+                                    if equip_type in IS_BOMBER:
+                                        equips_torpedo += equip_torpedo
+                                        equips_bombing += equip_bombing
+                            equip_firepower = current_equip["火力"] if "火力" in current_equip else 0
+                            equips_firepower += equip_firepower
                     self.ships_data[_api_id].update({
                         '装备': equips
                     })
@@ -249,25 +272,43 @@ class ShinkaiLuatable(HttpClient):
                 elif val == False:
                     val = 0
                 if key in STATS:
-                    if key == '_firepower' and\
-                        (chinese_name.find('WO') != -1 or chinese_name.find('NU') != -1) and\
-                            'DayBattle' in extra_data:
-                        val = [val, extra_data['DayBattle']]
                     self.ships_data[_api_id]['属性'][STATS[key]] = val
                 elif key in ATTRS:
                     self.ships_data[_api_id].update({
                         ATTRS[key]: val
                     })
-            if (chinese_name.find('WO') != -1 or chinese_name.find('NU') != -1) and\
-                    'DayBattle' in extra_data:
-                if '火力' not in self.ships_data[_api_id]['属性']:
-                    self.ships_data[_api_id]['属性']['火力'] = [0, extra_data['DayBattle']]
+            
+            if '火力' not in self.ships_data[_api_id]['属性']:
+                self.ships_data[_api_id]['属性']['火力'] = 0
+            if equips_air_power == 9999:
+                equips_air_power, day_battle_power = await self.__wikia_crawler(title, variant)
+            else:
+                current_ship_stats = self.ships_data[_api_id]['属性']
+                equips_firepower += current_ship_stats["火力"] if "火力" in current_ship_stats else 0
+                equips_torpedo += current_ship_stats["雷装"] if "雷装" in current_ship_stats else 0
+                day_battle_power = math.floor(1.5 * (equips_firepower + equips_torpedo + math.floor(1.3 * equips_bombing))) + 55
+                if labs_air > 0:
+                    self.labs_airpower_table[_api_id] = labs_air
+            if equips_air_power > 0:
+                self.airpower_table[_api_id] = equips_air_power
+            if stype in IS_CARRIER or (stype == 10 and self.ships_data[_api_id]['属性']['速力'] == '陆上单位'):
+                if day_battle_power > 0:
+                    self.ships_data[_api_id]['属性']['火力'] = [self.ships_data[_api_id]['属性']['火力'], day_battle_power]
+        print('ShinkaiLuatable: {} ok!'.format(title))
 
     async def genShinkaiShips(self):
-        self.__load_extra()
-        categories = await self.__get_allships()
+        CATEGORY_MEMBERS = await self.__get_allships()
         tasks = []
-        for title in categories:
+        for category in CATEGORY_MEMBERS:
+            title = category['title']
+            if title.startswith('Module:Data/Enemy/Vita:'):
+                continue
+            elif title.startswith('Module:Data/Enemy/Mist:'):
+                continue
+            elif title == "Module:Data/Enemy/Transport Ship Wa-Class B":
+                continue
+            elif title == "Module:Data/Enemy/Harbour Summer Princess B":
+                continue
             tasks.append(asyncio.ensure_future(
                 self.__append_shinkai_ship(title)))
         dones, pendings = await asyncio.wait(tasks)
@@ -278,10 +319,17 @@ class ShinkaiLuatable(HttpClient):
         ships_luatable += luatable(self.ships_data)
         ships_luatable += '\n'
         ships_luatable += '\nreturn d\n'
+        air_luatable = 'local p = { }\np.enemyFighterPowerDataTb = '
+        air_luatable += luatable(sortDict(self.airpower_table))
+        air_luatable += '\np.enemyFighterPowerDataTb2 = '
+        air_luatable += luatable(sortDict(self.labs_airpower_table))
+        air_luatable += '\nreturn p\n'
         with open(OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua', 'w', encoding='utf-8') as fp:
             fp.write(ships_luatable)
         with open(OUPUT_PATH + JSON_PATH + SHINKAI_SHIPS_DATA + '.json', 'w', encoding='utf-8') as fp:
             json.dump(self.ships_data, fp, ensure_ascii=False, indent=4)
+        with open(OUPUT_PATH + LUATABLE_PATH + AIRPOWER_TABLE, 'w', encoding='utf-8') as fp:
+            fp.write(air_luatable)
 
     async def start(self):
         await self.genShinkaiItems()

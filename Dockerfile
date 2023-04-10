@@ -1,4 +1,4 @@
-FROM kozora/python3-nodejs:latest
+FROM python:3.7.2-slim
 ADD . /code
 WORKDIR /code
 ENV PATH=$PATH:/code/lua_install/bin

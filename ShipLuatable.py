@@ -76,6 +76,7 @@ STAT = {
     'armor': '装甲', 'evasion': '回避', 'hit': '命中'
 }
 CONSUMABLE = {
+    'consumable_57': '勋章',
     'consumable_70': '熟练搭乘员',
     'consumable_71': 'ネ(Ne)式引擎',
     'consumable_75': '新型炮熕兵装资材',

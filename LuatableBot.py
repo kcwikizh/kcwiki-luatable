@@ -17,7 +17,7 @@ from config import (AIRPOWER_TABLE, AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH,
                     SHIP_TYPE_COLLECTIONS_DB, SHIP_TYPES_DB,
                     SHIPCLASSES_MAPPING_DATA, SHIPS_DATA, SHIPS_DB,
                     WCTF_DB_NAME)
-from crawlers import (AkashiListCrawler, SeasonalCrawler, WikiaCrawler,
+from crawlers import (AkashiListCrawler, SeasonalCrawler,
                       WikiwikiCrawler)
 from DBDownloader import DBDownloader
 from ShinkaiLuatable import ShinkaiLuatable
@@ -131,11 +131,6 @@ class LuatableBot:
             await akashiListCrawler.start()
             self.task_status[task_name] = True
 
-    @LuatableBotTask()
-    async def WikiaData(self):
-        wikiaCrawler = WikiaCrawler()
-        await wikiaCrawler.start()
-
     @Switch('Wikiwiki')
     @LuatableBotTask()
     async def WikiwikiData(self):
@@ -165,7 +160,6 @@ class LuatableBot:
     @Switch('Shinkai')
     @LuatableBotTask(True)
     async def ShinkaiLuatable(self):
-        await self.WikiaData()
         shinkaiLuatable = ShinkaiLuatable()
         await shinkaiLuatable.start()
 
