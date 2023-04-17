@@ -14,5 +14,73 @@
       "vname": "秘书舰3",
       "zh": "啊，泳装？哼哼哼，没问题没问题。夏天明年还会来的，呐！"
     }
+  },
+  "2023年初春季节": {
+    "297-AchievementHaru2023": {
+      "file": "/e/eb/297-AchievementHaru2023.mp3",
+      "ja": "",
+      "vname": "战绩",
+      "zh": ""
+    },
+    "297-ConstCompleteHaru2023": {
+      "file": "/3/3f/297-ConstCompleteHaru2023.mp3",
+      "ja": "",
+      "vname": "建造完成",
+      "zh": ""
+    },
+    "297-DockLightDmgHaru2023": {
+      "file": "/4/4d/297-DockLightDmgHaru2023.mp3",
+      "ja": "",
+      "vname": "小破入渠",
+      "zh": ""
+    },
+    "297-Equip1Haru2023": {
+      "file": "/6/6a/297-Equip1Haru2023.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造1",
+      "zh": ""
+    },
+    "297-Equip2Haru2023": {
+      "file": "/4/40/297-Equip2Haru2023.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造2",
+      "zh": ""
+    },
+    "297-IntroHaru2023": {
+      "file": "/e/e7/297-IntroHaru2023.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "297-LightDmg2Haru2023": {
+      "file": "/2/20/297-LightDmg2Haru2023.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "297-MVPHaru2023": {
+      "file": "/7/7e/297-MVPHaru2023.mp3",
+      "ja": "",
+      "vname": "MVP",
+      "zh": ""
+    },
+    "297-MedDmgHaru2023": {
+      "file": "/4/4c/297-MedDmgHaru2023.mp3",
+      "ja": "",
+      "vname": "中破",
+      "zh": ""
+    },
+    "297-ResupplyHaru2023": {
+      "file": "/e/e5/297-ResupplyHaru2023.mp3",
+      "ja": "",
+      "vname": "补给",
+      "zh": ""
+    },
+    "297-SortieHaru2023": {
+      "file": "/4/47/297-SortieHaru2023.mp3",
+      "ja": "",
+      "vname": "出征",
+      "zh": ""
+    }
   }
 }
