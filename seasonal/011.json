@@ -112,5 +112,19 @@
       "vname": "秘书舰1",
       "zh": "啊，在这在这！司令官，我一直在找您呢！今天是个特别的日子，来跟我们一起庆祝一下吧！我也要给您露两手呢！"
     }
+  },
+  "2023年十周年纪念": {
+    "011-Atk1TenthAnniversary": {
+      "file": "/a/ae/011-Atk1TenthAnniversary.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "011-Sec1TenthAnniversary": {
+      "file": "/3/3c/011-Sec1TenthAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    }
   }
 }
