@@ -2730,7 +2730,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -2940,7 +2940,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -3141,7 +3141,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -4117,6 +4117,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -4395,9 +4396,12 @@ k.EquipUpdateTb = {
 			["軽空母"] = 1,
 			["正規空母"] = 1,
 			["水上機母艦"] = 1,
-			["航空戦艦"] = 1,
+			["航空戦艦"] = 1
+		},
+		["item_extra_equip"] = {
 			["extra"] = {
-				"​"
+				"金剛型改二丙",
+				"榛名改二乙"
 			}
 		},
 		["item_remodel"] = {
@@ -6251,6 +6255,7 @@ k.EquipUpdateTb = {
 			"昭南(Lv1)",
 			"倉橋(Lv1)",
 			"鵜来(Lv1)",
+			"能美(Lv1)",
 			"初風(Lv1)",
 			"舞風(Lv1)",
 			"秋雲(Lv1)",
@@ -6306,6 +6311,7 @@ k.EquipUpdateTb = {
 			"迅鯨改(Lv45)",
 			"長鯨改(Lv47)",
 			"有明改(Lv48)",
+			"夕暮改(Lv49)",
 			"春風改(Lv50)",
 			"千歳改二(Lv50)",
 			"千代田改二(Lv50)",
@@ -7053,12 +7059,12 @@ k.EquipUpdateTb = {
 				"神鷹・大鷹改",
 				"武蔵改二",
 				"日向改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious",
-				"鳳翔改二戦"
+				"鳳翔改二戦",
+				"Victorious"
 			}
 		},
 		["item_remodel"] = {
@@ -7306,12 +7312,12 @@ k.EquipUpdateTb = {
 				"神鷹・大鷹改",
 				"武蔵改二",
 				"日向改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious",
-				"鳳翔改二戦"
+				"鳳翔改二戦",
+				"Victorious"
 			}
 		},
 		["item_remodel"] = {
@@ -7763,6 +7769,7 @@ k.EquipUpdateTb = {
 			"木曾改(Lv20)",
 			"長良改(Lv20)",
 			"狭霧改(Lv30)",
+			"能美改(Lv45)",
 			"松改(Lv50)",
 			"曙改二(Lv82)"
 		},
@@ -8553,7 +8560,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -9039,6 +9046,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -9784,7 +9792,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -9996,6 +10004,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"あきつ丸(Lv1)",
 			"神州丸(Lv1)",
+			"熊野丸(Lv1)",
 			"神州丸改(Lv48)",
 			"霰改二(Lv63)",
 			"大潮改二(Lv65)",
@@ -10156,6 +10165,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"山汐丸(Lv1)",
+			"熊野丸(Lv1)",
 			"あきつ丸改(Lv25)",
 			"山汐丸改(Lv48)"
 		},
@@ -11146,6 +11156,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -11224,6 +11235,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -11301,6 +11313,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -11711,9 +11724,12 @@ k.EquipUpdateTb = {
 			["軽空母"] = 1,
 			["正規空母"] = 1,
 			["水上機母艦"] = 1,
-			["航空戦艦"] = 1,
+			["航空戦艦"] = 1
+		},
+		["item_extra_equip"] = {
 			["extra"] = {
-				"​"
+				"金剛型改二丙",
+				"榛名改二乙"
 			}
 		},
 		["item_remodel"] = {
@@ -16409,7 +16425,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -16598,7 +16614,7 @@ k.EquipUpdateTb = {
 				"大鯨型",
 				"神威改母",
 				"陸奥改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"大和改二重"
 			}
 		},
@@ -19367,12 +19383,12 @@ k.EquipUpdateTb = {
 				"神鷹・大鷹改",
 				"武蔵改二",
 				"日向改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious",
-				"鳳翔改二戦"
+				"鳳翔改二戦",
+				"Victorious"
 			}
 		},
 		["item_remodel"] = {
@@ -20661,6 +20677,7 @@ k.EquipUpdateTb = {
 				"長門型改",
 				"大和型改",
 				"比叡改二丙",
+				"榛名改二乙/丙",
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
@@ -20729,6 +20746,7 @@ k.EquipUpdateTb = {
 				"長門型改",
 				"大和型改",
 				"比叡改二丙",
+				"榛名改二乙/丙",
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
@@ -21564,7 +21582,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -21895,7 +21913,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -24275,6 +24293,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -24360,6 +24379,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -24702,6 +24722,7 @@ k.EquipUpdateTb = {
 				"長門型改",
 				"大和型改",
 				"比叡改二丙",
+				"榛名改二乙/丙",
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
@@ -24768,6 +24789,7 @@ k.EquipUpdateTb = {
 				"長門型改",
 				"大和型改",
 				"比叡改二丙",
+				"榛名改二乙/丙",
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
@@ -24834,6 +24856,7 @@ k.EquipUpdateTb = {
 				"長門型改",
 				"大和型改",
 				"比叡改二丙",
+				"榛名改二乙/丙",
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
@@ -25534,6 +25557,7 @@ k.EquipUpdateTb = {
 			"鵜来改(Lv43)",
 			"御蔵改(Lv45)",
 			"屋代改(Lv45)",
+			"能美改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
 			"平戸改(Lv48)",
@@ -27170,6 +27194,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -27365,9 +27390,12 @@ k.EquipUpdateTb = {
 			["軽空母"] = 1,
 			["正規空母"] = 1,
 			["水上機母艦"] = 1,
-			["航空戦艦"] = 1,
+			["航空戦艦"] = 1
+		},
+		["item_extra_equip"] = {
 			["extra"] = {
-				"​"
+				"金剛型改二丙",
+				"榛名改二乙"
 			}
 		},
 		["equip_ships"] = {
@@ -28906,12 +28934,12 @@ k.EquipUpdateTb = {
 				"神鷹・大鷹改",
 				"武蔵改二",
 				"日向改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious",
-				"鳳翔改二戦"
+				"鳳翔改二戦",
+				"Victorious"
 			}
 		},
 		["item_remodel"] = {
@@ -29131,12 +29159,12 @@ k.EquipUpdateTb = {
 				"神鷹・大鷹改",
 				"武蔵改二",
 				"日向改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious",
-				"鳳翔改二戦"
+				"鳳翔改二戦",
+				"Victorious"
 			}
 		},
 		["equip_ships"] = {
@@ -29186,12 +29214,12 @@ k.EquipUpdateTb = {
 				"神鷹・大鷹改",
 				"武蔵改二",
 				"日向改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious",
-				"鳳翔改二戦"
+				"鳳翔改二戦",
+				"Victorious"
 			}
 		},
 		["equip_ships"] = {
@@ -31585,7 +31613,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -31978,12 +32006,14 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Samuel",
-			"B.Roberts(Lv1)",
-			"Johnston(Lv1)",
 			"Fletcher(Lv1)",
+			"Johnston(Lv1)",
+			"Heywood",
+			"L.E.(Lv1)",
 			"Samuel",
-			"B.Roberts改(Lv50)"
+			"B.R(Lv1)",
+			"Samuel",
+			"B.R改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30",
 		["EN_Wiki"] = "https://en.kancollewiki.net/5inch_Single_Gun_Mount_Mk.30"
@@ -32026,7 +32056,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -32238,7 +32268,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -35912,8 +35942,10 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Johnston改(Lv55)",
 			"Fletcher改(Lv55)",
+			"Heywood",
+			"L.E.改(Lv55)",
 			"Samuel",
-			"B.Roberts",
+			"B.R",
 			"Mk.II(Lv78)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%20%E6%94%B9",
@@ -35957,7 +35989,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -36090,8 +36122,10 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"Fletcher(Lv1)",
 			"Johnston(Lv1)",
-			"Fletcher(Lv1)"
+			"Heywood",
+			"L.E.改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/533mm%E4%BA%94%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/533mm_Quintuple_Torpedo_Mount_%28Initial_Model%29"
@@ -36260,6 +36294,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"Heywood",
+			"L.E.(Lv1)",
 			"Colorado改(Lv45)",
 			"Maryland改(Lv45)",
 			"South",
@@ -36902,6 +36938,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -36978,6 +37015,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -39019,7 +39057,8 @@ k.EquipUpdateTb = {
 			"山汐丸(Lv1)",
 			"御蔵改(Lv45)",
 			"神州丸改(Lv48)",
-			"山汐丸改(Lv48)"
+			"山汐丸改(Lv48)",
+			"熊野丸改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Type_2_12cm_Mortar_Kai"
@@ -39110,7 +39149,7 @@ k.EquipUpdateTb = {
 				"大鯨型",
 				"神威改母",
 				"陸奥改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"大和改二重"
 			}
 		},
@@ -39245,7 +39284,7 @@ k.EquipUpdateTb = {
 				"大鯨型",
 				"神威改母",
 				"陸奥改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"大和改二重"
 			}
 		},
@@ -39616,10 +39655,12 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Houston(Lv1)",
 			"Northampton(Lv1)",
+			"Houston(Lv1)",
+			"Tuscaloosa(Lv1)",
+			"Northampton改(Lv50)",
 			"Houston改(Lv50)",
-			"Northampton改(Lv50)"
+			"Tuscaloosa改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/8inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.9",
 		["EN_Wiki"] = "https://en.kancollewiki.net/8inch_Triple_Gun_Mount_Mk.9"
@@ -39899,8 +39940,9 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"Northampton改(Lv50)",
 			"Houston改(Lv50)",
-			"Northampton改(Lv50)"
+			"Tuscaloosa改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%20%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2%E7%BE%A4",
 		["EN_Wiki"] = "https://en.kancollewiki.net/5inch_Single_High-angle_Gun_Mount_Battery"
@@ -40635,6 +40677,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -40711,6 +40754,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -40787,6 +40831,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -41199,7 +41244,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -42122,6 +42167,7 @@ k.EquipUpdateTb = {
 			"昭南(Lv1)",
 			"倉橋(Lv1)",
 			"鵜来(Lv1)",
+			"能美(Lv1)",
 			"第四号海防艦改(Lv35)",
 			"第三〇号海防艦改(Lv35)",
 			"択捉改(Lv37)",
@@ -42137,6 +42183,7 @@ k.EquipUpdateTb = {
 			"御蔵改(Lv45)",
 			"屋代改(Lv45)",
 			"倉橋改(Lv45)",
+			"能美改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
 			"平戸改(Lv48)"
@@ -43283,7 +43330,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["extra"] = {
 				"Bismarck drei",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"C.d.C nuovo"
 			}
 		},
@@ -43815,6 +43862,11 @@ k.EquipUpdateTb = {
 				"初霜改二"
 			}
 		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"榛名改二乙/丙"
+			}
+		},
 		["item_remodel"] = {
 			["索敵値"] = {
 				"+1.40",
@@ -43987,6 +44039,11 @@ k.EquipUpdateTb = {
 				"霞改二乙",
 				"秋月型",
 				"初霜改二"
+			}
+		},
+		["item_extra_equip"] = {
+			["extra"] = {
+				"榛名改二乙/丙"
 			}
 		},
 		["equip_ships"] = {
@@ -44202,7 +44259,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Honolulu改(Lv45)",
 			"Brooklyn改(Lv45)",
-			"Northampton改(Lv50)"
+			"Northampton改(Lv50)",
+			"Tuscaloosa改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SOC%20Seagull",
 		["EN_Wiki"] = "https://en.kancollewiki.net/SOC_Seagull"
@@ -45491,12 +45549,12 @@ k.EquipUpdateTb = {
 				"神鷹・大鷹改",
 				"武蔵改二",
 				"日向改二",
-				"金剛型改二丙",
+				"金剛型改二丙/乙",
 				"宗谷",
 				"G.Bay Mk.II",
 				"C.d.C nuovo",
-				"Victorious",
-				"鳳翔改二戦"
+				"鳳翔改二戦",
+				"Victorious"
 			}
 		},
 		["item_remodel"] = {
@@ -46266,7 +46324,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"熊野丸改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E6%8C%87%E6%8F%AE%E9%80%A3%E7%B5%A1%E6%A9%9F%E6%94%B9",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Type_3_Command_Liaison_Aircraft_Kai"
@@ -48268,6 +48326,7 @@ k.EquipUpdateTb = {
 				"長門型改",
 				"大和型改",
 				"比叡改二丙",
+				"榛名改二乙/丙",
 				"大鯨型",
 				"由良改二",
 				"球磨改二",
@@ -48583,6 +48642,7 @@ k.EquipUpdateTb = {
 				"多摩改二",
 				"Gotland",
 				"金剛改二丙",
+				"榛名改二乙/丙",
 				"C.d.C nuovo"
 			}
 		},
@@ -48791,7 +48851,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"第百一号輸送艦改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B9%9D%E4%B8%83%E5%BC%8F%E4%B8%AD%E6%88%A6%E8%BB%8A%28%E3%83%81%E3%83%8F%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Type_97_Medium_Tank_%28Chi-Ha%29"
