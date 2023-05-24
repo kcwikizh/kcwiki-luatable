@@ -1,5 +1,5 @@
 {
-  "2016年初秋季节": {
+  "季节性/2016年初秋季节": {
     "240-Sec1Shoshuu2016": {
       "file": "/2/2d/240-Sec1Shoshuu2016.mp3",
       "ja": "NipponのAutumn、か…んぐ…んぐ…んぐ…ぷっはぁ！Beerが美味しいじゃない♪え、秋用のBeerもあるの？Nippon…恐るべし、ね。",
@@ -7,7 +7,7 @@
       "zh": "日本的秋天，么…咕…咕…咕…啊！啤酒真好喝啊♪诶，秋季的应季啤酒也有吗？日本，真是可怕，呢。"
     }
   },
-  "2016年梅雨季节": {
+  "季节性/2016年梅雨季节": {
     "240-Sec1Tsuyu2016": {
       "file": "/6/65/240-Sec1Tsuyu2016.mp3",
       "ja": "Rainが多いわね…このSeason。「To you」っていうの？あなたの、為…？Romanticな季節ね。流石ニポーンだわ。",
@@ -15,7 +15,7 @@
       "zh": "真是多雨呢…这个季节。是念作“To you”吗？为了…你？何等浪漫的季节啊。真不愧是日本！【*“梅雨（TsuYu）”在日语中的发音和“To you”非常接近】"
     }
   },
-  "2016年秋刀鱼祭典": {
+  "季节性/2016年秋刀鱼祭典": {
     "240-Sec1Sanma2016": {
       "file": "/6/64/240-Sec1Sanma2016.mp3",
       "ja": "Sanma? What? なんでsanma?… Fishing… support? Grand fleetって、大変なのね。",
@@ -23,7 +23,7 @@
       "zh": "秋刀鱼？What(什么）？为什么是秋刀鱼？Fishing（捕鱼）？Support（支援）？Grand fleet(主力舰队）也不容易啊。"
     }
   },
-  "2017年初夏季节": {
+  "季节性/2017年初夏季节": {
     "240-Sec1Shoka2017": {
       "file": "/6/6a/240-Sec1Shoka2017.mp3",
       "ja": "ニポーンの夏は暑いわね～ヤマート、どうしたの？Summer　Holiday？水着？へ～",
@@ -31,7 +31,7 @@
       "zh": "日本的夏天好热啊~大和，怎么了？Summer　Holiday？泳装？嘿~"
     }
   },
-  "2017年初春季节": {
+  "季节性/2017年初春季节": {
     "240-Sec1Haru2017": {
       "file": "/6/63/240-Sec1Haru2017.mp3",
       "ja": "Great！Cherry Blossom、Beautiful！良いわねぇ、気に入ったわ！オハーナミー？うん、興味あるわ。",
@@ -39,7 +39,7 @@
       "zh": "太棒了！樱花好漂亮！真不错，很合心意啊！赏花？嗯，有兴趣呢。"
     }
   },
-  "2017年四周年纪念": {
+  "季节性/2017年四周年纪念": {
     "240-Sec1FourthAnniversary": {
       "file": "/e/ef/240-Sec1FourthAnniversary.mp3",
       "ja": "Admiral！4th memorial seasonね！おめでとう、Great！New seasonも、meとUSS shipをよろしくね！",
@@ -47,7 +47,7 @@
       "zh": "Admiral！4th memorial season(提督！四周年)了呢！恭喜，Great（太棒了）! New season（新的一年）也要，多多关照Me(我）和USS ship（美国舰娘）哦！"
     }
   },
-  "2017年情人节": {
+  "季节性/2017年情人节": {
     "240-Sec1Valentine2017": {
       "file": "/4/48/240-Sec1Valentine2017.mp3",
       "ja": "Why? なんで皆、Chocolatesを作ってるの？ Valentineだから？え、なんで？",
@@ -55,7 +55,7 @@
       "zh": "Why?为什么大家，都在做Chocolates呢？因为是Valentine？诶，为什么？"
     }
   },
-  "2017年新年季节": {
+  "季节性/2017年新年季节": {
     "240-Sec1Shinnen2017": {
       "file": "/a/a9/240-Sec1Shinnen2017.mp3",
       "ja": "A happy new year! Admiral, 今年もよろしく頼むわね！",
@@ -63,7 +63,7 @@
       "zh": "新年快乐！司令官，今年也请多多关照呢！"
     }
   },
-  "2017年白色情人节": {
+  "季节性/2017年白色情人节": {
     "240-Sec1WhiteDay2017": {
       "file": "/f/f7/240-Sec1WhiteDay2017.mp3",
       "ja": "Whiteday?何か白いの？クッキー？Admiral、Why？や、頂くけと…",
@@ -71,7 +71,7 @@
       "zh": "白色的日子?有什么白色的吗？曲奇？提督，为什么？到，倒是会收下啦…"
     }
   },
-  "2017年节分季节": {
+  "季节性/2017年节分季节": {
     "240-Sec1Setsubunn2017": {
       "file": "/4/4c/240-Sec1Setsubunn2017.mp3",
       "ja": "What？セツブーン？何それ…や、知らないけど…",
@@ -79,7 +79,7 @@
       "zh": "什么？JIE-FEN？那是什么啊…不明白啊……"
     }
   },
-  "2018年五周年纪念": {
+  "季节性/2018年五周年纪念": {
     "240-Sec1FifthAnniversary": {
       "file": "/8/8a/240-Sec1FifthAnniversary.mp3",
       "ja": "Admiral! 5th memorialってわけね！おめでとう、Great! New seasonも、meとStatesをよろしくね！",
