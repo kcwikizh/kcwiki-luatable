@@ -18,8 +18,10 @@ from HttpClient import HttpClient
 from utils import format_filesize
 
 RETRY_TIMES = 5
+ACTIVITY_VOICE_PULL_ENABLE = False  # 是否拉取活动友军语音
 CATEGORY_URL = 'https://zh.kcwiki.org/wiki/Special:前缀索引/季节性/'
-KCWIKI_URL = 'https://zh.kcwiki.org/wiki/季节性/{}?action=raw'
+ACTIVITY_CATEGORY_URL = 'https://zh.kcwiki.cn/index.php?title=活动限定海域&action=raw'
+KCWIKI_URL = 'https://zh.kcwiki.org/wiki/{}?action=raw'
 KCAPI_URL = 'https://bot.kcwiki.moe/seasonal/{}.json'
 VoiceMap = {
     'Intro': '入手/登入时', 'Sec1': '秘书舰1', 'Sec2': '秘书舰2', 'Sec3': '秘书舰3', 'ConstComplete': '建造完成',
@@ -121,11 +123,19 @@ class SeasonalCrawler(HttpClient):
             category = self.__get_text(item)
             if not category:
                 continue
-            if category.endswith('特典语音'):
+            if category.endswith('特典语音'):  # 不加入特典语音(格式与游戏不符容易报错)
                 continue
-            self.categories.append(category[4:])
+            self.categories.append(category)
 
-    async def __process_wikicode(self, key, wiki_txt):
+        if ACTIVITY_VOICE_PULL_ENABLE:
+            resp = await self.session.get(ACTIVITY_CATEGORY_URL)
+            content = await resp.text()
+            regex = r'link=([^\|]+)\|class=eventBanner'
+            self.categories.extend(re.findall(regex, content))
+
+        # print('Seasonal categories: {}'.format(self.categories))
+
+    async def __process_wikicode(self, key, wiki_txt, isSeasonal=True):
         lines = wiki_txt.split('\n')
         items = []
         tmp = {}
@@ -138,15 +148,20 @@ class SeasonalCrawler(HttpClient):
             if line == '==旧语音==':
                 ok = False
                 break
-            if line.startswith('{{台词翻译表/页头|type=seasonal}}'):
+            if isSeasonal and line.startswith('{{台词翻译表/页头|type=seasonal}}'):
                 ok = True
                 continue
+            if not isSeasonal and line.startswith('{{台词翻译表/页头}}'):  # 活动语音页面处理
+                ok = True
+                continue
+            
             if line.startswith('{{页尾}}'):
                 ok = False
                 continue
             if not ok:
                 continue
-            if line.startswith('{{台词翻译表|type=seasonal'):
+            
+            if line.startswith('{{台词翻译表|type=seasonal') or (not isSeasonal and line.startswith('{{台词翻译表')):
                 if tmp:
                     items.append(tmp)
                 tmp = {}
@@ -163,6 +178,8 @@ class SeasonalCrawler(HttpClient):
                     break
                 iidx += 1
             attr = line[:iidx - 1].strip()
+            attr = re.sub(r'\|', '', attr).strip()  # 处理喜欢在行头写|的情况
+
             val = line[iidx:].strip()
             val = re.sub(r'<(.*)>.*?</\1>', '', val)
             val = re.sub(r'<.*?/>', '', val)
@@ -172,15 +189,17 @@ class SeasonalCrawler(HttpClient):
         for item in items:
             wid = ''
             arch = ''
+            talker_name = ''
             zh = ''
             ja = ''
             try:
-                wid = item['编号']
+                talker_name = item.get('场合', '')
                 arch = item['档名']
+                wid = item['编号']
                 zh = item['中文译文']
                 ja = item['日文台词']
             except KeyError:
-                print(f'Seasonal: !!! 错误语音 =\n{{季节性前缀 = {key}, 编号 = {wid}, 档名 = {arch}}}')
+                print(f'Seasonal: !!! 错误语音 =\n{{季节性前缀 = {key}, 编号 = {wid}, 档名 = {arch}, 对象名 = {talker_name}}}')
                 continue
             if wid not in self.seasonals:
                 self.seasonals[wid] = {}
@@ -228,7 +247,8 @@ class SeasonalCrawler(HttpClient):
                 retry -= 1
                 print('Seasonal:「{}」开始重试第{}/{}次 原因：{}'.format(category, RETRY_TIMES - retry, RETRY_TIMES, e))
                 continue
-        await self.__process_wikicode(category, wiki_txt)
+        isSeasonal = '季节性' in category
+        await self.__process_wikicode(category, wiki_txt, isSeasonal=isSeasonal)
         
 
     async def start(self):
