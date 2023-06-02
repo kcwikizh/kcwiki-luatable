@@ -49556,7 +49556,37 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"-"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E5%9B%9B"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E5%9B%9B",
+		["EN_Wiki"] = "https://en.kancollewiki.net/35.6cm_Twin_Gun_Mount_Kai_Yon"
+	},
+	["504"] = {
+		["id"] = 504,
+		["no"] = "No.504",
+		["item_name"] = {
+			["zh"] = "銀河(熟練)",
+			["ja"] = "銀河(熟練)"
+		},
+		["item_type"] = "陸上攻撃機",
+		["item_intro"] = "海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された陸上発進の攻撃機「銀河」。優れた機体設計により、高い性能を秘めていました。戦力化時期やその稼働率の低さから、国破れて銀河あり…的な見方もありますが、その設計技術は平和の時代に。本部隊は陸攻の熟練搭乗員が困難な任務に備えて訓練を重ねた精鋭部隊です。正攻法によって今こそ大きな戦果を！",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+14",
+			["爆装"] = "+15",
+			["対空"] = "+3",
+			["対潜"] = "+3",
+			["索敵"] = "+3",
+			["命中"] = "+2",
+			["回避"] = "",
+			["戦闘行動半径"] = "6"
+		},
+		["item_equip"] = {
+			["基地航空隊"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%8A%80%E6%B2%B3%28%E7%86%9F%E7%B7%B4%29",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Ginga_%28Skilled%29"
 	}
 }
 
