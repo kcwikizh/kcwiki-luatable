@@ -18943,7 +18943,7 @@ k.EquipUpdateTb = {
 			"武蔵改二(Lv89)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15m%E4%BA%8C%E9%87%8D%E6%B8%AC%E8%B7%9D%E5%84%80%EF%BC%8B21%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/15m_Duplex_Rangefinder_%2B_Type_21_Radar_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/15m_Duplex_Rangefinder_%2B_Type_21_Radar_Kai_2"
 	},
 	["143"] = {
 		["id"] = 143,
@@ -30213,7 +30213,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm30%E9%80%A3%E8%A3%85%E5%99%B4%E9%80%B2%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/12cm_30-tube_Rocket_Launcher_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/12cm_30-tube_Rocket_Launcher_Kai_2"
 	},
 	["275"] = {
 		["id"] = 275,
@@ -33128,7 +33128,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/41cm_Triple_Gun_Mount_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/41cm_Triple_Gun_Mount_Kai_2"
 	},
 	["291"] = {
 		["id"] = 291,
@@ -35418,7 +35418,7 @@ k.EquipUpdateTb = {
 			"神鷹改二(Lv85)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Ju_87C_Kai_Ni_%28w/_KMX%29"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Ju_87C_Kai_2_%28w/_KMX%29"
 	},
 	["306"] = {
 		["id"] = 306,
@@ -35461,7 +35461,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Ju87C%E6%94%B9%E4%BA%8C%28KMX%E6%90%AD%E8%BC%89%E6%A9%9F%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Ju_87C_Kai_Ni_%28w/_KMX/Skilled%29"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Ju_87C_Kai_2_%28w/_KMX/Skilled%29"
 	},
 	["307"] = {
 		["id"] = 307,
@@ -36892,7 +36892,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/41cm_Twin_Gun_Mount_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/41cm_Twin_Gun_Mount_Kai_2"
 	},
 	["319"] = {
 		["id"] = 319,
@@ -37078,7 +37078,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Zuiun_Kai_Ni_%28634_Air_Group%29"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Zuiun_Kai_2_%28634_Air_Group%29"
 	},
 	["323"] = {
 		["id"] = 323,
@@ -37129,7 +37129,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%E6%94%B9%E4%BA%8C%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Zuiun_Kai_Ni_%28634_Air_Group/Skilled%29"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Zuiun_Kai_2_%28634_Air_Group/Skilled%29"
 	},
 	["324"] = {
 		["id"] = 324,
@@ -37267,7 +37267,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E3%82%AA%E5%8F%B7%E8%A6%B3%E6%B8%AC%E6%A9%9F%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/O_Type_Observation_Autogyro_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/O_Type_Observation_Autogyro_Kai_2"
 	},
 	["326"] = {
 		["id"] = 326,
@@ -37774,7 +37774,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/35.6cm_Twin_Gun_Mount_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/35.6cm_Twin_Gun_Mount_Kai_2"
 	},
 	["330"] = {
 		["id"] = 330,
@@ -38667,7 +38667,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Reppuu_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Reppuu_Kai_2"
 	},
 	["338"] = {
 		["id"] = 338,
@@ -38749,7 +38749,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B%28%E4%B8%80%E8%88%AA%E6%88%A6%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Reppuu_Kai_Ni_Model_E_%28CarDiv_1/Skilled%29"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Reppuu_Kai_2_Model_E_%28CarDiv_1/Skilled%29"
 	},
 	["340"] = {
 		["id"] = 340,
@@ -43888,7 +43888,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.2cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/15.2cm_Twin_Gun_Mount_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/15.2cm_Twin_Gun_Mount_Kai_2"
 	},
 	["408"] = {
 		["id"] = 408,
@@ -44129,7 +44129,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/21%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Type_21_Air_Radar_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Type_21_Air_Radar_Kai_2"
 	},
 	["411"] = {
 		["id"] = 411,
@@ -44180,7 +44180,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/42%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Type_42_Air_Radar_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Type_42_Air_Radar_Kai_2"
 	},
 	["412"] = {
 		["id"] = 412,
@@ -46992,7 +46992,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15m%E4%BA%8C%E9%87%8D%E6%B8%AC%E8%B7%9D%E5%84%80%E6%94%B9%EF%BC%8B21%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E4%BA%8C%EF%BC%8B%E7%86%9F%E7%B7%B4%E5%B0%84%E6%92%83%E6%8C%87%E6%8F%AE%E6%89%80",
-		["EN_Wiki"] = "https://en.kancollewiki.net/15m_Duplex_Rangefinder_Kai_%2B_Type_21_Radar_Kai_Ni_%2B_Skilled_Fire_Direction_Center"
+		["EN_Wiki"] = "https://en.kancollewiki.net/15m_Duplex_Rangefinder_Kai_%2B_Type_21_Radar_Kai_2_%2B_Skilled_Fire_Direction_Center"
 	},
 	["461"] = {
 		["id"] = 461,
@@ -47073,7 +47073,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E5%89%AF%E7%A0%B2%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/15.5cm_Triple_Secondary_Gun_Mount_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/15.5cm_Triple_Secondary_Gun_Mount_Kai_2"
 	},
 	["464"] = {
 		["id"] = 464,
@@ -48386,7 +48386,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%89%E5%BC%8F%E5%BC%BE%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Type_3_Shell_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Type_3_Shell_Kai_2"
 	},
 	["484"] = {
 		["id"] = 484,
@@ -48482,7 +48482,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BC%B7%E9%A2%A8%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Kyoufuu_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Kyoufuu_Kai_2"
 	},
 	["486"] = {
 		["id"] = 486,
@@ -48689,7 +48689,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7%E6%94%B9%E4%BA%8C",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Type_2_Depth_Charge_Kai_Ni"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Type_2_Depth_Charge_Kai_2"
 	},
 	["489"] = {
 		["id"] = 489,
@@ -49557,7 +49557,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E4%B8%89%28%E3%83%80%E3%82%BA%E3%83%AB%E8%BF%B7%E5%BD%A9%E4%BB%95%E6%A7%98%29",
-		["EN_Wiki"] = "https://en.kancollewiki.net/35.6cm_Twin_Gun_Mount_Kai_San_%28Dazzle_Camouflage%29"
+		["EN_Wiki"] = "https://en.kancollewiki.net/35.6cm_Twin_Gun_Mount_Kai_3_%28Dazzle_Camouflage%29"
 	},
 	["503"] = {
 		["id"] = 503,
@@ -49594,7 +49594,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%E5%9B%9B",
-		["EN_Wiki"] = "https://en.kancollewiki.net/35.6cm_Twin_Gun_Mount_Kai_Yon"
+		["EN_Wiki"] = "https://en.kancollewiki.net/35.6cm_Twin_Gun_Mount_Kai_4"
 	},
 	["504"] = {
 		["id"] = 504,
@@ -49658,7 +49658,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"時雨改三(Lv97)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E5%AF%BE%E7%A9%BA%E6%A9%9F%E9%8A%83%E5%A2%97%E5%82%99"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E5%AF%BE%E7%A9%BA%E6%A9%9F%E9%8A%83%E5%A2%97%E5%82%99",
+		["EN_Wiki"] = "https://en.kancollewiki.net/25mm_Anti-aircraft_Autocannon_Mount_%26_Machine_Guns"
 	},
 	["506"] = {
 		["id"] = 506,
@@ -49679,7 +49680,8 @@ k.EquipUpdateTb = {
 			["命中"] = "+6",
 			["回避"] = "+2",
 			["艦隊防空"] = "+1.6",
-			["射程"] = ""
+			["射程"] = "",
+			["特性"] = "対空＆水上電探"
 		},
 		["item_equip"] = {
 			["駆逐艦"] = 1,
@@ -49697,7 +49699,8 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"時雨改三(Lv97)"
 		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%BB%E6%8E%A2%E8%A3%85%E5%82%99%E3%83%9E%E3%82%B9%E3%83%88%2813%E5%8F%B7%E6%94%B9%EF%BC%8B22%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B%29"
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%BB%E6%8E%A2%E8%A3%85%E5%82%99%E3%83%9E%E3%82%B9%E3%83%88%2813%E5%8F%B7%E6%94%B9%EF%BC%8B22%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B%29",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Radar_Equipment_Mast_%28Type_13_Kai_%2B_Type_22_Radar_Kai_4%29"
 	}
 }
 
