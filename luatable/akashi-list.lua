@@ -5265,7 +5265,8 @@ k.EquipUpdateTb = {
 			"Ташкент(Lv1)",
 			"Ташкент改(Lv50)",
 			"睦月改二(Lv65)",
-			"如月改二(Lv65)"
+			"如月改二(Lv65)",
+			"★7天津風改二(Lv73)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BC%B7%E5%8C%96%E5%9E%8B%E8%89%A6%E6%9C%AC%E5%BC%8F%E7%BC%B6",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Enhanced_Kanhon_Type_Boiler"
@@ -29569,6 +29570,7 @@ k.EquipUpdateTb = {
 			"陽炎改二(Lv70)",
 			"★5不知火改二(Lv72)",
 			"★5黒潮改二(Lv73)",
+			"★7天津風改二(Lv73)",
 			"★7秋雲改二(Lv74)",
 			"早潮改二(Lv75)",
 			"満潮改二(Lv77)",
@@ -38708,7 +38710,7 @@ k.EquipUpdateTb = {
 			"-"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Reppuu_Kai_Ni_Model_E"
+		["EN_Wiki"] = "https://en.kancollewiki.net/Reppuu_Kai_2_Model_E"
 	},
 	["339"] = {
 		["id"] = 339,
@@ -49701,6 +49703,80 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%BB%E6%8E%A2%E8%A3%85%E5%82%99%E3%83%9E%E3%82%B9%E3%83%88%2813%E5%8F%B7%E6%94%B9%EF%BC%8B22%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Radar_Equipment_Mast_%28Type_13_Kai_%2B_Type_22_Radar_Kai_4%29"
+	},
+	["507"] = {
+		["id"] = 507,
+		["no"] = "No.507",
+		["item_name"] = {
+			["zh"] = "14inch/45 連装砲",
+			["ja"] = "14inch/45 連装砲"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "主力戦艦の主兵装として、米国で開発運用された戦艦用大口径主砲です。標準用戦艦として整備されたネヴァダ級やその前級のニューヨーク級戦艦などに装備されました。低速戦艦の標準型戦艦、大火力と集中防御方式を採用したネヴァダ級では同砲の三連装バージョンと混合搭載となります。",
+		["item_stat"] = {
+			["火力"] = "+16",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "",
+			["回避"] = "+1",
+			["射程"] = "長",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14inch%EF%BC%8F45%20%E9%80%A3%E8%A3%85%E7%A0%B2",
+		["EN_Wiki"] = "https://en.kancollewiki.net/14inch/45_Twin_Gun_Mount"
+	},
+	["508"] = {
+		["id"] = 508,
+		["no"] = "No.508",
+		["item_name"] = {
+			["zh"] = "14inch/45 三連装砲",
+			["ja"] = "14inch/45 三連装砲"
+		},
+		["item_type"] = "大口径主砲",
+		["item_intro"] = "米国の低速戦艦のスタンダード、いわゆる標準型戦艦コンセプトで誕生したネヴァダ級戦艦。その主砲兵装として開発されたUSS初採用の三連装大口径戦艦主砲です。同級の進水は1910年代前半ですが、背負い式に装備した連装砲と共に、集中防御方式と四基十門のバランスの良い火力を誇ります。",
+		["item_stat"] = {
+			["火力"] = "+19",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "",
+			["回避"] = "",
+			["射程"] = "長",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 0,
+			["軽巡洋艦"] = 0,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 1,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14inch%EF%BC%8F45%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
+		["EN_Wiki"] = "https://en.kancollewiki.net/14inch/45_Triple_Gun_Mount"
 	}
 }
 
