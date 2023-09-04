@@ -330,7 +330,7 @@ p.enemyFighterPowerDataTb = {
 	["2200"] = 90,
 	["2201"] = 80,
 	["2202"] = 90,
-	["2203"] = 124
+	["2203"] = 120
 }
 p.enemyFighterPowerDataTb2 = {
 	["1505"] = 1,
