@@ -37,6 +37,20 @@
       "zh": "是，在本土当然要考虑到降雨的问题。提督，您要淋雨了，还是这边请吧。"
     }
   },
+  "季节性/2023年万圣节": {
+    "408-Atk2Halloween2023": {
+      "file": "/3/35/408-Atk2Halloween2023.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "408-Sec1Halloween2023": {
+      "file": "/b/b2/408-Sec1Halloween2023.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    }
+  },
   "季节性/2023年十周年纪念": {
     "408-Sec1TenthAnniversary": {
       "file": "/b/b8/408-Sec1TenthAnniversary.mp3",
