@@ -6532,6 +6532,7 @@ k.EquipUpdateTb = {
 			"倉橋(Lv1)",
 			"鵜来(Lv1)",
 			"能美(Lv1)",
+			"稲木(Lv1)",
 			"初風(Lv1)",
 			"舞風(Lv1)",
 			"秋雲(Lv1)",
@@ -6595,7 +6596,7 @@ k.EquipUpdateTb = {
 			"梅改(Lv52)",
 			"潮改二(Lv60)",
 			"加古改二(Lv65)",
-			"谷風丁改(Lv70)",
+			"★+4谷風丁改(Lv70)",
 			"長波改二(Lv75)",
 			"龍驤改二(Lv75)"
 		},
@@ -6818,12 +6819,14 @@ k.EquipUpdateTb = {
 			"秋雲改(Lv30)",
 			"浜風改(Lv30)",
 			"沖波改(Lv30)",
+			"第二十二号海防艦改(Lv35)",
 			"香取改(Lv35)",
 			"秋津洲改(Lv35)",
 			"秋月改(Lv40)",
 			"照月改(Lv40)",
 			"初月改(Lv40)",
 			"武蔵改(Lv40)",
+			"稲木改(Lv45)",
 			"朝霜改(Lv45)",
 			"涼月改(Lv55)",
 			"冬月改(Lv55)",
@@ -7278,6 +7281,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"第四号海防艦(Lv1)",
+			"第二十二号海防艦(Lv1)",
 			"第三〇号海防艦(Lv1)",
 			"玉波(Lv1)",
 			"嵐改(Lv35)",
@@ -12049,6 +12053,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"明石(Lv1)",
+			"朝日改(Lv30)",
 			"明石改(Lv35)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%89%A6%E8%89%87%E4%BF%AE%E7%90%86%E6%96%BD%E8%A8%AD",
@@ -17206,6 +17211,7 @@ k.EquipUpdateTb = {
 			"若葉改(Lv20)",
 			"初霜改(Lv20)",
 			"天霧改(Lv35)",
+			"白雲改(Lv40)",
 			"睦月改二(Lv65)",
 			"如月改二(Lv65)",
 			"叢雲改二(Lv70)",
@@ -26638,10 +26644,12 @@ k.EquipUpdateTb = {
 			"昭南改(Lv37)",
 			"占守改(Lv40)",
 			"薄雲改(Lv40)",
+			"白雲改(Lv40)",
 			"鵜来改(Lv43)",
 			"御蔵改(Lv45)",
 			"屋代改(Lv45)",
 			"能美改(Lv45)",
+			"稲木改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
 			"平戸改(Lv48)",
@@ -30371,6 +30379,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"Javelin改(Lv50)",
 			"Janus改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Type144%EF%BC%8F147%20ASDIC",
@@ -30677,14 +30686,14 @@ k.EquipUpdateTb = {
 			"霰改二(Lv63)",
 			"村雨改二(Lv70)",
 			"陽炎改二(Lv70)",
-			"★5不知火改二(Lv72)",
-			"★5黒潮改二(Lv73)",
-			"★7天津風改二(Lv73)",
-			"★7秋雲改二(Lv74)",
+			"★+5不知火改二(Lv72)",
+			"★+5黒潮改二(Lv73)",
+			"★+7天津風改二(Lv73)",
+			"★+7秋雲改二(Lv74)",
 			"早潮改二(Lv75)",
 			"満潮改二(Lv77)",
 			"白露改二(Lv77)",
-			"★7時雨改三(Lv97)"
+			"★+7時雨改三(Lv97)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2C%E5%9E%8B%E6%94%B9%E4%BA%8C",
 		["EN_Wiki"] = "https://en.kancollewiki.net/12.7cm_Twin_Gun_Mount_Model_C_Kai_2"
@@ -32509,7 +32518,9 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Jervis(Lv1)",
 			"Janus(Lv1)",
+			"Javelin(Lv1)",
 			"Jervis改(Lv45)",
+			"★+2Javelin改(Lv50)",
 			"Janus改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/QF%204.7inch%E7%A0%B2%20Mk.XII%E6%94%B9",
@@ -35577,6 +35588,7 @@ k.EquipUpdateTb = {
 			"磯波(Lv1)",
 			"浦波(Lv1)",
 			"薄雲(Lv1)",
+			"白雲(Lv1)",
 			"吹雪改(Lv20)",
 			"白雪改(Lv20)",
 			"初雪改(Lv20)",
@@ -35584,7 +35596,8 @@ k.EquipUpdateTb = {
 			"叢雲改(Lv20)",
 			"磯波改(Lv20)",
 			"浦波改(Lv30)",
-			"薄雲改(Lv40)"
+			"薄雲改(Lv40)",
+			"★2白雲改(Lv40)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2A%E5%9E%8B",
 		["EN_Wiki"] = "https://en.kancollewiki.net/12.7cm_Twin_Gun_Mount_Model_A"
@@ -35853,7 +35866,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Nelson(Lv1)"
+			"Nelson(Lv1)",
+			"Rodney(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/16inch_Mk.I_Triple_Gun_Mount"
@@ -36113,7 +36127,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Nelson改(Lv50)"
+			"Nelson改(Lv50)",
+			"Rodney改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%20Mk.I%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%EF%BC%8BAFCT%E6%94%B9",
 		["EN_Wiki"] = "https://en.kancollewiki.net/16inch_Mk.I_Triple_Gun_Mount_%2B_AFCT_Kai"
@@ -36418,7 +36433,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Nelson改(Lv50)"
+			"Nelson改(Lv50)",
+			"Rodney改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/20%E9%80%A3%E8%A3%857inch%20UP%20Rocket%20Launchers",
 		["EN_Wiki"] = "https://en.kancollewiki.net/20-tube_7inch_UP_Rocket_Launchers"
@@ -43866,7 +43882,9 @@ k.EquipUpdateTb = {
 			"倉橋(Lv1)",
 			"鵜来(Lv1)",
 			"能美(Lv1)",
+			"稲木(Lv1)",
 			"第四号海防艦改(Lv35)",
+			"第二十二号海防艦改(Lv35)",
 			"第三〇号海防艦改(Lv35)",
 			"択捉改(Lv37)",
 			"松輪改(Lv37)",
@@ -43882,6 +43900,7 @@ k.EquipUpdateTb = {
 			"屋代改(Lv45)",
 			"倉橋改(Lv45)",
 			"能美改(Lv45)",
+			"稲木改(Lv45)",
 			"対馬改(Lv47)",
 			"福江改(Lv48)",
 			"平戸改(Lv48)"
@@ -51788,7 +51807,10 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["equip_ships"] = {
-			"-"
+			"Nevada(Lv1)",
+			"Nevada改(Lv40)",
+			"★+3Nevada改",
+			"Mod.2(Lv60)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14inch%EF%BC%8F45%20%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/14inch/45_Twin_Gun_Mount"
@@ -51825,7 +51847,10 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["equip_ships"] = {
-			"-"
+			"Nevada(Lv1)",
+			"Nevada改(Lv40)",
+			"★+3Nevada改",
+			"Mod.2(Lv60)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/14inch%EF%BC%8F45%20%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/14inch/45_Triple_Gun_Mount"
@@ -51977,7 +52002,7 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1
 		},
 		["equip_ships"] = {
-			"-"
+			"Salmon改(Lv45)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/21inch%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A14%E9%96%80%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/21inch_4-tube_Bow_Torpedo_Launcher_%28Late_Model%29"
@@ -52137,6 +52162,45 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Me%20262%20A-1a%EF%BC%8FR1",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Me_262_A-1a/R1"
+	},
+	["517"] = {
+		["id"] = 517,
+		["no"] = "No.517",
+		["item_name"] = {
+			["zh"] = "逆探(E27)＋22号対水上電探改四(後期調整型)",
+			["ja"] = "逆探(E27)＋22号対水上電探改四(後期調整型)"
+		},
+		["item_type"] = "小型電探",
+		["item_intro"] = "様々な改良や新型受信機の採用により、性能と安定性が向上した対水上電探二号電波探信儀二型の改良後期型と、敵の発する捜索レーダー波をキャッチする逆探装備です。脅威の早期発見や索敵能力を向上させると共に、自艦の生残性を高める、駆逐艦などの小型艦でも装備可能な電子兵装です。",
+		["item_stat"] = {
+			["火力"] = "+2",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "+4",
+			["索敵"] = "+8",
+			["命中"] = "+9",
+			["回避"] = "+5",
+			["射程"] = ""
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 1,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 1,
+			["軽空母"] = 1,
+			["正規空母"] = 1,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 1,
+			["extra"] = {
+				"​"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%80%86%E6%8E%A2%28E27%29%EF%BC%8B22%E5%8F%B7%E5%AF%BE%E6%B0%B4%E4%B8%8A%E9%9B%BB%E6%8E%A2%E6%94%B9%E5%9B%9B%28%E5%BE%8C%E6%9C%9F%E8%AA%BF%E6%95%B4%E5%9E%8B%29",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Passive_Radiolocator_%28E27%29_%2B_Type_22_Surface_Radar_Kai_4_%28Calibrated_Late_Model%29"
 	}
 }
 
