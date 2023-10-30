@@ -36425,7 +36425,7 @@ k.EquipUpdateTb = {
 			["航空戦艦"] = 1
 		},
 		["item_build"] = {
-			["secretary"] = "秘書艦: Nelson",
+			["secretary"] = "秘書艦: Nelson・Rodney",
 			["cost"] = {
 				["fuel"] = "10",
 				["ammo"] = "40",
@@ -51940,7 +51940,8 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["基地航空隊"] = 1,
 			["extra"] = {
-				"大鯨型"
+				"大鯨型",
+				"命中率+10%攻撃力+5"
 			}
 		},
 		["equip_ships"] = {
@@ -52125,7 +52126,8 @@ k.EquipUpdateTb = {
 			["潜水空母"] = 1,
 			["基地航空隊"] = 1,
 			["extra"] = {
-				"大鯨型"
+				"大鯨型",
+				"命中率+10%攻撃力+7"
 			}
 		},
 		["equip_ships"] = {
