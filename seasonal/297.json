@@ -82,5 +82,61 @@
       "vname": "出征",
       "zh": "好了时雨，见识下你大姐我的活跃表现吧！"
     }
+  },
+  "季节性/2023年秋刀鱼祭典": {
+    "297-Atk1Sanma2023": {
+      "file": "/d/df/297-Atk1Sanma2023.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "297-Atk2Sanma2023": {
+      "file": "/8/84/297-Atk2Sanma2023.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "297-BattleSanma2023": {
+      "file": "/c/c2/297-BattleSanma2023.mp3",
+      "ja": "",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "297-Equip3Sanma2023": {
+      "file": "/d/d6/297-Equip3Sanma2023.mp3",
+      "ja": "",
+      "vname": "装备",
+      "zh": ""
+    },
+    "297-LightDmg1Sanma2023": {
+      "file": "/f/f6/297-LightDmg1Sanma2023.mp3",
+      "ja": "",
+      "vname": "小破1",
+      "zh": ""
+    },
+    "297-LightDmg2Sanma2023": {
+      "file": "/e/ea/297-LightDmg2Sanma2023.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "297-MedDmgSanma2023": {
+      "file": "/f/f2/297-MedDmgSanma2023.mp3",
+      "ja": "",
+      "vname": "中破",
+      "zh": ""
+    },
+    "297-NightBattleSanma2023": {
+      "file": "/a/a9/297-NightBattleSanma2023.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    },
+    "297-SortieSanma2023": {
+      "file": "/a/a2/297-SortieSanma2023.mp3",
+      "ja": "",
+      "vname": "出征",
+      "zh": ""
+    }
   }
 }

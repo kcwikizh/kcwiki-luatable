@@ -224,5 +224,37 @@
       "vname": "秘书舰1",
       "zh": ""
     }
+  },
+  "季节性/2023年秋刀鱼祭典": {
+    "079-Atk1Sanma2023": {
+      "file": "/f/f9/079-Atk1Sanma2023.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "079-BattleSanma2023": {
+      "file": "/9/9e/079-BattleSanma2023.mp3",
+      "ja": "",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "079-Equip3Sanma2023": {
+      "file": "/f/ff/079-Equip3Sanma2023.mp3",
+      "ja": "",
+      "vname": "装备",
+      "zh": ""
+    },
+    "079-LightDmg2Sanma2023": {
+      "file": "/0/08/079-LightDmg2Sanma2023.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "079-NightBattleSanma2023": {
+      "file": "/b/b6/079-NightBattleSanma2023.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    }
   }
 }

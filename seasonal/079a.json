@@ -44,5 +44,31 @@
       "vname": "秘书舰3",
       "zh": "村...村雨啊，就这样丢下姐姐，你觉得这样好吗？等...等...等着瞧吧！我会成为最棒的改二舰的！一定会的！"
     }
+  },
+  "季节性/2023年秋刀鱼祭典": {
+    "079a-Atk1Sanma2023": {
+      "file": "/6/6c/079a-Atk1Sanma2023.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "079a-LightDmg1Sanma2023": {
+      "file": "/7/74/079a-LightDmg1Sanma2023.mp3",
+      "ja": "",
+      "vname": "小破1",
+      "zh": ""
+    },
+    "079a-LightDmg2Sanma2023": {
+      "file": "/8/85/079a-LightDmg2Sanma2023.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "079a-NightBattleSanma2023": {
+      "file": "/9/9a/079a-NightBattleSanma2023.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    }
   }
 }
