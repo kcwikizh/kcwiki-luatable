@@ -48,27 +48,27 @@
   "季节性/2023年秋刀鱼祭典": {
     "079a-Atk1Sanma2023": {
       "file": "/6/6c/079a-Atk1Sanma2023.mp3",
-      "ja": "",
+      "ja": "おいも、うま！",
       "vname": "攻击1",
-      "zh": ""
+      "zh": "地瓜，好吃！"
     },
     "079a-LightDmg1Sanma2023": {
       "file": "/7/74/079a-LightDmg1Sanma2023.mp3",
-      "ja": "",
+      "ja": "うわ、おいもが！",
       "vname": "小破1",
-      "zh": ""
+      "zh": "哇，地瓜！"
     },
     "079a-LightDmg2Sanma2023": {
       "file": "/8/85/079a-LightDmg2Sanma2023.mp3",
-      "ja": "",
+      "ja": "もう、いたいで！おいも！",
       "vname": "小破2",
-      "zh": ""
+      "zh": "真是的，好痛啊！地瓜！"
     },
     "079a-NightBattleSanma2023": {
       "file": "/9/9a/079a-NightBattleSanma2023.mp3",
-      "ja": "",
+      "ja": "……ん、さ、おいもしまって……一番先に突っ込むよ！ ついてきて！",
       "vname": "夜战",
-      "zh": ""
+      "zh": "……嗯，把地瓜收好……要第一个冲击去了！跟上！"
     }
   }
 }
