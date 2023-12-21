@@ -30,24 +30,24 @@ jobs:
 
 
     steps:
-    - name: Run actions/checkout@v2.5.0
-      uses: actions/checkout@v2.5.0
+    - name: Run actions/checkout@v4.1.1
+      uses: actions/checkout@v4.1.1
     
     - name: Set up Python 3.7 environment
-      uses: actions/setup-python@v2.3.3
+      uses: actions/setup-python@v5.0.0
       with:
         python-version: 3.7
         
     - name: Set up Node.js environment
-      uses: actions/setup-node@v3.5.1
+      uses: actions/setup-node@v4.0.1
       with:
         node-version: '16'
     
     # - name: Install NPM package
     #   run: npm install
     
-    - name: Run actions/cache@v3.0.11
-      uses: actions/cache@v3.0.11
+    - name: Run actions/cache@v3.3.2
+      uses: actions/cache@v3.3.2
       if: startsWith(runner.os, 'Linux')
       with:
         path: ~/.cache/pip
