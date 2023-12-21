@@ -1,6 +1,6 @@
 lxml==4.9.1  # Update by dependabot
 Jinja2>=2.11.3
 pytz==2019.3
-aiohttp==3.8.5
+aiohttp==3.9.0
 beautifulsoup4==4.8.2
 markupsafe==2.0.1
