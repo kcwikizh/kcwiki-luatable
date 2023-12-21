@@ -36,7 +36,7 @@ jobs:
     - name: Set up Python 3 environment
       uses: actions/setup-python@v5.0.0
       with:
-        python-version: 3.11
+        python-version: 3.7
         
     - name: Set up Node.js environment
       uses: actions/setup-node@v4.0.1
@@ -57,8 +57,9 @@ jobs:
     
     - name: Before build
       run: |
-        pip install -U pip setuptools
+        pip install -U pip setuptools certifi
         pip install git+https://github.com/luarocks/hererocks
+        export SSL_CERT_FILE=$(python -c "import certifi;print(certifi.where())")
         hererocks lua_install -r^ --lua=5.3
         echo $PWD/lua_install/bin >> $GITHUB_PATH
         pip install -r requirements.txt
