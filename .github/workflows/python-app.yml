@@ -58,7 +58,7 @@ jobs:
     - name: Before build
       run: |
         pip install -U pip setuptools
-        pip install hererocks
+        pip install git+https://github.com/luarocks/hererocks
         hererocks lua_install -r^ --lua=5.3
         echo $PWD/lua_install/bin >> $GITHUB_PATH
         pip install -r requirements.txt
