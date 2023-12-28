@@ -73,16 +73,13 @@ function extractComplexEquipment(conditions) {
     return []
   }
   const combined = rest.map((condition) => {
-    if (condition['hasSurfaceRadar']) {
+    if (condition['hasSurfaceRadar'] || condition['isSurfaceRadar']) {
       return '对水面雷达/电探'
     }
-    if (condition['isSurfaceRadar']) {
-      return '对水面雷达/电探'
+    if (condition['hasSuperSurfaceRadar']) {
+      return '精准对水面雷达/电探'
     }
-    if (condition['hasAARadar']) {
-      return '对空雷达/电探'
-    }
-    if (condition['isAARadar']) {
+    if (condition['hasAARadar'] || condition['isAARadar']) {
       return '对空雷达/电探'
     }
     if (condition['hasAAGuns']) {
@@ -98,7 +95,7 @@ function extractComplexEquipment(conditions) {
           return e.id
         }
         return e
-      }) 
+      })
       if (ids.length === 1) {
         return ids[0]
       } else {
@@ -106,14 +103,51 @@ function extractComplexEquipment(conditions) {
       }
     }
     return condition 
-  }) 
+  })
+
+  const combined_v2 = rest.map((condition) => {
+    if (condition['hasSurfaceRadar'] || condition['isSurfaceRadar']) {
+      return {
+        name: '对水面雷达/电探',
+        comment: '索敌>=5'
+      }
+    }
+    if (condition['hasSuperSurfaceRadar']) {
+      return '精准对水面雷达/电探'
+    }
+    if (condition['hasAARadar'] || condition['isAARadar']) {
+      return '对空雷达/电探'
+    }
+    if (condition['hasAAGuns']) {
+      return '对空机枪'
+    }
+    if (condition['isSurfaceShipPersonnel']) {
+      return '水上舰要员'
+    }
+    const equipments = extractCondition(condition) 
+    if (equipments) {
+      const ids = equipments.map((e) => {
+        if (Object.keys(e).length === 1) {
+          return e.id
+        }
+        return e
+      })
+      if (ids.length === 1) {
+        return ids[0]
+      } else {
+        return ids
+      }
+    }
+    return condition 
+  })
   return equipments.map((equipment) => {
     return {
       ...equipment,
-      combined: combined.length ? combined : void 0
-    } 
-  }) 
-} 
+      combined: combined.length ? combined : void 0,
+      combined_v2: combined_v2.length ? combined_v2 : void 0
+    }
+  })
+}
 
 /**
  * 
@@ -150,6 +184,7 @@ for (const _bonus of bonusList) {
       ship: {},
       star: equipment['star'] || 0,
       combined: equipment['combined'] || [],
+      combined_v2: equipment['combined_v2'] || [],
     }
     const include = {}
     const exclude = {}

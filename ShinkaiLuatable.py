@@ -95,12 +95,18 @@ class ShinkaiLuatable(HttpClient):
         _luatable = _luatable.group(0)
         item_info = lua.decode(_luatable)
         item_id = item_info['_id']
-        chinese_name = self.SLOTITEMS_KCDATA[item_id]['chinese_name']
+
+        # kcdata use >1000 id for shinkai slotitem
+        kcdata_slotitem_id = item_id
+        if item_id < 1000:
+            kcdata_slotitem_id += 1000
+
+        chinese_name = self.SLOTITEMS_KCDATA[kcdata_slotitem_id]['chinese_name']
         chinese_name = chinese_name if chinese_name else ''
         self.items_data[item_id] = {
             '日文名': item_info['_japanese_name'],
             '中文名': chinese_name,
-            '类型': self.SLOTITEMS_KCDATA[item_id]['type'],
+            '类型': self.SLOTITEMS_KCDATA[kcdata_slotitem_id]['type'],
             '稀有度': item_info['_rarity']
         }
         self.items_id_map[item_info['_name']] = item_id

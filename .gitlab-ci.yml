@@ -13,8 +13,6 @@ stages:
 
 update:
   stage: update
-  tags:
-    - amdyes
   only:
     - master
   before_script:

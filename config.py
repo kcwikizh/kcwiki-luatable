@@ -52,6 +52,8 @@ SHIPCLASSES_MAPPING_DATA = 'shipclasses_mapping'
 SHINKAI_SHIPS_DATA = 'shinkai-ships'
 SHINKAI_ITEMS_DATA = 'shinkai-items'
 
+ITEMS_DATA_V2 = 'items_v2'
+
 # bonus
 BONUS_JS = 'bonus.js'
 BONUS_JSON = 'bonus.json'

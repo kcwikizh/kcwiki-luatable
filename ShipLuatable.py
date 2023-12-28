@@ -2,7 +2,7 @@ import asyncio
 import json
 
 from config import (AKASHI_LIST_OUTPUT_JSON, BONUS_JSON, DB_PATH, ENTITIES_DB,
-                    ITEM_REMARKS_EXTRA, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB,
+                    ITEM_REMARKS_EXTRA, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DATA_V2, ITEMS_DB,
                     JSON_PATH, KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
                     LUATABLE_PATH, OUPUT_PATH, SHIP_CLASSES_DB,
                     SHIP_NAMESUFFIX_DB, SHIP_REMODEL_EXTRA, SHIP_SERIES_DB,
@@ -42,7 +42,7 @@ STYPE = {
     #16=水上机母舰
     24: 16, 12: 16,
     #17=扬陆舰
-    15: 17,
+    15: 17, 37: 17,
     #18=装甲航空母舰
     11: 18,
     #19=工作舰
@@ -123,6 +123,11 @@ class ShipLuatable:
 
         self.ITEM_LINKS = {}
         self.SHIP_TYPES_DB = {}
+
+        # fix STYPE, remove empty category
+        for type_id in STYPE.keys():
+            if next((x for x in self.SHIPS_DB.keys() if self.SHIPS_DB[x]['type'] == type_id), None) is None:
+                STYPE[type_id] = None
 
     def __map_lvl_up(self):
         ship_series_data = {}
@@ -414,11 +419,31 @@ class ShipLuatable:
     def __get_item_equipable(self, item_type, equipable_extra_ship):
         _type = self.ITEM_TYPES_DB[item_type]
         ret = []
+        equipable_wctf_ship_types = []
+        equipable_ship_id_list = []
         if 'equipable_on_type' in _type:
             for ship_typeid in _type['equipable_on_type']:
-                ship_codegame = self.SHIP_TYPES_DB[ship_typeid]
+                if ship_typeid not in equipable_wctf_ship_types:
+                    equipable_wctf_ship_types.append(ship_typeid)
+        for wctf_ship_type in equipable_wctf_ship_types:
+            if set([k for k, v in STYPE.items() if v == STYPE[wctf_ship_type]]).issubset(equipable_wctf_ship_types):
+                ship_codegame = self.SHIP_TYPES_DB[wctf_ship_type] if STYPE[wctf_ship_type] != 17 else '扬陆舰'
                 if ship_codegame not in ret:
                     ret.append(ship_codegame)
+            else:
+                for ship_id in [k for k, v in self.SHIPS_DB.items() if v['type'] == wctf_ship_type]:
+                    if ship_id not in equipable_ship_id_list:
+                        equipable_ship_id_list.append(ship_id)
+        for ship_id in sorted(equipable_ship_id_list,
+                              key=lambda ship_id: '{:03d}{:03d}{}'.format(STYPE[self.SHIPS_DB[ship_id]['type']],
+                                                                          self.SHIPS_DB[ship_id]['class'],
+                                                                          self.SHIPS_KCDATA[ship_id]['wiki_id'])):
+            wctf_ship = self.SHIPS_DB[ship_id]
+            ship_name = wctf_ship['name']['zh_cn'] + \
+                self.__get_ship_namesuffix(
+                    wctf_ship['name']['suffix'], 'zh_cn')
+            if ship_name not in ret:
+                ret.append(ship_name)
         if 'equipable_extra_ship' in _type:
             for ship_id in _type['equipable_extra_ship']:
                 wctf_ship = self.SHIPS_DB[ship_id]
@@ -616,8 +641,12 @@ class ShipLuatable:
             elif _bonus['bonus']['type'] == 'improve':
                 bonus['收益类型'] = '改修'
                 bonus['收益属性'] = {}
+                bonus['最大数量'] = -1
                 for i in _bonus['bonus']['bonus']:
-                    bonus['收益属性'][i] = self.__get_itemstats(_bonus['bonus']['bonus'][i])
+                    if i == 'maxCount':
+                        bonus['最大数量'] = _bonus['bonus']['bonus']['maxCount']
+                    else:
+                        bonus['收益属性'][i] = self.__get_itemstats(_bonus['bonus']['bonus'][i])
             elif _bonus['bonus']['type'] == 'area':
                 bonus['收益类型'] = '区域'
                 bonus['收益属性'] = {}
@@ -697,6 +726,163 @@ class ShipLuatable:
         with open(OUPUT_PATH + JSON_PATH + ITEMS_DATA + '.json', 'w', encoding='utf-8') as fp:
             json.dump(self.items_data, fp, ensure_ascii=False, indent=4)
 
+    def __append_item_bonus_v2(self, __item_id, bonuses):
+        idx = 1
+        for _bonus in bonuses:
+            bonus = {}
+            if _bonus['star']:
+                bonus['改修等级'] = _bonus['star']
+            if _bonus['combined_v2']:
+                def processItem(cb):
+                    if type(cb) is str:
+                        return cb
+                    elif type(cb) is int:
+                        return self.ITEMS_DB[cb]['name']['zh_cn']
+                    elif type(cb) is dict:
+                        obj = {}
+                        if 'name' in cb:
+                            obj['名称'] = cb['name']
+                        elif 'id' in cb:
+                            obj['名称'] = self.ITEMS_DB[cb['id']]['name']['zh_cn']
+                        if 'comment' in cb:
+                            obj['注释'] = cb['comment']
+                        if 'star' in cb:
+                            obj['改修等级'] = cb['star']
+                        return obj
+                    elif type(cb) is list:
+                        cbs = []
+                        for c in cb:
+                            cbs.append(processItem(c))
+                        return cbs
+                combined = []
+                for cb in _bonus['combined_v2']:
+                    combined.append(processItem(cb))
+                bonus['装备组合'] = combined
+            _include = _bonus['ship']['include']
+            _exclude = _bonus['ship']['exclude']
+            include = []
+            exclude = []
+            if _include:
+                for itype in _include:
+                    if itype == 'id':
+                        for sid in _include[itype]:
+                            include.append(self.__get_shipname_byid(sid))
+                    elif itype == 'type':
+                        for tid in _include[itype]:
+                            include.append(self.SHIP_TYPES_DB[tid])
+                    elif itype == 'class':
+                        for cid in _include[itype]:
+                            include.append(self.SHIP_CLASSES_DB[cid]['name']['zh_cn'] + '级')
+                bonus['适用舰娘'] = include
+            if _exclude:
+                for itype in _exclude:
+                    if itype == 'id':
+                        for sid in _exclude[itype]:
+                            exclude.append(self.__get_shipname_byid(sid))
+                    elif itype == 'type':
+                        for tid in _exclude[itype]:
+                            exclude.append(self.SHIP_TYPES_DB[tid])
+                    elif itype == 'class':
+                        for cid in _exclude[itype]:
+                            exclude.append(self.SHIP_CLASSES_DB[cid]['name']['zh_cn'] + '级')
+                bonus['非适用舰娘'] = exclude
+            if _bonus['bonus']['type'] == '-':
+                bonus['收益类型'] = '通用'
+                bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
+            elif _bonus['bonus']['type'] == 'count':
+                bonus['收益类型'] = '数量'
+                bonus['收益属性'] = {}
+                for c in _bonus['bonus']['bonus']:
+                    bonus['收益属性'][c] = self.__get_itemstats(_bonus['bonus']['bonus'][c])
+            elif _bonus['bonus']['type'] == 'improve':
+                bonus['收益类型'] = '改修'
+                bonus['收益属性'] = {}
+                bonus['最大数量'] = -1
+                for i in _bonus['bonus']['bonus']:
+                    if i == 'maxCount':
+                        bonus['最大数量'] = _bonus['bonus']['bonus']['maxCount']
+                    else:
+                        bonus['收益属性'][i] = self.__get_itemstats(_bonus['bonus']['bonus'][i])
+            elif _bonus['bonus']['type'] == 'area':
+                bonus['收益类型'] = '区域'
+                bonus['收益属性'] = {}
+                for i in _bonus['bonus']['bonus']:
+                    bonus['收益属性'][getArea(i)] = self.__get_itemstats(_bonus['bonus']['bonus'][i])
+            if 'accumulate' in _bonus:
+                bonus['累计套装加成'] = {}
+                bonus['累计套装加成'] = self.__get_itemstats(_bonus['accumulate'])
+
+            _idx = idx if idx > 1 else ''
+            self.items_data[__item_id].update({
+                '额外收益{}'.format(_idx): bonus
+            })
+            idx += 1
+
+    def __append_item_v2(self, item_id):
+        _item_id = str(item_id)
+        wctf_item = self.ITEMS_DB[item_id]
+        kcdata_item = self.SLOTITEMS_KCDATA[item_id]
+        __item_id = _item_id.zfill(3)
+        item_category = []
+        item_type = wctf_item['type']
+        if 'type_ingame' in wctf_item:
+            item_category = wctf_item['type_ingame']
+        elif 'type' in kcdata_item:
+            item_category = kcdata_item['type']
+        self.items_data[__item_id] = {
+            'ID': item_id,
+            '日文名': wctf_item['name']['ja_jp'],
+            '中文名': wctf_item['name']['zh_cn'],
+            '类别': item_category,
+            '稀有度': '☆' * (wctf_item['rarity'] + 1),
+            '状态': {
+                '开发': 1 if 'craftable' in wctf_item and wctf_item['craftable'] else 0,
+                '改修': 1 if 'improvable' in wctf_item and wctf_item['improvable'] else 0,
+                '更新': 1 if 'improvement' in wctf_item and 'upgrade' in wctf_item['improvement'] and wctf_item['improvement']['upgrade'] else 0,
+                '熟练': 1 if item_type in RANK_UPGARDABLE else 0
+            },
+            '属性': self.__get_itemstats(wctf_item['stat']),
+            '废弃': {
+                '燃料': wctf_item['dismantle'][0], '弹药': wctf_item['dismantle'][1],
+                '钢材': wctf_item['dismantle'][2], '铝': wctf_item['dismantle'][3]
+            },
+            '装备适用': self.__get_item_equipable(item_type, wctf_item['equipable_extra_ship'] if 'equipable_extra_ship' in wctf_item else None),
+            '备注': self.ITEM_REMARKS_EXTRA[__item_id] if __item_id in self.ITEM_REMARKS_EXTRA else ''
+        }
+        if _item_id in self.BONUS:
+            bonuses = self.BONUS[_item_id]
+            self.__append_item_bonus_v2(__item_id, bonuses)
+        if 'improvement' in wctf_item and wctf_item['improvement']:
+            improvements = wctf_item['improvement']
+            self.__append_item_improvement(__item_id, improvements)
+        if item_id in self.ITEM_LINKS:
+            item_links = self.ITEM_LINKS[item_id]
+            for link_title, link_url in item_links.items():
+                self.items_data[__item_id].update({
+                    link_title: link_url
+                })
+
+    def genItemsDataV2(self):
+        self.__load_akashi_list()
+        self.__load_ship_types()
+        for item_id in self.ITEMS_DB.keys():
+            if item_id in self.SLOTITEMS_KCDATA:
+                self.__append_item_v2(item_id)
+        self.items_data = sortDict(self.items_data)
+        items_luatable = 'local d = {}\n'
+        items_luatable += '------------------------\n'
+        items_luatable += '--   以下为装备数据列表V2  -- \n'
+        items_luatable += '------------------------\n'
+        items_luatable += '\nd.equipDataTb = '
+        items_luatable += luatable(self.items_data)
+        items_luatable += '\n'
+        items_luatable += '\nreturn d\n'
+        with open(OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA_V2 + '.lua', 'w', encoding='utf-8') as fp:
+            fp.write(items_luatable)
+        with open(OUPUT_PATH + JSON_PATH + ITEMS_DATA_V2 + '.json', 'w', encoding='utf-8') as fp:
+            json.dump(self.items_data, fp, ensure_ascii=False, indent=4)
+
     def start(self):
         self.genShipsData()
         self.genItemsData()
+        self.genItemsDataV2()

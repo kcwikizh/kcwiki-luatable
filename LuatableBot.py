@@ -9,7 +9,7 @@ import traceback
 from os import environ, path
 
 from config import (AIRPOWER_TABLE, AKASHI_LIST_OUTPUT_LUA, BONUS_JS, DB_PATH,
-                    ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DB, SHIP_REMODEL_EXTRA,
+                    ENTITIES_DB, ITEM_TYPES_DB, ITEMS_DATA, ITEMS_DATA_V2, ITEMS_DB, SHIP_REMODEL_EXTRA,
                     JSON_PATH, KCDATA_SHIP_ALL_JSON, KCDATA_SLOTITEM_ALL_JSON,
                     KCKIT_NAME, LUATABLE_PATH, OUPUT_PATH, SCRIPTS_PATH,
                     SEASONAL_PATH, SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA,
@@ -185,6 +185,7 @@ class LuatableBot:
     async def CheckLuatable(self):
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIPS_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua')
+        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA_V2 + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua')
         self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIPCLASSES_MAPPING_DATA + '.lua')
