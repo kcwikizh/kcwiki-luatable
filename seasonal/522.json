@@ -30,5 +30,25 @@
       "vname": "秘书舰1",
       "zh": "提督，新年快乐！要不要新年参拜顺便一起去八户一趟？真的可以吗？"
     }
+  },
+  "季节性/2024年节分季节": {
+    "522-Sec1Setubunn2024": {
+      "file": "/f/f4/522-Sec1Setubunn2024.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "522-Sec2Setubunn2024": {
+      "file": "/8/8f/522-Sec2Setubunn2024.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "522-Sec3Setubunn2024": {
+      "file": "/d/d7/522-Sec3Setubunn2024.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
   }
 }

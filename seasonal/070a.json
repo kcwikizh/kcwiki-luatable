@@ -6,5 +6,151 @@
       "vname": "秘书舰1",
       "zh": "天气渐渐变得寒冷了。提督，请千万注意，不要得感冒了！"
     }
+  },
+  "季节性/2024年节分季节": {
+    "070a-0000Setubunn2024": {
+      "file": "/d/d5/070a-0000Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇〇〇〇时报",
+      "zh": ""
+    },
+    "070a-0100Setubunn2024": {
+      "file": "/4/4b/070a-0100Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇一〇〇时报",
+      "zh": ""
+    },
+    "070a-0200Setubunn2024": {
+      "file": "/5/5e/070a-0200Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇二〇〇时报",
+      "zh": ""
+    },
+    "070a-0300Setubunn2024": {
+      "file": "/3/39/070a-0300Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇三〇〇时报",
+      "zh": ""
+    },
+    "070a-0400Setubunn2024": {
+      "file": "/a/a7/070a-0400Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇四〇〇时报",
+      "zh": ""
+    },
+    "070a-0500Setubunn2024": {
+      "file": "/2/21/070a-0500Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇五〇〇时报",
+      "zh": ""
+    },
+    "070a-0600Setubunn2024": {
+      "file": "/3/34/070a-0600Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇六〇〇时报",
+      "zh": ""
+    },
+    "070a-0700Setubunn2024": {
+      "file": "/4/4c/070a-0700Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇七〇〇时报",
+      "zh": ""
+    },
+    "070a-0800Setubunn2024": {
+      "file": "/1/11/070a-0800Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇八〇〇时报",
+      "zh": ""
+    },
+    "070a-0900Setubunn2024": {
+      "file": "/8/83/070a-0900Setubunn2024.mp3",
+      "ja": "",
+      "vname": "〇九〇〇时报",
+      "zh": ""
+    },
+    "070a-1000Setubunn2024": {
+      "file": "/8/8a/070a-1000Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一〇〇〇时报",
+      "zh": ""
+    },
+    "070a-1100Setubunn2024": {
+      "file": "/2/28/070a-1100Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一一〇〇时报",
+      "zh": ""
+    },
+    "070a-1200Setubunn2024": {
+      "file": "/d/d0/070a-1200Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一二〇〇时报",
+      "zh": ""
+    },
+    "070a-1300Setubunn2024": {
+      "file": "/7/75/070a-1300Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一三〇〇时报",
+      "zh": ""
+    },
+    "070a-1400Setubunn2024": {
+      "file": "/d/de/070a-1400Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一四〇〇时报",
+      "zh": ""
+    },
+    "070a-1500Setubunn2024": {
+      "file": "/d/dc/070a-1500Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一五〇〇时报",
+      "zh": ""
+    },
+    "070a-1600Setubunn2024": {
+      "file": "/a/af/070a-1600Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一六〇〇时报",
+      "zh": ""
+    },
+    "070a-1700Setubunn2024": {
+      "file": "/e/ec/070a-1700Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一七〇〇时报",
+      "zh": ""
+    },
+    "070a-1800Setubunn2024": {
+      "file": "/5/52/070a-1800Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一八〇〇时报",
+      "zh": ""
+    },
+    "070a-1900Setubunn2024": {
+      "file": "/b/b6/070a-1900Setubunn2024.mp3",
+      "ja": "",
+      "vname": "一九〇〇时报",
+      "zh": ""
+    },
+    "070a-2000Setubunn2024": {
+      "file": "/a/a6/070a-2000Setubunn2024.mp3",
+      "ja": "",
+      "vname": "二〇〇〇时报",
+      "zh": ""
+    },
+    "070a-2100Setubunn2024": {
+      "file": "/e/e3/070a-2100Setubunn2024.mp3",
+      "ja": "",
+      "vname": "二一〇〇时报",
+      "zh": ""
+    },
+    "070a-2200Setubunn2024": {
+      "file": "/c/c4/070a-2200Setubunn2024.mp3",
+      "ja": "",
+      "vname": "二二〇〇时报",
+      "zh": ""
+    },
+    "070a-2300Setubunn2024": {
+      "file": "/0/0b/070a-2300Setubunn2024.mp3",
+      "ja": "",
+      "vname": "二三〇〇时报",
+      "zh": ""
+    }
   }
 }
