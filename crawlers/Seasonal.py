@@ -19,9 +19,9 @@ from utils import format_filesize
 
 RETRY_TIMES = 5
 ACTIVITY_VOICE_PULL_ENABLE = False  # 是否拉取活动友军语音
-CATEGORY_URL = 'https://zh.kcwiki.org/wiki/Special:前缀索引/季节性/'
+CATEGORY_URL = 'https://zh.kcwiki.cn/wiki/Special:前缀索引/季节性/'
 ACTIVITY_CATEGORY_URL = 'https://zh.kcwiki.cn/index.php?title=活动限定海域&action=raw'
-KCWIKI_URL = 'https://zh.kcwiki.org/wiki/{}?action=raw'
+KCWIKI_URL = 'https://zh.kcwiki.cn/wiki/{}?action=raw'
 KCAPI_URL = 'https://bot.kcwiki.moe/seasonal/{}.json'
 VoiceMap = {
     'Intro': '入手/登入时', 'Sec1': '秘书舰1', 'Sec2': '秘书舰2', 'Sec3': '秘书舰3', 'ConstComplete': '建造完成',
