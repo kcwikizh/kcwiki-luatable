@@ -139,6 +139,44 @@
       "zh": "来，时雨，把我们的任务第一个麻溜地做完吧！早点回去到我屋里吃烤地瓜读书！嗯嗯，真棒！"
     }
   },
+  "季节性/2024年初春季节": {
+    "297-BattleHaru2024": {
+      "file": "/a/a4/297-BattleHaru2024.mp3",
+      "ja": "",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "297-Equip1Haru2024": {
+      "file": "/b/b5/297-Equip1Haru2024.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造1",
+      "zh": ""
+    },
+    "297-NightBattleHaru2024": {
+      "file": "/4/4b/297-NightBattleHaru2024.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    },
+    "297-Sec1Haru2024": {
+      "file": "/7/75/297-Sec1Haru2024.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "297-Sec2Haru2024": {
+      "file": "/b/b1/297-Sec2Haru2024.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "297-Sec3Haru2024": {
+      "file": "/b/be/297-Sec3Haru2024.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
+  },
   "季节性/2024年情人节": {
     "297-Sec2Valentine2024": {
       "file": "/b/bf/297-Sec2Valentine2024.mp3",

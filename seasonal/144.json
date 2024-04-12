@@ -176,5 +176,31 @@
       "vname": "攻击1",
       "zh": ""
     }
+  },
+  "季节性/2024年初春季节": {
+    "144-Atk1Haru2024": {
+      "file": "/1/1e/144-Atk1Haru2024.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "144-NightBattleHaru2024": {
+      "file": "/8/87/144-NightBattleHaru2024.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    },
+    "144-Sec2Haru2024": {
+      "file": "/7/7c/144-Sec2Haru2024.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "144-Sec3Haru2024": {
+      "file": "/0/00/144-Sec3Haru2024.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
   }
 }
