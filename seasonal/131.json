@@ -212,5 +212,19 @@
       "vname": "秘书舰1",
       "zh": "現在這個季節，吃咖喱也不錯嘛！吃了長精神哦！"
     }
+  },
+  "季节性/2024年十一周年纪念": {
+    "131-Sec1EleventhAnniversary": {
+      "file": "/6/6f/131-Sec1EleventhAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "131-Sec2EleventhAnniversary": {
+      "file": "/e/e2/131-Sec2EleventhAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
   }
 }

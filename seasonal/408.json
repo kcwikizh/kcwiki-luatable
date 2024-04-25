@@ -94,5 +94,25 @@
       "vname": "秘书舰2",
       "zh": "宗谷换夏服了！如何呢？只要不去北方或者极地，这样也挺好的，很凉快。"
     }
+  },
+  "季节性/2024年十一周年纪念": {
+    "408-Sec1EleventhAnniversary": {
+      "file": "/e/eb/408-Sec1EleventhAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "408-Sec2EleventhAnniversary": {
+      "file": "/1/17/408-Sec2EleventhAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "408-Sec3EleventhAnniversary": {
+      "file": "/b/bd/408-Sec3EleventhAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
   }
 }
