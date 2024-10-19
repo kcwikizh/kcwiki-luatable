@@ -123,6 +123,68 @@
       "zh": "诶……我做的巧克好，很好吃……提督，有好好品尝啊……谢谢你提督，这份回礼，我就好好收下。……太好了。"
     }
   },
+  "季节性/2024年万圣节": {
+    "434-Atk1Halloween2024": {
+      "file": "/e/e9/434-Atk1Halloween2024.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "434-Atk2Halloween2024": {
+      "file": "/0/03/434-Atk2Halloween2024.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "434-BattleHalloween2024": {
+      "file": "/1/12/434-BattleHalloween2024.mp3",
+      "ja": "",
+      "vname": "战斗开始",
+      "zh": ""
+    },
+    "434-IntroHalloween2024": {
+      "file": "/a/a5/434-IntroHalloween2024.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "434-LightDmg1Halloween2024": {
+      "file": "/f/f0/434-LightDmg1Halloween2024.mp3",
+      "ja": "",
+      "vname": "小破1",
+      "zh": ""
+    },
+    "434-LightDmg2Halloween2024": {
+      "file": "/7/7c/434-LightDmg2Halloween2024.mp3",
+      "ja": "",
+      "vname": "小破2",
+      "zh": ""
+    },
+    "434-NightBattleHalloween2024": {
+      "file": "/2/2e/434-NightBattleHalloween2024.mp3",
+      "ja": "",
+      "vname": "夜战",
+      "zh": ""
+    },
+    "434-Sec1Halloween2024": {
+      "file": "/e/e2/434-Sec1Halloween2024.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "434-Sec2Halloween2024": {
+      "file": "/6/68/434-Sec2Halloween2024.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    },
+    "434-Sec3Halloween2024": {
+      "file": "/d/d2/434-Sec3Halloween2024.mp3",
+      "ja": "",
+      "vname": "秘书舰3",
+      "zh": ""
+    }
+  },
   "季节性/2024年十一周年纪念": {
     "434-Sec1EleventhAnniversary": {
       "file": "/e/ee/434-Sec1EleventhAnniversary.mp3",
