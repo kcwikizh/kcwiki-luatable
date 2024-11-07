@@ -356,8 +356,12 @@ class AkashiListCrawler(HttpClient):
                     continue
                 ship_correct = self.get_text(
                     fitting_row.find('span', class_='cor'))
-                ship_class = self.get_text(fitting_row.contents[1])
-                ship_fitting = fitting_row.attrs['class'][0]
+                if len(fitting_row) == 1:
+                    ship_class = self.get_text(fitting_row.findChild().contents[1])
+                    ship_fitting = fitting_row.findChild().attrs['class'][0]
+                else:
+                    ship_class = self.get_text(fitting_row.contents[1])
+                    ship_fitting = fitting_row.attrs['class'][0]
                 fitting.append({
                     'ship_class': ship_class,
                     'ship_fitting': ship_fitting,

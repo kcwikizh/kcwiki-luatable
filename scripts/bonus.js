@@ -250,6 +250,9 @@ for (const _bonus of bonusList) {
     }
     if ('bonus' in _bonus) {
       bns['bonus'] = _bonus['bonus']
+      if (_bonus.equipments) {
+        bns['type'] = 'singleton'
+      }
     } else if ('bonusCount' in _bonus) {
       bns['type'] = 'count'
       bns['bonus'] = _bonus['bonusCount']
@@ -275,7 +278,14 @@ for (const _bonus of bonusList) {
   }) 
 }
 
-fs.writeFile(OUTPUT_DIR, JSON.stringify(allBonus), err => {
+const processed = {};
+Object.entries(allBonus).forEach(([id, bonusArray]) => {
+  const singleton = bonusArray.filter((e) => e.bonus.type === 'singleton');
+  const other = bonusArray.filter((e) => e.bonus.type !== 'singleton');
+  processed[id] = [...other, ...singleton];
+});
+
+fs.writeFile(OUTPUT_DIR, JSON.stringify(processed), err => {
   if (err) {
     console.error(err)
     process.exit(1)

@@ -633,6 +633,9 @@ class ShipLuatable:
             if _bonus['bonus']['type'] == '-':
                 bonus['收益类型'] = '通用'
                 bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
+            if _bonus['bonus']['type'] == 'singleton':
+                bonus['收益类型'] = '通用'
+                bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
             elif _bonus['bonus']['type'] == 'count':
                 bonus['收益类型'] = '数量'
                 bonus['收益属性'] = {}
@@ -788,6 +791,9 @@ class ShipLuatable:
                 bonus['非适用舰娘'] = exclude
             if _bonus['bonus']['type'] == '-':
                 bonus['收益类型'] = '通用'
+                bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
+            if _bonus['bonus']['type'] == 'singleton':
+                bonus['收益类型'] = '单次'
                 bonus['收益属性'] = self.__get_itemstats(_bonus['bonus']['bonus'])
             elif _bonus['bonus']['type'] == 'count':
                 bonus['收益类型'] = '数量'
