@@ -22186,6 +22186,23 @@ k.EquipUpdateTb = {
 		["item_equip"] = {
 			["基地航空隊"] = 1
 		},
+		["item_remodel"] = {
+			["対空"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
+		["equip_ships"] = {
+			"-"
+		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B7%E9%9B%BB",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Raiden"
 	},
