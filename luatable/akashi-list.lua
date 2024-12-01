@@ -48176,33 +48176,6 @@ k.EquipUpdateTb = {
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E8%89%A6%E9%A6%96%E9%AD%9A%E9%9B%B7%284%E9%96%80%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Late_Model_Bow_Torpedo_Mount_%284_tubes%29"
 	},
-	["458"] = {
-		["id"] = 458,
-		["no"] = "No.458",
-		["item_name"] = {
-			["zh"] = "后期型电探&逆探+浮潜装备",
-			["ja"] = "後期型電探＆逆探＋シュノーケル装備"
-		},
-		["item_type"] = "潜水艦装備",
-		["item_intro"] = "潜高型などの次世代型邀撃用高速潜水艦に装備する、国産潜水艦装備です。艦橋上部に集中装備する多数の優れた水防式望遠鏡、運用実績により改修された水上及び対空電探、脅威や目標の早期発見において高い実用性を誇る逆探、さらにかの国からもたらされたシュノーケル技術も導入、新型潜水艦の生残性と攻撃力の向上を図ります。",
-		["item_stat"] = {
-			["火力"] = "",
-			["雷装"] = "+4",
-			["爆装"] = "",
-			["対空"] = "",
-			["対潜"] = "",
-			["索敵"] = "+6",
-			["命中"] = "+4",
-			["回避"] = "+15",
-			["射程"] = "",
-			["装甲"] = "+2"
-		},
-		["equip_ships"] = {
-			"-"
-		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2%EF%BC%8B%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%BC%E3%82%B1%E3%83%AB%E8%A3%85%E5%82%99",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Late_Model_Radar_%26_Passive_Radiolocator_%2B_Snorkel_Equipment"
-	},
 	["459"] = {
 		["id"] = 459,
 		["no"] = "No.459",

@@ -48175,33 +48175,6 @@
       "item_type": "潜水艦魚雷",
       "no": "No.457"
     },
-    "458": {
-      "EN_Wiki": "https://en.kancollewiki.net/Late_Model_Radar_%26_Passive_Radiolocator_%2B_Snorkel_Equipment",
-      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E5%BE%8C%E6%9C%9F%E5%9E%8B%E9%9B%BB%E6%8E%A2%EF%BC%86%E9%80%86%E6%8E%A2%EF%BC%8B%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%BC%E3%82%B1%E3%83%AB%E8%A3%85%E5%82%99",
-      "equip_ships": [
-        "-"
-      ],
-      "id": 458,
-      "item_intro": "潜高型などの次世代型邀撃用高速潜水艦に装備する、国産潜水艦装備です。艦橋上部に集中装備する多数の優れた水防式望遠鏡、運用実績により改修された水上及び対空電探、脅威や目標の早期発見において高い実用性を誇る逆探、さらにかの国からもたらされたシュノーケル技術も導入、新型潜水艦の生残性と攻撃力の向上を図ります。",
-      "item_name": {
-        "ja": "後期型電探＆逆探＋シュノーケル装備",
-        "zh": "后期型电探&逆探+浮潜装备"
-      },
-      "item_stat": {
-        "命中": "+4",
-        "回避": "+15",
-        "対潜": "",
-        "対空": "",
-        "射程": "",
-        "火力": "",
-        "爆装": "",
-        "索敵": "+6",
-        "装甲": "+2",
-        "雷装": "+4"
-      },
-      "item_type": "潜水艦装備",
-      "no": "No.458"
-    },
     "459": {
       "EN_Wiki": "https://en.kancollewiki.net/B-25",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/B-25",
