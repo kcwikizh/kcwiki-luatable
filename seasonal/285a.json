@@ -73,6 +73,152 @@
       "zh": "什么，突想吃甜的东西？嗯，这个！这个，请吃！姑且是，亲手做的。……是吗？嗯。当然！"
     }
   },
+  "季节性/2024年圣诞节": {
+    "285a-0000Christmas2024": {
+      "file": "/2/2c/285a-0000Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇〇〇〇时报",
+      "zh": ""
+    },
+    "285a-0100Christmas2024": {
+      "file": "/0/0a/285a-0100Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇一〇〇时报",
+      "zh": ""
+    },
+    "285a-0200Christmas2024": {
+      "file": "/2/24/285a-0200Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇二〇〇时报",
+      "zh": ""
+    },
+    "285a-0300Christmas2024": {
+      "file": "/a/ad/285a-0300Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇三〇〇时报",
+      "zh": ""
+    },
+    "285a-0400Christmas2024": {
+      "file": "/0/0f/285a-0400Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇四〇〇时报",
+      "zh": ""
+    },
+    "285a-0500Christmas2024": {
+      "file": "/1/1f/285a-0500Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇五〇〇时报",
+      "zh": ""
+    },
+    "285a-0600Christmas2024": {
+      "file": "/c/c8/285a-0600Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇六〇〇时报",
+      "zh": ""
+    },
+    "285a-0700Christmas2024": {
+      "file": "/2/29/285a-0700Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇七〇〇时报",
+      "zh": ""
+    },
+    "285a-0800Christmas2024": {
+      "file": "/c/c9/285a-0800Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇八〇〇时报",
+      "zh": ""
+    },
+    "285a-0900Christmas2024": {
+      "file": "/6/69/285a-0900Christmas2024.mp3",
+      "ja": "",
+      "vname": "〇九〇〇时报",
+      "zh": ""
+    },
+    "285a-1000Christmas2024": {
+      "file": "/0/07/285a-1000Christmas2024.mp3",
+      "ja": "",
+      "vname": "一〇〇〇时报",
+      "zh": ""
+    },
+    "285a-1100Christmas2024": {
+      "file": "/2/23/285a-1100Christmas2024.mp3",
+      "ja": "",
+      "vname": "一一〇〇时报",
+      "zh": ""
+    },
+    "285a-1200Christmas2024": {
+      "file": "/4/46/285a-1200Christmas2024.mp3",
+      "ja": "",
+      "vname": "一二〇〇时报",
+      "zh": ""
+    },
+    "285a-1300Christmas2024": {
+      "file": "/0/09/285a-1300Christmas2024.mp3",
+      "ja": "",
+      "vname": "一三〇〇时报",
+      "zh": ""
+    },
+    "285a-1400Christmas2024": {
+      "file": "/6/62/285a-1400Christmas2024.mp3",
+      "ja": "",
+      "vname": "一四〇〇时报",
+      "zh": ""
+    },
+    "285a-1500Christmas2024": {
+      "file": "/f/f0/285a-1500Christmas2024.mp3",
+      "ja": "",
+      "vname": "一五〇〇时报",
+      "zh": ""
+    },
+    "285a-1600Christmas2024": {
+      "file": "/4/47/285a-1600Christmas2024.mp3",
+      "ja": "",
+      "vname": "一六〇〇时报",
+      "zh": ""
+    },
+    "285a-1700Christmas2024": {
+      "file": "/c/ce/285a-1700Christmas2024.mp3",
+      "ja": "",
+      "vname": "一七〇〇时报",
+      "zh": ""
+    },
+    "285a-1800Christmas2024": {
+      "file": "/9/99/285a-1800Christmas2024.mp3",
+      "ja": "",
+      "vname": "一八〇〇时报",
+      "zh": ""
+    },
+    "285a-1900Christmas2024": {
+      "file": "/0/01/285a-1900Christmas2024.mp3",
+      "ja": "",
+      "vname": "一九〇〇时报",
+      "zh": ""
+    },
+    "285a-2000Christmas2024": {
+      "file": "/9/92/285a-2000Christmas2024.mp3",
+      "ja": "",
+      "vname": "二〇〇〇时报",
+      "zh": ""
+    },
+    "285a-2100Christmas2024": {
+      "file": "/4/42/285a-2100Christmas2024.mp3",
+      "ja": "",
+      "vname": "二一〇〇时报",
+      "zh": ""
+    },
+    "285a-2200Christmas2024": {
+      "file": "/9/95/285a-2200Christmas2024.mp3",
+      "ja": "",
+      "vname": "二二〇〇时报",
+      "zh": ""
+    },
+    "285a-2300Christmas2024": {
+      "file": "/d/da/285a-2300Christmas2024.mp3",
+      "ja": "",
+      "vname": "二三〇〇时报",
+      "zh": ""
+    }
+  },
   "季节性/2024年情人节": {
     "285a-IdleValentine2024": {
       "file": "/7/72/285a-IdleValentine2024.mp3",

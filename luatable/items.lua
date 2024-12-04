@@ -57172,9 +57172,7 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x3，失败时不消耗, 更新时消耗<font color=red>熟练搭乘员</font>x1"
-		},
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/SBD-5",
-		["英文Wiki"] = "https://en.kancollewiki.net/SBD-5"
+		}
 	},
 	["420"] = {
 		["ID"] = 420,
