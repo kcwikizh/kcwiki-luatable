@@ -47383,7 +47383,9 @@
                 ]
             },
             "改修备注": "更新时消耗<font color=red>戦闘詳報</font>x1，失败时不消耗"
-        }
+        },
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F12cm%E8%BF%AB%E6%92%83%E7%A0%B2%E6%94%B9",
+        "英文Wiki": "https://en.kancollewiki.net/Type_2_12cm_Mortar_Kai"
     },
     "347": {
         "ID": 347,
