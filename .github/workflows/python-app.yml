@@ -47,8 +47,8 @@ jobs:
     # - name: Install NPM package
     #   run: npm install
     
-    - name: Run actions/cache@v3.3.2
-      uses: actions/cache@v3.3.2
+    - name: Run actions/cache@v4.1.0
+      uses: actions/cache@v4.1.0
       if: startsWith(runner.os, 'Linux')
       with:
         path: ~/.cache/pip
