@@ -58,6 +58,7 @@ jobs:
     
     - name: Before build
       run: |
+        sudo apt install libreadline-dev
         pip install -U pip setuptools
         pip install git+https://github.com/luarocks/hererocks@0.25.0
         hererocks lua_install -r^ --lua=5.3
