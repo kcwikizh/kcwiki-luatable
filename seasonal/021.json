@@ -178,9 +178,17 @@
   "季节性/2024年十一周年纪念": {
     "021-Sec1EleventhAnniversary": {
       "file": "/d/d6/021-Sec1EleventhAnniversary.mp3",
-      "ja": "",
+      "ja": "Hey heeey!提督！11th anniversary ダヨー！！Congratulations！And Burning Looooooove！！",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "嘿嘿！提督！11th anniversary哒哟！！Congratulations！And Burning Looooooove！！"
+    }
+  },
+  "季节性/2025年十二周年纪念": {
+    "021-Sec1TwelfthAnniversary": {
+      "file": "/b/bb/021-Sec1TwelfthAnniversary.mp3",
+      "ja": "Hey、提督！Twelfth anniversaryだよ！Congratulations、and……Burning Burning Loooooove！",
+      "vname": "秘书舰1",
+      "zh": "Hey 提督。12th anniversary哒哟！Congratulations，and……Burning Burning Loooooove！！"
     }
   }
 }

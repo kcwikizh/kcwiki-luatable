@@ -42,9 +42,9 @@
   "季节性/2024年十一周年纪念": {
     "491-Sec1EleventhAnniversary": {
       "file": "/d/d7/491-Sec1EleventhAnniversary.mp3",
-      "ja": "",
+      "ja": "Congratulation！11th Fleet Anniversary！アタシもお祝いしとく！",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "Congratulation！11th Fleet Anniversary！我也来庆祝一下吧！"
     }
   },
   "季节性/2024年新年季节": {
@@ -69,6 +69,14 @@
       "ja": "セッツブーン？ OK！ 節分魚雷弾頭、ちゃんと積んでるさ、ほら。狙いはもちろんユーバリ……じゃあなくて、アサヒさ！ さ、行くぜ！ 発射管、開け！",
       "vname": "秘书舰1",
       "zh": "节分？OK！节分鱼雷弹头，确实带上了。瞄准的当然是夕张……才不是，是朝日！来，我要上了！发射管，打开！"
+    }
+  },
+  "季节性/2025年十二周年纪念": {
+    "491-Sec1TwelfthAnniversary": {
+      "file": "/4/4f/491-Sec1TwelfthAnniversary.mp3",
+      "ja": "Congratulation、よかったね。Twelfth fleet anniversary、おめでとう、私もお祝いしとく。",
+      "vname": "秘书舰1",
+      "zh": "Congratulations！太好了呢。12th fleet anniversary，恭喜你。我也一起来庆祝，"
     }
   }
 }

@@ -21801,7 +21801,7 @@ d.equipDataTb = {
 				}
 			}
 		},
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%28%E6%9D%91%E7%94%B0%E9%9A%8A%29",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%28%E6%9D%91%E7%94%B0%E9%9A%8A%29",
 		["英文Wiki"] = "https://en.kancollewiki.net/Tenzan_Model_12_%28Murata_Squadron%29"
 	},
 	["145"] = {

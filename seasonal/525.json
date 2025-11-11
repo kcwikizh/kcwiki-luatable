@@ -94,5 +94,41 @@
       "vname": "秘书舰1",
       "zh": ""
     }
+  },
+  "季节性/2025年初春季节": {
+    "525-Sec1Haru2025": {
+      "file": "/5/58/525-Sec1Haru2025.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": "哦，法国海军出身舰去赏花派对？真好呢，总觉对又时尚，又好吃？诶，美国任务部队也一起？唔……要不要去呢？"
+    }
+  },
+  "季节性/2025年十二周年纪念": {
+    "525-Sec1TwelfthAnniversary": {
+      "file": "/7/78/525-Sec1TwelfthAnniversary.mp3",
+      "ja": "ガチだぜ、提督、congratulation！Twelfth fleet anniversary！燃える展開だぜ、rock'n roll！",
+      "vname": "秘书舰1",
+      "zh": "真的哦提督，congratulation！12th fleet anniversary！真是Well展开啊，rock'n roll!"
+    }
+  },
+  "季节性/2025年盛夏季节": {
+    "525-Sec1Seika2025": {
+      "file": "/0/0e/525-Sec1Seika2025.mp3",
+      "ja": "提督、どうだ！Rock'n'Roll！",
+      "vname": "秘书舰1",
+      "zh": "提督，怎么样！Rock'n'Roll！"
+    },
+    "525-Sec2Seika2025": {
+      "file": "/6/61/525-Sec2Seika2025.mp3",
+      "ja": "夏季特別兵装ってやつだ。",
+      "vname": "秘书舰2",
+      "zh": "这就是叫夏季特别兵装的东西啦。"
+    },
+    "525-Sec3Seika2025": {
+      "file": "/b/b6/525-Sec3Seika2025.mp3",
+      "ja": "まぁ、そう見えるよな。意外とそうでもねえんだけど。",
+      "vname": "秘书舰3",
+      "zh": "嘛，是会看成这样呢。虽然意外地并不是那样。"
+    }
   }
 }

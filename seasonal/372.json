@@ -34,9 +34,9 @@
   "季节性/2024年十一周年纪念": {
     "372-Sec1EleventhAnniversary": {
       "file": "/a/ad/372-Sec1EleventhAnniversary.mp3",
-      "ja": "",
+      "ja": "Let's celebrate！11th fleet anniversary！Admiral、姉さん、おめでとう。",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "Let's celebrate！11th fleet anniversary！提督，姐姐，恭喜你们。"
     }
   },
   "季节性/2024年情人节": {
@@ -66,9 +66,9 @@
   "季节性/2024年白色情人节": {
     "372-Sec1WhiteDay2024": {
       "file": "/0/0c/372-Sec1WhiteDay2024.mp3",
-      "ja": "",
+      "ja": "Admiral、チョコのお返し、Thanks！ てか、器用ね。味も美味しいわ。やるぅ！",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "提督，巧克力的回礼，谢谢！说起来，你真手巧呢。味道也很不错哦。真有你的！"
     }
   },
   "季节性/2024年节分季节": {
@@ -77,6 +77,14 @@
       "ja": "セッツブーンFight！ でしょ？ 聞いてるって。私達、本国艦隊の今年の鬼は……Bismarck！ 貴方なの？……じゃあ、仕っ方ないわね。久しぶりに、ガチでやりますか。行くよ！",
       "vname": "秘书舰1",
       "zh": "节分大战！对吧？我听说了。我们，本国舰队今年的鬼是……俾斯麦！是你吗？……那么就，没办法呢。久违地，认真来一场吧。我上咯！"
+    }
+  },
+  "季节性/2025年十二周年纪念": {
+    "372-Sec1TwelfthAnniversary": {
+      "file": "/c/c9/372-Sec1TwelfthAnniversary.mp3",
+      "ja": "Let's celebrate！12th fleet anniversary！Admiral、姉さん、本当におめでとう。",
+      "vname": "秘书舰1",
+      "zh": "Let's celebrate！12th fleet anniversary！提督，姐姐，真的恭喜你们。"
     }
   }
 }

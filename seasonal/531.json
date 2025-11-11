@@ -92,7 +92,23 @@
       "file": "/1/1a/531-Sec1EleventhAnniversary.mp3",
       "ja": "",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "Admiral，congratulation。真棒呢，我也向你献上，祝贺和感谢。11th fleet anniversary！"
+    }
+  },
+  "季节性/2025年初春季节": {
+    "531-Sec1Haru2025": {
+      "file": "/b/ba/531-Sec1Haru2025.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": "大西洋舰队和法国舰队，一起去赏花？虽然是个好主意，但没问题吗？啊，让巴尔，你怎么想？啊啦，是这样吗？"
+    }
+  },
+  "季节性/2025年十二周年纪念": {
+    "531-Sec1TwelfthAnniversary": {
+      "file": "/2/2a/531-Sec1TwelfthAnniversary.mp3",
+      "ja": "Admiral、Congratulation。本当に素晴らしいですね、わたくしもお祝いと感謝申し上げます。Twelfth fleet anniversary。",
+      "vname": "秘书舰1",
+      "zh": "Admiral，Congratulations。真的很美好呢。我也为你献上祝贺和感谢。12th fleet anniversary！"
     }
   }
 }

@@ -1,0 +1,24 @@
+{
+  "季节性/2025年十二周年纪念": {
+    "601-Sec2TwelfthAnniversary": {
+      "file": "/f/f7/601-Sec2TwelfthAnniversary.mp3",
+      "ja": "Поздравляю！艦隊十二周年か。貴公らに祝福を。",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
+  },
+  "季节性/2025年盛夏季节": {
+    "601-DockCompleteSeika2025": {
+      "file": "/b/ba/601-DockCompleteSeika2025.mp3",
+      "ja": "Хорошо、成功だ！",
+      "vname": "修复完成",
+      "zh": "很好，成功了！"
+    },
+    "601-Sec1Seika2025": {
+      "file": "/5/55/601-Sec1Seika2025.mp3",
+      "ja": "この国の夏は、暑い…暑すぎる…異常だろこれは！",
+      "vname": "秘书舰1",
+      "zh": "这个国家的夏天，好热…太热啦…这不正常吧！"
+    }
+  }
+}

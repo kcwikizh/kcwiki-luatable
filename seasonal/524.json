@@ -50,9 +50,9 @@
   "季节性/2024年十一周年纪念": {
     "524-Sec1EleventhAnniversary": {
       "file": "/e/e8/524-Sec1EleventhAnniversary.mp3",
-      "ja": "",
+      "ja": "11th fleet anniversaryですって！アタシがきてからもう1年かぁ。あっという間だね提督。アタシも少し…だいぶか、ココに慣れてきた。Thanks、提督！",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "说是11th fleet anniversary！我来了也有一年吗。转瞬即逝呢提督。我也有点…已经很，习惯这里了。Thanks，提督！"
     }
   },
   "季节性/2024年情人节": {
@@ -82,9 +82,9 @@
   "季节性/2024年白色情人节": {
     "524-Sec1WhiteDay2024": {
       "file": "/b/b5/524-Sec1WhiteDay2024.mp3",
-      "ja": "",
+      "ja": "え、chocolateのお返し？ Thanks！ All or nothing！ 勝ったかな？……え、提督、みんなに配ってるの！？ そんなぁ～！ What？ No way！ really？",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "诶，巧克力的回礼？谢谢！重点防护！赢了吗？……什么，提督你，给大家都发了！？怎么这样~！什么？不是吧！真的？"
     }
   },
   "季节性/2024年盛夏季节": {
@@ -101,6 +101,14 @@
       "ja": "ん、セッツブーンね！ no problem！ Nagumo fleetの節分大空襲！ ふふん、読めてる！Hornet、直掩機を、直掩っ……ああ！ いない！ どういうことだ！ 雷撃機多数！ おおおおおおっ！？",
       "vname": "秘书舰1",
       "zh": "嗯，节分呢！没问题！南云部队的节分大空袭！哼哼，我早知道了！大黄蜂，直掩机，直掩……啊啊！没有！怎么回事啊！雷击机众多！噢噢噢噢噢噢！？"
+    }
+  },
+  "季节性/2025年十二周年纪念": {
+    "524-Sec1TwelfthAnniversary": {
+      "file": "/6/66/524-Sec1TwelfthAnniversary.mp3",
+      "ja": "Twelfth fleet anniversaryだってさ。あたしが来てからもう二年か、はや、あっという間だね、提督。あたしもかなり鎮守府に慣れてきたよ。Thanks提督、みんな。",
+      "vname": "秘书舰1",
+      "zh": "说是12th fleet anniversary啊……我已经来了两年吗，真快！时间过得真快呢，提督。我也已经很～习惯镇守府了哦。Thanks提督，大家。"
     }
   }
 }

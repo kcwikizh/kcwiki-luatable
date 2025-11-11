@@ -10,17 +10,25 @@
   "季节性/2024年十一周年纪念": {
     "492-Sec1EleventhAnniversary": {
       "file": "/c/cd/492-Sec1EleventhAnniversary.mp3",
-      "ja": "",
+      "ja": "11th Fleet Anniversary？Congratulation！あたいもお祝いするよ～",
       "vname": "秘书舰1",
-      "zh": ""
+      "zh": "11th Fleet Anniversary？Congratulations！我也来庆祝咯！"
     }
   },
   "季节性/2024年圣诞节": {
     "492-Sec1Christmas2024": {
       "file": "/c/c2/492-Sec1Christmas2024.mp3",
-      "ja": "",
+      "ja": "Christmas？いいね！Scamp、何揉めてるの？空母？何？誰？あ！あいつが……",
       "vname": "秘书舰1",
       "zh": "圣诞节，真好呢。Scamp？有什么争吵吗？空母？什么？谁？啊，那家伙啊……"
+    }
+  },
+  "季节性/2024年年末大扫除": {
+    "492-Sec1Nenmatsu2024": {
+      "file": "/e/ed/492-Sec1Nenmatsu2024.mp3",
+      "ja": "おい、Scamp、逃げんなよ！年末オオソウジだってよ！要はmaintenanceってことだな！あっ、逃げた！",
+      "vname": "秘书舰1",
+      "zh": "喂Scamp，别逃啊！说是年末大扫除哦，也就是maintenance对吧。啊，逃掉了。"
     }
   },
   "季节性/2024年梅雨季节": {
@@ -37,6 +45,46 @@
       "ja": "ほぉ、サンマ、魚の？なんでそんなに盛り上がれるかね？まぁ、塩焼きってのは美味いけどな、確かに。",
       "vname": "秘书舰1",
       "zh": "嗬，秋刀鱼，那个鱼吗？为什么那么热闹呢？嘛盐烧了是很好吃啦，确实。"
+    }
+  },
+  "季节性/2025年十二周年纪念": {
+    "492-Sec1TwelfthAnniversary": {
+      "file": "/f/f3/492-Sec1TwelfthAnniversary.mp3",
+      "ja": "Twelfth fleet anniversary、wow congratulation、あたいも超お祝いするよ。",
+      "vname": "秘书舰1",
+      "zh": "12th fleet anniversary……wow congratulations！我也超庆祝哦！"
+    }
+  },
+  "季节性/2025年情人节": {
+    "492-Sec1Valentine2025": {
+      "file": "/2/2f/492-Sec1Valentine2025.mp3",
+      "ja": "Admiral、平安丸ってやつから習って作ったガトーショコラ、あげる！きっと美味いよ、maybe。",
+      "vname": "秘书舰1",
+      "zh": "提督，我从叫平安丸的家伙那学到的巧克力蛋糕，给你！肯定很好吃哦，应该。"
+    }
+  },
+  "季节性/2025年新年季节": {
+    "492-Sec1Shinnen2025": {
+      "file": "/7/76/492-Sec1Shinnen2025.mp3",
+      "ja": "Happy Fleet New Year！Admiral、Gato Class、今年もよろしくな！",
+      "vname": "秘书舰1",
+      "zh": "新年舰队快乐！提督，猫鲨级，今年也请多指教哦！"
+    }
+  },
+  "季节性/2025年白色情人节": {
+    "492-Sec1WhiteDay2025": {
+      "file": "/3/3a/492-Sec1WhiteDay2025.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": "真的？这个是提督做的？挺厉害嘛。有点震惊到了。"
+    }
+  },
+  "季节性/2025年节分季节": {
+    "492-Sec1Setubunn2025": {
+      "file": "/e/e8/492-Sec1Setubunn2025.mp3",
+      "ja": "えへ、セツブン、だろう？I know、やったるぜ！あ、瑞穂、なぜ逃げる？おい！",
+      "vname": "秘书舰1",
+      "zh": "诶嘿，jiefen，对吧？我知道，要开干咯！啊，瑞穗，为什么要逃？喂！"
     }
   }
 }

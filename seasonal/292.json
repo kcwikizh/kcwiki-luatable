@@ -266,7 +266,15 @@
   "季节性/2024年十一周年纪念": {
     "292-Sec1EleventhAnniversary": {
       "file": "/9/94/292-Sec1EleventhAnniversary.mp3",
-      "ja": "",
+      "ja": "Mon amiral、あなたと私の艦隊も、ついに十一周年を迎えたというわけね。ふふん～いいじゃない、嫌いじゃないわ。おめでとう。Richelieuから、お祝いと、心からの感謝を。",
+      "vname": "秘书舰1",
+      "zh": "我的提督，你和我的舰队也，终于迎来十一周年了呢。哼哼，挺好嘛，我不讨厌呢。恭喜你。由黎塞留我，向你献上祝贺，和衷心的感谢。"
+    }
+  },
+  "季节性/2025年十二周年纪念": {
+    "292-Sec1TwelfthAnniversary": {
+      "file": "/c/cb/292-Sec1TwelfthAnniversary.mp3",
+      "ja": "À votre santé！艦隊は、もう十二周年なのね。おめでとう、やるわね。",
       "vname": "秘书舰1",
       "zh": ""
     }
