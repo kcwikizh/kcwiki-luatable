@@ -47825,32 +47825,6 @@ k.EquipUpdateTb = {
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E5%BE%8C%E9%83%A8%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A14%E9%96%80%28%E5%88%9D%E6%9C%9F%E5%9E%8B%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Submarine_4-tube_Stern_Torpedo_Launcher_%28Initial_Model%29"
 	},
-	["443"] = {
-		["id"] = 443,
-		["no"] = "No.443",
-		["item_name"] = {
-			["zh"] = "潜艇后部鱼雷发射管4门（后期型）",
-			["ja"] = "潜水艦後部魚雷発射管4門(後期型)"
-		},
-		["item_type"] = "潜水艦魚雷",
-		["item_intro"] = "潜水艦の後部に設置する魚雷兵装、その後期型です。4門の発射管を備え、前部の発射管とあわせて、より多くの魚雷で攻撃体制に入ることが可能です。魚雷の信頼性が向上した本後期型では、艦首発射管と共に運用することで、大きな魚雷戦火力を得ることが可能です。",
-		["item_stat"] = {
-			["火力"] = "",
-			["雷装"] = "+9",
-			["爆装"] = "",
-			["対空"] = "",
-			["対潜"] = "",
-			["索敵"] = "",
-			["命中"] = "+2",
-			["回避"] = "+2",
-			["射程"] = "短"
-		},
-		["equip_ships"] = {
-			"-"
-		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%BD%9C%E6%B0%B4%E8%89%A6%E5%BE%8C%E9%83%A8%E9%AD%9A%E9%9B%B7%E7%99%BA%E5%B0%84%E7%AE%A14%E9%96%80%28%E5%BE%8C%E6%9C%9F%E5%9E%8B%29",
-		["EN_Wiki"] = "https://en.kancollewiki.net/Submarine_4-tube_Stern_Torpedo_Launcher_%28Late_Model%29"
-	},
 	["444"] = {
 		["id"] = 444,
 		["no"] = "No.444",
