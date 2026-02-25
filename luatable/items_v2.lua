@@ -46579,7 +46579,9 @@ d.equipDataTb = {
 				["对空"] = 4,
 				["回避"] = 5
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%E4%BA%8C%E6%88%8A%E5%9E%8B%28%E4%B8%80%E8%88%AA%E6%88%A6%EF%BC%8F%E7%86%9F%E7%B7%B4%29",
+		["英文Wiki"] = "https://en.kancollewiki.net/Reppuu_Kai_2_Model_E_%28CarDiv_1/Skilled%29"
 	},
 	["340"] = {
 		["ID"] = 340,
