@@ -22429,7 +22429,9 @@ d.equipDataTb = {
 			"兵装实验轻巡洋舰",
 			"改装航空巡洋舰"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%A7%8B%E5%88%80%E9%AD%9A%E3%81%AE%E7%BC%B6%E8%A9%B0",
+		["英文Wiki"] = "https://en.kancollewiki.net/Canned_Saury"
 	},
 	["151"] = {
 		["ID"] = 151,
