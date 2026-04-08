@@ -1,0 +1,22 @@
+{
+  "季节性/2026年初春季节": {
+    "535a-Equip2Haru2026": {
+      "file": "/d/d3/535a-Equip2Haru2026.mp3",
+      "ja": "",
+      "vname": "装备/改修/改造2",
+      "zh": ""
+    },
+    "535a-IntroHaru2026": {
+      "file": "/a/a0/535a-IntroHaru2026.mp3",
+      "ja": "",
+      "vname": "入手/登入时",
+      "zh": ""
+    },
+    "535a-Sec1Haru2026": {
+      "file": "/4/43/535a-Sec1Haru2026.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    }
+  }
+}
