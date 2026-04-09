@@ -39104,12 +39104,12 @@ k.EquipUpdateTb = {
 			}
 		},
 		["item_build"] = {
-			["secretary"] = "秘書艦: L.d.S.D.d.Abruzzi・G.Garibaldi",
+			["secretary"] = "秘書艦: L.d.S.D.d.Abruzzi改・G.Garibaldi改",
 			["cost"] = {
-				["fuel"] = "?",
-				["ammo"] = "?",
-				["steel"] = "?",
-				["bauxite"] = "?"
+				["fuel"] = "10",
+				["ammo"] = "51",
+				["steel"] = "50",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -40195,6 +40195,15 @@ k.EquipUpdateTb = {
 				"+3.67",
 				"+3.90",
 				"+4.11"
+			}
+		},
+		["item_build"] = {
+			["secretary"] = "秘書艦: Northampton・Houston・Minneapolis・Tuscaloosa",
+			["cost"] = {
+				["fuel"] = "10",
+				["ammo"] = "60",
+				["steel"] = "90",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -54946,10 +54955,10 @@ k.EquipUpdateTb = {
 		["item_build"] = {
 			["secretary"] = "秘書艦: Gloire",
 			["cost"] = {
-				["fuel"] = "10?",
-				["ammo"] = "51?",
-				["steel"] = "50?",
-				["bauxite"] = "10?"
+				["fuel"] = "10",
+				["ammo"] = "51",
+				["steel"] = "50",
+				["bauxite"] = "10"
 			}
 		},
 		["equip_ships"] = {
@@ -55401,84 +55410,6 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SBD%28Yellow%20Wings%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/SBD_%28Yellow_Wings%29"
-	},
-	["542"] = {
-		["id"] = 542,
-		["no"] = "No.542",
-		["item_name"] = {
-			["zh"] = "TBD(Yellow Wings)",
-			["ja"] = "TBD(Yellow Wings)"
-		},
-		["item_type"] = "艦上攻撃機",
-		["item_intro"] = "九七艦攻のライバルといえる艦上攻撃機です。速度が遅く、大戦初期の機体で激戦の中でも陳腐化しつつありましたが、その必死の奮戦は、戦いの分水嶺となる決戦の勝機をもたらしました。本機は黄色く塗装された翼を持つ機体で、初期の大型航空母艦に搭載、Yellow Wingの名で親しまれていました。",
-		["item_stat"] = {
-			["火力"] = "+1",
-			["雷装"] = "+6",
-			["爆装"] = "",
-			["対空"] = "",
-			["対潜"] = "+4",
-			["索敵"] = "+2",
-			["命中"] = "",
-			["回避"] = "",
-			["戦闘行動半径"] = "4"
-		},
-		["item_equip"] = {
-			["駆逐艦"] = 0,
-			["軽巡洋艦"] = 0,
-			["重巡洋艦"] = 0,
-			["戦艦"] = 0,
-			["軽空母"] = 1,
-			["正規空母"] = 1,
-			["水上機母艦"] = 0,
-			["航空戦艦"] = 0,
-			["基地航空隊"] = 1,
-			["extra"] = {
-				"速吸改"
-			}
-		},
-		["item_remodel"] = {
-			["雷装"] = {
-				"+0.2",
-				"+0.4",
-				"+0.6",
-				"+0.8",
-				"+1.0",
-				"+1.2",
-				"+1.4",
-				"+1.6",
-				"+1.8",
-				"+2.0"
-			},
-			["対潜"] = {
-				"+0.2",
-				"+0.4",
-				"+0.6",
-				"+0.8",
-				"+1.0",
-				"+1.2",
-				"+1.4",
-				"+1.6",
-				"+1.8",
-				"+2.0"
-			},
-			["装備ボーナス艦"] = {
-				"",
-				"",
-				"",
-				"",
-				"",
-				"",
-				"命中+1",
-				"命中+1",
-				"命中+1",
-				"火力+1命中+1"
-			}
-		},
-		["equip_ships"] = {
-			"Lexington(Lv1)"
-		},
-		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBD%28Yellow%20Wings%29",
-		["EN_Wiki"] = "https://en.kancollewiki.net/TBD_%28Yellow_Wings%29"
 	},
 	["543"] = {
 		["id"] = 543,
