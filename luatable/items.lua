@@ -12704,7 +12704,9 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = "更新时消耗<font color=red>新型航空兵装資材</font>x1，失败时不消耗, 更新时消耗<font color=red>熟练搭乘员</font>x1"
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B2%28%E5%85%AD%E4%B8%89%E5%9B%9B%E7%A9%BA%29",
+		["英文Wiki"] = "https://en.kancollewiki.net/Zuiun_%28634_Air_Group%29"
 	},
 	["080"] = {
 		["ID"] = 80,
@@ -40958,7 +40960,9 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/12.7cm%E9%80%A3%E8%A3%85%E7%A0%B2B%E5%9E%8B%E6%94%B9%E5%9B%9B%28%E6%88%A6%E6%99%82%E6%94%B9%E4%BF%AE%29%EF%BC%8B%E9%AB%98%E5%B0%84%E8%A3%85%E7%BD%AE",
+		["英文Wiki"] = "https://en.kancollewiki.net/12.7cm_Twin_Gun_Mount_Model_B_Kai_4_%28Wartime_Modification%29_%2B_Anti-Aircraft_Fire_Director"
 	},
 	["297"] = {
 		["ID"] = 297,
