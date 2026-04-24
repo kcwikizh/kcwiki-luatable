@@ -36594,9 +36594,7 @@
             "早潮改二",
             "时雨改三"
         ],
-        "备注": "",
-        "日文Wiki": "https://wikiwiki.jp/kancolle/%E9%81%8A%E6%92%83%E9%83%A8%E9%9A%8A%20%E8%89%A6%E9%9A%8A%E5%8F%B8%E4%BB%A4%E9%83%A8",
-        "英文Wiki": "https://en.kancollewiki.net/Striking_Force_Fleet_Command_Facility"
+        "备注": ""
     },
     "273": {
         "ID": 273,
@@ -51075,9 +51073,7 @@
                 "对潜": 2,
                 "回避": 1
             }
-        },
-        "日文Wiki": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%B1%B1%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2%E6%94%B9%28%E7%86%9F%E7%B7%B4%EF%BC%8F%E7%A9%BA%E5%85%AD%E5%8F%B7%E9%9B%BB%E6%8E%A2%E6%94%B9%E8%A3%85%E5%82%99%E6%A9%9F%29",
-        "英文Wiki": "https://en.kancollewiki.net/Tenzan_Model_12A_Kai_%28Skilled_w/_Type_6_Airborne_Radar_Kai%29"
+        }
     },
     "375": {
         "ID": 375,
