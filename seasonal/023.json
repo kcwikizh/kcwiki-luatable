@@ -190,5 +190,19 @@
       "vname": "秘书舰1",
       "zh": "榛名和提督，终于迎来了十二周年。提督，真的…感谢你。榛名没问题的…就算是艰辛的未来…就算这样！也一直一起！"
     }
+  },
+  "季节性/2026年十三周年纪念": {
+    "023-Atk1ThirteenthAnniversary": {
+      "file": "/e/e2/023-Atk1ThirteenthAnniversary.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "023-Sec1ThirteenthAnniversary": {
+      "file": "/e/e5/023-Sec1ThirteenthAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    }
   }
 }

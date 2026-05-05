@@ -162,5 +162,19 @@
       "vname": "秘书舰1",
       "zh": "麦的音量没问题？检查，一、二……好！吸……舰队十二周年，恭喜！第三战队及舰队，那个……诶？太长？真的？"
     }
+  },
+  "季节性/2026年十三周年纪念": {
+    "024-Atk1ThirteenthAnniversary": {
+      "file": "/5/54/024-Atk1ThirteenthAnniversary.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "024-Sec1ThirteenthAnniversary": {
+      "file": "/a/a5/024-Sec1ThirteenthAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    }
   }
 }

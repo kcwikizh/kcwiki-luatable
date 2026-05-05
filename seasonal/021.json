@@ -190,5 +190,19 @@
       "vname": "秘书舰1",
       "zh": "Hey 提督。12th anniversary哒哟！Congratulations，and……Burning Burning Loooooove！！"
     }
+  },
+  "季节性/2026年十三周年纪念": {
+    "021-Atk1ThirteenthAnniversary": {
+      "file": "/7/77/021-Atk1ThirteenthAnniversary.mp3",
+      "ja": "",
+      "vname": "攻击1",
+      "zh": ""
+    },
+    "021-Sec1ThirteenthAnniversary": {
+      "file": "/9/97/021-Sec1ThirteenthAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    }
   }
 }

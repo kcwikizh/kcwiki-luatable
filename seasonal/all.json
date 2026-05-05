@@ -1153,6 +1153,14 @@
         "vname": "秘书舰1",
         "zh": "诶，十二周年，太厉害啦。不喝不行呀！和飞龙一起，喝到早上！真～的谢谢！恭喜，提督和，我们也！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "008-Sec1ThirteenthAnniversary": {
+        "file": "/4/4d/008-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "009": {
@@ -1242,6 +1250,14 @@
         "ja": "やった。私たち、ついに十二周年、十二周年だよ。本当にすごいじゃない！ありがとう、提督、おめでとう、私たち、そして、多聞丸。みんなで美味しいごはん、目一杯食べたいな。いえい。",
         "vname": "秘书舰1",
         "zh": "好耶，我们，终于十二周年，十二周年哦！真的，好厉害嘛。谢谢你，提督。恭喜，我们，还有多闻丸。真想大家一起，多吃好吃的饭菜啊……耶！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "009-Sec1ThirteenthAnniversary": {
+        "file": "/f/fd/009-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -1476,6 +1492,14 @@
         "ja": "白雪ちゃん、おめでとう！とっても素敵です！はい！",
         "vname": "秘书舰3",
         "zh": "白雪酱，恭喜你！很棒的哦！是的！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "011-Sec1ThirteenthAnniversary": {
+        "file": "/1/1f/011-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -2161,6 +2185,14 @@
         "vname": "秘书舰1",
         "zh": "终于，做到了～……十二周年了，司令官。真的，恭喜你～……真棒！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "017-Sec1ThirteenthAnniversary": {
+        "file": "/b/bc/017-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "018": {
@@ -2306,6 +2338,14 @@
         "ja": "ついに十二周年だってね。ちょっとさ、信じられないよね。でもさ、少しだけ、少しだけ嬉しい、か？これからも、いや、何でもない、ふん！",
         "vname": "秘书舰1",
         "zh": "终于十二周年了呢。稍微啊，不敢相信呢。不过，有点，只有一点，高兴哦。今后也……不，没事了，哼。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "018-Sec1ThirteenthAnniversary": {
+        "file": "/a/a8/018-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -2825,6 +2865,20 @@
         "vname": "秘书舰1",
         "zh": "Hey 提督。12th anniversary哒哟！Congratulations，and……Burning Burning Loooooove！！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "021-Atk1ThirteenthAnniversary": {
+        "file": "/7/77/021-Atk1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "攻击1",
+        "zh": ""
+      },
+      "021-Sec1ThirteenthAnniversary": {
+        "file": "/9/97/021-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "022": {
@@ -2990,6 +3044,20 @@
         "ja": "比叡！十二周年もぉ!恋もぉ!本気の気合！入れてぇー!いきますッ!何事も、全力の気合ですッ!ハィッ！！",
         "vname": "秘书舰1",
         "zh": "比叡！十二周年也！恋爱也！认真地鼓起！干劲！出击！什么事情，都要拿出全力的！是！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "022-Atk2ThirteenthAnniversary": {
+        "file": "/b/b3/022-Atk2ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "攻击2",
+        "zh": ""
+      },
+      "022-Sec1ThirteenthAnniversary": {
+        "file": "/6/6f/022-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -3185,6 +3253,20 @@
         "vname": "秘书舰1",
         "zh": "榛名和提督，终于迎来了十二周年。提督，真的…感谢你。榛名没问题的…就算是艰辛的未来…就算这样！也一直一起！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "023-Atk1ThirteenthAnniversary": {
+        "file": "/e/e2/023-Atk1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "攻击1",
+        "zh": ""
+      },
+      "023-Sec1ThirteenthAnniversary": {
+        "file": "/e/e5/023-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "024": {
@@ -3350,6 +3432,20 @@
         "ja": "マイク音量大丈夫？Check、one、two、よし！はぁ、艦隊十二周年、おめでとうございます。第三戦隊及び艦隊は、え、その、長い？マジ？",
         "vname": "秘书舰1",
         "zh": "麦的音量没问题？检查，一、二……好！吸……舰队十二周年，恭喜！第三战队及舰队，那个……诶？太长？真的？"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "024-Atk1ThirteenthAnniversary": {
+        "file": "/5/54/024-Atk1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "攻击1",
+        "zh": ""
+      },
+      "024-Sec1ThirteenthAnniversary": {
+        "file": "/a/a5/024-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -5995,6 +6091,14 @@
         "vname": "秘书舰1",
         "zh": "提督提督，听我说听我说！由良我们，终于来到十二周年！今后也……对，今后也一直，舰队和由良，请你多多指教呢，呐！……唔，唔唔(咳嗽)……没人看着，对吧？呐！提督…………诶！？谁！？海外舰！？又来！？"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "045-Sec1ThirteenthAnniversary": {
+        "file": "/b/b9/045-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "046": {
@@ -7631,6 +7735,14 @@
         "vname": "秘书舰1",
         "zh": "真的，该怎么，说才好呢！我们，竟然到了十一周年。我也很高兴。要对支持我们的各位说声感谢呢。提督，大家，谢谢你们。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "059-Sec1ThirteenthAnniversary": {
+        "file": "/0/0f/059-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "060": {
@@ -7837,6 +7949,14 @@
         "vname": "秘书舰1",
         "zh": "棒棒个棒个棒！十二周年！提督、高雄、摩耶、鸟海，恭—喜—你—们。继续下去哦。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "060-Sec1ThirteenthAnniversary": {
+        "file": "/3/30/060-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "060a": {
@@ -8033,6 +8153,14 @@
         "vname": "秘书舰1",
         "zh": "真的吗？到十二周年了啊……提督，鸟海，大姐们，真的，谢谢啦。什么啊，偶尔正经也没问题吧？"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "061-Sec1ThirteenthAnniversary": {
+        "file": "/7/79/061-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "061a": {
@@ -8228,6 +8356,14 @@
         "ja": "ついに十二周年、本当に、あ、おめでとうございます。そして…いつも…いつも…感謝…しています。",
         "vname": "秘书舰1",
         "zh": "终于十二周年。真的……啊……恭喜你。还有，一直……一直……都很感谢……你。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "062-Sec1ThirteenthAnniversary": {
+        "file": "/3/32/062-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -8883,6 +9019,14 @@
         "vname": "秘书舰1",
         "zh": "提督，我们，好像到了十二周年了。应…应该……是的，胧也觉得很棒，是的。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "067-Sec1ThirteenthAnniversary": {
+        "file": "/2/21/067-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "067a": {
@@ -9097,6 +9241,14 @@
         "vname": "秘书舰1",
         "zh": "臭提督，我们竟然，到了十二周年。七驱的大家和我，都替臭提督高兴，对吧。嘛，怎样也好，臭提督，出发吧。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "068-Sec1ThirteenthAnniversary": {
+        "file": "/c/c2/068-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "068a": {
@@ -9295,6 +9447,14 @@
         "vname": "秘书舰1",
         "zh": "竟然到了十二周年，来鸟！啊啊，涟我们终于进入十三年了吗，主人，真的感谢感谢呢。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "069-Sec1ThirteenthAnniversary": {
+        "file": "/5/5c/069-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "069a": {
@@ -9484,6 +9644,14 @@
         "ja": "え？曙ちゃん、何？あ、本当に？提督、あ、あの、提督と潮たち、十二周年だそうでう。本当に考え深いです。感謝と、その、おめでとうございます、提督。",
         "vname": "秘书舰1",
         "zh": "诶，曙酱怎么了？啊，真的？提督，啊，那个，提督和潮我们，到了十二周年。真的感慨良多呢。感谢和，那个，恭喜你，提督。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "070-Sec1ThirteenthAnniversary": {
+        "file": "/e/e6/070-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -10707,6 +10875,14 @@
         "vname": "秘书舰3",
         "zh": "唔唔唔～吃了那么多红薯吃饱了吃饱了！满足！是呢，想快点到秋天呢？红薯好吃的季节，等不及啦！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "079-Sec1ThirteenthAnniversary": {
+        "file": "/3/36/079-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "079a": {
@@ -11116,6 +11292,14 @@
         "ja": "君が、もう一人の夕暮…じゃなかった。リアリ…だね？よろしく、うん、紹介するよ、こっち、そう、ついてきて。",
         "vname": "秘书舰2",
         "zh": "你是，另外一个夕暮…不对。利里…对吧？请多关照，嗯，我来给你介绍，这边。对，跟着我。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "080-Sec1ThirteenthAnniversary": {
+        "file": "/f/f6/080-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年女儿节": {
@@ -11563,6 +11747,14 @@
         "vname": "秘书舰3",
         "zh": ""
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "081-Sec1ThirteenthAnniversary": {
+        "file": "/3/3a/081-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "081a": {
@@ -11932,6 +12124,14 @@
         "ja": "秋雲センセイの新作、楽しみぽ～い！ぽいぽい、どれどれ？うえ？村雨？どうして取り上げるぽい？夕立のご本返して、早く！",
         "vname": "秘书舰2",
         "zh": "秋云老师的新作，好期待poi！poi…poi…怎样怎样？诶，村雨怎么没收掉了？把夕立的本子还回来，快点。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "082-Sec1ThirteenthAnniversary": {
+        "file": "/9/90/082-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年女儿节": {
@@ -19960,6 +20160,14 @@
         "zh": "年末大骚厨？那是什么仪式吗？节日吗？原来不是啊。"
       }
     },
+    "季节性/2026年十三周年纪念": {
+      "176-Sec1ThirteenthAnniversary": {
+        "file": "/5/58/176-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年情人节": {
       "176-Sec1Valentine2026": {
         "file": "/a/ab/176-Sec1Valentine2026.mp3",
@@ -20919,6 +21127,14 @@
         "vname": "秘书舰1",
         "zh": "恭喜你！舰队终于到十二周年了！是的！春雨也为你献上祝贺和感谢！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "205-Sec1ThirteenthAnniversary": {
+        "file": "/e/e8/205-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "207": {
@@ -21088,6 +21304,14 @@
         "ja": "司令官、ついに十二周年、おめでとう、超すごい！",
         "vname": "秘书舰1",
         "zh": "司令官，终于十二周年，超厉害！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "210-Sec1ThirteenthAnniversary": {
+        "file": "/5/54/210-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -21325,6 +21549,14 @@
         "vname": "秘书舰1",
         "zh": "第四驱逐队，进行年末大扫除。这里就要干脆地搞定。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "215-Sec1ThirteenthAnniversary": {
+        "file": "/6/68/215-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "221": {
@@ -21402,6 +21634,14 @@
       "221-Sec1Haru2026": {
         "file": "/b/b8/221-Sec1Haru2026.mp3",
         "ja": "秋月型でお花見開催？いいですね！お団子とか楽しみです！",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "221-Sec1ThirteenthAnniversary": {
+        "file": "/d/db/221-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
         "vname": "秘书舰1",
         "zh": ""
       }
@@ -22761,6 +23001,14 @@
         "vname": "秘书舰1",
         "zh": "诶，已经十二周年了吗？利贝来为你庆祝。提督，恭喜你。真厉害呢。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "243-Sec1ThirteenthAnniversary": {
+        "file": "/6/66/243-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "244": {
@@ -23497,6 +23745,14 @@
         "vname": "秘书舰1",
         "zh": "司令官，十二周年，衷心向你祝贺。冲波，也为你高兴。是的！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "252-Sec1ThirteenthAnniversary": {
+        "file": "/3/38/252-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "253": {
@@ -23676,6 +23932,14 @@
         "ja": "お正月は少しのんびりできるけど、秋雲のおかげで、年末も妙に忙しかったな。ねぇ、秋雲、聞いている？",
         "vname": "秘书舰2",
         "zh": "新年期间是可以悠闲点，但多亏秋云，年末就突然很忙啊。我说，秋云，你听到吗？"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "253-Sec1ThirteenthAnniversary": {
+        "file": "/b/b3/253-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -26046,6 +26310,14 @@
         "zh": "舰，舰队，十二周年。藤酱、早酱、司令，大家……恭喜…你们。浜波，也很，高兴……嗯？藤酱？你在吃什么？红薯？为什么？嗯？谢，谢谢。"
       }
     },
+    "季节性/2026年十三周年纪念": {
+      "284-Sec1ThirteenthAnniversary": {
+        "file": "/e/eb/284-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年节分季节": {
       "284-Sec1Setubunn2026": {
         "file": "/2/2a/284-Sec1Setubunn2026.mp3",
@@ -26388,6 +26660,14 @@
         "ja": "やっぱ、夕雲型の制服、馴染むっというか、安心する～でも、あっちのも良かったな。またお芋季節になったら、うん、モッチー！",
         "vname": "秘书舰2",
         "zh": "果然，夕云型的制服，该说是习惯了吗，让人安心～但是，那边的也不错呢。又到红薯季节的时候，嗯，当然！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "285-Sec1ThirteenthAnniversary": {
+        "file": "/8/84/285-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年节分季节": {
@@ -27198,6 +27478,14 @@
       "292-Sec1TwelfthAnniversary": {
         "file": "/c/cb/292-Sec1TwelfthAnniversary.mp3",
         "ja": "À votre santé！艦隊は、もう十二周年なのね。おめでとう、やるわね。",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "292-Sec1ThirteenthAnniversary": {
+        "file": "/0/0c/292-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
         "vname": "秘书舰1",
         "zh": ""
       }
@@ -28829,6 +29117,14 @@
         "vname": "秘书舰1",
         "zh": "Fleet 12th anniversary！My darling, super lucky！Congratulations to you！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "319-Sec1ThirteenthAnniversary": {
+        "file": "/c/c3/319-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "320": {
@@ -28926,6 +29222,14 @@
         "ja": "年末のチンジュフオーソウジね？Janus了解！任せなさい！って、なにを、どうするの？えぇっとー",
         "vname": "秘书舰1",
         "zh": "年末的镇守府大扫除？Janus收到！交给我吧！所以，要干嘛，怎么做呢？那个——"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "320-Sec1ThirteenthAnniversary": {
+        "file": "/a/a6/320-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -29417,6 +29721,14 @@
         "vname": "秘书舰1",
         "zh": "是十二周年这回事呢。提督，恭喜你。岸波也要向你道谢。总觉得，心里…暖和起来了呢。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "327-Sec1ThirteenthAnniversary": {
+        "file": "/e/e6/327-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "328": {
@@ -29646,6 +29958,14 @@
         "ja": "お姉ちゃん、見て見て。私も、ほら、クリスマス。はい、ケーキ。あーん。",
         "vname": "秘书舰1",
         "zh": "姐姐，快看快看。我也，你看，圣诞节。来，蛋糕。啊—嗯～"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "328-Sec1ThirteenthAnniversary": {
+        "file": "/8/80/328-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年女儿节": {
@@ -30687,6 +31007,14 @@
         "vname": "秘书舰1",
         "zh": "喂，你！恭喜啊！终于是舰队八周年纪念了？好棒啊，honey。恭喜！Yeah！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "349-Sec1ThirteenthAnniversary": {
+        "file": "/4/49/349-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "351": {
@@ -31613,6 +31941,14 @@
         "vname": "秘书舰1",
         "zh": "Let's celebrate！12th fleet anniversary！提督，姐姐，真的恭喜你们。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "372-Sec1ThirteenthAnniversary": {
+        "file": "/f/fc/372-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "374": {
@@ -31878,6 +32214,14 @@
         "ja": "艦隊は十二周年だそうです。おめでとうございます。Maestrale、姉妹と共にお祝い、申し上げます。",
         "vname": "秘书舰1",
         "zh": "听说舰队到了十二周年，恭喜你。西北风，和姐妹一起，为你祝贺！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "375-Sec1ThirteenthAnniversary": {
+        "file": "/f/f2/375-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -33439,6 +33783,14 @@
         "vname": "秘书舰1",
         "zh": "提督，舰队在今春竟然，迎来了十二周年。衷心，恭喜你！不愧是一个奇迹，就是呢！宗谷也，一起庆祝。唔，王女。那个……纪念的卫衣什么的，怎么样？我来设计！……诶，不，不行吗？"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "408-Sec1ThirteenthAnniversary": {
+        "file": "/c/cf/408-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "411": {
@@ -34397,6 +34749,14 @@
         "vname": "秘书舰2",
         "zh": "嘛，偶尔也挺好吧，这样的季节。哦，你就是海伍德吗。啊，我有听说哦。我自豪的妹妹夕暮也请多指教咯！啊！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "432-Sec1ThirteenthAnniversary": {
+        "file": "/2/2f/432-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "432a": {
@@ -34532,6 +34892,14 @@
         "ja": "時雨さん？え？あぁ…初めまして、貴方がリアリさんですね？私、夕暮といいます。え？貴方も…そうなんですね、よろしくお願いいたします。",
         "vname": "秘书舰2",
         "zh": "时雨小姐？诶？啊…初次见面，你就是利里小姐呢？我叫做，夕暮。诶？你也是…是这样呢，请你多多指教。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "433-Sec1ThirteenthAnniversary": {
+        "file": "/1/18/433-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -34736,6 +35104,14 @@
         "ja": "提督、この夏の西方展開、ぜひまた潜水艦隊も！あの…",
         "vname": "秘书舰1",
         "zh": "提督，今夏的西方作战，也请派我潜水舰队出击！那个…"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "434-Sec1ThirteenthAnniversary": {
+        "file": "/5/5f/434-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -35750,6 +36126,14 @@
         "ja": "しれぇ！ついに十周年です！丹陽も、本当に嬉しいです！おめでとうございます！司令とみんなは、絶対、大丈夫！",
         "vname": "秘书舰1",
         "zh": "司令！终于十周年了！丹阳也真的很开心！恭喜！司令和大家绝对没问题！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "451-DockCompleteThirteenthAnniversary": {
+        "file": "/6/69/451-DockCompleteThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "修复完成",
+        "zh": ""
       }
     }
   },
@@ -37089,6 +37473,14 @@
         "vname": "秘书舰1",
         "zh": "Congratulations！太好了呢。12th fleet anniversary，恭喜你。我也一起来庆祝，"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "491-Sec1ThirteenthAnniversary": {
+        "file": "/6/69/491-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "492": {
@@ -37178,6 +37570,14 @@
         "ja": "えへ、セツブン、だろう？I know、やったるぜ！あ、瑞穂、なぜ逃げる？おい！",
         "vname": "秘书舰1",
         "zh": "诶嘿，jiefen，对吧？我知道，要开干咯！啊，瑞穗，为什么要逃？喂！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "492-Sec1ThirteenthAnniversary": {
+        "file": "/2/2c/492-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -37613,6 +38013,14 @@
         "vname": "秘书舰1",
         "zh": "舰队，十二周年？真的是真的？啊…真厉害呢，比我的人生要长得多了。嘛算了，所以才有现在嘛。恭喜你！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "498-Sec1ThirteenthAnniversary": {
+        "file": "/7/7f/498-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "501": {
@@ -37717,6 +38125,14 @@
         "vname": "秘书舰1",
         "zh": "说是12th anniversary!好厉害！向你，和舰队的大家，献上感谢。Congratulations。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "501-Sec1ThirteenthAnniversary": {
+        "file": "/2/26/501-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "504": {
@@ -37820,6 +38236,14 @@
         "ja": "提督、能美もお祝い申し上げます。艦隊は、まさかの十二周年だそうです。本当に驚きです。感謝、ですね。",
         "vname": "秘书舰1",
         "zh": "提督，能美向你祝贺。舰队，竟然到了十二周年。真的让人惊讶。值得感谢呢。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "504-Sec1ThirteenthAnniversary": {
+        "file": "/0/0a/504-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -38219,6 +38643,14 @@
         "vname": "秘书舰1",
         "zh": "提督，恭喜你！舰队，迎来了十二周年啦。真值得庆贺啊。一直都在祈求，天空和海洋能够和平啊。再次一起去三陆和八户吧。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "522-Sec1ThirteenthAnniversary": {
+        "file": "/a/ac/522-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "523": {
@@ -38322,6 +38754,14 @@
         "ja": "Twelfth fleet anniversary！I am so happy for you admiral。本当に驚き、この奇跡に感謝と祝福を。",
         "vname": "秘书舰1",
         "zh": "12th fleet anniversary。我为你很高兴提督。真的让人惊讶，为这个季节献上感谢和祝福。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "523-Sec1ThirteenthAnniversary": {
+        "file": "/8/8d/523-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -38436,6 +38876,14 @@
         "ja": "Twelfth fleet anniversaryだってさ。あたしが来てからもう二年か、はや、あっという間だね、提督。あたしもかなり鎮守府に慣れてきたよ。Thanks提督、みんな。",
         "vname": "秘书舰1",
         "zh": "说是12th fleet anniversary啊……我已经来了两年吗，真快！时间过得真快呢，提督。我也已经很～习惯镇守府了哦。Thanks提督，大家。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "524-Sec1ThirteenthAnniversary": {
+        "file": "/2/2e/524-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -38664,6 +39112,14 @@
         "ja": "セツブンだろう、姉貴から聞いている。何、微妙に違う？何が違うんだ？あ、Ark、うるさいぞ！Swordfishを無意味に飛ばすな！え？何だって？聞こえん！",
         "vname": "秘书舰1",
         "zh": "jiefen对吧，大姐告诉我了。什么，有些微不对？有什么不对啊？啊，方舟，你好烦哦！别无来由地起飞剑鱼啊！诶？你说啥？听不到！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "527-Sec1ThirteenthAnniversary": {
+        "file": "/0/01/527-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -38999,6 +39455,14 @@
         "vname": "秘书舰1",
         "zh": "嘿…舰队，终于十二周年了啊。恭喜，还有谢谢！祭典总是好东西啊。来，堆成山的意大利面，还有超好吃的东西！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "534-Sec1ThirteenthAnniversary": {
+        "file": "/f/f6/534-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "535": {
@@ -39074,6 +39538,14 @@
       "535-Sec1Haru2026": {
         "file": "/5/59/535-Sec1Haru2026.mp3",
         "ja": "Amiral、春はいいわね。で、なに？呼んだ？",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "535-Sec1ThirteenthAnniversary": {
+        "file": "/d/d3/535-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
         "vname": "秘书舰1",
         "zh": ""
       }
@@ -39282,6 +39754,14 @@
         "zh": "吴吗？感觉很不错嘛。也想看看我的后辈们活跃的样子呢。啊，时雨，你也要从佐世保，远征到吴吗？那，我可以一起吗？……啊，是吗，太好了！请多关照呢，时雨。"
       }
     },
+    "季节性/2026年十三周年纪念": {
+      "542-Sec1ThirteenthAnniversary": {
+        "file": "/f/f6/542-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年新年季节": {
       "542-Sec1Shinnen2026": {
         "file": "/3/38/542-Sec1Shinnen2026.mp3",
@@ -39457,6 +39937,14 @@
         "vname": "秘书舰1",
         "zh": "那个，到了十二周年了吗，这个舰队。提督，我平安丸，也要向你表示喜悦和感谢。恭喜你，真不得了呢。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "544-Sec1ThirteenthAnniversary": {
+        "file": "/a/ac/544-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "545": {
@@ -39554,6 +40042,14 @@
         "ja": "嬉しい、はい、感謝します！",
         "vname": "修复完成",
         "zh": "我很高兴，是的，感谢！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "545-Sec1ThirteenthAnniversary": {
+        "file": "/4/43/545-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -39653,6 +40149,14 @@
         "vname": "秘书舰1",
         "zh": "jiefen是吧？我知道我知道。我可不會输的。你看，节分弹，也有这么多。呃，好痛，啊好痛，好痛痛。海伦娜！你丫，别马上就开火啊！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "552-Sec1ThirteenthAnniversary": {
+        "file": "/0/02/552-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "553": {
@@ -39730,6 +40234,14 @@
         "ja": "西洋の夏の装束とは言え、少し気恥ずかしいですね。おかしくはないですか？似合ってるって、本当ですか？",
         "vname": "秘书舰3",
         "zh": "虽然说是西洋的夏季装束，有点羞人呢。不奇怪吗？你说很合适，是真的吗？"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "553-Sec1ThirteenthAnniversary": {
+        "file": "/8/8f/553-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -39867,6 +40379,14 @@
         "vname": "秘书舰1",
         "zh": "jiefen？虽然听说了，真是奇妙的习俗呢。那么，我们舰队的鬼是？啊，英国那些家伙吗！明白！那么不留情了，吃我一击！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "562-Sec1ThirteenthAnniversary": {
+        "file": "/b/bd/562-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "564": {
@@ -39971,6 +40491,14 @@
         "vname": "秘书舰1",
         "zh": "舰队十二周年。衷心向你祝贺。本人白云，为你呈上祝福。提督大人，这得来不易的奇迹，真的要感谢呢。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "564-Sec1ThirteenthAnniversary": {
+        "file": "/6/6b/564-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "565": {
@@ -40053,6 +40581,14 @@
         "vname": "秘书舰1",
         "zh": "jiefen，真棒，的说！我也参战呢。鬼是？诶，加富尔小姐？抱歉，嘿！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "565-Sec1ThirteenthAnniversary": {
+        "file": "/2/24/565-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "566": {
@@ -40134,6 +40670,14 @@
         "ja": "Saraが言ってた、ただならぬ戦闘教示、セツブン！上空直援の戦闘機隊は十分にあげるとして、他に警戒すべき点は。はぁ、来た！セツブン、こわ！",
         "vname": "秘书舰1",
         "zh": "萨拉说的，非同小可的战斗习俗，jiefen！已经起飞了足够的上空掩护的战斗机队，余下要警戒的地方是。啊，来了！jiefen，真可怕！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "566-Sec1ThirteenthAnniversary": {
+        "file": "/2/24/566-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -40271,6 +40815,14 @@
         "vname": "秘书舰1",
         "zh": "节分很重要！对，以前就这么决定了。我们的鬼是，啊，平安丸，是平酱啊！那么没办法了，只能上吧。平酱，做好觉悟！"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "571-Sec1ThirteenthAnniversary": {
+        "file": "/5/57/571-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "572": {
@@ -40368,6 +40920,14 @@
         "ja": "あたしたち、第六艦隊、第一潜水戦隊の鬼は？そりゃ平安丸、だよなぁ。よしっ、行くぞ！訓練作業完了、異常なし攻撃、撃て！ぐ、次弾装填、急げ！",
         "vname": "秘书舰1",
         "zh": "我们，第六舰队，第一潜水战队的鬼是？那肯定是平安丸，对吧。好，去吧！训练作业完成，没有异常攻击，射！咕，装填下一发，快点！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "572-Sec1ThirteenthAnniversary": {
+        "file": "/5/5d/572-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -40510,6 +41070,14 @@
         "zh": "真热啊！就算穿成这样还是好热啊！要像其他舰娘一样换成夏季特别兵装，吗？不，再穿少点也……"
       }
     },
+    "季节性/2026年十三周年纪念": {
+      "584-Sec1ThirteenthAnniversary": {
+        "file": "/f/fb/584-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年新年季节": {
       "584-Sec1Shinnen2026": {
         "file": "/8/8b/584-Sec1Shinnen2026.mp3",
@@ -40526,6 +41094,14 @@
         "ja": "",
         "vname": "秘书舰1",
         "zh": "年末大骚厨？那是什么？What？年末就该休息啊，在家里打游戏啊打游戏。诶？不行？Why？"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "585-Sec1ThirteenthAnniversary": {
+        "file": "/0/0f/585-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年情人节": {
@@ -40568,6 +41144,14 @@
         "ja": "",
         "vname": "秘书舰1",
         "zh": "年末大扫除呢？交给我吧！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "588-Sec1ThirteenthAnniversary": {
+        "file": "/e/e1/588-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年情人节": {
@@ -40634,6 +41218,14 @@
         "zh": ""
       }
     },
+    "季节性/2026年十三周年纪念": {
+      "592-Sec1ThirteenthAnniversary": {
+        "file": "/6/69/592-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年新年季节": {
       "592-Sec1Shinnen2026": {
         "file": "/0/09/592-Sec1Shinnen2026.mp3",
@@ -40672,6 +41264,14 @@
       "593-Sec1Haru2026": {
         "file": "/8/84/593-Sec1Haru2026.mp3",
         "ja": "礼号組でお花見パーティー？いい感じでまじエモい！杉、榧、料理いっぱい作って？うん、食べるのは任せとけ",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "593-Sec1ThirteenthAnniversary": {
+        "file": "/c/cd/593-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
         "vname": "秘书舰1",
         "zh": ""
       }
@@ -40750,6 +41350,14 @@
         "zh": ""
       }
     },
+    "季节性/2026年十三周年纪念": {
+      "594-Sec1ThirteenthAnniversary": {
+        "file": "/b/b9/594-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年情人节": {
       "594-Sec1Valentine2026": {
         "file": "/b/b5/594-Sec1Valentine2026.mp3",
@@ -40823,6 +41431,24 @@
         "vname": "秘书舰1",
         "zh": "今年的夏天呢。过了多少年也好夏天还是会到来呢。提督，这个季节会变得，有点忧郁呢。"
       }
+    },
+    "季节性/2026年十三周年纪念": {
+      "595-Sec1ThirteenthAnniversary": {
+        "file": "/0/0e/595-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    }
+  },
+  "597": {
+    "季节性/2026年十三周年纪念": {
+      "597-DockCompleteThirteenthAnniversary": {
+        "file": "/f/f7/597-DockCompleteThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "修复完成",
+        "zh": ""
+      }
     }
   },
   "598": {
@@ -40840,6 +41466,14 @@
         "ja": "",
         "vname": "秘书舰1",
         "zh": "你说是年末大…骚…厨？原来如此，真是个好习俗。妾身们也协助清洁镇守府吧。该从什么着手，好呢？"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "598-Sec1ThirteenthAnniversary": {
+        "file": "/4/43/598-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年情人节": {
@@ -40882,6 +41516,14 @@
         "ja": "",
         "vname": "秘书舰1",
         "zh": "年末大…骚…厨？也就是镇守府的大规模清洁？舰队自己来干吗？挺好嘛，动手吧。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "599-Sec1ThirteenthAnniversary": {
+        "file": "/a/ab/599-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年情人节": {
@@ -40938,6 +41580,14 @@
         "ja": "この国の夏は、暑い…暑すぎる…異常だろこれは！",
         "vname": "秘书舰1",
         "zh": "这个国家的夏天，好热…太热啦…这不正常吧！"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "601-Sec1ThirteenthAnniversary": {
+        "file": "/6/61/601-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年情人节": {
@@ -41024,6 +41674,14 @@
         "zh": "那，那么，要不出个远门去传闻中叫吴的镇守府？不觉得，走海路到达，感觉很不错嘛！叫cruise ferry的东西。嗯～真期待。Admiral，快点出发吧，夏天吴的大海，Let's Go哟！"
       }
     },
+    "季节性/2026年十三周年纪念": {
+      "605-Sec1ThirteenthAnniversary": {
+        "file": "/3/3e/605-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年女儿节": {
       "605-DockCompleteHinamaturi2026": {
         "file": "/b/b9/605-DockCompleteHinamaturi2026.mp3",
@@ -41066,6 +41724,14 @@
         "zh": ""
       }
     },
+    "季节性/2026年十三周年纪念": {
+      "612-Sec1ThirteenthAnniversary": {
+        "file": "/d/d9/612-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年情人节": {
       "612-Sec1Valentine2026": {
         "file": "/6/6a/612-Sec1Valentine2026.mp3",
@@ -41098,6 +41764,14 @@
         "ja": "Let's enjoy Christmas today. It is good. I truly believe that.Admiral、飲んでる？いい気分だわ。",
         "vname": "秘书舰1",
         "zh": "今天一起来享受圣诞节吧。我相信一定会是个好日子哦。提督，有在喝吗？气氛真好啊。"
+      }
+    },
+    "季节性/2026年十三周年纪念": {
+      "615-Sec1ThirteenthAnniversary": {
+        "file": "/6/66/615-Sec1ThirteenthAnniversary.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     },
     "季节性/2026年情人节": {

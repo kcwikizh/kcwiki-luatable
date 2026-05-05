@@ -162,5 +162,19 @@
       "vname": "秘书舰1",
       "zh": "比叡！十二周年也！恋爱也！认真地鼓起！干劲！出击！什么事情，都要拿出全力的！是！"
     }
+  },
+  "季节性/2026年十三周年纪念": {
+    "022-Atk2ThirteenthAnniversary": {
+      "file": "/b/b3/022-Atk2ThirteenthAnniversary.mp3",
+      "ja": "",
+      "vname": "攻击2",
+      "zh": ""
+    },
+    "022-Sec1ThirteenthAnniversary": {
+      "file": "/6/6f/022-Sec1ThirteenthAnniversary.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    }
   }
 }
