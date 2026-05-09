@@ -31827,9 +31827,7 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		},
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/30.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9",
-		["英文Wiki"] = "https://en.kancollewiki.net/30.5cm_Triple_Gun_Mount_Kai"
+		}
 	},
 	["233"] = {
 		["ID"] = 233,
