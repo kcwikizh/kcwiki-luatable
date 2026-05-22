@@ -46292,7 +46292,9 @@ d.equipDataTb = {
 				["对空"] = 2,
 				["回避"] = 1
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%83%88%E9%A2%A8%E6%94%B9%28%E8%A9%A6%E8%A3%BD%E8%89%A6%E8%BC%89%E5%9E%8B%29",
+		["英文Wiki"] = "https://en.kancollewiki.net/Reppuu_Kai_%28Prototype_Carrier-based_Model%29"
 	},
 	["336"] = {
 		["ID"] = 336,
