@@ -47738,7 +47738,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD%20%E7%A7%8B%E6%B0%B4",
+		["英文Wiki"] = "https://en.kancollewiki.net/Prototype_Shuusui"
 	},
 	["352"] = {
 		["ID"] = 352,
