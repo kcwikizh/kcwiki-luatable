@@ -748,9 +748,7 @@
                 ]
             },
             "改修备注": "更新时消耗<font color=red>新型炮熕兵装资材</font>x1，失败时不消耗"
-        },
-        "日文Wiki": "https://wikiwiki.jp/kancolle/15.5cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
-        "英文Wiki": "https://en.kancollewiki.net/15.5cm_Triple_Gun_Mount"
+        }
     },
     "006": {
         "ID": 6,
@@ -14836,7 +14834,9 @@
                 ]
             },
             "改修备注": "更新时消耗<font color=red>新型兵装資材</font>x1，失败时不消耗"
-        }
+        },
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E6%AF%98%E5%BC%8F40mm%E9%80%A3%E8%A3%85%E6%A9%9F%E9%8A%83",
+        "英文Wiki": "https://en.kancollewiki.net/Bi_Type_40mm_Twin_Autocannon_Mount"
     },
     "093": {
         "ID": 93,
