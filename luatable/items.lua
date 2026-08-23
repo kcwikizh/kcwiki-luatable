@@ -7829,7 +7829,9 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/25mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
+		["英文Wiki"] = "https://en.kancollewiki.net/25mm_Single_Autocannon_Mount"
 	},
 	["050"] = {
 		["ID"] = 50,
@@ -66674,7 +66676,9 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E9%99%B8%E6%94%BB%28%E5%85%AB%E5%B9%A1%E9%83%A8%E9%9A%8A%29",
+		["英文Wiki"] = "https://en.kancollewiki.net/Type_1_Land-based_Attack_Aircraft_%28Hachiman_Force%29"
 	},
 	["494"] = {
 		["ID"] = 494,
