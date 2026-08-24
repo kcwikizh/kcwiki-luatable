@@ -4368,6 +4368,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"涼月(Lv1)",
 			"冬月(Lv1)",
+			"花月(Lv1)",
 			"水無月改(Lv20)",
 			"雪風改(Lv20)",
 			"島風改(Lv20)",
@@ -6443,6 +6444,7 @@ k.EquipUpdateTb = {
 			"千代田改二(Lv50)",
 			"葛城改(Lv50)",
 			"梅改(Lv52)",
+			"日枝丸改(Lv55)",
 			"潮改二(Lv60)",
 			"加古改二(Lv65)",
 			"★+4谷風丁改(Lv70)",
@@ -6550,6 +6552,7 @@ k.EquipUpdateTb = {
 			"初月(Lv1)",
 			"涼月(Lv1)",
 			"冬月(Lv1)",
+			"花月(Lv1)",
 			"雲龍(Lv1)",
 			"天城(Lv1)",
 			"葛城(Lv1)",
@@ -6574,6 +6577,7 @@ k.EquipUpdateTb = {
 			"朝霜改(Lv45)",
 			"涼月改(Lv55)",
 			"冬月改(Lv55)",
+			"花月改(Lv55)",
 			"潮改二(Lv60)",
 			"神鷹改(Lv60)",
 			"しまね丸改(Lv60)",
@@ -7714,7 +7718,8 @@ k.EquipUpdateTb = {
 			"弥生改(Lv20)",
 			"水無月改(Lv20)",
 			"夕張改(Lv25)",
-			"平安丸改(Lv25)"
+			"平安丸改(Lv25)",
+			"日枝丸改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12cm%E5%8D%98%E8%A3%85%E9%AB%98%E8%A7%92%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/12cm_Single_High-angle_Gun_Mount"
@@ -7823,6 +7828,7 @@ k.EquipUpdateTb = {
 			"狭霧改(Lv30)",
 			"能美改(Lv45)",
 			"松改(Lv50)",
+			"桐改(Lv53)",
 			"大泊改(Lv55)",
 			"★+7稲木改二(Lv73)",
 			"曙改二(Lv82)"
@@ -14492,8 +14498,10 @@ k.EquipUpdateTb = {
 			"榧改(Lv46)",
 			"樫改(Lv46)",
 			"梅改(Lv52)",
+			"桐改(Lv53)",
 			"涼月改(Lv55)",
 			"冬月改(Lv55)",
+			"花月改(Lv55)",
 			"しまね丸改(Lv60)",
 			"初春改二(Lv65)",
 			"浜風乙改(Lv67)",
@@ -16333,11 +16341,13 @@ k.EquipUpdateTb = {
 			"初月(Lv1)",
 			"涼月(Lv1)",
 			"冬月(Lv1)",
+			"花月(Lv1)",
 			"秋月改(Lv40)",
 			"照月改(Lv40)",
 			"初月改(Lv40)",
 			"涼月改(Lv55)",
 			"冬月改(Lv55)",
+			"花月改(Lv55)",
 			"★+4秋月改二(Lv85)",
 			"★+3初月改二(Lv88)",
 			"★+4雪風改二(Lv88)"
@@ -19442,7 +19452,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"速吸(Lv1)",
-			"速吸改(Lv25)"
+			"速吸改(Lv25)",
+			"日枝丸改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E6%B4%8B%E4%B8%8A%E8%A3%9C%E7%B5%A6",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Underway_Replenishment"
@@ -21854,6 +21865,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Massachusetts改(Lv48)",
+			"Indiana改(Lv48)",
 			"Iowa改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/OS2U",
@@ -22139,37 +22151,7 @@ k.EquipUpdateTb = {
 				"+3.17",
 				"+3.39",
 				"+3.60",
-				"+3.79",
-				"+5.62",
-				"+5.87",
-				"+6.11",
-				"+6.34",
-				"+6.56",
-				"+6.78",
-				"+6.99",
-				"+7.20",
-				"+7.39",
-				"+7.58",
-				"+9.52",
-				"+9.74",
-				"+9.96",
-				"+10.18",
-				"+10.38",
-				"+10.59",
-				"+10.80",
-				"+10.99",
-				"+11.18",
-				"+11.38",
-				"+13.35",
-				"+13.57",
-				"+13.78",
-				"+13.98",
-				"+14.19",
-				"+14.40",
-				"+14.59",
-				"+14.78",
-				"+14.98",
-				"+15.17"
+				"+3.79"
 			},
 			["夜戦火力"] = {
 				"+1.00",
@@ -22181,37 +22163,7 @@ k.EquipUpdateTb = {
 				"+2.64",
 				"+2.82",
 				"+3.00",
-				"+3.16",
-				"+4.68",
-				"+4.89",
-				"+5.09",
-				"+5.29",
-				"+5.47",
-				"+5.65",
-				"+5.82",
-				"+6.00",
-				"+6.16",
-				"+6.32",
-				"+7.93",
-				"+8.11",
-				"+8.30",
-				"+8.48",
-				"+8.65",
-				"+8.82",
-				"+9.00",
-				"+9.16",
-				"+9.32",
-				"+9.48",
-				"+11.13",
-				"+11.31",
-				"+11.48",
-				"+11.65",
-				"+11.82",
-				"+12.00",
-				"+12.16",
-				"+12.32",
-				"+12.48",
-				"+12.64"
+				"+3.16"
 			},
 			["雷撃命中"] = {
 				"+2.00",
@@ -22223,37 +22175,7 @@ k.EquipUpdateTb = {
 				"+5.29",
 				"+5.65",
 				"+6.00",
-				"+6.32",
-				"+9.37",
-				"+9.79",
-				"+10.19",
-				"+10.58",
-				"+10.94",
-				"+11.31",
-				"+11.65",
-				"+12.00",
-				"+12.32",
-				"+12.64",
-				"+15.87",
-				"+16.23",
-				"+16.60",
-				"+16.97",
-				"+17.31",
-				"+17.65",
-				"+18.00",
-				"+18.32",
-				"+18.64",
-				"+18.97",
-				"+22.26",
-				"+22.62",
-				"+22.97",
-				"+23.31",
-				"+23.65",
-				"+24.00",
-				"+24.32",
-				"+24.64",
-				"+24.97",
-				"+25.29"
+				"+6.32"
 			},
 			["夜戦命中"] = {
 				"+1.30",
@@ -24413,6 +24335,7 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Wasp(Lv1)",
+			"Independence(Lv1)",
 			"Saratoga改(Lv40)",
 			"★+4Hornet改(Lv40)",
 			"Ranger改(Lv55)"
@@ -24733,7 +24656,8 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Intrepid(Lv1)",
-			"Langley改(Lv50)"
+			"Langley改(Lv50)",
+			"Independence改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/F6F-3",
 		["EN_Wiki"] = "https://en.kancollewiki.net/F6F-3"
@@ -26230,6 +26154,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
+			"日枝丸(Lv1)",
 			"白露改(Lv20)",
 			"時雨改(Lv20)",
 			"岸波改(Lv35)",
@@ -26686,6 +26611,7 @@ k.EquipUpdateTb = {
 			"杉(Lv1)",
 			"榧(Lv1)",
 			"樫(Lv1)",
+			"桐(Lv1)",
 			"鬼怒改(Lv17)",
 			"霰改(Lv20)",
 			"不知火改(Lv20)",
@@ -26699,6 +26625,7 @@ k.EquipUpdateTb = {
 			"桃改(Lv48)",
 			"松改(Lv50)",
 			"竹改(Lv51)",
+			"桐改(Lv53)",
 			"阿武隈改二(Lv75)",
 			"由良改二(Lv77)",
 			"天龍改二(Lv84)"
@@ -29353,6 +29280,7 @@ k.EquipUpdateTb = {
 			"Gambier",
 			"Bay改(Lv45)",
 			"Langley改(Lv50)",
+			"Independence改(Lv50)",
 			"Ranger改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/TBF",
@@ -36955,6 +36883,7 @@ k.EquipUpdateTb = {
 			"South",
 			"Dakota改(Lv48)",
 			"Massachusetts改(Lv48)",
+			"Indiana改(Lv48)",
 			"Johnston改(Lv55)",
 			"Fletcher改(Lv55)"
 		},
@@ -40932,7 +40861,9 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"Atlanta(Lv1)",
-			"Atlanta改(Lv50)"
+			"Reno(Lv1)",
+			"Atlanta改(Lv50)",
+			"Reno改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E9%80%A3%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2%28%E9%9B%86%E4%B8%AD%E9%85%8D%E5%82%99%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/5inch_Twin_Dual-purpose_Gun_Mount_%28Concentrated_Deployment%29"
@@ -42471,7 +42402,8 @@ k.EquipUpdateTb = {
 			"South",
 			"Dakota(Lv1)",
 			"Washington(Lv1)",
-			"Massachusetts(Lv1)"
+			"Massachusetts(Lv1)",
+			"Indiana(Lv1)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6",
 		["EN_Wiki"] = "https://en.kancollewiki.net/16inch_Triple_Gun_Mount_Mk.6"
@@ -43002,7 +42934,8 @@ k.EquipUpdateTb = {
 			"Washington改(Lv47)",
 			"South",
 			"Dakota改(Lv48)",
-			"Massachusetts改(Lv48)"
+			"Massachusetts改(Lv48)",
+			"Indiana改(Lv48)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/16inch%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2%20Mk.6%20mod.2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/16inch_Triple_Gun_Mount_Mk.6_mod.2"
@@ -46009,6 +45942,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"Langley(Lv1)",
 			"Wasp(Lv1)",
+			"Independence(Lv1)",
 			"Ranger改(Lv55)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SBD-5",
@@ -58306,6 +58240,99 @@ k.EquipUpdateTb = {
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/SB2U-2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/SB2U-2"
+	},
+	["579"] = {
+		["id"] = 579,
+		["no"] = "No.579",
+		["item_name"] = {
+			["zh"] = "13.8cm単装砲 Modèle 1927",
+			["ja"] = "13.8cm単装砲 Modèle 1927"
+		},
+		["item_type"] = "小口径主砲",
+		["item_intro"] = "フランス海軍が大型駆逐艦(コントル・トルピエール)の主兵装として開発した、駆逐艦としては大口径の単装主砲です。大戦期のフランス大型駆逐艦の代表的な兵装で、Aigle級などの数多くの大型駆逐艦に採用されました。シンプルな構造と高い信頼性で、日本の初期軽巡クラス並みの火力を、量産駆逐艦に与えています。",
+		["item_stat"] = {
+			["火力"] = "＋3",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "＋1",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "",
+			["回避"] = "",
+			["射程"] = "短"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 1,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 0,
+			["戦艦"] = 0,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 1,
+			["航空戦艦"] = 0,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["揚陸艦"] = 1,
+			["補給艦"] = 1,
+			["工作艦"] = 1,
+			["海防艦"] = 1,
+			["extra"] = {
+				"潜水母艦",
+				"長門改二"
+			}
+		},
+		["equip_ships"] = {
+			"Vautour(Lv1)Vautour改(Lv30)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/13.8cm%E5%8D%98%E8%A3%85%E7%A0%B2%20Modele%201927",
+		["EN_Wiki"] = "https://en.kancollewiki.net/13.8cm_Single_Gun_Mount_Mod%C3%A8le_1927"
+	},
+	["580"] = {
+		["id"] = 580,
+		["no"] = "No.580",
+		["item_name"] = {
+			["zh"] = "55cm三連装魚雷 Modèle 1924",
+			["ja"] = "55cm三連装魚雷 Modèle 1924"
+		},
+		["item_type"] = "魚雷",
+		["item_intro"] = "トリコロールの国の艦隊、その必殺の爪として配備運用されたスタンダードな水雷戦用魚雷兵装です。一般的な空気魚雷ではありますが、高い信頼性と実用性で、主力巡洋艦や大型駆逐艦に装備され、運用されました。追加の二連装魚雷を加えて、複合した片舷五連装装備の艦種も！",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "＋4",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "",
+			["回避"] = "＋1",
+			["射程"] = "短"
+		},
+		["item_equip"] = {
+			["駆逐艦"] = 1,
+			["軽巡洋艦"] = 1,
+			["重巡洋艦"] = 1,
+			["戦艦"] = 0,
+			["軽空母"] = 0,
+			["正規空母"] = 0,
+			["水上機母艦"] = 0,
+			["航空戦艦"] = 0,
+			["航空巡洋艦"] = 1,
+			["重雷装巡洋艦"] = 1,
+			["練習巡洋艦"] = 1,
+			["潜水艦"] = 1,
+			["潜水空母"] = 1,
+			["extra"] = {
+				"Bismarck drei",
+				"金剛型改二丙/乙",
+				"C.d.C nuovo",
+				"三隈改二特"
+			}
+		},
+		["equip_ships"] = {
+			"Vautour(Lv1)Vautour改(Lv30)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/55cm%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%20Modele%201924",
+		["EN_Wiki"] = "https://en.kancollewiki.net/55cm_Triple_Torpedo_Mount_Mod%C3%A8le_1924"
 	}
 }
 
