@@ -29069,9 +29069,7 @@ d.equipDataTb = {
 			"熊野丸",
 			"熊野丸改"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E8%BC%B8%E9%80%81%E7%94%A8%E5%88%86%E8%A7%A3%E6%B8%88%29",
-		["英文Wiki"] = "https://en.kancollewiki.net/Saiun_%28Disassembled_for_Transport%29"
+		["备注"] = ""
 	},
 	["210"] = {
 		["ID"] = 210,
@@ -47921,9 +47919,7 @@ d.equipDataTb = {
 			"山汐丸改",
 			"熊野丸改"
 		},
-		["备注"] = "",
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/Fw190%20A-5%E6%94%B9%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://en.kancollewiki.net/Fw_190_A-5_Kai_%28Skilled%29"
+		["备注"] = ""
 	},
 	["354"] = {
 		["ID"] = 354,
@@ -60675,9 +60671,7 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		},
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A664%E5%9E%8B%28%E8%A4%87%E5%BA%A7KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29",
-		["英文Wiki"] = "https://en.kancollewiki.net/Type_0_Fighter_Model_64_%28Two-seat_w/_KMX%29"
+		}
 	},
 	["449"] = {
 		["ID"] = 449,
