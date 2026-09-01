@@ -15387,9 +15387,7 @@
                 ]
             },
             "改修备注": ""
-        },
-        "日文Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-        "英文Wiki": "https://en.kancollewiki.net/Type_0_Fighter_Model_21_%28Skilled%29"
+        }
     },
     "097": {
         "ID": 97,
@@ -19634,9 +19632,7 @@
                 "索敌": 1,
                 "回避": 2
             }
-        },
-        "日文Wiki": "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%A6%8B%E5%BC%B5%E5%93%A1",
-        "英文Wiki": "https://en.kancollewiki.net/Skilled_Lookouts"
+        }
     },
     "130": {
         "ID": 130,
@@ -29038,7 +29034,9 @@
             "熊野丸",
             "熊野丸改"
         ],
-        "备注": ""
+        "备注": "",
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E5%BD%A9%E9%9B%B2%28%E8%BC%B8%E9%80%81%E7%94%A8%E5%88%86%E8%A7%A3%E6%B8%88%29",
+        "英文Wiki": "https://en.kancollewiki.net/Saiun_%28Disassembled_for_Transport%29"
     },
     "210": {
         "ID": 210,
@@ -47844,7 +47842,9 @@
             "山汐丸改",
             "熊野丸改"
         ],
-        "备注": ""
+        "备注": "",
+        "日文Wiki": "https://wikiwiki.jp/kancolle/Fw190%20A-5%E6%94%B9%28%E7%86%9F%E7%B7%B4%29",
+        "英文Wiki": "https://en.kancollewiki.net/Fw_190_A-5_Kai_%28Skilled%29"
     },
     "354": {
         "ID": 354,
@@ -60556,7 +60556,9 @@
                 ]
             },
             "改修备注": ""
-        }
+        },
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A664%E5%9E%8B%28%E8%A4%87%E5%BA%A7KMX%E6%90%AD%E8%BC%89%E6%A9%9F%29",
+        "英文Wiki": "https://en.kancollewiki.net/Type_0_Fighter_Model_64_%28Two-seat_w/_KMX%29"
     },
     "449": {
         "ID": 449,
