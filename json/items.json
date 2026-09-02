@@ -15366,7 +15366,9 @@
                 ]
             },
             "改修备注": ""
-        }
+        },
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A621%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
+        "英文Wiki": "https://en.kancollewiki.net/Type_0_Fighter_Model_21_%28Skilled%29"
     },
     "097": {
         "ID": 97,
@@ -19608,7 +19610,9 @@
                 "索敌": 1,
                 "回避": 2
             }
-        }
+        },
+        "日文Wiki": "https://wikiwiki.jp/kancolle/%E7%86%9F%E7%B7%B4%E8%A6%8B%E5%BC%B5%E5%93%A1",
+        "英文Wiki": "https://en.kancollewiki.net/Skilled_Lookouts"
     },
     "130": {
         "ID": 130,
