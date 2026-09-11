@@ -58283,7 +58283,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Vautour(Lv1)Vautour改(Lv30)"
+			"Vautour(Lv1)",
+			"Vautour改(Lv30)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/13.8cm%E5%8D%98%E8%A3%85%E7%A0%B2%20Modele%201927",
 		["EN_Wiki"] = "https://en.kancollewiki.net/13.8cm_Single_Gun_Mount_Mod%C3%A8le_1927"
@@ -58330,7 +58331,10 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Vautour(Lv1)Algérie(Lv1)Vautour改(Lv30)Algérie改(Lv50)"
+			"Vautour(Lv1)",
+			"Algérie(Lv1)",
+			"Vautour改(Lv30)",
+			"Algérie改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/55cm%E4%B8%89%E9%80%A3%E8%A3%85%E9%AD%9A%E9%9B%B7%20Modele%201924",
 		["EN_Wiki"] = "https://en.kancollewiki.net/55cm_Triple_Torpedo_Mount_Mod%C3%A8le_1924"
@@ -58468,7 +58472,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Visby(Lv1)Visby改(Lv50)"
+			"Visby(Lv1)",
+			"Visby改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/Bofors%2012cm%E5%8D%98%E8%A3%85%E4%B8%A1%E7%94%A8%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Bofors_12cm_Single_Dual-purpose_Gun_Mount"
@@ -58507,8 +58512,53 @@ k.EquipUpdateTb = {
 				"伊勢型改二"
 			}
 		},
+		["item_remodel"] = {
+			["索敵値"] = {
+				"+1.20",
+				"+1.69",
+				"+2.07",
+				"+2.40",
+				"+2.68",
+				"+2.93",
+				"+3.17",
+				"+3.39",
+				"+3.60",
+				"+3.79",
+				"+5.62",
+				"+5.87",
+				"+6.11",
+				"+6.34",
+				"+6.56",
+				"+6.78",
+				"+6.99",
+				"+7.20",
+				"+7.39",
+				"+7.58",
+				"+9.52",
+				"+9.74",
+				"+9.96",
+				"+10.18",
+				"+10.38",
+				"+10.59",
+				"+10.80",
+				"+10.99",
+				"+11.18",
+				"+11.38",
+				"+13.35",
+				"+13.57",
+				"+13.78",
+				"+13.98",
+				"+14.19",
+				"+14.40",
+				"+14.59",
+				"+14.78",
+				"+14.98",
+				"+15.17"
+			}
+		},
 		["equip_ships"] = {
-			"Béarn(Lv1)Béarn改(Lv40)"
+			"Béarn(Lv1)",
+			"Béarn改(Lv40)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/PL101%28%E5%81%B5%E5%AF%9F%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/PL_101_%28Reconnaissance%29"
@@ -58549,8 +58599,35 @@ k.EquipUpdateTb = {
 				"しまね丸改"
 			}
 		},
+		["item_remodel"] = {
+			["爆装"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			},
+			["対潜"] = {
+				"+0.2",
+				"+0.4",
+				"+0.6",
+				"+0.8",
+				"+1.0",
+				"+1.2",
+				"+1.4",
+				"+1.6",
+				"+1.8",
+				"+2.0"
+			}
+		},
 		["equip_ships"] = {
-			"Béarn(Lv1)Béarn改(Lv40)"
+			"Béarn(Lv1)",
+			"Béarn改(Lv40)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/PL101%28%E7%88%86%E8%A3%85%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/PL_101_%28Bomb-carrying%29"
@@ -58592,7 +58669,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Béarn改(Lv40)Béarn",
+			"Béarn改(Lv40)",
+			"Béarn",
 			"amélioration(Lv75)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/V-156F%28SB2U%E8%BC%B8%E5%87%BA%E5%9E%8B%29",
