@@ -1499,7 +1499,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"伊勢(Lv1)日向(Lv1)",
+			"伊勢(Lv1)",
+			"日向(Lv1)",
 			"金剛(Lv1)",
 			"比叡(Lv1)",
 			"榛名(Lv1)",
@@ -1719,7 +1720,9 @@ k.EquipUpdateTb = {
 			"扶桑改二(Lv80)",
 			"山城改二(Lv80)",
 			"長門改二(Lv88)",
-			"陸奥改二(Lv89)"
+			"陸奥改二(Lv89)",
+			"扶桑改二補(Lv92)",
+			"山城改二補(Lv92)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/41cm%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/41cm_Twin_Gun_Mount"
@@ -3886,7 +3889,7 @@ k.EquipUpdateTb = {
 			"瑞鳳(Lv1)",
 			"赤城(Lv1)",
 			"加賀(Lv1)",
-			"蒼龍(Lv)",
+			"蒼龍(Lv1)",
 			"飛龍(Lv1)",
 			"翔鶴(Lv1)",
 			"瑞鶴(Lv1)"
@@ -4389,7 +4392,7 @@ k.EquipUpdateTb = {
 			"岸波改(Lv35)",
 			"松改(Lv50)",
 			"時雨改二(Lv60)",
-			"木曽改二(Lv65)",
+			"木曾改二(Lv65)",
 			"榛名改二(Lv80)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/13%E5%8F%B7%E5%AF%BE%E7%A9%BA%E9%9B%BB%E6%8E%A2",
@@ -4565,7 +4568,7 @@ k.EquipUpdateTb = {
 			"峯雲改(Lv38)",
 			"武蔵改(Lv40)",
 			"神風改(Lv50)",
-			"五十鈴改(Lv50)",
+			"五十鈴改二(Lv50)",
 			"時雨改二(Lv60)",
 			"大和改(Lv60)",
 			"羽黒改二(Lv65)",
@@ -6160,6 +6163,9 @@ k.EquipUpdateTb = {
 				["steel"] = "10"
 			}
 		},
+		["equip_ships"] = {
+			"大泊改(Lv55)"
+		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/12.7mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
 		["EN_Wiki"] = "https://en.kancollewiki.net/12.7mm_Single_Machine_Gun_Mount"
 	},
@@ -6426,7 +6432,7 @@ k.EquipUpdateTb = {
 			"玉波改(Lv30)",
 			"天霧改(Lv35)",
 			"岸波改(Lv35)",
-			"倉橋改(Lv35)",
+			"倉橋改(Lv45)",
 			"明石改(Lv35)",
 			"択捉改(Lv37)",
 			"松輪改(Lv37)",
@@ -6440,8 +6446,8 @@ k.EquipUpdateTb = {
 			"有明改(Lv48)",
 			"夕暮改(Lv49)",
 			"春風改(Lv50)",
-			"千歳改二(Lv50)",
-			"千代田改二(Lv50)",
+			"千歳航改二(Lv50)",
+			"千代田航改二(Lv50)",
 			"葛城改(Lv50)",
 			"梅改(Lv52)",
 			"日枝丸改(Lv55)",
@@ -7816,7 +7822,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"宗谷(Lv1)",
+			"宗谷(Lv60)",
 			"敷波改(Lv20)",
 			"朧改(Lv20)",
 			"曙改(Lv20)",
@@ -8853,7 +8859,7 @@ k.EquipUpdateTb = {
 		["equip_ships"] = {
 			"大井改二(Lv50)",
 			"北上改二(Lv50)",
-			"木曽改二(Lv65)"
+			"木曾改二(Lv65)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/61cm%E4%BA%94%E9%80%A3%E8%A3%85%28%E9%85%B8%E7%B4%A0%29%E9%AD%9A%E9%9B%B7",
 		["EN_Wiki"] = "https://en.kancollewiki.net/61cm_Quintuple_%28Oxygen%29_Torpedo_Mount"
@@ -11529,7 +11535,9 @@ k.EquipUpdateTb = {
 		},
 		["equip_ships"] = {
 			"扶桑改二(Lv80)",
-			"山城改二(Lv80)"
+			"山城改二(Lv80)",
+			"扶桑改二補(Lv92)",
+			"山城改二補(Lv92)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Zuiun_Model_12"
@@ -14296,7 +14304,9 @@ k.EquipUpdateTb = {
 			"伊勢改二(Lv88)",
 			"長門改二(Lv88)",
 			"陸奥改二(Lv89)",
-			"日向改二(Lv90)"
+			"日向改二(Lv90)",
+			"★+1扶桑改二補(Lv92)",
+			"★+1山城改二補(Lv92)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BD41cm%E4%B8%89%E9%80%A3%E8%A3%85%E7%A0%B2",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Prototype_41cm_Triple_Gun_Mount"
@@ -14511,8 +14521,8 @@ k.EquipUpdateTb = {
 			"親潮改二(Lv74)",
 			"皐月改二(Lv75)",
 			"阿武隈改二(Lv75)",
+			"夕雲改二(Lv75)",
 			"文月改二(Lv77)",
-			"夕雲改二(Lv77)",
 			"朝霜改二(Lv77)",
 			"春雨改二(Lv78)",
 			"★+6藤波改二(Lv78)",
@@ -19654,7 +19664,7 @@ k.EquipUpdateTb = {
 			"Scirocco(Lv1)",
 			"Libeccio改(Lv30)",
 			"Scirocco改(Lv30)",
-			"Maestrale(Lv35)",
+			"Maestrale改(Lv35)",
 			"Grecale改(Lv35)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/120mm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2",
@@ -23973,7 +23983,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"扶桑改二補(Lv92)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Toku_Daihatsu_Landing_Craft"
@@ -24334,8 +24344,8 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"Wasp(Lv1)",
 			"Independence(Lv1)",
+			"Wasp(Lv1)",
 			"Saratoga改(Lv40)",
 			"★+4Hornet改(Lv40)",
 			"Ranger改(Lv55)"
@@ -28918,6 +28928,7 @@ k.EquipUpdateTb = {
 			["cost"] = {
 				["fuel"] = "10",
 				["ammo"] = "20",
+				["steel"] = "10",
 				["bauxite"] = "10"
 			}
 		},
@@ -32700,9 +32711,9 @@ k.EquipUpdateTb = {
 			"Richard",
 			"P.Leary(Lv1)",
 			"Samuel",
-			"B.R(Lv1)",
+			"B.Roberts(Lv1)",
 			"Samuel",
-			"B.R改(Lv50)"
+			"B.Roberts改(Lv50)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30",
 		["EN_Wiki"] = "https://en.kancollewiki.net/5inch_Single_Gun_Mount_Mk.30"
@@ -36497,7 +36508,7 @@ k.EquipUpdateTb = {
 			"Richard",
 			"P.Leary改(Lv55)",
 			"Samuel",
-			"B.R",
+			"B.Roberts",
 			"Mk.II(Lv78)",
 			"★+4吹雪改三護(六式)(Lv95)"
 		},
@@ -51241,7 +51252,7 @@ k.EquipUpdateTb = {
 			}
 		},
 		["equip_ships"] = {
-			"-"
+			"山城改二補(Lv92)"
 		},
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7%E6%94%B9%E4%BA%8C",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Type_2_Depth_Charge_Kai_2"

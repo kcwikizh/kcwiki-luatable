@@ -1311,7 +1311,8 @@
       "EN_Wiki": "https://en.kancollewiki.net/35.6cm_Twin_Gun_Mount",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/35.6cm%E9%80%A3%E8%A3%85%E7%A0%B2",
       "equip_ships": [
-        "伊勢(Lv1)日向(Lv1)",
+        "伊勢(Lv1)",
+        "日向(Lv1)",
         "金剛(Lv1)",
         "比叡(Lv1)",
         "榛名(Lv1)",
@@ -1531,7 +1532,9 @@
         "扶桑改二(Lv80)",
         "山城改二(Lv80)",
         "長門改二(Lv88)",
-        "陸奥改二(Lv89)"
+        "陸奥改二(Lv89)",
+        "扶桑改二補(Lv92)",
+        "山城改二補(Lv92)"
       ],
       "id": 8,
       "item_build": {
@@ -3818,7 +3821,7 @@
         "瑞鳳(Lv1)",
         "赤城(Lv1)",
         "加賀(Lv1)",
-        "蒼龍(Lv)",
+        "蒼龍(Lv1)",
         "飛龍(Lv1)",
         "翔鶴(Lv1)",
         "瑞鶴(Lv1)"
@@ -4198,7 +4201,7 @@
         "岸波改(Lv35)",
         "松改(Lv50)",
         "時雨改二(Lv60)",
-        "木曽改二(Lv65)",
+        "木曾改二(Lv65)",
         "榛名改二(Lv80)"
       ],
       "id": 27,
@@ -4418,7 +4421,7 @@
         "峯雲改(Lv38)",
         "武蔵改(Lv40)",
         "神風改(Lv50)",
-        "五十鈴改(Lv50)",
+        "五十鈴改二(Lv50)",
         "時雨改二(Lv60)",
         "大和改(Lv60)",
         "羽黒改二(Lv65)",
@@ -5963,6 +5966,9 @@
     "38": {
       "EN_Wiki": "https://en.kancollewiki.net/12.7mm_Single_Machine_Gun_Mount",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/12.7mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
+      "equip_ships": [
+        "大泊改(Lv55)"
+      ],
       "id": 38,
       "item_build": {
         "cost": {
@@ -6229,7 +6235,7 @@
         "玉波改(Lv30)",
         "天霧改(Lv35)",
         "岸波改(Lv35)",
-        "倉橋改(Lv35)",
+        "倉橋改(Lv45)",
         "明石改(Lv35)",
         "択捉改(Lv37)",
         "松輪改(Lv37)",
@@ -6243,8 +6249,8 @@
         "有明改(Lv48)",
         "夕暮改(Lv49)",
         "春風改(Lv50)",
-        "千歳改二(Lv50)",
-        "千代田改二(Lv50)",
+        "千歳航改二(Lv50)",
+        "千代田航改二(Lv50)",
         "葛城改(Lv50)",
         "梅改(Lv52)",
         "日枝丸改(Lv55)",
@@ -7727,7 +7733,7 @@
       "EN_Wiki": "https://en.kancollewiki.net/25mm_Single_Autocannon_Mount",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/25mm%E5%8D%98%E8%A3%85%E6%A9%9F%E9%8A%83",
       "equip_ships": [
-        "宗谷(Lv1)",
+        "宗谷(Lv60)",
         "敷波改(Lv20)",
         "朧改(Lv20)",
         "曙改(Lv20)",
@@ -8673,7 +8679,7 @@
       "equip_ships": [
         "大井改二(Lv50)",
         "北上改二(Lv50)",
-        "木曽改二(Lv65)"
+        "木曾改二(Lv65)"
       ],
       "id": 58,
       "item_equip": {
@@ -11460,7 +11466,9 @@
       "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%9B%B212%E5%9E%8B",
       "equip_ships": [
         "扶桑改二(Lv80)",
-        "山城改二(Lv80)"
+        "山城改二(Lv80)",
+        "扶桑改二補(Lv92)",
+        "山城改二補(Lv92)"
       ],
       "id": 80,
       "item_equip": {
@@ -14115,7 +14123,9 @@
         "伊勢改二(Lv88)",
         "長門改二(Lv88)",
         "陸奥改二(Lv89)",
-        "日向改二(Lv90)"
+        "日向改二(Lv90)",
+        "★+1扶桑改二補(Lv92)",
+        "★+1山城改二補(Lv92)"
       ],
       "id": 105,
       "item_equip": {
@@ -14326,8 +14336,8 @@
         "親潮改二(Lv74)",
         "皐月改二(Lv75)",
         "阿武隈改二(Lv75)",
+        "夕雲改二(Lv75)",
         "文月改二(Lv77)",
-        "夕雲改二(Lv77)",
         "朝霜改二(Lv77)",
         "春雨改二(Lv78)",
         "★+6藤波改二(Lv78)",
@@ -19467,7 +19477,7 @@
         "Scirocco(Lv1)",
         "Libeccio改(Lv30)",
         "Scirocco改(Lv30)",
-        "Maestrale(Lv35)",
+        "Maestrale改(Lv35)",
         "Grecale改(Lv35)"
       ],
       "id": 147,
@@ -23760,7 +23770,7 @@
       "EN_Wiki": "https://en.kancollewiki.net/Toku_Daihatsu_Landing_Craft",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/%E7%89%B9%E5%A4%A7%E7%99%BA%E5%8B%95%E8%89%87",
       "equip_ships": [
-        "-"
+        "扶桑改二補(Lv92)"
       ],
       "id": 193,
       "item_intro": "特大発動艇、略して「特大発」。輸送船からの揚陸作業や上陸戦に用いる数多く量産された上陸用舟艇、「大発」。この海上のトラック「大発」を新型中戦車搭載等に対応するためより大型化、搭載力が向上しています。",
@@ -24284,8 +24294,8 @@
       "EN_Wiki": "https://en.kancollewiki.net/F4F-4",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/F4F-4",
       "equip_ships": [
-        "Wasp(Lv1)",
         "Independence(Lv1)",
+        "Wasp(Lv1)",
         "Saratoga改(Lv40)",
         "★+4Hornet改(Lv40)",
         "Ranger改(Lv55)"
@@ -28873,7 +28883,8 @@
         "cost": {
           "ammo": "20",
           "bauxite": "10",
-          "fuel": "10"
+          "fuel": "10",
+          "steel": "10"
         },
         "secretary": "秘書艦: Ark Royal"
       },
@@ -32436,9 +32447,9 @@
         "Richard",
         "P.Leary(Lv1)",
         "Samuel",
-        "B.R(Lv1)",
+        "B.Roberts(Lv1)",
         "Samuel",
-        "B.R改(Lv50)"
+        "B.Roberts改(Lv50)"
       ],
       "id": 284,
       "item_equip": {
@@ -36233,7 +36244,7 @@
         "Richard",
         "P.Leary改(Lv55)",
         "Samuel",
-        "B.R",
+        "B.Roberts",
         "Mk.II(Lv78)",
         "★+4吹雪改三護(六式)(Lv95)"
       ],
@@ -51142,7 +51153,7 @@
       "EN_Wiki": "https://en.kancollewiki.net/Type_2_Depth_Charge_Kai_2",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7%E6%94%B9%E4%BA%8C",
       "equip_ships": [
-        "-"
+        "山城改二補(Lv92)"
       ],
       "id": 488,
       "item_equip": {
