@@ -10342,7 +10342,8 @@ k.EquipUpdateTb = {
 				"日進改",
 				"S B.R Mk.II",
 				"山汐丸改",
-				"北上改三"
+				"北上改三",
+				"Visby改"
 			}
 		},
 		["item_remodel"] = {
@@ -37578,7 +37579,8 @@ k.EquipUpdateTb = {
 				"日進改",
 				"S B.R Mk.II",
 				"山汐丸改",
-				"北上改三"
+				"北上改三",
+				"Visby改"
 			}
 		},
 		["item_remodel"] = {
@@ -37649,7 +37651,8 @@ k.EquipUpdateTb = {
 				"日進改",
 				"S B.R Mk.II",
 				"山汐丸改",
-				"北上改三"
+				"北上改三",
+				"Visby改"
 			}
 		},
 		["item_remodel"] = {
@@ -37720,7 +37723,8 @@ k.EquipUpdateTb = {
 				"日進改",
 				"S B.R Mk.II",
 				"山汐丸改",
-				"北上改三"
+				"北上改三",
+				"Visby改"
 			}
 		},
 		["item_remodel"] = {
@@ -37791,7 +37795,8 @@ k.EquipUpdateTb = {
 				"日進改",
 				"S B.R Mk.II",
 				"山汐丸改",
-				"北上改三"
+				"北上改三",
+				"Visby改"
 			}
 		},
 		["item_remodel"] = {

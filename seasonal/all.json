@@ -21347,6 +21347,14 @@
         "vname": "秘书舰3",
         "zh": "明白。第二战队，将作为第一游击部队，第三部队的旗舰战力，突破夜晚的苏里高海峡，目标直指莱特湾！"
       }
+    },
+    "季节性/2026年初秋季节": {
+      "211-SecWedShoshuu2026": {
+        "file": "/7/73/211-SecWedShoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰（婚后）",
+        "zh": ""
+      }
     }
   },
   "212": {
@@ -21386,6 +21394,14 @@
         "ja": "時雨、行ける...頼りにしてるから。私たち、第三部隊西村艦隊の出撃よ！",
         "vname": "出征",
         "zh": "时雨，没问题吧...大家都信赖着你。我们，第三部队西村舰队要出击了！"
+      }
+    },
+    "季节性/2026年初秋季节": {
+      "212-SecWedShoshuu2026": {
+        "file": "/e/e0/212-SecWedShoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰（婚后）",
+        "zh": ""
       }
     }
   },
@@ -21643,6 +21659,14 @@
         "file": "/b/b8/221-Sec1Haru2026.mp3",
         "ja": "秋月型でお花見開催？いいですね！お団子とか楽しみです！",
         "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
+    "季节性/2026年初秋季节": {
+      "221-Sec2Shoshuu2026": {
+        "file": "/b/b6/221-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
         "zh": ""
       }
     },
@@ -35547,6 +35571,14 @@
         "vname": "秘书舰1",
         "zh": ""
       }
+    },
+    "季节性/2026年初秋季节": {
+      "438-Sec1Shoshuu2026": {
+        "file": "/9/92/438-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
     }
   },
   "439": {
@@ -38668,6 +38700,20 @@
         "zh": "提督，恭喜你！舰队，迎来了十二周年啦。真值得庆贺啊。一直都在祈求，天空和海洋能够和平啊。再次一起去三陆和八户吧。"
       }
     },
+    "季节性/2026年初秋季节": {
+      "522-Sec1Shoshuu2026": {
+        "file": "/5/5a/522-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      },
+      "522-Sec2Shoshuu2026": {
+        "file": "/2/25/522-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    },
     "季节性/2026年十三周年纪念": {
       "522-Sec1ThirteenthAnniversary": {
         "file": "/a/ac/522-Sec1ThirteenthAnniversary.mp3",
@@ -39268,6 +39314,16 @@
         "ja": "Admiral、Congratulation。本当に素晴らしいですね、わたくしもお祝いと感謝申し上げます。Twelfth fleet anniversary。",
         "vname": "秘书舰1",
         "zh": "Admiral，Congratulations。真的很美好呢。我也为你献上祝贺和感谢。12th fleet anniversary！"
+      }
+    }
+  },
+  "532": {
+    "季节性/2026年初秋季节": {
+      "532-Sec1Shoshuu2026": {
+        "file": "/1/17/532-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -41120,6 +41176,14 @@
         "zh": "年末大骚厨？那是什么？What？年末就该休息啊，在家里打游戏啊打游戏。诶？不行？Why？"
       }
     },
+    "季节性/2026年初秋季节": {
+      "585-Sec1Shoshuu2026": {
+        "file": "/0/0e/585-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
     "季节性/2026年十三周年纪念": {
       "585-Sec1ThirteenthAnniversary": {
         "file": "/0/0f/585-Sec1ThirteenthAnniversary.mp3",
@@ -41184,6 +41248,16 @@
         "ja": "提督、あの、もしよかったら、受け取ってください。",
         "vname": "秘书舰1",
         "zh": "提督，那个，如果可以的话，请你收下！"
+      }
+    }
+  },
+  "591": {
+    "季节性/2026年初秋季节": {
+      "591-Sec1Shoshuu2026": {
+        "file": "/f/ff/591-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
       }
     }
   },
@@ -41288,6 +41362,14 @@
       "593-Sec1Haru2026": {
         "file": "/8/84/593-Sec1Haru2026.mp3",
         "ja": "礼号組でお花見パーティー？いい感じでまじエモい！杉、榧、料理いっぱい作って？うん、食べるのは任せとけ",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    },
+    "季节性/2026年初秋季节": {
+      "593-Sec1Shoshuu2026": {
+        "file": "/a/a8/593-Sec1Shoshuu2026.mp3",
+        "ja": "",
         "vname": "秘书舰1",
         "zh": ""
       }
@@ -41500,6 +41582,14 @@
         "zh": "你说是年末大…骚…厨？原来如此，真是个好习俗。妾身们也协助清洁镇守府吧。该从什么着手，好呢？"
       }
     },
+    "季节性/2026年初秋季节": {
+      "598-Sec2Shoshuu2026": {
+        "file": "/9/92/598-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    },
     "季节性/2026年十三周年纪念": {
       "598-Sec1ThirteenthAnniversary": {
         "file": "/4/43/598-Sec1ThirteenthAnniversary.mp3",
@@ -41556,6 +41646,14 @@
         "ja": "",
         "vname": "秘书舰1",
         "zh": "年末大…骚…厨？也就是镇守府的大规模清洁？舰队自己来干吗？挺好嘛，动手吧。"
+      }
+    },
+    "季节性/2026年初秋季节": {
+      "599-Sec2Shoshuu2026": {
+        "file": "/4/44/599-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
       }
     },
     "季节性/2026年十三周年纪念": {
@@ -41780,6 +41878,14 @@
         "zh": ""
       }
     },
+    "季节性/2026年初秋季节": {
+      "612-Sec2Shoshuu2026": {
+        "file": "/b/b6/612-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    },
     "季节性/2026年十三周年纪念": {
       "612-Sec1ThirteenthAnniversary": {
         "file": "/d/d9/612-Sec1ThirteenthAnniversary.mp3",
@@ -41821,6 +41927,16 @@
       }
     }
   },
+  "613": {
+    "季节性/2026年初秋季节": {
+      "613-Sec2Shoshuu2026": {
+        "file": "/0/09/613-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    }
+  },
   "615": {
     "季节性/2025年圣诞节": {
       "615-Sec1Christmas2025": {
@@ -41828,6 +41944,14 @@
         "ja": "Let's enjoy Christmas today. It is good. I truly believe that.Admiral、飲んでる？いい気分だわ。",
         "vname": "秘书舰1",
         "zh": "今天一起来享受圣诞节吧。我相信一定会是个好日子哦。提督，有在喝吗？气氛真好啊。"
+      }
+    },
+    "季节性/2026年初秋季节": {
+      "615-Sec2Shoshuu2026": {
+        "file": "/8/84/615-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
       }
     },
     "季节性/2026年十三周年纪念": {
@@ -41859,6 +41983,118 @@
         "file": "/5/5b/615-Sec1Tsuyu2026.mp3",
         "ja": "So, this is the rainy season in Japan? Now I understand. これだけ雨が続くと、艦載機の応用にも影響しそう。ところで、Fighting I、あんた何言ってんの？",
         "vname": "秘书舰1",
+        "zh": ""
+      }
+    }
+  },
+  "631": {
+    "季节性/2026年初秋季节": {
+      "631-DockCompleteShoshuu2026": {
+        "file": "/7/7c/631-DockCompleteShoshuu2026.mp3",
+        "ja": "",
+        "vname": "修复完成",
+        "zh": ""
+      },
+      "631-Sec1Shoshuu2026": {
+        "file": "/3/38/631-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    }
+  },
+  "634": {
+    "季节性/2026年初秋季节": {
+      "634-DockCompleteShoshuu2026": {
+        "file": "/c/c9/634-DockCompleteShoshuu2026.mp3",
+        "ja": "",
+        "vname": "修复完成",
+        "zh": ""
+      },
+      "634-Sec2Shoshuu2026": {
+        "file": "/8/89/634-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    }
+  },
+  "641": {
+    "季节性/2026年初秋季节": {
+      "641-Sec1Shoshuu2026": {
+        "file": "/a/ae/641-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      },
+      "641-Sec2Shoshuu2026": {
+        "file": "/c/c0/641-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    }
+  },
+  "643": {
+    "季节性/2026年初秋季节": {
+      "643-Sec1Shoshuu2026": {
+        "file": "/e/e2/643-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      },
+      "643-Sec2Shoshuu2026": {
+        "file": "/3/32/643-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    }
+  },
+  "645": {
+    "季节性/2026年初秋季节": {
+      "645-DockCompleteShoshuu2026": {
+        "file": "/7/7c/645-DockCompleteShoshuu2026.mp3",
+        "ja": "",
+        "vname": "修复完成",
+        "zh": ""
+      },
+      "645-Sec1Shoshuu2026": {
+        "file": "/8/81/645-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      },
+      "645-Sec2Shoshuu2026": {
+        "file": "/e/ec/645-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
+        "zh": ""
+      }
+    }
+  },
+  "652": {
+    "季节性/2026年初秋季节": {
+      "652-Sec1Shoshuu2026": {
+        "file": "/b/ba/652-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      }
+    }
+  },
+  "655": {
+    "季节性/2026年初秋季节": {
+      "655-Sec1Shoshuu2026": {
+        "file": "/b/b0/655-Sec1Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰1",
+        "zh": ""
+      },
+      "655-Sec2Shoshuu2026": {
+        "file": "/8/86/655-Sec2Shoshuu2026.mp3",
+        "ja": "",
+        "vname": "秘书舰2",
         "zh": ""
       }
     }

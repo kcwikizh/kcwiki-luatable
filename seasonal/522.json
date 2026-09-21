@@ -91,6 +91,20 @@
       "zh": "提督，恭喜你！舰队，迎来了十二周年啦。真值得庆贺啊。一直都在祈求，天空和海洋能够和平啊。再次一起去三陆和八户吧。"
     }
   },
+  "季节性/2026年初秋季节": {
+    "522-Sec1Shoshuu2026": {
+      "file": "/5/5a/522-Sec1Shoshuu2026.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": ""
+    },
+    "522-Sec2Shoshuu2026": {
+      "file": "/2/25/522-Sec2Shoshuu2026.mp3",
+      "ja": "",
+      "vname": "秘书舰2",
+      "zh": ""
+    }
+  },
   "季节性/2026年十三周年纪念": {
     "522-Sec1ThirteenthAnniversary": {
       "file": "/a/ac/522-Sec1ThirteenthAnniversary.mp3",
