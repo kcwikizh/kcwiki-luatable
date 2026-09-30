@@ -8828,7 +8828,9 @@ d.equipDataTb = {
 			["收益属性"] = {
 				["火力"] = 2
 			}
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E5%BD%97%E6%98%9F%E4%B8%80%E4%BA%8C%E5%9E%8B%E7%94%B2",
+		["英文Wiki"] = "https://en.kancollewiki.net/Suisei_Model_12A"
 	},
 	["058"] = {
 		["ID"] = 58,
@@ -24374,7 +24376,9 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E7%89%B9%E4%BA%8C%E5%BC%8F%E5%86%85%E7%81%AB%E8%89%87",
+		["英文Wiki"] = "https://en.kancollewiki.net/Special_Type_2_Amphibious_Tank"
 	},
 	["168"] = {
 		["ID"] = 168,
