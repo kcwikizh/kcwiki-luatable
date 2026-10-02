@@ -31073,9 +31073,7 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		},
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E7%88%86%E9%9B%B7",
-		["英文Wiki"] = "https://en.kancollewiki.net/Type_2_Depth_Charge"
+		}
 	},
 	["228"] = {
 		["ID"] = 228,
