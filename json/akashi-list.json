@@ -58276,6 +58276,52 @@
       "item_type": "魚雷",
       "no": "No.581"
     },
+    "582": {
+      "EN_Wiki": "https://en.kancollewiki.net/20.3cm/50_Twin_Gun_Mount_Mod%C3%A8le_1931",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/20.3cm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%20Modele%201931",
+      "equip_ships": [
+        "Algérie(Lv1)"
+      ],
+      "id": 582,
+      "item_equip": {
+        "extra": [
+          "C.Teste",
+          "神威改母",
+          "日進",
+          "三隈改二特"
+        ],
+        "戦艦": 1,
+        "正規空母": 0,
+        "水上機母艦": 0,
+        "練習巡洋艦": 1,
+        "航空巡洋艦": 1,
+        "航空戦艦": 1,
+        "軽巡洋艦": 1,
+        "軽空母": 0,
+        "重巡洋艦": 1,
+        "重雷装巡洋艦": 1,
+        "駆逐艦": 0
+      },
+      "item_intro": "フランス海軍の誇る重巡洋艦「Algérie」のために、従来量産型重巡主砲を改良発展させた充実の専用重巡主砲兵装です。本兵装を集中配備することで、ライバルといえるイタリア海軍のZara級を圧倒することを目指し、開発されました。さらに発展的なifSHS弾(超重量弾)を運用することで、仮想敵に対して圧倒的な火力を持って制圧することも可能です。",
+      "item_name": {
+        "ja": "20.3cm/50 連装砲 Modèle 1931",
+        "zh": "20.3cm/50 連装砲 Modèle 1931"
+      },
+      "item_stat": {
+        "命中": "＋2",
+        "回避": "",
+        "対潜": "",
+        "対空": "＋1",
+        "射程": "中",
+        "火力": "＋9",
+        "爆装": "",
+        "索敵": "",
+        "装甲": "＋1",
+        "雷装": ""
+      },
+      "item_type": "中口径主砲",
+      "no": "No.582"
+    },
     "583": {
       "EN_Wiki": "https://en.kancollewiki.net/20.3cm/50_Twin_Gun_Mount_Kai_%28SHS_Improved_Shells%29",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/20.3cm%EF%BC%8F50%20%E9%80%A3%E8%A3%85%E7%A0%B2%E6%94%B9%28SHS%E6%94%B9%E8%89%AF%E5%BC%BE%29",
