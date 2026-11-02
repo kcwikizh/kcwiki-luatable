@@ -42912,9 +42912,7 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = "",
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://en.kancollewiki.net/Type_2_Land-based_Reconnaissance_Aircraft_%28Skilled%29"
+		["备注"] = ""
 	},
 	["313"] = {
 		["ID"] = 313,
