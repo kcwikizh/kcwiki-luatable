@@ -36140,6 +36140,36 @@
       "item_type": "陸上偵察機",
       "no": "No.311"
     },
+    "312": {
+      "EN_Wiki": "https://en.kancollewiki.net/Type_2_Land-based_Reconnaissance_Aircraft_%28Skilled%29",
+      "JA_Wiki": "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E7%86%9F%E7%B7%B4%29",
+      "equip_ships": [
+        "-"
+      ],
+      "id": 312,
+      "item_equip": {
+        "基地航空隊": 1
+      },
+      "item_intro": "十三試陸戦として開発された双発陸上戦闘機。双発遠距離戦闘機開発としては成功しなかった本機を、偵察機として正式採用した「二式陸偵」、同機を装備した熟練搭乗員ペアによる偵察隊です。ラバウルに展開した本機は現地改修され、20mm斜銃を装備し、後に本土防空戦で大型戦略爆撃機相手に奮戦した、あの夜間戦闘機「月光」隊が誕生します。",
+      "item_name": {
+        "ja": "二式陸上偵察機(熟練)",
+        "zh": "二式陆上侦察机（熟练）"
+      },
+      "item_stat": {
+        "命中": "+3",
+        "回避": "",
+        "対潜": "",
+        "対空": "+3",
+        "戦闘行動半径": "9",
+        "火力": "",
+        "爆装": "",
+        "索敵": "+9",
+        "装甲": "+1",
+        "雷装": ""
+      },
+      "item_type": "陸上偵察機",
+      "no": "No.312"
+    },
     "313": {
       "EN_Wiki": "https://en.kancollewiki.net/5inch_Single_Gun_Mount_Mk.30_Kai",
       "JA_Wiki": "https://wikiwiki.jp/kancolle/5inch%E5%8D%98%E8%A3%85%E7%A0%B2%20Mk.30%20%E6%94%B9",

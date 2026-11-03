@@ -36141,6 +36141,36 @@ k.EquipUpdateTb = {
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F",
 		["EN_Wiki"] = "https://en.kancollewiki.net/Type_2_Land-based_Reconnaissance_Aircraft"
 	},
+	["312"] = {
+		["id"] = 312,
+		["no"] = "No.312",
+		["item_name"] = {
+			["zh"] = "二式陆上侦察机（熟练）",
+			["ja"] = "二式陸上偵察機(熟練)"
+		},
+		["item_type"] = "陸上偵察機",
+		["item_intro"] = "十三試陸戦として開発された双発陸上戦闘機。双発遠距離戦闘機開発としては成功しなかった本機を、偵察機として正式採用した「二式陸偵」、同機を装備した熟練搭乗員ペアによる偵察隊です。ラバウルに展開した本機は現地改修され、20mm斜銃を装備し、後に本土防空戦で大型戦略爆撃機相手に奮戦した、あの夜間戦闘機「月光」隊が誕生します。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "",
+			["爆装"] = "",
+			["対空"] = "+3",
+			["対潜"] = "",
+			["索敵"] = "+9",
+			["命中"] = "+3",
+			["回避"] = "",
+			["戦闘行動半径"] = "9",
+			["装甲"] = "+1"
+		},
+		["item_equip"] = {
+			["基地航空隊"] = 1
+		},
+		["equip_ships"] = {
+			"-"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E4%BA%8C%E5%BC%8F%E9%99%B8%E4%B8%8A%E5%81%B5%E5%AF%9F%E6%A9%9F%28%E7%86%9F%E7%B7%B4%29",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Type_2_Land-based_Reconnaissance_Aircraft_%28Skilled%29"
+	},
 	["313"] = {
 		["id"] = 313,
 		["no"] = "No.313",
