@@ -39,6 +39,9 @@ def LuatableBotTask(skip_fails = False):
                 else:
                     print('[{}]: Task skip'.format(fn.__name__))
                     traceback.print_exc()
+                    # 让跳过在 CI 里显式可见（GitHub Actions 注解），而不是只藏在日志里
+                    print('::warning title={} skipped::{}'.format(
+                        fn.__name__, str(e).replace('\n', ' ')[:400]))
             END = time.time()
             print('[{}]: Task total used {}s'.format(fn.__name__, round(END - START, 3)))
         return wrapper
@@ -56,12 +59,14 @@ class LuatableBotException(Exception):
     def __init__(self, message):
         super().__init__(message)
 
-def exec(args):
+def exec(args, check=False):
     print('exec: ' + ' '.join(args))
     try:
-        subprocess.run(args)
+        result = subprocess.run(args)
     except Exception as e:
         raise LuatableBotException(e)
+    if check and result.returncode != 0:
+        raise LuatableBotException('命令执行失败（exit {}）：{}'.format(result.returncode, ' '.join(args)))
 
 class LuatableBot:
 
@@ -174,24 +179,39 @@ class LuatableBot:
     async def BonusJson(self):
         self.__exec_js(SCRIPTS_PATH + BONUS_JS)
 
-    def __exec_lua(self, filename):
-        exec(['lua', filename])
+    def __exec_lua(self, filename, check=False):
+        exec(['lua', filename], check=check)
 
     def __exec_js(self, filename):
         exec(['node', filename])
 
+    # 只依赖本地数据（kcdata / WCTF-DB）就能生成的表：缺失说明核心流程坏了，必须让 CI 失败
+    REQUIRED_LUATABLES = [SHIPS_DATA, ITEMS_DATA, ITEMS_DATA_V2,
+                          SHIPCLASSES_MAPPING_DATA, AKASHI_LIST_OUTPUT_LUA, SHIP_SERIES_DB]
+    # 依赖外部 wiki 的表：源站不可达时允许缺失，由部署步骤的 keep_files 保住线上旧文件
+    OPTIONAL_LUATABLES = [SHINKAI_ITEMS_DATA, SHINKAI_SHIPS_DATA, AIRPOWER_TABLE]
+
     @Switch('Check')
-    @LuatableBotTask(True)
+    @LuatableBotTask()
     async def CheckLuatable(self):
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIPS_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + ITEMS_DATA_V2 + '.lua')
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_ITEMS_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHINKAI_SHIPS_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIPCLASSES_MAPPING_DATA + '.lua')
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AKASHI_LIST_OUTPUT_LUA)
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + AIRPOWER_TABLE)
-        self.__exec_lua(OUPUT_PATH + LUATABLE_PATH + SHIP_SERIES_DB + '.lua')
+        missing_required = []
+        missing_optional = []
+        for name in self.REQUIRED_LUATABLES + self.OPTIONAL_LUATABLES:
+            # 有些常量自带 .lua 后缀（AIRPOWER_TABLE / AKASHI_LIST_OUTPUT_LUA），统一在这里归一
+            lua_path = OUPUT_PATH + LUATABLE_PATH + (name if name.endswith('.lua') else name + '.lua')
+            if not path.isfile(lua_path):
+                if name in self.REQUIRED_LUATABLES:
+                    missing_required.append(path.basename(lua_path))
+                else:
+                    missing_optional.append(path.basename(lua_path))
+                continue
+            # 以前这里忽略 lua 的退出码，文件缺失/语法错误也会打印 "All the lua files is valid!"
+            self.__exec_lua(lua_path, check=True)
+        if missing_optional:
+            print('::warning title=luatable::外部数据源不可达，以下表本次未生成（线上旧文件保留）：{}'
+                  .format(', '.join(missing_optional)))
+        if missing_required:
+            raise LuatableBotException('缺少必需的 luatable：{}'.format(', '.join(missing_required)))
         print('CheckLuatable: All the lua files is valid!')
 
     async def main(self):

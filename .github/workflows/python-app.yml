@@ -34,6 +34,10 @@ jobs:
       WCTF_DB_REPO_URL: https://github.com/TeamFleet/WhoCallsTheFleet-DB.git
       WCTF_DB_REPO_BRANCH: master
 
+      # 可选：en.kancollewiki.net 对托管 runner 出口 IP 返回 Cloudflare 人机校验，
+      # 配置该 secret 后 Shinkai 相关爬取会走代理出口（未配置则跳过，见 README）
+      KCWIKI_PROXY: ${{ secrets.KCWIKI_PROXY }}
+
       Check: on
       Ships: on
       Items: on
@@ -93,3 +97,11 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./output
+        # 依赖外部 wiki 的表在源站不可达时不会生成本次产物，
+        # keep_files 保证不会被"整份替换"式发布顺手删掉（历史上已误删过一次）
+        keep_files: |
+          luatable/shinkai-items.lua
+          luatable/shinkai-ships.lua
+          luatable/airpower_table.lua
+          json/shinkai-items.json
+          json/shinkai-ships.json
