@@ -11,10 +11,23 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+# 部署到 gh-pages 需要写权限（仓库默认 token 权限改为只读时会失效）
+permissions:
+  contents: write
+
+# 每日构建不要互相覆盖 gh-pages 提交：排队执行而非并行
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     name: Run Lua-table Build
-    runs-on: ubuntu-latest
+    # 显式钉住 24.04：ubuntu-latest 自 2026-10 起迁移到 26.04，而
+    # actions/python-versions 里 3.10.13 没有 26.04 的预编译包，
+    # 会报 "The version '3.10.13' ... was not found for Ubuntu 26.04"。
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
     env:
       KCKIT_REPO_URL: https://github.com/TeamFleet/KCKit.git
       KCKIT_REPO_BRANCH: master
@@ -31,52 +44,52 @@ jobs:
 
 
     steps:
-    - name: Run actions/checkout@v4.1.1
-      uses: actions/checkout@v4.1.1
-    
-    - name: Set up Python 3 environment
-      uses: actions/setup-python@v5.0.0
+    - name: Checkout
+      uses: actions/checkout@v7
+
+    - name: Set up Python 3.10 environment
+      uses: actions/setup-python@v7
       with:
-        python-version: 3.10.13
-        
+        # 用 3.10.x 主版本而不是写死 3.10.13：钉死的补丁版本一旦
+        # runner 镜像升级就没有对应预编译包，会直接 setup 失败。
+        python-version: '3.10'
+        check-latest: true
+        cache: 'pip'
+
     - name: Set up Node.js environment
-      uses: actions/setup-node@v4.0.1
+      uses: actions/setup-node@v7
       with:
-        node-version: '16'
-    
-    # - name: Install NPM package
-    #   run: npm install
-    
-    - name: Run actions/cache@v4.3.0
-      uses: actions/cache@v4.3.0
-      if: startsWith(runner.os, 'Linux')
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-    
+        node-version: '24'
+
+    - name: Install system dependencies
+      # hererocks 编译 Lua 需要 readline 头文件；LuaRocks 配置阶段需要 unzip。
+      # 新版镜像的 apt 列表可能是旧的，且非交互环境里没有 -y 会 Abort。
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y --no-install-recommends libreadline-dev unzip
+
     - name: Before build
       run: |
-        sudo apt install libreadline-dev
-        pip install -U pip setuptools
-        pip install git+https://github.com/luarocks/hererocks@0.25.0
+        python -m pip install -U pip setuptools wheel
+        python -m pip install "git+https://github.com/luarocks/hererocks@0.25.0"
         hererocks lua_install -r^ --lua=5.3
-        echo $PWD/lua_install/bin >> $GITHUB_PATH
-        pip install -r requirements.txt
-    
+        echo "$PWD/lua_install/bin" >> "$GITHUB_PATH"
+        python -m pip install -r requirements.txt
+
     - name: Run build
       run: |
         python LuatableBot.py
-        
+
     - name: Before deploy
       run: |
         cp docs/index.html output/index.html
         cp docs/style.css output/style.css
         echo bot.kcwiki.moe > output/CNAME
-    
+
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
+      # 只在主仓库发布：fork 或 PR 上的验证运行不要推 gh-pages / 抢 CNAME
+      if: github.repository == 'kcwikizh/kcwiki-luatable'
+      uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./output
