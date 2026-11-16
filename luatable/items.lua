@@ -58509,7 +58509,9 @@ d.equipDataTb = {
 		["装备适用"] = {
 
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/SM.79%20bis",
+		["英文Wiki"] = "https://en.kancollewiki.net/SM.79_bis"
 	},
 	["433"] = {
 		["ID"] = 433,
@@ -66287,9 +66289,7 @@ d.equipDataTb = {
 				}
 			},
 			["最大数量"] = -1
-		},
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B%E6%94%B9%2820%E6%88%A6%E9%9A%8A%29",
-		["英文Wiki"] = "https://en.kancollewiki.net/Type_1_Fighter_Hayabusa_Model_II_Kai_%2820th_Squadron%29"
+		}
 	},
 	["490"] = {
 		["ID"] = 490,
