@@ -22711,9 +22711,7 @@ d.equipDataTb = {
 				}
 			},
 			["改修备注"] = ""
-		},
-		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E9%9B%B6%E5%BC%8F%E8%89%A6%E6%88%A652%E5%9E%8B%28%E7%86%9F%E7%B7%B4%29",
-		["英文Wiki"] = "https://en.kancollewiki.net/Type_0_Fighter_Model_52_%28Skilled%29"
+		}
 	},
 	["153"] = {
 		["ID"] = 153,
@@ -66485,7 +66483,9 @@ d.equipDataTb = {
 				}
 			},
 			["最大数量"] = -1
-		}
+		},
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E4%B8%80%E5%BC%8F%E6%88%A6%20%E9%9A%BCII%E5%9E%8B%E6%94%B9%2820%E6%88%A6%E9%9A%8A%29",
+		["英文Wiki"] = "https://en.kancollewiki.net/Type_1_Fighter_Hayabusa_Model_II_Kai_%2820th_Squadron%29"
 	},
 	["490"] = {
 		["ID"] = 490,
