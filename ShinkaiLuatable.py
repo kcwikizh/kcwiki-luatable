@@ -2,6 +2,7 @@ import asyncio
 import json
 import re
 import math
+from urllib.parse import quote
 
 from config import (DB_PATH, JSON_PATH, KCDATA_SHIP_ALL_JSON,
                     KCDATA_SLOTITEM_ALL_JSON, LUATABLE_PATH, OUPUT_PATH,
@@ -59,8 +60,16 @@ IS_FIGHTER = [6, 7, 8, 11, 47]
 IS_RECON = [10]
 IS_CARRIER = [7, 11, 18]
 
+class ShinkaiLuatableException(Exception):
+    pass
+
+
 class ShinkaiLuatable(HttpClient):
-    WIKIA_RAW_URL = 'https://en.kancollewiki.net/{}?action=raw'
+    # 不能用 `{title}?action=raw`：该站对匿名请求返回
+    # 403 "Sorry! Only registered users can access this page."，
+    # 但 `action=query&prop=revisions` 匿名可用，所以统一走 API 取页面内容。
+    MODULE_API_URL = ('https://en.kancollewiki.net/w/api.php?action=query&prop=revisions'
+                      '&rvprop=content&rvslots=main&formatversion=2&format=json&titles={}')
     SHINKAI_ITEMS_URL = 'https://en.kancollewiki.net/w/api.php?action=query&list=allpages&apprefix=Data%2FEnemyEquipment%2F&apnamespace=828&aplimit=max&format=json'
     SHINKAI_SHIP_URL = 'https://en.kancollewiki.net/w/api.php?action=query&list=allpages&apprefix=Data%2FEnemy%2F&apnamespace=828&aplimit=max&format=json'
     DETAIL_URL = 'https://en.kancollewiki.net/w/api.php?action=expandtemplates&text={{{{EnemyShipInfoKai|{}}}}}&format=json'
@@ -77,18 +86,28 @@ class ShinkaiLuatable(HttpClient):
         self.SLOTITEMS_KCDATA = jsonFile2dic(DB_PATH + KCDATA_SLOTITEM_ALL_JSON, masterKey='id')
         self.SHIPS_KCDATA = jsonFile2dic(DB_PATH + KCDATA_SHIP_ALL_JSON, masterKey='id')
 
+    async def __get_module_text(self, title):
+        res = await self.get_json(self.MODULE_API_URL.format(quote(title, safe='')))
+        pages = res.get('query', {}).get('pages') or []
+        if not pages:
+            raise ValueError('页面查询无结果：{}'.format(title))
+        page = pages[0]
+        if page.get('missing'):
+            raise ValueError('页面不存在：{}'.format(title))
+        revisions = page.get('revisions') or []
+        if not revisions:
+            raise ValueError('页面没有内容：{}'.format(title))
+        return revisions[0]['slots']['main']['content']
+
     async def __get_allitems(self):
-        async with self.session.get(self.SHINKAI_ITEMS_URL) as resp:
-            res = await resp.json()
-            return res['query']['allpages']
+        res = await self.get_json(self.SHINKAI_ITEMS_URL)
+        return res['query']['allpages']
 
     async def __append_shinkai_item(self, title):
-        resp = await self.session.get(self.WIKIA_RAW_URL.format(title))
-        item_info_text = await resp.text()
+        item_info_text = await self.__get_module_text(title)
         while item_info_text.find('REDIRECT') != -1:
             title = REDIRECT_PATTERN.search(item_info_text).group(1).strip()
-            resp = await self.session.get(self.WIKIA_RAW_URL.format('Module:' + title))
-            item_info_text = await resp.text()
+            item_info_text = await self.__get_module_text('Module:' + title)
         _luatable = re.search(LUATABLE_PATTERN, item_info_text)
         if not _luatable:
             return
@@ -134,8 +153,16 @@ class ShinkaiLuatable(HttpClient):
                 continue
             tasks.append(asyncio.ensure_future(
                 self.__append_shinkai_item(title)))
-        dones, pendings = await asyncio.wait(tasks)
-        print('Shinkai-Items: {} done, {} pendings.'.format(len(dones), len(pendings)))
+        # asyncio.wait 会吞掉异常，逐个页面收集失败原因，并让空结果直接失败
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+        failed = [r for r in results if isinstance(r, BaseException)]
+        print('Shinkai-Items: {} done, {} failed.'.format(len(results) - len(failed), len(failed)))
+        if failed:
+            print('::warning title=Shinkai-Items::{} 个页面抓取失败，示例：{}'
+                  .format(len(failed), str(failed[0])[:300]))
+        if not self.items_data:
+            raise ShinkaiLuatableException(
+                'Shinkai-Items 抓取结果为空，跳过写文件以免覆盖线上数据')
         self.items_data = sortDict(self.items_data)
         items_luatable = 'local d = {}\n'
         items_luatable += '\nd.equipDataTable = '
@@ -148,32 +175,29 @@ class ShinkaiLuatable(HttpClient):
             json.dump(self.items_data, fp, ensure_ascii=False, indent=4)
 
     async def __get_allships(self):
-        async with self.session.get(self.SHINKAI_SHIP_URL) as resp:
-            res = await resp.json()
-            return res['query']['allpages']
+        res = await self.get_json(self.SHINKAI_SHIP_URL)
+        return res['query']['allpages']
 
     async def __wikia_crawler(self, title, variant):
         url = self.DETAIL_URL.format(title[18:] + '/' + variant)
-        async with self.session.get(url) as resp:
-            res_json = await resp.json()
-            val = res_json['expandtemplates']['*']
-            txt = val.split("'''")
-            dayBattle = 0
-            re_res = self.NUM_PATTERN.search(txt[47].strip())
-            if re_res:
-                dayBattle = int(re_res.group(0))
-            airPower = txt[36].split('|')[3].strip()
-            if airPower.find('?') != -1:
-                airPower = airPower.strip('?')
-            try:
-                airPower = int(airPower)
-            except ValueError:
-                airPower = 9999
+        res_json = await self.get_json(url)
+        val = res_json['expandtemplates']['*']
+        txt = val.split("'''")
+        dayBattle = 0
+        re_res = self.NUM_PATTERN.search(txt[47].strip())
+        if re_res:
+            dayBattle = int(re_res.group(0))
+        airPower = txt[36].split('|')[3].strip()
+        if airPower.find('?') != -1:
+            airPower = airPower.strip('?')
+        try:
+            airPower = int(airPower)
+        except ValueError:
+            airPower = 9999
         return (airPower, dayBattle)
 
     async def __append_shinkai_ship(self, title):
-        resp = await self.session.get(self.WIKIA_RAW_URL.format(title))
-        resp_text = await resp.text()
+        resp_text = await self.__get_module_text(title)
         _luatable = LUATABLE_PATTERN.search(resp_text)
         _luatable = _luatable.group(0)
         shinkai_infos = lua.decode(_luatable)
@@ -317,8 +341,15 @@ class ShinkaiLuatable(HttpClient):
                 continue
             tasks.append(asyncio.ensure_future(
                 self.__append_shinkai_ship(title)))
-        dones, pendings = await asyncio.wait(tasks)
-        print('Shinkai-Ships: {} done, {} pendings.'.format(len(dones), len(pendings)))
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+        failed = [r for r in results if isinstance(r, BaseException)]
+        print('Shinkai-Ships: {} done, {} failed.'.format(len(results) - len(failed), len(failed)))
+        if failed:
+            print('::warning title=Shinkai-Ships::{} 个页面抓取失败，示例：{}'
+                  .format(len(failed), str(failed[0])[:300]))
+        if not self.ships_data:
+            raise ShinkaiLuatableException(
+                'Shinkai-Ships 抓取结果为空，跳过写文件以免覆盖线上数据')
         self.ships_data = sortDict(self.ships_data)
         ships_luatable = 'local d = {}\n'
         ships_luatable += '\nd.shipDataTable = '

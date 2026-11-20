@@ -27,3 +27,24 @@ docker build -t kcwiki-luatable .
 ```
 docker run --env-file .env -t kcwiki-luatable
 ```
+
+## 关于 en.kancollewiki.net 的人机校验
+
+深海敌舰/深海装备/制空数据来自 `en.kancollewiki.net`。该站对 GitHub 托管 runner 的出口 IP
+（Azure / AS8075）直接返回 Cloudflare 人机校验页，特征为：
+
+```
+HTTP 403, cf-mitigated: challenge, "Just a moment..."
+```
+
+实测 curl / urllib / aiohttp、换 UA、换 Referer、换 HTTP 版本、换站点别名域名表现一致，
+属于按出口 IP/ASN 的挑战，客户端无法通过。因此在托管 runner 上会跳过 `ShinkaiLuatable`：
+
+- 相关表（`shinkai-items.lua` / `shinkai-ships.lua` / `airpower_table.lua`）本次不生成；
+- 部署步骤用 `keep_files` 保留线上旧文件，不会像以前那样把已发布的文件整份删掉；
+- 构建会打印 `::warning::` 注解，可在一眼看到摘要里发现。
+
+要让这三张表恢复更新，二选一：
+
+1. 给 workflow 配置 `KCWIKI_PROXY` secret（非受限出口的 HTTP/SOCKS5 代理）；
+2. 联系 wiki 管理员为该 bot 的出口放行（MediaWiki 侧 bot 白名单 / Cloudflare 规则豁免）。
