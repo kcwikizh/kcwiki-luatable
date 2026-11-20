@@ -19289,7 +19289,9 @@ d.equipDataTb = {
 			"潜艇",
 			"航空潜艇"
 		},
-		["备注"] = ""
+		["备注"] = "",
+		["日文Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BDFaT%E4%BB%95%E6%A7%98%E4%B9%9D%E4%BA%94%E5%BC%8F%E9%85%B8%E7%B4%A0%E9%AD%9A%E9%9B%B7%E6%94%B9",
+		["英文Wiki"] = "https://en.kancollewiki.net/Prototype_FaT_Type_95_Oxygen_Torpedo_Kai"
 	},
 	["128"] = {
 		["ID"] = 128,

@@ -16770,6 +16770,36 @@ k.EquipUpdateTb = {
 		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/WG42%20%28Wurfgerat%2042%29",
 		["EN_Wiki"] = "https://en.kancollewiki.net/WG42_%28Wurfger%C3%A4t_42%29"
 	},
+	["127"] = {
+		["id"] = 127,
+		["no"] = "No.127",
+		["item_name"] = {
+			["zh"] = "试制FaT规格九五式酸素鱼雷改",
+			["ja"] = "試製FaT仕様九五式酸素魚雷改"
+		},
+		["item_type"] = "潜水艦魚雷",
+		["item_intro"] = "かの国で開発されていた、ジャイロ機構によって自動変針と直線航行を繰り返し行い、面で敵艦を攻撃する「FaT航走パターン」仕様を実装した試製潜水艦搭載用酸素魚雷です。Uボートによってもたらされた技術を応用した、平面を制圧する航路を疾走する特殊な試作魚雷です。",
+		["item_stat"] = {
+			["火力"] = "",
+			["雷装"] = "+14",
+			["爆装"] = "",
+			["対空"] = "",
+			["対潜"] = "",
+			["索敵"] = "",
+			["命中"] = "+7",
+			["回避"] = "+2",
+			["射程"] = "短"
+		},
+		["item_equip"] = {
+			["潜水艦"] = 1,
+			["潜水空母"] = 1
+		},
+		["equip_ships"] = {
+			"呂500(Lv55)"
+		},
+		["JA_Wiki"] = "https://wikiwiki.jp/kancolle/%E8%A9%A6%E8%A3%BDFaT%E4%BB%95%E6%A7%98%E4%B9%9D%E4%BA%94%E5%BC%8F%E9%85%B8%E7%B4%A0%E9%AD%9A%E9%9B%B7%E6%94%B9",
+		["EN_Wiki"] = "https://en.kancollewiki.net/Prototype_FaT_Type_95_Oxygen_Torpedo_Kai"
+	},
 	["128"] = {
 		["id"] = 128,
 		["no"] = "No.128",
