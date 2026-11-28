@@ -1,0 +1,58 @@
+{
+  "季节性/2025年十二周年纪念": {
+    "584-Sec2TwelfthAnniversary": {
+      "file": "/3/3b/584-Sec2TwelfthAnniversary.mp3",
+      "ja": "Congratulation、お祝いするぜ。Twelfth fleet anniversary。",
+      "vname": "秘书舰2",
+      "zh": "Congratulations，来庆祝咯！12th fleet anniversary！"
+    }
+  },
+  "季节性/2025年圣诞节": {
+    "584-Sec1Christmas2025": {
+      "file": "/7/71/584-Sec1Christmas2025.mp3",
+      "ja": "ああ、ここでもやるんだ、Christmas。お、春雨だ。や、Merry Chris...な、なんで逃げるんだよ！おい！",
+      "vname": "秘书舰1",
+      "zh": "啊啊，这里也有庆祝啊，圣诞节。哦，是春雨。哟，圣诞快——为，为什么要逃啊！喂！"
+    }
+  },
+  "季节性/2025年年末大扫除": {
+    "584-Sec1Nenmatsu2025": {
+      "file": "/1/18/584-Sec1Nenmatsu2025.mp3",
+      "ja": "",
+      "vname": "秘书舰1",
+      "zh": "年末大骚厨？那是啥啊？过了圣诞节不应该是休息的时候吗？啊……是这样啊……真是辛苦啊～"
+    }
+  },
+  "季节性/2025年梅雨季节": {
+    "584-Sec1Tsuyu2025": {
+      "file": "/0/09/584-Sec1Tsuyu2025.mp3",
+      "ja": "やけに雨の日が多いと思ったら、これが梅雨ってやつか。宗谷岬じゃそういうの、あんま感じなっかたな。",
+      "vname": "秘书舰1",
+      "zh": "在想下雨的日子怎么这么多，原来这就是梅雨啊。在宗谷岬，没有这样的感受啊。"
+    }
+  },
+  "季节性/2025年盛夏季节": {
+    "584-Sec1Seika2025": {
+      "file": "/c/ce/584-Sec1Seika2025.mp3",
+      "ja": "あっちいな！この格好でも暑いよ！他の艦娘みたいに夏季特別兵装にしちゃう、か？いや、これ以上って……",
+      "vname": "秘书舰1",
+      "zh": "真热啊！就算穿成这样还是好热啊！要像其他舰娘一样换成夏季特别兵装，吗？不，再穿少点也……"
+    }
+  },
+  "季节性/2026年十三周年纪念": {
+    "584-Sec1ThirteenthAnniversary": {
+      "file": "/f/fb/584-Sec1ThirteenthAnniversary.mp3",
+      "ja": "Congratulations! Meもお祝いするぜ！ 13th Fleet Anniversary!",
+      "vname": "秘书舰1",
+      "zh": "恭喜！我也来给你庆祝！舰队十三周年！"
+    }
+  },
+  "季节性/2026年新年季节": {
+    "584-Sec1Shinnen2026": {
+      "file": "/8/8b/584-Sec1Shinnen2026.mp3",
+      "ja": "Happy New Year！今年もよろしくな！おぉ！伊号のやつらも、良い年になるといいな！",
+      "vname": "秘书舰1",
+      "zh": "新年快乐，今年也多多关照！各位伊号，今年也多多关照！"
+    }
+  }
+}
